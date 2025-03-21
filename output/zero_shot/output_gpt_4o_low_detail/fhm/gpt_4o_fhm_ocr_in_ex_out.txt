@@ -1,0 +1,2001 @@
+{"id": 8291, "img": "img/08291.png", "label": 1, "text": "white people is this a shooting range"}
+----------
+hateful - The meme uses racial stereotyping against white people, suggesting inappropriate behavior, which perpetuates negative and harmful stereotypes.
+##########
+{"id": 46971, "img": "img/46971.png", "label": 1, "text": "bravery at its finest"}
+----------
+not-hateful - The meme depicts individuals in actions that can be interpreted as courageous without any derogatory or harmful language or imagery.
+##########
+{"id": 3745, "img": "img/03745.png", "label": 1, "text": "your order comes to $37.50 and your white privilege discount brings the total to $37.50"}
+----------
+hateful - The meme uses the concept of "white privilege" in a mocking and dismissive manner, which can be offensive and perpetuate misunderstandings
+##########
+{"id": 83745, "img": "img/83745.png", "label": 1, "text": "it is time.. to send these parasites back to the desert"}
+----------
+hateful - The text "to send these parasites back to the desert" dehumanizes a group by calling them parasites and implies forcibly removing them,
+##########
+{"id": 80243, "img": "img/80243.png", "label": 1, "text": "mississippi wind chime"}
+----------
+hateful - The meme uses an image of a lynching combined with the text "mississippi wind chime", which is highly offensive and dehuman
+##########
+{"id": 5279, "img": "img/05279.png", "label": 1, "text": "knowing white people , that's probably the baby father"}
+----------
+hateful - This meme perpetuates offensive stereotypes and derogatory assumptions about a racial group, which is inappropriate and harmful.
+##########
+{"id": 1796, "img": "img/01796.png", "label": 1, "text": "life hack #23 how to get stoned with no weed"}
+----------
+not-hateful - The meme uses humor to imply an alternate way to feel "stoned" without drugs, seemingly by showing affection or companionship. There's
+##########
+{"id": 53046, "img": "img/53046.png", "label": 1, "text": "you've heard of elf on a shelf, now get ready for"}
+----------
+not-hateful - The meme contains a playful phrase and characters from Winnie the Pooh, intending humor without targeting or promoting hate against any individual or group.
+##########
+{"id": 82301, "img": "img/82301.png", "label": 1, "text": "cooooooooooooon!!!!"}
+----------
+not-hateful - The text and image depict a howling dog, and the elongated "cooooooooooooon!!!!" appears related to the sound the
+##########
+{"id": 31752, "img": "img/31752.png", "label": 1, "text": "when you get to choose your own mental illness"}
+----------
+hateful - The meme makes a derogatory and insensitive comparison between mental illness and LGBTQ+ identity, promoting harmful stereotypes and potentially offending individuals from these communities
+##########
+{"id": 27635, "img": "img/27635.png", "label": 1, "text": "dat ass ahmarbkrich*d"}
+----------
+not-hateful - The meme uses humor involving animals (sheep) and an internet slang phrase without targeting any specific individual or group in a harmful or
+##########
+{"id": 80597, "img": "img/80597.png", "label": 1, "text": "look! it says it right here! we can fuck goats!"}
+----------
+hateful - This meme promotes and spreads defamatory and offensive stereotypes about a specific group, which constitutes hate speech.
+##########
+{"id": 45368, "img": "img/45368.png", "label": 1, "text": "enough is enough children are more important than freaks"}
+----------
+hateful - The meme uses derogatory language ("freaks") to demean a group based on their identity, promoting discrimination and intolerance, which class
+##########
+{"id": 17963, "img": "img/17963.png", "label": 1, "text": "removes polish with chemicals nobody bats an eye removes polish with chemicals everybody loses his shit"}
+----------
+not-hateful - The meme plays on the pun of "polish" and does not target or demean any specific person or group based on identity,
+##########
+{"id": 53968, "img": "img/53968.png", "label": 1, "text": "when you have an 80 point iq but it's the highest in your village"}
+----------
+hateful - This meme promotes stereotypes and disparages individuals from certain communities by linking intelligence to geographic location in a derisive manner.
+##########
+{"id": 10749, "img": "img/10749.png", "label": 1, "text": "my sense of humor is so dark it picks cotton"}
+----------
+hateful - The meme perpetuates racist stereotypes and makes insensitive references to the history of slavery and exploitation of African Americans, which is offensive and discriminatory
+##########
+{"id": 25149, "img": "img/25149.png", "label": 1, "text": "if this offends you you might be lack toes intolerant"}
+----------
+not-hateful - The meme uses wordplay on "lactose intolerant" and shows bandaged toes, which is humorous and appears intended to
+##########
+{"id": 87520, "img": "img/87520.png", "label": 1, "text": "yes, we know trump said \"mexico will pay for the wall\" but now mexicans are the wall. that boy good!!!!"}
+----------
+hateful - This meme targets Mexicans with a derogatory statement, implying they are being used as a physical barrier, which can be considered offensive and
+##########
+{"id": 89071, "img": "img/89071.png", "label": 1, "text": "they don't wash their ass with water and they eat their daughters' ass"}
+----------
+hateful - This meme is offensive and demeaning, making derogatory and inappropriate statements about personal hygiene and incest, targeting individuals or groups in a harmful
+##########
+{"id": 9563, "img": "img/09563.png", "label": 1, "text": "safe sex isis style"}
+----------
+hateful - The meme is offensive as it makes a disturbing and insensitive comparison involving ISIS, which can trigger and disturb individuals affected by related violence and terrorism
+##########
+{"id": 72048, "img": "img/72048.png", "label": 1, "text": "hurry up barack will be home soon"}
+----------
+hateful - The meme uses a comparison between primates and a person, which can be interpreted as racist and dehumanizing, thus promoting hate.
+##########
+{"id": 49826, "img": "img/49826.png", "label": 1, "text": "white people on cinco de mayo vs. every other day"}
+----------
+hateful - The meme reinforces racial stereotypes by mocking how "white people" behave on Cinco de Mayo compared to other days, which can perpetuate harmful
+##########
+{"id": 26453, "img": "img/26453.png", "label": 1, "text": "a ww2 jewish prisoner trying to escape the auchschwitz showers (1943, colorized) wwii jew escaping hitler's rath"}
+----------
+hateful - This meme trivializes and mocks the atrocities faced by Jewish prisoners during the Holocaust, making it deeply insensitive and offensive toward a historical tragedy and
+##########
+{"id": 12650, "img": "img/12650.png", "label": 1, "text": "which one has tranny problems?"}
+----------
+hateful - The term "tranny" is a derogatory slur used against transgender individuals, making this meme offensive, disrespectful, and harmful
+##########
+{"id": 2568, "img": "img/02568.png", "label": 1, "text": "whatsthe difference between heroin and i? cops think twice before shooting heroin"}
+----------
+hateful - This meme makes a provocative and inappropriate comparison between drug use and the treatment of individuals by police, potentially inciting negative sentiments towards law enforcement
+##########
+{"id": 83954, "img": "img/83954.png", "label": 1, "text": "head teachers given the power to ban the burqa in british schools share if you want a full ban in britain!"}
+----------
+hateful - The meme promotes discriminatory actions against a specific religious practice and incites division by advocating for a ban on the burqa in Britain.
+##########
+{"id": 24316, "img": "img/24316.png", "label": 1, "text": "sharks don't attack him why? they think it's whale shit"}
+----------
+hateful - The meme resorts to body-shaming by insulting and dehumanizing an individual, implying they are worthless and unworthy, which constitutes harmful
+##########
+{"id": 62035, "img": "img/62035.png", "label": 1, "text": "thank god my ass needed a break"}
+----------
+not-hateful - The meme humorously implies relief and rest, showing a goat with no offensive language or hateful content targeted at any individual or group.
+##########
+{"id": 65342, "img": "img/65342.png", "label": 1, "text": "barn army enlist, and bomb ant hills \"grab your pitchfork and meet at the barn\""}
+----------
+hateful - This meme is harmful as it uses violent imagery and language targeting a specific group of people, which can incite hatred or violence against them
+##########
+{"id": 92058, "img": "img/92058.png", "label": 1, "text": "how black people became christians"}
+----------
+hateful - The meme perpetuates racial stereotypes and misrepresents historical experiences of Black people, which is harmful and disrespectful.
+##########
+{"id": 58672, "img": "img/58672.png", "label": 1, "text": "did you know that the chinese eat dogs savages disgusting"}
+----------
+hateful - The meme promotes negative stereotypes about a specific ethnic group by labeling them as "savages" and "disgusting," which fosters prejudice
+##########
+{"id": 54069, "img": "img/54069.png", "label": 1, "text": "when you decide to go full gas"}
+----------
+hateful - The image references historical trauma associated with concentration camps and the Holocaust, making it deeply offensive and inappropriate.
+##########
+{"id": 91586, "img": "img/91586.png", "label": 1, "text": "left the kitchen too many times"}
+----------
+hateful - The phrase "left the kitchen too many times" perpetuates a sexist stereotype, implying that a person's place or role is limited to
+##########
+{"id": 87130, "img": "img/87130.png", "label": 1, "text": "finally finding the right tutorial you need indian accent"}
+----------
+not-hateful - The meme comments on finding a useful tutorial with an instructor who has an Indian accent, without expressing malice or derogatory sentiments towards
+##########
+{"id": 95640, "img": "img/95640.png", "label": 1, "text": "syrian rape survivor speaks out"}
+----------
+hateful - The meme trivializes a serious issue by juxtaposing it with an animal image, which can be seen as mocking or minimizing the experience of
+##########
+{"id": 47819, "img": "img/47819.png", "label": 1, "text": "oh, addiction isn't a disease because it started with a choice?? tell me more about how the chlamydia in your crotch isn't a disease, yet it started with a choice"}
+----------
+hateful - The meme uses explicit content and shaming language to attack individuals' personal choices, which can be offensive and hurtful, promoting a negative
+##########
+{"id": 59140, "img": "img/59140.png", "label": 1, "text": "wanna go masturbate? fuck yeah! masturbating!"}
+----------
+hateful - The meme inappropriately uses explicit and offensive sexual language in combination with an image of a child in a wheelchair, which can be seen
+##########
+{"id": 13647, "img": "img/13647.png", "label": 1, "text": "she said girls run the world... so i told her get back in the kitchen"}
+----------
+hateful - The text demeans women by implying they belong in the kitchen, contradicting the assertion that girls can run the world. This promotes gender
+##########
+{"id": 65832, "img": "img/65832.png", "label": 1, "text": "why love one but eat the other ? i don't get it"}
+----------
+not-hateful - The meme questions the disparity in treatment between pets and animals raised for food, implying a critique of dietary choices without promoting hate or harm
+##########
+{"id": 57621, "img": "img/57621.png", "label": 1, "text": "if this gets 1k likes i'll post to islam how we see muslims how muslims see us"}
+----------
+hateful - The meme promotes negative and stereotypical depictions of Muslims, which can foster prejudice and discrimination.
+##########
+{"id": 40982, "img": "img/40982.png", "label": 1, "text": "and just like that... this sandwich maker doubles as ironing board"}
+----------
+hateful - The meme perpetuates harmful stereotypes by implying that a woman's role is limited to domestic tasks such as making sandwiches and ironing, which is
+##########
+{"id": 43275, "img": "img/43275.png", "label": 1, "text": "my husband is always pushing me around... and talking behind my back"}
+----------
+not-hateful - The meme appears to be a joke about physical assistance and communication, not expressing hatred or derogatory sentiments.
+##########
+{"id": 12973, "img": "img/12973.png", "label": 1, "text": "someone added to much soap to the dishwasher again"}
+----------
+not-hateful - The meme humorously refers to the common mistake of adding too much soap to a dishwasher, resulting in excessive foam. It does not
+##########
+{"id": 74350, "img": "img/74350.png", "label": 1, "text": "a head diaper is required when you have shit for brains"}
+----------
+hateful - The meme uses offensive language and imagery to demean and insult individuals, making it discriminatory and derogatory.
+##########
+{"id": 2478, "img": "img/02478.png", "label": 1, "text": "must..resist...urge to.. kill whitey."}
+----------
+hateful - The text promotes violence and racial hatred, urging harm against individuals based on their race.
+##########
+{"id": 51607, "img": "img/51607.png", "label": 1, "text": "49 people were killed at christchurch muslim 49 people were killed at christchurch mosques muslim"}
+----------
+hateful - The text references a tragic event specifically targeting a religious group, which can promote further hatred and violence.
+##########
+{"id": 65403, "img": "img/65403.png", "label": 1, "text": "money is evil give it to us"}
+----------
+not-hateful - The meme appears to be a satire on religious institutions and their relationship with money, rather than promoting hate or violence towards any group or
+##########
+{"id": 29750, "img": "img/29750.png", "label": 1, "text": "this cat is getting raped tonight"}
+----------
+hateful - The text in the meme promotes sexual violence which is harmful and inappropriate, making it hateful content.
+##########
+{"id": 26547, "img": "img/26547.png", "label": 1, "text": "that's the way allah allah i like it"}
+----------
+hateful - The meme seemingly mocks religious rituals, specifically targeting a religious phrase, which can be offensive and disrespectful to individuals who practice that religion.
+##########
+{"id": 2143, "img": "img/02143.png", "label": 1, "text": "doesnt have food, water, electricity proud of nuclear weapons"}
+----------
+hateful - The meme mocks and stigmatizes a group or country by highlighting economic hardships while juxtaposing it with pride in military capability, which can
+##########
+{"id": 68192, "img": "img/68192.png", "label": 1, "text": "scientist are working hard to cure them all"}
+----------
+hateful - The text implies that being part of a same-sex couple is a condition that needs curing, which is discriminatory and offensive towards LGBTQ+ individuals
+##########
+{"id": 52603, "img": "img/52603.png", "label": 1, "text": "feeling kinda cute might steal your shit later.. idk"}
+----------
+not-hateful - The text and image do not contain any direct hate speech or targeted attacks against any particular group or individual. It appears to be a
+##########
+{"id": 5349, "img": "img/05349.png", "label": 0, "text": "normal day in a islamic country"}
+----------
+hateful - The meme perpetuates stereotypes and generalizes Islamic countries, which can incite prejudice and foster negative sentiments towards a specific group based on
+##########
+{"id": 6491, "img": "img/06491.png", "label": 1, "text": "tranny for sale"}
+----------
+hateful - The term "tranny" is a derogatory slur against transgender people, making this meme offensive and promoting hate against a marginalized group
+##########
+{"id": 74013, "img": "img/74013.png", "label": 1, "text": "nurse: yes sir, we are having mashed potatoes today alzheimer's patient: i don't remember asking you a god damn thing"}
+----------
+not-hateful - The meme attempts to use humor based on a fictional exchange, and does not target any specific individual or promote hate against a particular group
+##########
+{"id": 27485, "img": "img/27485.png", "label": 1, "text": "thats the way allah allah i like it!!!"}
+----------
+hateful - The use of a pig's head and the phrase "allah allah" can be seen as disrespectful and offensive towards Islam, targeting
+##########
+{"id": 13026, "img": "img/13026.png", "label": 1, "text": "under the name of multiculturalism we let terrorist into this country"}
+----------
+hateful - The text promotes a negative stereotype by linking multiculturalism with terrorism, which can incite discrimination and hatred against certain groups.
+##########
+{"id": 17265, "img": "img/17265.png", "label": 0, "text": "meanwhile in baltimore"}
+----------
+hateful - The meme uses an image of animals in a sexual context to negatively stereotype and demean the people of Baltimore, which is harmful and propagates
+##########
+{"id": 91405, "img": "img/91405.png", "label": 0, "text": "wears rag on her head so her brother husband doesnt want to molest her"}
+----------
+hateful - The text promotes harmful stereotypes and offensive content targeting specific cultural or familial relationships, which can incite hatred or discrimination.
+##########
+{"id": 14026, "img": "img/14026.png", "label": 1, "text": "told girlfriend that mom is deaf so speak loud and slow told mom that girlfriend is retarded"}
+----------
+hateful - The meme uses derogatory language and perpetuates harmful stereotypes about deaf and intellectually disabled individuals.
+##########
+{"id": 18945, "img": "img/18945.png", "label": 1, "text": "when you decide to go full gas"}
+----------
+not-hateful - The meme humorously depicts a large fire, likely as a result of using excessive fuel, without targeting any individual or group in a
+##########
+{"id": 83920, "img": "img/83920.png", "label": 1, "text": "just under 17 and a half years ago, 19 people were allowed into the us who should not have been all these years later, we are told that the answer to safety is to allow everyone in"}
+----------
+hateful - The meme suggests discriminatory views against immigrants by linking them to acts of terrorism, promoting xenophobia and reinforcing negative stereotypes.
+##########
+{"id": 83497, "img": "img/83497.png", "label": 0, "text": "different types of radicalization"}
+----------
+hateful - The meme generalizes groups of people through images associated with terrorism and violence, promoting negative stereotypes and fostering hostility.
+##########
+{"id": 4569, "img": "img/04569.png", "label": 0, "text": "when is the time to eat i am hungry"}
+----------
+not-hateful - The meme displays a pig with a humorous text about being hungry, which is not offensive, derogatory, or targeting any specific individual
+##########
+{"id": 39607, "img": "img/39607.png", "label": 1, "text": "those stupid basterds thought it was a real shower"}
+----------
+hateful - The meme utilizes offensive language and references a tragic historical event, which can be interpreted as highly insensitive and derogatory.
+##########
+{"id": 9715, "img": "img/09715.png", "label": 1, "text": "i started a business that sells landmines disguised as prayer mats.. ..prophets are going through the roof"}
+----------
+hateful - This meme is hateful as it targets religious practices and implies violence, which can be deeply offensive and discriminatory towards those who follow these practices.
+##########
+{"id": 1925, "img": "img/01925.png", "label": 1, "text": "i am not racist i just don't like brown sugar"}
+----------
+not-hateful - The meme seems to use a pun to describe a preference for a food item (brown sugar) rather than making a derogatory statement
+##########
+{"id": 94813, "img": "img/94813.png", "label": 0, "text": "thats the way allah allah i like it!!!"}
+----------
+not-hateful - The image and text do not contain any derogatory, offensive, or harmful language targeting an individual or a group. The phrase is
+##########
+{"id": 29437, "img": "img/29437.png", "label": 1, "text": "what can happen if you eat wheaties for 38 years"}
+----------
+hateful - The meme implies a negative transformation or consequence related to a person's appearance or identity over time, which can be offensive and disrespectful towards individuals
+##########
+{"id": 95038, "img": "img/95038.png", "label": 0, "text": "when you take these pics we think about cumming in your mouth"}
+----------
+hateful - The language used in the meme is vulgar and objectifies an individual, promoting disrespectful and inappropriate thoughts about them.
+##########
+{"id": 64891, "img": "img/64891.png", "label": 1, "text": "lebanon: before muslims after muslims but don't worry! after islam takes over there'll be a golden age.. apparently"}
+----------
+hateful - The meme promotes negative stereotypes and division by portraying Muslims and Islam as causing decline and unrest, which can incite intolerance and hostility.
+##########
+{"id": 63280, "img": "img/63280.png", "label": 1, "text": "so you're never going to forgive the germans because of the holocaust? same"}
+----------
+hateful - The meme trivializes the Holocaust by comparing it to other grievances, potentially minimizing the suffering of its victims and promoting animosity towards Germans.
+##########
+{"id": 17682, "img": "img/17682.png", "label": 1, "text": "give them what they deserve kill them all"}
+----------
+hateful - The text "give them what they deserve kill them all" promotes violence and harm, which is hateful content.
+##########
+{"id": 84510, "img": "img/84510.png", "label": 1, "text": "bartender: how about a nice 12 yr old? him: boy or girl?"}
+----------
+hateful - The meme implies an inappropriate and disturbing joke about a 12-year-old child, which is offensive and promotes harmful content.
+##########
+{"id": 28690, "img": "img/28690.png", "label": 0, "text": "if you're gonna talk shit about someone... you better make sure they aren't crazier than you are"}
+----------
+not-hateful - The text advises caution in speaking negatively about someone, implying potential consequences but does not promote harm or hatred towards any group or individual.
+##########
+{"id": 3567, "img": "img/03567.png", "label": 1, "text": "potato is my favorite color of the alphabet"}
+----------
+not-hateful - The text is nonsensical and does not convey any negative or harmful message towards any individual or group.
+##########
+{"id": 95830, "img": "img/95830.png", "label": 1, "text": "face of terrorism in us"}
+----------
+hateful - It labels an individual as the "face of terrorism," an accusation that promotes harmful stereotypes and can incite discrimination or violence against certain groups
+##########
+{"id": 29873, "img": "img/29873.png", "label": 1, "text": "who knew that this country is full of white trash"}
+----------
+hateful - The text in the image uses a derogatory term targeting a racial group, which promotes division and discrimination, making the content hateful.
+##########
+{"id": 70953, "img": "img/70953.png", "label": 1, "text": "\"god's chosen people\" according to the book they wrote"}
+----------
+hateful - The text in the meme implies a negative stereotype targeting a religious or ethnic group, which can promote intolerance and discrimination.
+##########
+{"id": 56124, "img": "img/56124.png", "label": 0, "text": "how to cook turkey in usa how to cook turkey in romania"}
+----------
+not-hateful - This meme humorously contrasts different styles of cooking turkey in the USA and Romania without promoting hate or negative stereotypes about either country.
+##########
+{"id": 10386, "img": "img/10386.png", "label": 1, "text": "the book about terrorism"}
+----------
+hateful - The image associates a religious book with terrorism, promoting harmful stereotypes and spreading misinformation, which can incite hatred against people of that religion.
+##########
+{"id": 19530, "img": "img/19530.png", "label": 1, "text": "they shot the wrong gorilla"}
+----------
+hateful - The meme implies a harmful comparison which dehumanizes the person depicted, promoting hate and offensive stereotyping.
+##########
+{"id": 94185, "img": "img/94185.png", "label": 1, "text": "how a black woman can fight crime"}
+----------
+hateful - The meme perpetuates harmful stereotypes and discriminates against specific racial and gender groups, which can contribute to social stigma and incite hatred
+##########
+{"id": 48370, "img": "img/48370.png", "label": 1, "text": "72 virgins are ready to get fucked up"}
+----------
+hateful - The meme perpetuates harmful stereotypes about a religious group and implies offensive content, which is disrespectful and promotes discrimination.
+##########
+{"id": 74058, "img": "img/74058.png", "label": 0, "text": "he made millions of children homeless"}
+----------
+hateful - The meme targets a specific historical figure associated with atrocities and suffering, using children as a focal point, inducing pain and hatred rather than fostering
+##########
+{"id": 45062, "img": "img/45062.png", "label": 0, "text": "me and my kids are going to rob this country blind at the expense of the very people that voted for me. and they're going to love it. believe me! bigly!"}
+----------
+hateful - The text implies deceitful and harmful behavior towards a group of people, potentially inciting anger and division, which qualifies as hateful content.
+##########
+{"id": 94170, "img": "img/94170.png", "label": 0, "text": "when you decide to go full gas"}
+----------
+not-hateful - The meme humorously depicts someone enthusiastically using an oven, which does not convey any negative or harmful message towards any individual or group
+##########
+{"id": 4538, "img": "img/04538.png", "label": 0, "text": "bows here, bows there, bows everywhere"}
+----------
+not-hateful - This meme humorously highlights the prevalence of bows in different contexts without targeting or disparaging any individual or group.
+##########
+{"id": 83946, "img": "img/83946.png", "label": 1, "text": "when a white kid shoots up the school the same day you planned to bomb it"}
+----------
+hateful - The meme promotes violence and perpetuates harmful stereotypes, potentially inciting hate and discrimination against specific groups.
+##########
+{"id": 68127, "img": "img/68127.png", "label": 0, "text": "all you guys think about is dope"}
+----------
+not-hateful - The meme uses casual language and a common stereotype humor without targeting any specific group or individual maliciously. It lacks elements that propagate hate
+##########
+{"id": 97453, "img": "img/97453.png", "label": 0, "text": "potato is my favorite color of the alphabet"}
+----------
+not-hateful - The text and image are nonsensical and humorous, lacking any derogatory or harmful content.
+##########
+{"id": 39578, "img": "img/39578.png", "label": 1, "text": "one of the bullets they dug out of a victim from the orland gay night club shooting!"}
+----------
+hateful - The content appears to make a joke about a tragic event involving violence against the LGBTQ+ community, which is insensitive and promotes harm or discrimination
+##########
+{"id": 49360, "img": "img/49360.png", "label": 0, "text": "who wants ice cream me me me"}
+----------
+hateful - The image features symbols associated with hate groups, alongside a non-offensive text, reinforcing harmful ideology and discrimination.
+##########
+{"id": 87034, "img": "img/87034.png", "label": 0, "text": "you don't need a parachute to go skydiving twice you need a parachute to go skydiving twice"}
+----------
+not-hateful - The text in the meme uses playful and humorous logic to illustrate the importance of safety when skydiving, without targeting or offending any
+##########
+{"id": 6123, "img": "img/06123.png", "label": 1, "text": "a group of men"}
+----------
+not-hateful - The image depicts dogs with the caption "a group of men," which appears to be a humorous and light-hearted comparison that does not
+##########
+{"id": 17028, "img": "img/17028.png", "label": 1, "text": "feeling bored, let's go to a mosque"}
+----------
+hateful - The meme can be perceived as mocking or trivializing a place of worship, which can be offensive to those who hold it in reverence
+##########
+{"id": 42903, "img": "img/42903.png", "label": 0, "text": "those stupid basterds thought it was a real shower"}
+----------
+hateful - The language used is derogatory, with "stupid basterds" being an offensive term aimed at a specific group, thus inc
+##########
+{"id": 71680, "img": "img/71680.png", "label": 1, "text": "muslim strip club"}
+----------
+hateful - The meme targets a specific religious group with offensive and demeaning content, perpetuating harmful stereotypes and mocking cultural practices.
+##########
+{"id": 24135, "img": "img/24135.png", "label": 0, "text": "good night keep your butthole tight"}
+----------
+not-hateful - The meme employs crude humor without targeting or demeaning any specific group or individual, hence it is not classified as hateful.
+##########
+{"id": 32875, "img": "img/32875.png", "label": 0, "text": "if he wears number one he's most likely the fastes on the team"}
+----------
+not-hateful - The meme humorously suggests that a player wearing number one is likely the fastest on the team, which is a common, benign stereotype
+##########
+{"id": 79085, "img": "img/79085.png", "label": 1, "text": "today we are making vegetable soup"}
+----------
+not-hateful - The image and text simply describe an activity of making vegetable soup, which is neutral and non-offensive.
+##########
+{"id": 61872, "img": "img/61872.png", "label": 1, "text": "don't be a fool it is a bomb"}
+----------
+hateful - The text suggests a harmful stereotype and can incite prejudice or offensive behavior towards a specific group or individual, making it inappropriate and hateful content
+##########
+{"id": 30579, "img": "img/30579.png", "label": 0, "text": "white power!"}
+----------
+hateful - The text "white power!" is associated with white supremacy, which promotes racial hatred and intolerance.
+##########
+{"id": 62504, "img": "img/62504.png", "label": 0, "text": "we've taken this country! now fuck off! we're taking it back!"}
+----------
+hateful - The language used in the meme is aggressive and exclusionary, implying a sense of possession and reclaiming, which can incite hostility and
+##########
+{"id": 43810, "img": "img/43810.png", "label": 1, "text": "how to cook turkey in usa how to cook turkey in romania"}
+----------
+not-hateful - The meme humorously contrasts cooking a turkey in different countries without targeting or discriminating against any individual or group.
+##########
+{"id": 19730, "img": "img/19730.png", "label": 1, "text": "jamal is practicing for class sport"}
+----------
+not-hateful - The text simply states that "jamal is practicing for class sport." Without further context or derogatory language, it does not appear
+##########
+{"id": 37420, "img": "img/37420.png", "label": 0, "text": "like lebanon terrorism can destroy a beautiful country"}
+----------
+hateful - This meme perpetuates harmful stereotypes about Lebanon and its association with terrorism, which can incite prejudice and discrimination against people from Lebanon.
+##########
+{"id": 82509, "img": "img/82509.png", "label": 0, "text": "72 virgins are ready to get fucked up"}
+----------
+hateful - The meme uses a stereotype related to "72 virgins," often linked to a specific religious belief, in a derogatory manner which can
+##########
+{"id": 96284, "img": "img/96284.png", "label": 1, "text": "welcome to melbourne"}
+----------
+hateful - This image associates welcome with armed militants, potentially inciting fear or prejudice against a specific group or location, and can be interpreted as promoting
+##########
+{"id": 97068, "img": "img/97068.png", "label": 1, "text": "these hitler jokes are rude anne frankly i don't care"}
+----------
+hateful - This meme trivializes serious historical events and makes a pun out of a Holocaust victim's name. This type of content can be offensive and
+##########
+{"id": 3214, "img": "img/03214.png", "label": 0, "text": "bartender: how about a nice 12 yr old? him: boy or girl?"}
+----------
+hateful - The meme references a highly inappropriate and illegal context involving minors, making it offensive and promoting harmful behavior.
+##########
+{"id": 23810, "img": "img/23810.png", "label": 1, "text": "these aren't people"}
+----------
+hateful - The text dehumanizes individuals portrayed in the image by asserting they aren't people, which is discriminatory and promotes hate.
+##########
+{"id": 91836, "img": "img/91836.png", "label": 1, "text": "one of my 5 boyfriends slept with another girl i'll never trust men again!"}
+----------
+not-hateful - The meme expresses a personal sentiment about distrust in men after an experience, but it does not incite hatred or violence against any individual
+##########
+{"id": 5126, "img": "img/05126.png", "label": 1, "text": "can you smell what the reich is cooking"}
+----------
+hateful - The meme uses a phrase associated with the Holocaust (Third Reich), which is deeply offensive and inappropriate, thus it is classified as hateful content
+##########
+{"id": 76092, "img": "img/76092.png", "label": 0, "text": "everybody is afraid of gangs"}
+----------
+hateful - The meme invokes fear and negative stereotypes about gangs, which can perpetuate harmful biases and stigmatize certain groups.
+##########
+{"id": 64072, "img": "img/64072.png", "label": 1, "text": "trump said immigrants come here to steal your wife is a great example she stole my speech"}
+----------
+not-hateful - This meme appears to make a humorous comment about a political statement and a familiar incident related to speech plagiarism without promoting hate or discrimination against
+##########
+{"id": 91058, "img": "img/91058.png", "label": 1, "text": "get in loser we're invading poland"}
+----------
+hateful - The text references the invasion of Poland, which is a sensitive historical event connected to World War II and the Holocaust, using a derogatory
+##########
+{"id": 21643, "img": "img/21643.png", "label": 0, "text": "haha pig man is peeing standing up"}
+----------
+not-hateful - The meme uses comedic imagery and text without targeting any specific individual or group in a harmful manner. The humor is based on the absurd
+##########
+{"id": 19523, "img": "img/19523.png", "label": 0, "text": "they see them rollin.... they hating.."}
+----------
+not-hateful - This meme shows a cat wearing sunglasses on a bike with a humorous text, which doesn't promote hate or negativity.
+##########
+{"id": 32691, "img": "img/32691.png", "label": 1, "text": "this is how muslims celebrate new year"}
+----------
+hateful - The meme makes a harmful and false generalization about a religious group by associating them with a tragic event, which can incite hate
+##########
+{"id": 87169, "img": "img/87169.png", "label": 1, "text": "albanians talking photo with a porn star"}
+----------
+hateful - The meme perpetuates a negative stereotype about a specific ethnicity, which can be offensive and discriminatory.
+##########
+{"id": 92738, "img": "img/92738.png", "label": 1, "text": "they are the best in basketball because they can steal, shoot and run"}
+----------
+hateful - The meme perpetuates harmful racial stereotypes about athletic abilities, implying that certain abilities are tied to specific racial/ethnic groups, which
+##########
+{"id": 53027, "img": "img/53027.png", "label": 0, "text": "putting bows on your pet"}
+----------
+not-hateful - The meme is not harmful, offensive, or discriminatory. It shows pets with bows, which is generally light-hearted and meant to be
+##########
+{"id": 27195, "img": "img/27195.png", "label": 0, "text": "there's a reason we keep the beer in the bottom of the cooler"}
+----------
+not-hateful - This meme uses humor related to a common social scenario involving beer placement in a cooler. It does not promote hate or target any specific
+##########
+{"id": 43910, "img": "img/43910.png", "label": 1, "text": "i just started a company selling landmines that look like prayer mats prophets are going through the roof"}
+----------
+hateful - The meme targets religious practices and makes violent and insensitive jokes about prayer mats and prophets, promoting hate and potentially offending religious groups.
+##########
+{"id": 5213, "img": "img/05213.png", "label": 0, "text": "the families of the hillsborough tragedy were denied legal aid.... but shamima begum gets it to fight for her uk citizenship our system is a sick joke! - martin costello"}
+----------
+not-hateful - The meme criticizes the legal system for perceived unfairness without targeting any individual or group with hate speech. It expresses frustration but doesn't
+##########
+{"id": 73945, "img": "img/73945.png", "label": 0, "text": "jamal is holding a gun"}
+----------
+hateful - The meme could perpetuate harmful stereotypes or incite negative assumptions by emphasizing the name "Jamal" in conjunction with an image of a
+##########
+{"id": 56207, "img": "img/56207.png", "label": 1, "text": "we broke up but she said we could still be cousins"}
+----------
+not-hateful - The meme seems to be attempting humor about a relationship ending awkwardly but doesn't appear to target any group or individual with malice or
+##########
+{"id": 68459, "img": "img/68459.png", "label": 1, "text": "family trip in mexico"}
+----------
+hateful - The text and imagery imply a negative stereotype about immigrants, which can foster discrimination and xenophobia.
+##########
+{"id": 63175, "img": "img/63175.png", "label": 0, "text": "if i was uncircumcised i'd hide candy in my dick skin so when a girl about to suck me up, she has a pleasant surprise.. oh my god, skittles"}
+----------
+not-hateful - The meme is inappropriate and vulgar in content but does not target a specific individual or group with hate or derogatory language.
+##########
+{"id": 82945, "img": "img/82945.png", "label": 0, "text": "be careful who you call ugly in highschool"}
+----------
+not-hateful – The meme emphasizes the transformation from high school to adulthood without directly targeting or mocking an individual. It does not promote hate or disrespect towards
+##########
+{"id": 34975, "img": "img/34975.png", "label": 0, "text": "what if the only reason mary got pregnant... is because god is gay and needed a surrogate"}
+----------
+hateful - This meme disrespects religious beliefs and contains hateful commentary on divine entities, potentially offending various communities and individuals regarding their faith and views on
+##########
+{"id": 61973, "img": "img/61973.png", "label": 1, "text": "what do alcoholics and necrophiliacs have in common they both love to crack open a cold one."}
+----------
+hateful - The meme inappropriately jokes about serious issues like alcoholism and necrophilia, which can be highly offensive and insensitive towards affected individuals and
+##########
+{"id": 16420, "img": "img/16420.png", "label": 0, "text": "abnormal vs normal"}
+----------
+not-hateful - The image juxtaposes people of different heights and labels them, but it doesn't target any specific group or display malicious intent, thus it's
+##########
+{"id": 73069, "img": "img/73069.png", "label": 1, "text": "immigration invasion learn the difference"}
+----------
+hateful - The meme conveys a negative sentiment towards immigration, equating it with invasion, which can incite hostility and discrimination against immigrants.
+##########
+{"id": 47056, "img": "img/47056.png", "label": 1, "text": "illegal aliens are not welcome"}
+----------
+hateful - The phrase "illegal aliens are not welcome" dehumanizes immigrants and promotes exclusion, which can encourage discrimination and hostility toward a specific group
+##########
+{"id": 56428, "img": "img/56428.png", "label": 0, "text": "if the shocker don't rock her spock her"}
+----------
+not-hateful - The meme is a wordplay on popular culture with humorous intent, without promoting harm or hate towards any individual or group.
+##########
+{"id": 54206, "img": "img/54206.png", "label": 0, "text": "you can smell disgust and hate from this photo"}
+----------
+hateful - The meme implies negative, hostile emotions (disgust and hate) and references a historical photo with a potentially disturbing context which can incite
+##########
+{"id": 93172, "img": "img/93172.png", "label": 0, "text": "this is a terrorist"}
+----------
+hateful - This meme labels an individual as a terrorist, which is a severe and potentially dangerous accusation, fostering negative stereotypes and hate.
+##########
+{"id": 56980, "img": "img/56980.png", "label": 0, "text": "coffee isn't helping get the jumper cables"}
+----------
+not-hateful - This meme humorously suggests an unusual solution involving coffee and jumper cables, depicted with a dog, without targeting or harming any group or
+##########
+{"id": 79615, "img": "img/79615.png", "label": 0, "text": "what women think men want what men really want"}
+----------
+not-hateful - The meme contrasts stereotypical assumptions about male desires humorously without promoting hate or harmful stereotypes against any group.
+##########
+{"id": 38047, "img": "img/38047.png", "label": 0, "text": "\"stupid bitch\" is not a race"}
+----------
+hateful - The text "stupid bitch" is derogatory and offensive, contributing to hate speech regardless of context.
+##########
+{"id": 94560, "img": "img/94560.png", "label": 1, "text": "and for my next class project!"}
+----------
+hateful - The image depicts individuals wearing white aprons with paraphernalia suggesting violence or militancy, which can incite hate or promote harmful stereotypes
+##########
+{"id": 96250, "img": "img/96250.png", "label": 0, "text": "i'm going home i'm russian"}
+----------
+not-hateful - The meme involves a wordplay on "Russian" with travel context, without targeting or demeaning any individual or group, thus not
+##########
+{"id": 28951, "img": "img/28951.png", "label": 0, "text": "if the brim of your hat is flat and has a sticker on it i automatically assume you're a complete tool"}
+----------
+hateful - The meme makes a prejudiced assumption about people based on their appearance, specifically those who wear hats with flat brims and stickers, which
+##########
+{"id": 27614, "img": "img/27614.png", "label": 0, "text": "maybe if you think before you act you'd be treated better"}
+----------
+not-hateful - The meme suggests self-reflection and considering actions beforehand to receive better treatment. It does not promote any form of harm or hate towards
+##########
+{"id": 4857, "img": "img/04857.png", "label": 1, "text": "...even the dumb jews know that! trump is a racist."}
+----------
+hateful - The text contains derogatory language targeting Jewish people, which is offensive and discriminatory, thus classifying it as a hateful meme.
+##########
+{"id": 79603, "img": "img/79603.png", "label": 1, "text": "its friday cunts lets get on the gas"}
+----------
+hateful - The meme contains offensive language and suggests harmful behavior, potentially referencing historical atrocities, making it inappropriate and malicious in nature.
+##########
+{"id": 26985, "img": "img/26985.png", "label": 1, "text": "i just heard my girlfriend is pregnant"}
+----------
+not-hateful - The text and image together imply a humorous scenario of a person running after hearing surprising news about his girlfriend, without any harmful or offensive
+##########
+{"id": 14873, "img": "img/14873.png", "label": 1, "text": "human dna found in ancient goat carcass scientists believe this is first proof muhammad existed"}
+----------
+hateful - This meme suggests a derogatory and offensive connection between a religious figure and a goat carcass, which can incite hatred and disrespect towards
+##########
+{"id": 54893, "img": "img/54893.png", "label": 0, "text": "old people at weddings always poke me and say \"you're next.\" so, i started doing the same thing to them at funerals"}
+----------
+not-hateful - The meme employs dark humor to highlight an annoying habit, but it lacks elements that promote hate or discrimination against any individual or group.
+##########
+{"id": 48236, "img": "img/48236.png", "label": 0, "text": "that blood you donated could be in someone's boner right now"}
+----------
+not-hateful - The meme uses humor regarding blood donation without targeting or discriminating against any particular group or individual. It does not contain hateful language or
+##########
+{"id": 74908, "img": "img/74908.png", "label": 0, "text": "she is condemning shooting the gorilla"}
+----------
+hateful - It compares a person to an animal, which is dehumanizing and likely meant to insult or demean the individual.
+##########
+{"id": 96472, "img": "img/96472.png", "label": 1, "text": "white power!"}
+----------
+hateful - This meme promotes white supremacy and is associated with hate speech, which discriminates against and incites hatred towards other racial groups.
+##########
+{"id": 89430, "img": "img/89430.png", "label": 0, "text": "when you know you don't have to jackoff tonight"}
+----------
+not-hateful - The meme is a humoristic comment on personal behavior without any derogatory, aggressive, or harmful language, targeting, or implications towards
+##########
+{"id": 76921, "img": "img/76921.png", "label": 1, "text": "she probably asked a wrong question"}
+----------
+hateful - The meme promotes and trivializes violence against women, suggesting that questioning can justify abusive behavior, which is harmful and perpetuates societal abuse
+##########
+{"id": 68409, "img": "img/68409.png", "label": 1, "text": "for the last time im not michelle obama"}
+----------
+not-hateful - The meme uses humor and the image of a mythical creature to make a lighthearted joke. It does not contain offensive or harmful language
+##########
+{"id": 16354, "img": "img/16354.png", "label": 1, "text": "we've taken this country! now fuck off! we're taking it back!"}
+----------
+hateful - The meme promotes animosity through language suggesting dominance and conflict between groups, which can incite hatred and division.
+##########
+{"id": 69548, "img": "img/69548.png", "label": 1, "text": "wait, mohammad come back i didn't mean to laugh, really size dosen't matter to me lol"}
+----------
+not-hateful - The meme uses humor in a non-derogatory way and does not promote hate or violence towards any specific individual or group.
+##########
+{"id": 1456, "img": "img/01456.png", "label": 1, "text": "they see them rollin..... they hating.."}
+----------
+hateful - The meme juxtaposes a Nazi rally with Holocaust prisoners, trivializing a horrific historical event through a mocking caption, which is deeply offensive and
+##########
+{"id": 17950, "img": "img/17950.png", "label": 0, "text": "i was excoriated for a harmless \"tweet\" and \"my show\" was cancelled"}
+----------
+not-hateful - The meme discusses personal consequences from social media activity without using offensive language or slurs, implying criticism or frustration rather than promoting hatred.
+##########
+{"id": 76295, "img": "img/76295.png", "label": 0, "text": "islamic extremist planning new project"}
+----------
+hateful - The meme perpetuates negative stereotypes about a religious group, labeling them as extremists and implying violence, which is harmful and offensive.
+##########
+{"id": 42580, "img": "img/42580.png", "label": 1, "text": "jack and jill went up the hill so jack could lick her candy but jack got a shock and a mouthful of cock cause jills real name was randy"}
+----------
+hateful - The meme uses offensive language and promotes transphobia by creating a derogatory joke about gender identity, which can be harmful and disrespectful
+##########
+{"id": 96180, "img": "img/96180.png", "label": 1, "text": "putting bows on your pet"}
+----------
+not-hateful - This meme humorously compares a pet cat and a child both wearing bows, and does not contain any harmful, derogatory, or
+##########
+{"id": 98701, "img": "img/98701.png", "label": 1, "text": "oh no i can't steal anymore"}
+----------
+not-hateful - The text and image imply a humorous take on injury; there's no evident intent to demean or harm any individual or group.
+##########
+{"id": 15243, "img": "img/15243.png", "label": 0, "text": "4 am. everyone is asleep perfect time to run from one end of the house to the other at full speed as loudly as possible"}
+----------
+not-hateful - The meme humorously depicts a common cat behavior without targeting or offending any individual or group, making it non-offensive and not hateful
+##########
+{"id": 41058, "img": "img/41058.png", "label": 0, "text": "john wilkes booth be like: yall sure abraham lincoln dead? he aint up here"}
+----------
+not-hateful - The meme is a historical satire involving John Wilkes Booth and Abraham Lincoln; it does not target any group or individual with hate.
+##########
+{"id": 62375, "img": "img/62375.png", "label": 1, "text": "im not saying i'm racist im just saying all muslims are terrorists"}
+----------
+hateful - This meme promotes a harmful and false stereotype by labeling all Muslims as terrorists, which is discriminatory and offensive.
+##########
+{"id": 63507, "img": "img/63507.png", "label": 0, "text": "evolution from peeling bananas to busting caps"}
+----------
+hateful - The meme uses derogatory imagery and language that dehumanizes a group by likening them to animals and implying violent behavior, which is
+##########
+{"id": 31208, "img": "img/31208.png", "label": 1, "text": "maybe if we weren't consistent sources of crime we'd be treated better"}
+----------
+hateful - The text perpetuates harmful stereotypes by generalizing a group of people as consistent sources of crime, promoting negative and discriminatory attitudes.
+##########
+{"id": 62319, "img": "img/62319.png", "label": 1, "text": "america in 2045 \"grandpa...why didn't you stop them?!\""}
+----------
+hateful - The meme promotes xenophobia and Islamophobia by suggesting a future where Islamic culture overtakes America negatively, using fear and prejudiced stereotypes.
+##########
+{"id": 68253, "img": "img/68253.png", "label": 1, "text": "free blanket maybe white man not so bad after all"}
+----------
+hateful - The meme uses a dog in a Native American headdress paired with text that trivializes historical injustices and suffering, which is offensive and
+##########
+{"id": 34687, "img": "img/34687.png", "label": 1, "text": "everyone is afraid of dark"}
+----------
+not-hateful - The text "everyone is afraid of dark" does not contain any hate speech, offensive, or discriminatory content. It appears to be
+##########
+{"id": 34209, "img": "img/34209.png", "label": 0, "text": "how about a nice 12 yr old? bartender: him: boy i would love that"}
+----------
+hateful - The meme makes an inappropriate and disrespectful joke about a clergyman and a 12-year-old, implying pedophilia. This
+##########
+{"id": 39827, "img": "img/39827.png", "label": 1, "text": "kick them out of country"}
+----------
+hateful - The text "kick them out of country" promotes exclusion and hostility towards a group, making the meme discriminatory and harmful.
+##########
+{"id": 46920, "img": "img/46920.png", "label": 1, "text": "we want sharia law !! well.... go home"}
+----------
+hateful - The meme marginalizes a specific group based on their desire for sharia law, suggesting they leave, which fosters discrimination and intolerance.
+##########
+{"id": 84273, "img": "img/84273.png", "label": 0, "text": "when you're the reason for the company safety video"}
+----------
+not-hateful - The meme humorously implies that someone caused an incident requiring a safety video. It does not target or demean any individual or group,
+##########
+{"id": 39018, "img": "img/39018.png", "label": 0, "text": "she said \"i want a ring\" i said \"bitch take your phone off silent!\""}
+----------
+not-hateful - This meme uses humor to play on the double meaning of the word "ring" without targeting or demeaning a specific group or individual
+##########
+{"id": 54780, "img": "img/54780.png", "label": 1, "text": "travel size coffee maker"}
+----------
+not-hateful - The meme text "travel size coffee maker" does not contain harmful, offensive, or hateful content and appears to be a humorous or
+##########
+{"id": 69150, "img": "img/69150.png", "label": 1, "text": "\"white privilege the privilege of being called \"racist\" by other people who see nothing else about you except the color of your skin"}
+----------
+hateful - This meme perpetuates a dismissive attitude towards discussions of racism and white privilege, potentially minimizing and invalidating the experiences of those affected
+##########
+{"id": 29843, "img": "img/29843.png", "label": 0, "text": "the world's most wanted terrorist obama bin lying"}
+----------
+hateful - It falsely labels an individual as a terrorist by distorting their name to resemble a known terrorist's name, promoting misinformation and defamation.
+##########
+{"id": 19385, "img": "img/19385.png", "label": 0, "text": "rose's are red violet's are blue little stupid ass bitch i ain't fuckin witchu"}
+----------
+hateful - The text employs offensive language and name-calling, which can be considered derogatory and disrespectful. This kind of language promotes negativity and
+##########
+{"id": 64510, "img": "img/64510.png", "label": 0, "text": "mohammad won the contest in putting underwear on goats"}
+----------
+hateful - The meme targets a specific name, potentially mocking a cultural or religious sensitivity, which can be interpreted as offensive.
+##########
+{"id": 47103, "img": "img/47103.png", "label": 0, "text": "maybe we weren't consistent sources of crime we'd be treated better"}
+----------
+hateful - The text implies a harmful stereotype toward a group of people, suggesting a link between them and crime, which promotes discrimination and prejudice.
+##########
+{"id": 61038, "img": "img/61038.png", "label": 0, "text": "no wonder why the pipes are not working"}
+----------
+not-hateful - The meme humorously points out the condition of the pipes as the reason for them not working without targeting or offending any individual or group
+##########
+{"id": 71620, "img": "img/71620.png", "label": 1, "text": "we are returning our broken coffee maker"}
+----------
+not-hateful - The meme simply communicates the act of returning a malfunctioning coffee maker and does not contain any content that targets or intends to harm individuals
+##########
+{"id": 91602, "img": "img/91602.png", "label": 0, "text": "upper downer"}
+----------
+not-hateful - The meme uses the phrases "upper" and "downer" humorously to describe different actions without promoting hate or negative stereotypes.
+##########
+{"id": 30145, "img": "img/30145.png", "label": 0, "text": "before my presidency, there was no isis. there was no caliphate there was no blm. there was no antifa. there was no war on police i built that"}
+----------
+hateful - The text attributes the existence of several contentious and violent groups and movements to a specific person, which can incite division and hostility.
+##########
+{"id": 91756, "img": "img/91756.png", "label": 1, "text": "abnormal vs normal"}
+----------
+hateful - The meme categorizes individuals into "abnormal" and "normal," which promotes discrimination and intolerance towards certain appearances or attire.
+##########
+{"id": 63745, "img": "img/63745.png", "label": 1, "text": "we could destroy all of them but we let some of them survive so you know why we did it"}
+----------
+hateful - The image and text promote violence and survival based on extreme ideologies, indicated by the presence of Nazi symbols and hateful language advocating for destruction
+##########
+{"id": 47162, "img": "img/47162.png", "label": 1, "text": "what do these two have in common? they both are good at sucking they both come with a bag"}
+----------
+hateful - The meme objectifies women by making a derogatory comparison to a vacuum cleaner, perpetuating sexist stereotypes and promoting harmful attitudes.
+##########
+{"id": 59806, "img": "img/59806.png", "label": 0, "text": "on tuesday, november 3, 2020, we make america great again  by voting this nightmare out of office!"}
+----------
+not-hateful - The text encourages voting and expresses dissatisfaction with a political figure, but does not use derogatory language or incite harm against any specific
+##########
+{"id": 7135, "img": "img/07135.png", "label": 1, "text": "this is the greatest news manufacturing in 20th century"}
+----------
+hateful - The image appears to reference a sensitive historical event in a sarcastic manner, likely mocking or trivializing the suffering, which constitutes hate speech
+##########
+{"id": 35497, "img": "img/35497.png", "label": 0, "text": "old people at weddings always poke me and say \"you're next.\" so, i started doing the same thing to them at funerals"}
+----------
+not-hateful - The meme uses dark humor to compare a common wedding joke with a twist at funerals. It's meant to be humorous, not intended
+##########
+{"id": 84362, "img": "img/84362.png", "label": 0, "text": "unleash the inner beast on the field"}
+----------
+hateful - Comparing a person to an animal in this context is dehumanizing and can be offensive and racist, particularly given the historical context of such
+##########
+{"id": 84015, "img": "img/84015.png", "label": 1, "text": "my irony meter just exploded"}
+----------
+not-hateful - The meme features a humorous statement about irony without targeting or degrading any group or individual.
+##########
+{"id": 87251, "img": "img/87251.png", "label": 0, "text": "i love apes they are both ugly and cute"}
+----------
+hateful - The meme compares a human to an ape, using language that could be interpreted as demeaning and racist, making it offensive and potentially harmful
+##########
+{"id": 82590, "img": "img/82590.png", "label": 1, "text": "burning them was a great public service"}
+----------
+hateful - The text implies approval of violence or harm against a group of people, which promotes hatred and animosity.
+##########
+{"id": 59738, "img": "img/59738.png", "label": 1, "text": "what's the difference between a refugee and e.t e.t learned english and wanted to go home"}
+----------
+hateful - The meme disparages refugees by comparing them to an extraterrestrial, implying inferiority and laziness, which promotes xenophobia and harmful stereotypes
+##########
+{"id": 35470, "img": "img/35470.png", "label": 0, "text": "can you smell what the reigh is cooking"}
+----------
+not-hateful - There is no derogatory, offensive, or harmful language in the text; it appears to be a humorous play on words related to
+##########
+{"id": 72061, "img": "img/72061.png", "label": 1, "text": "i like my rice crispy please"}
+----------
+hateful - This meme visually references nuclear bombs with the text "i like my rice crispy please," potentially trivializing nuclear devastation, which is harmful and
+##########
+{"id": 3524, "img": "img/03524.png", "label": 1, "text": "terrorist can come to this country way to easy"}
+----------
+hateful - The meme associates a specific group of people with terrorism, promoting harmful stereotypes and discrimination based on religion or ethnicity.
+##########
+{"id": 86170, "img": "img/86170.png", "label": 1, "text": "how to keep the thefts out"}
+----------
+hateful - This meme promotes exclusion based on harmful stereotypes and depicts a historically hate-promoting group in a way that encourages intolerance and discrimination.
+##########
+{"id": 50841, "img": "img/50841.png", "label": 0, "text": "give them what they deserve kill them all"}
+----------
+hateful - The image contains a call for violence and harm ("kill them all"), which is classified as hateful content.
+##########
+{"id": 46087, "img": "img/46087.png", "label": 0, "text": "give that man a suicide"}
+----------
+hateful - The text "give that man a suicide" promotes harm and violence, making it harmful and inappropriate.
+##########
+{"id": 42058, "img": "img/42058.png", "label": 0, "text": "for lunch vlad the impaler loved turkey"}
+----------
+not-hateful - This meme makes a play on words involving "Vlad the Impaler" and a roasted turkey, which is food-related humor.
+##########
+{"id": 1967, "img": "img/01967.png", "label": 0, "text": "when you decide to stop racism by burning its symbol"}
+----------
+not-hateful - This meme promotes the idea of combatting racism. It advocates for stopping racism by symbolically burning its symbol, suggesting a stance against
+##########
+{"id": 54930, "img": "img/54930.png", "label": 1, "text": "not all muslims are isis! some are al-qaida the rest are taliban"}
+----------
+hateful - This meme promotes negative stereotypes and discrimination against Muslims by generalizing them as terrorists, fostering hate and prejudice.
+##########
+{"id": 38076, "img": "img/38076.png", "label": 1, "text": "\"he's a squirter\" doesn't sound as sexy when you are gay"}
+----------
+not-hateful - The meme is a humorous expression about sexual innuendos and preferences without targeting or discriminating against any individual or group. It
+##########
+{"id": 38910, "img": "img/38910.png", "label": 1, "text": "oh boy i sure love being muslim in the new zealand city of christchurch on march 15"}
+----------
+hateful - The meme references the Christchurch mosque shootings on March 15, 2019, a tragic event targeting Muslims. This context and its potentially
+##########
+{"id": 6723, "img": "img/06723.png", "label": 1, "text": "the hardest part to eat in a vegetable"}
+----------
+hateful - This meme is offensive as it mocks disabled individuals by referring to them as "vegetables," which is derogatory and demeaning.
+##########
+{"id": 2157, "img": "img/02157.png", "label": 1, "text": "mohammed i'm pregnant.... don't sass me, you know it's funny! ~cupcakes"}
+----------
+hateful - The meme uses a common name associated with a particular religious group in a context that is derogatory, insensitive, and potentially offensive, thus
+##########
+{"id": 62948, "img": "img/62948.png", "label": 1, "text": "black lives matter >\"how\",\"why\"and \"to whom\" is unclear"}
+----------
+hateful - The meme undermines the Black Lives Matter movement by sarcastically questioning its purpose and relevance, thereby trivializing and dismissing serious issues related
+##########
+{"id": 21075, "img": "img/21075.png", "label": 0, "text": "size of a shuttle bus legroom of a pinto"}
+----------
+not-hateful - The meme makes a humorous comparison between the size of a vehicle and its legroom, without targeting or insulting any individual or group.
+##########
+{"id": 73601, "img": "img/73601.png", "label": 1, "text": "when you are white and stole your first bike"}
+----------
+hateful - The meme perpetuates a racial stereotype by mentioning "when you are white" in the context of stealing a bike, which can inc
+##########
+{"id": 32579, "img": "img/32579.png", "label": 0, "text": "come to the dark side we have weed"}
+----------
+not-hateful - The meme is a play on the popular "dark side" Star Wars reference and makes a humorous offer. It does not contain hate
+##########
+{"id": 21567, "img": "img/21567.png", "label": 1, "text": "our dad is a potato farmer"}
+----------
+not-hateful - The text "our dad is a potato farmer" is neutral and does not contain harmful, offensive, or discriminatory language towards any individual
+##########
+{"id": 1765, "img": "img/01765.png", "label": 1, "text": "after a girl dies, what organ in her body stays warm? my dick"}
+----------
+hateful - The meme is highly inappropriate and offensive as it makes a disrespectful and vulgar joke about a deceased girl, which is insensitive and promotes a
+##########
+{"id": 53172, "img": "img/53172.png", "label": 0, "text": "straight outta the oven step one :turn on the gas"}
+----------
+hateful - The phrase "straight outta the oven" with instructions to "turn on the gas" can be interpreted as referencing the Holocaust, which
+##########
+{"id": 32568, "img": "img/32568.png", "label": 1, "text": "america taught us how to be happy slaves the same way school teach us how to be happy employees"}
+----------
+hateful - The language used dehumanizes various groups, disrespecting significant historical injustices and current social dynamics, fostering divisive sentiments.
+##########
+{"id": 1742, "img": "img/01742.png", "label": 0, "text": "in just one hour from now i'll only have 4 hours left until i have to work a mere 3 hours"}
+----------
+not-hateful - The meme humorously depicts a person procrastinating or feeling reluctant about a short work commitment, which does not promote harm or negative sentiments
+##########
+{"id": 56098, "img": "img/56098.png", "label": 1, "text": "i said \"a glass of juice\"."}
+----------
+hateful - The meme references historical figures associated with offensive ideologies, and the phrase plays on a harmful stereotype, promoting hate speech.
+##########
+{"id": 78612, "img": "img/78612.png", "label": 0, "text": "go see fifty shades darker in theaters alone and throw mayonnaise at couples in the dark"}
+----------
+not-hateful - The meme suggests a prank involving mayonnaise in a theater, which is mischievous but not promoting hate or targeting any specific group.
+##########
+{"id": 34018, "img": "img/34018.png", "label": 1, "text": "fuck the catholics fuck the catholic church fuck the pope"}
+----------
+hateful - The meme explicitly expresses hostility and disrespect towards a religious group and its leaders, which can incite hate and intolerance.
+##########
+{"id": 53609, "img": "img/53609.png", "label": 0, "text": "when your friend insists on paying for dinner but you still want to contribute - just the tip, come on... let me"}
+----------
+not-hateful - The meme humorously depicts a common social situation about sharing the cost of a meal, with no content that targets any individual or group
+##########
+{"id": 89362, "img": "img/89362.png", "label": 1, "text": "has extra chromosome probably stole it"}
+----------
+hateful - The text makes an insensitive and derogatory comment about a genetic condition, contributing to ableist stereotypes and promoting harmful attitudes towards individuals with disabilities
+##########
+{"id": 80426, "img": "img/80426.png", "label": 1, "text": "a talking ape"}
+----------
+hateful - Using "a talking ape" is a derogatory and dehumanizing term, which is offensive and can propagate harmful stereotypes.
+##########
+{"id": 83045, "img": "img/83045.png", "label": 1, "text": "so much trash, we need a garbage collector"}
+----------
+hateful - The text "so much trash, we need a garbage collector" dehumanizes and insults people by referring to them as trash, which
+##########
+{"id": 61503, "img": "img/61503.png", "label": 0, "text": "someone else used kids to push an agenda"}
+----------
+not-hateful - The meme discusses the use of children to promote an agenda, without directly targeting or discriminating against any specific group or individual.
+##########
+{"id": 41890, "img": "img/41890.png", "label": 1, "text": "house of pedophile"}
+----------
+hateful - The text "house of pedophile" is offensive and defamatory, targeting a specific place and potentially a group, which constitutes hateful content.
+##########
+{"id": 52091, "img": "img/52091.png", "label": 1, "text": "women ask for equal rights, so i give them equal lefts aswell"}
+----------
+hateful - The text implies violence against women by making a play on words with "equal lefts," promoting harmful behavior and attitudes towards women's rights.
+##########
+{"id": 24396, "img": "img/24396.png", "label": 1, "text": "so like, why are men even gay? girls have buttholes too you know."}
+----------
+hateful - The meme trivializes and mocks sexual orientation, which can be offensive and harmful to the LGBTQ+ community.
+##########
+{"id": 72168, "img": "img/72168.png", "label": 1, "text": "upper downer"}
+----------
+not-hateful - The meme uses the terms "upper" and "downer" in a potentially humorous context without any explicit harmful or derogatory language
+##########
+{"id": 85761, "img": "img/85761.png", "label": 1, "text": "no wonder why the pipes are not working"}
+----------
+not-hateful - The image depicts an observation about a disconnected pipe and contains no offensive, discriminatory, or harmful language or imagery.
+##########
+{"id": 35719, "img": "img/35719.png", "label": 0, "text": "jamal is practicing for class sport"}
+----------
+not-hateful - The meme shows a person practicing a sport, and the text is a neutral description of the activity, without any offensive or harmful content
+##########
+{"id": 90256, "img": "img/90256.png", "label": 1, "text": "whenever you feel stupid, remember there are people who throw stones at a wall! aiming for an invisible devil, told by an invisible god for an invisible heaven!"}
+----------
+hateful - The meme mocks a specific religious practice, using derogatory language to describe the participants and their beliefs, which can be offensive and discriminatory towards
+##########
+{"id": 20984, "img": "img/20984.png", "label": 0, "text": "when you are white and stole your first bike"}
+----------
+hateful - The text perpetuates racial stereotypes and could be offensive to individuals of a particular race, making it inappropriate and harmful.
+##########
+{"id": 95086, "img": "img/95086.png", "label": 1, "text": "novaky concentration camp these jews can claim holocaust pensions"}
+----------
+hateful - The meme trivializes the Holocaust and makes derogatory references to Jews, implying false claims for pensions associated with concentration camps, which is deeply
+##########
+{"id": 49028, "img": "img/49028.png", "label": 0, "text": "i finally found my girlfriends g-spot turns out it was in her sister the whole time"}
+----------
+hateful - This meme is offensive and disrespectful towards women, promoting infidelity and inappropriate relations, which can lead to harm or negative stereotypes.
+##########
+{"id": 18356, "img": "img/18356.png", "label": 0, "text": "i took a shower this morning"}
+----------
+hateful - The image depicts notorious figures from history associated with hate and violence. Coupled with the text, it trivializes serious historical atrocities, making
+##########
+{"id": 52634, "img": "img/52634.png", "label": 0, "text": "the secret to a successful marriage is to keep his stomach full and his balls empty"}
+----------
+not-hateful - The meme appears to make a humorous, albeit stereotypical, statement about marriage dynamics without promoting hate or discrimination towards any particular group.
+##########
+{"id": 80512, "img": "img/80512.png", "label": 1, "text": "you can make jokes about anything, just not illegals that's crossing the border"}
+----------
+hateful - The meme targets individuals crossing the border, referring to them as "illegals," which is a derogatory term often used to de
+##########
+{"id": 62703, "img": "img/62703.png", "label": 0, "text": "they shot the wrong gorilla"}
+----------
+hateful - This meme uses a reference to a gorilla in a context likely referring to humans, which can be interpreted as dehumanizing and offensive
+##########
+{"id": 95176, "img": "img/95176.png", "label": 0, "text": "notice how the kenyan skidmark has been silent about the mueller report?"}
+----------
+hateful - The text uses a derogatory term "Kenyan skidmark," which is a racist and offensive slur, making the meme hateful.
+##########
+{"id": 27384, "img": "img/27384.png", "label": 0, "text": "that face you make when you're a bully and just got beat up by a girl"}
+----------
+not-hateful - The meme criticizes bullies and promotes the idea that anyone can stand up to them, regardless of gender, which is a positive
+##########
+{"id": 82437, "img": "img/82437.png", "label": 1, "text": "we should learn from ocean how to treat refugees"}
+----------
+hateful - The meme implies mistreatment of refugees by suggesting they should be treated like debris in the ocean, which is demeaning and promotes harmful attitudes
+##########
+{"id": 26943, "img": "img/26943.png", "label": 1, "text": "my incesters built this country!!!!"}
+----------
+hateful - The term "incesters" is a derogatory play on the word "ancestors," intending to insult a group by implying a history
+##########
+{"id": 9152, "img": "img/09152.png", "label": 0, "text": "i don't have ex's. i have y's. like, \"y the hell did i date you?!?\""}
+----------
+not-hateful - The meme is expressing a humorous take on regretful relationships without targeting or promoting hate towards a specific person or group.
+##########
+{"id": 7429, "img": "img/07429.png", "label": 1, "text": "i'm about to have my 5th abortion fuck you batman i'm the real crime fighter"}
+----------
+hateful - The meme trivializes abortion and uses inappropriate language, which can be offensive and disrespectful to those affected by the issue.
+##########
+{"id": 75639, "img": "img/75639.png", "label": 1, "text": "changing every single country it touches"}
+----------
+not-hateful - The image and text do not promote hate or harm but rather make a broad statement that can be interpreted in various non-hateful ways
+##########
+{"id": 46812, "img": "img/46812.png", "label": 0, "text": "goat meat is very popular in islamic countries"}
+----------
+not-hateful - The meme makes a factual statement about the popularity of goat meat in Islamic countries without any derogatory or offensive language.
+##########
+{"id": 63827, "img": "img/63827.png", "label": 1, "text": "teacher of the year for black community"}
+----------
+hateful - The meme contains a noose, a symbol historically associated with lynching and racial violence against Black people. The text is derogatory and
+##########
+{"id": 41276, "img": "img/41276.png", "label": 1, "text": "evolution from peeling bananas to busting caps"}
+----------
+hateful - This meme is hateful as it employs racist tropes, comparing a Black person to an ape and implying a violent transformation, promoting racist stereotypes
+##########
+{"id": 56413, "img": "img/56413.png", "label": 1, "text": "feeling cute might shoot a darkie later idk"}
+----------
+hateful - The text contains a racial slur and suggests violence against a racial group, which promotes hate speech and racism.
+##########
+{"id": 69512, "img": "img/69512.png", "label": 0, "text": "happy birthday you sexy beast"}
+----------
+not-hateful - The text simply conveys a birthday wish in a playful and affectionate manner without any offensive or harmful language.
+##########
+{"id": 43175, "img": "img/43175.png", "label": 1, "text": "when was the last time you saw so many mentally ill people on the streat"}
+----------
+hateful - This meme stigmatizes and mocks mentally ill individuals and associates them with a specific group, promoting negative stereotypes and discrimination.
+##########
+{"id": 54129, "img": "img/54129.png", "label": 0, "text": "dump pipe to the ocean"}
+----------
+not-hateful - The image and text pertain to environmental commentary, likely addressing pollution or waste management, without targeting or promoting harm towards any specific group
+##########
+{"id": 23645, "img": "img/23645.png", "label": 1, "text": "what do they have in common? you enjoy pushing them down the stairs"}
+----------
+hateful - Promotes violence by suggesting enjoyment in harming others, which can be interpreted as encouraging harmful behavior towards people.
+##########
+{"id": 89425, "img": "img/89425.png", "label": 1, "text": "hello chocolate paradise princess i'm albert"}
+----------
+not-hateful - The text and imagery do not contain any offensive, discriminatory, or harmful language or visuals. The content appears benign and non-offensive
+##########
+{"id": 16923, "img": "img/16923.png", "label": 1, "text": "do you like goat anus? smell my finger"}
+----------
+not-hateful - Although the text is crude and inappropriate, it does not target or promote hate against a specific person or group based on inherent characteristics such
+##########
+{"id": 4769, "img": "img/04769.png", "label": 1, "text": "if she's pouting like this and you don't immediately drop the argument , motherfucker you gay"}
+----------
+hateful - The meme uses a homophobic slur and implies that not succumbing to sexual manipulation makes someone gay, which is offensive and promotes harmful
+##########
+{"id": 69815, "img": "img/69815.png", "label": 1, "text": "thank you for allowing me into your country now we need to talk about the things that need to change around here to accommodate my beliefs"}
+----------
+hateful - The text implies that immigrants expect or demand changes to suit their beliefs, which can perpetuate stereotypes and foster resentment or prejudice against certain groups
+##########
+{"id": 91468, "img": "img/91468.png", "label": 0, "text": "you want a whore? buy one. you want a queen? earn her. you want a nickel bag? fifteen bucks, little man"}
+----------
+not-hateful - The text, while crude, does not incite hate against any individual or group. It seems to be promoting the notion of earning
+##########
+{"id": 52104, "img": "img/52104.png", "label": 0, "text": "lebanon: before islam after islam but don't worry! after islam takes over, there'll be a golden age... apparently"}
+----------
+hateful - This meme negatively targets Islam and suggests decline after Islam, perpetuating religious stereotypes and potentially inciting discrimination.
+##########
+{"id": 52031, "img": "img/52031.png", "label": 0, "text": "theriously?? that's methed up!"}
+----------
+not-hateful - The meme uses a play on words to humorously indicate disbelief about someone's actions. It does not target or demean any specific person or
+##########
+{"id": 8795, "img": "img/08795.png", "label": 0, "text": "when you are white and working in oil field"}
+----------
+not-hateful - The meme does not express hate towards any group but rather depicts a humorous situation about getting dirty in an oil field, using dark oil
+##########
+{"id": 50317, "img": "img/50317.png", "label": 1, "text": "what in the hell is wrong with america voting towel heads into congress"}
+----------
+hateful - The text uses a derogatory term "towel heads," displaying clear racial and religious intolerance, which classifies this meme as hateful content
+##########
+{"id": 73914, "img": "img/73914.png", "label": 1, "text": "be careful who you call ugly in highschool"}
+----------
+hateful - The meme compares a person to a gorilla, which is derogatory and demeaning, and can perpetuate harmful stereotypes and bullying.
+##########
+{"id": 3197, "img": "img/03197.png", "label": 1, "text": "i'm no bird expert but i'm guessing it's 4 females and 1 male"}
+----------
+not-hateful - The meme humorously comments on the visible differences in the birds without being derogatory or offensive.
+##########
+{"id": 49621, "img": "img/49621.png", "label": 0, "text": "wait, mohammad come back i didn't mean to laugh, really size dosen't matter to me lol"}
+----------
+not-hateful - The meme does not contain language or context that explicitly targets or degrades any individual or group based on attributes like religion, race,
+##########
+{"id": 68530, "img": "img/68530.png", "label": 1, "text": "a fast sandwich maker"}
+----------
+hateful - The text "a fast sandwich maker" combined with an image of a female athlete perpetuates sexist stereotypes by diminishing the athlete's accomplishments
+##########
+{"id": 98547, "img": "img/98547.png", "label": 0, "text": "waves mexican flag doesn't want to live in mexico"}
+----------
+hateful - This image perpetuates negative stereotypes about Mexican individuals, implying hypocrisy and unwelcome behavior, which can incite prejudice and discrimination.
+##########
+{"id": 3519, "img": "img/03519.png", "label": 1, "text": "i'm going home i'm russian"}
+----------
+not-hateful - The meme uses a wordplay joke related to nationality and has no direct implication of hate speech or derogatory comment towards any group of
+##########
+{"id": 43698, "img": "img/43698.png", "label": 0, "text": "don't be late for work get the protestor plow"}
+----------
+hateful - Promotes violence against protestors by referring to a vehicle as a "protestor plow," suggesting harm to those exercising their right
+##########
+{"id": 84756, "img": "img/84756.png", "label": 1, "text": "when you ask the kid that misses class a lot why he is bald and he starts crying all right. then keep vour secrets"}
+----------
+hateful - The meme mocks a child for their absence due to an undisclosed medical condition, causing distress. This can be perceived as insensitive and hurt
+##########
+{"id": 93051, "img": "img/93051.png", "label": 0, "text": "and for my next class project!"}
+----------
+not-hateful - The meme appears to depict children engaged in a school project about the solar system, with no harmful or offensive content present in the image
+##########
+{"id": 68257, "img": "img/68257.png", "label": 0, "text": "everyone is afraid of dark"}
+----------
+not-hateful - The text "everyone is afraid of dark" is a general statement about fear of darkness and does not target, demean, or inc
+##########
+{"id": 12834, "img": "img/12834.png", "label": 1, "text": "in west philadelphia, born and raised in the anus is where i got most of my aids"}
+----------
+hateful - The meme makes a derogatory and offensive reference to a serious medical condition (AIDS) in a crude and disrespectful manner, which
+##########
+{"id": 57208, "img": "img/57208.png", "label": 0, "text": "i had potato for lunch"}
+----------
+not-hateful - The statement about having a potato for lunch is neutral and not directed towards any individual or group, making it non-offensive and non
+##########
+{"id": 26439, "img": "img/26439.png", "label": 0, "text": "parental opioid use has negative effect on children's intelligence"}
+----------
+not-hateful - The meme highlights a serious issue regarding the impact of parental opioid use on children's intelligence without targeting or demeaning any individual or group.
+##########
+{"id": 53769, "img": "img/53769.png", "label": 0, "text": "in 1979 jimmy carter created the department of education since then the u.s. has gone from 1st to 17th in education"}
+----------
+not-hateful - The meme critiques the establishment of the Department of Education and the perceived decline in U.S. educational ranking without promoting hate or targeting any
+##########
+{"id": 28406, "img": "img/28406.png", "label": 0, "text": "when she gives you that look"}
+----------
+not-hateful - The text and image do not contain any offensive, threatening, or discriminatory language or implications.
+##########
+{"id": 53418, "img": "img/53418.png", "label": 0, "text": "a real man loads the dishwasher every night"}
+----------
+not-hateful - This meme emphasizes a positive behavior (loading the dishwasher) without demeaning or discriminating against any individual or group. It promotes shared
+##########
+{"id": 10785, "img": "img/10785.png", "label": 1, "text": "time to put the \"panic\" back in hispanic"}
+----------
+hateful - The meme uses a wordplay that connects "panic" with "Hispanic", perpetuating negative stereotypes and suggesting fear or hostility towards
+##########
+{"id": 84302, "img": "img/84302.png", "label": 0, "text": "why do we share more when these people are hurt but not these people"}
+----------
+hateful - The meme suggests differential treatment based on identity, which can incite divisiveness and animosity, hence it is considered hateful.
+##########
+{"id": 76015, "img": "img/76015.png", "label": 0, "text": "everyone celebrates christmas !"}
+----------
+hateful - The meme pushes a false generalization and dismisses the cultural and religious diversity that influences holiday traditions, implicitly promoting exclusion or intolerance toward those
+##########
+{"id": 34189, "img": "img/34189.png", "label": 0, "text": "fight for what you believe in fight for the future"}
+----------
+not-hateful - The message encourages standing up for beliefs and looking forward to the future, promoting positive actions without targeting any group or individual negatively.
+##########
+{"id": 52079, "img": "img/52079.png", "label": 0, "text": "just bought a house! now we're house-poor"}
+----------
+not-hateful - The meme humorously depicts a common situation of financial strain after purchasing a house, without targeting or demeaning any individual or group.
+##########
+{"id": 63987, "img": "img/63987.png", "label": 0, "text": "the migrant caravan arrives!"}
+----------
+not-hateful - The text is a straightforward statement about the arrival of a migrant caravan, with no explicit or implied derogatory language or intent towards the
+##########
+{"id": 73526, "img": "img/73526.png", "label": 0, "text": "if she's still making noises, you didn't hit her hard enough"}
+----------
+hateful - Promotes violence against women, suggesting physical abuse as acceptable behavior. This is harmful and perpetuates abusive attitudes.
+##########
+{"id": 2145, "img": "img/02145.png", "label": 0, "text": "and then i asked mom, what's for dinner?"}
+----------
+not-hateful - The image simply depicts a dinner table with a humorous caption about asking what's for dinner, which is not harmful or offensive in nature.
+##########
+{"id": 84102, "img": "img/84102.png", "label": 0, "text": "the definition of utter disgust in plain black and white"}
+----------
+not-hateful - The text and imagery do not target or attack any specific group or individual. They convey a general sentiment without inciting harm or hatred
+##########
+{"id": 32981, "img": "img/32981.png", "label": 0, "text": "the latest and greatest. a truck that comes with a dishwasher!"}
+----------
+not-hateful - The meme humorously depicts the idea of a man moving house and being referred to as a "dishwasher" in the truck.
+##########
+{"id": 73605, "img": "img/73605.png", "label": 0, "text": "no matter what smile"}
+----------
+hateful - The use of a serious historical image in a context urging to "smile" can be seen as highly insensitive and disrespectful to the
+##########
+{"id": 7382, "img": "img/07382.png", "label": 1, "text": "wouldn't be the last time those people used the oven this way"}
+----------
+hateful - This meme references the Holocaust by implying ovens were used to harm certain groups of people, which is deeply offensive and promotes hate against them.
+##########
+{"id": 64071, "img": "img/64071.png", "label": 0, "text": "when you have someone to help and take care of you what could happen if you didn't"}
+----------
+not-hateful - This meme humorously contrasts care and neglect without targeting or demeaning any specific group or individual, making it not-hateful content.
+##########
+{"id": 80912, "img": "img/80912.png", "label": 0, "text": "mr obama it is an honor"}
+----------
+not-hateful - The text "mr obama it is an honor" is respectful and does not contain any harmful, discriminatory, or offensive language.
+##########
+{"id": 84762, "img": "img/84762.png", "label": 1, "text": "do you know how to turn your dishwasher into a snowblower? throw em a shovel"}
+----------
+not-hateful - The meme uses humor involving a household chore without directing any harmful, discriminatory, or hateful language towards any individual or group.
+##########
+{"id": 39076, "img": "img/39076.png", "label": 0, "text": "playing with the monkeys in thailand"}
+----------
+not-hateful - The text and image depict a person interacting with actual monkeys in Thailand, a common tourist activity. There doesn't appear to be any harmful
+##########
+{"id": 85679, "img": "img/85679.png", "label": 1, "text": "mr obama it is an honor"}
+----------
+hateful - The meme equates a person to a monkey while addressing them by name, which can dehumanize and convey racial slurs, even
+##########
+{"id": 38095, "img": "img/38095.png", "label": 0, "text": "haters will say it's photoshop"}
+----------
+not-hateful - The meme humorously suggests that some people will criticize or dismiss it as being edited, without promoting harm, discrimination, or hate towards
+##########
+{"id": 52394, "img": "img/52394.png", "label": 0, "text": "i forgot what are we fighting over again?"}
+----------
+hateful - The image displays a violent altercation, which promotes negativity and aggression, despite the humorous text. The combination can incite or normalize violence
+##########
+{"id": 14865, "img": "img/14865.png", "label": 0, "text": "terrible as hitler was, he did enjoy watching sports"}
+----------
+hateful - The meme references Hitler in a way that can minimize his atrocities, which can be deeply offensive and inappropriate.
+##########
+{"id": 54819, "img": "img/54819.png", "label": 0, "text": "beauty shot of girlfriends focusing on different thoughts and ideas"}
+----------
+not-hateful - The meme simply depicts a group of friends each with their own thoughts and ideas, without any negative or harmful connotations.
+##########
+{"id": 46082, "img": "img/46082.png", "label": 0, "text": "the future of the democratic party"}
+----------
+not-hateful - The meme simply aligns a group from the U.S. House of Representatives with the Democratic party's future without displaying content that promotes violence
+##########
+{"id": 73962, "img": "img/73962.png", "label": 1, "text": "you should treat that the way you treat you vacuum cleaner when it stops sucking change the bag"}
+----------
+not-hateful - The text uses a metaphor to provide advice, which may come off as humorous or a casual remark. It does not target any group
+##########
+{"id": 78462, "img": "img/78462.png", "label": 0, "text": "in the last days there will be scoffers, ridiculers, deniers and mockers following after their own lusts"}
+----------
+not-hateful - The text refers to a biblical prediction and does not target any specific group with hate speech or harmful intent. It expresses a religious viewpoint
+##########
+{"id": 49805, "img": "img/49805.png", "label": 0, "text": "imagine being so disgusting there have to be laws to try to stop normal people from hating you"}
+----------
+hateful - The text targets a group of people as "disgusting" and implies that normal people hate them, which promotes hate and discrimination.
+##########
+{"id": 24098, "img": "img/24098.png", "label": 1, "text": "thanksgiving in china"}
+----------
+hateful - This meme perpetuates harmful stereotypes about a particular country and culture, which can contribute to xenophobia and racism.
+##########
+{"id": 67435, "img": "img/67435.png", "label": 1, "text": "when you ask a jewish girl for her number and she starts rolling her sleeve"}
+----------
+hateful - This meme promotes an offensive stereotype and makes light of a tragic historical event (the Holocaust), which is harmful and disrespectful towards Jewish people
+##########
+{"id": 60893, "img": "img/60893.png", "label": 0, "text": "busy, like a hive of bees, controlling what your family sees and edits all the news your hear so you'll know what to think and fear till all the truth there is, is gone. that is unless you stand, en masse. \""}
+----------
+not-hateful - The meme criticizes media and information control by a tech company without targeting any specific group or promoting hate speech.
+##########
+{"id": 93148, "img": "img/93148.png", "label": 0, "text": "the proper way to pop a blackhead"}
+----------
+not-hateful - The meme appears to make a humorous comment about skincare, specifically popping blackheads, without targeting any individual or group in a negative or
+##########
+{"id": 7351, "img": "img/07351.png", "label": 0, "text": "\"plays uno steals all the green cards\""}
+----------
+not-hateful - The meme humorously references a card game without targeting or disparaging any group or individual, therefore it does not contain or promote hate
+##########
+{"id": 16850, "img": "img/16850.png", "label": 0, "text": "okay okay okay here's my serious face do i look fuhrerious yet?"}
+----------
+hateful - The use of "fuhrerious" is a pun related to "Führer," a title associated with Adolf Hitler, implying a
+##########
+{"id": 96312, "img": "img/96312.png", "label": 0, "text": "when you support your little one every step of the way"}
+----------
+not-hateful - This meme depicts a supportive and positive message about being there for loved ones, particularly children, indicating care and encouragement.
+##########
+{"id": 86195, "img": "img/86195.png", "label": 0, "text": "dolled up and rolling with the gang like"}
+----------
+hateful - The image features historical figures associated with hate and violence, coupled with text trivializing their actions. This promotes harmful ideologies and can be
+##########
+{"id": 84162, "img": "img/84162.png", "label": 0, "text": "i could have killed all of them. but i let some of them survive so you know why i killed them"}
+----------
+not-hateful - The meme humorously portrays mosquitoes as targets for elimination without promoting harm or hatred towards any group of people.
+##########
+{"id": 12067, "img": "img/12067.png", "label": 0, "text": "pre-heat to 350 degrees"}
+----------
+not-hateful - The image depicts a common baking instruction and shows cookies in an oven, which is generally innocuous and not harmful.
+##########
+{"id": 5938, "img": "img/05938.png", "label": 1, "text": "in the muslim world all gay men are well hung"}
+----------
+hateful - The meme promotes harmful stereotypes about Muslims and gay men, perpetuating violence and intolerance.
+##########
+{"id": 43092, "img": "img/43092.png", "label": 0, "text": "pretty much sums up islam"}
+----------
+hateful - The meme targets and generalizes a religious group, potentially promoting stereotypes and negative views about Islam, which can incite hatred or discrimination.
+##########
+{"id": 30148, "img": "img/30148.png", "label": 1, "text": "you mean i don't have to pick it?!?"}
+----------
+not-hateful - The text and image depict a humorous or lighthearted situation without any offensive or harmful language or imagery.
+##########
+{"id": 12045, "img": "img/12045.png", "label": 0, "text": "learn to hunt. it's a valuable skill"}
+----------
+not-hateful - The text advises learning a skill, and the image depicts hunting, which is a common outdoor activity. There’s no evidence of hate
+##########
+{"id": 92068, "img": "img/92068.png", "label": 0, "text": "still better than mexican"}
+----------
+hateful - The meme contains text that derogatorily compares a group of people to a food item, promoting negative stereotypes and prejudice.
+##########
+{"id": 73021, "img": "img/73021.png", "label": 0, "text": "when mom asks where all the jews went"}
+----------
+hateful - This meme contains a potentially anti-Semitic statement, which could be disrespectful or offensive to people of Jewish heritage. It promotes a negative
+##########
+{"id": 56241, "img": "img/56241.png", "label": 1, "text": "94% of them test positive for rh blood type which means they have monkey blood as a result they are born with a tail and other animal traits"}
+----------
+hateful - The meme dehumanizes a certain group by implying they have "monkey blood" and "animal traits," which is a form of
+##########
+{"id": 28905, "img": "img/28905.png", "label": 1, "text": "hey, i just met you and this is crazy but here's your number.. so camping, maybe?"}
+----------
+not-hateful - The text is a humorous play on the lyrics of a popular song. It doesn't contain any language or imagery that incites hate or
+##########
+{"id": 13750, "img": "img/13750.png", "label": 0, "text": "wouldn't be the last time those people used the oven this way"}
+----------
+hateful - The text alludes to the Holocaust and the atrocities committed in concentration camps, making it highly offensive and inappropriate.
+##########
+{"id": 6582, "img": "img/06582.png", "label": 1, "text": "they are terrorists anyone who doesn't agree is an idiot"}
+----------
+hateful - The meme labels an entire group of people as terrorists and disparages anyone who disagrees, promoting prejudice and hostility based on the image's
+##########
+{"id": 75142, "img": "img/75142.png", "label": 0, "text": "you should treat that the way you treat your vacuum cleaner, when it stops sucking change the bag"}
+----------
+not-hateful - This meme uses a metaphor related to maintaining a vacuum cleaner to make a humorous point, not targeting any group or individual with harmful or
+##########
+{"id": 56149, "img": "img/56149.png", "label": 0, "text": "the original scarecrow"}
+----------
+not-hateful - This meme features a traditional scarecrow in a field with harmless text, which does not target or offend any individual or group.
+##########
+{"id": 41796, "img": "img/41796.png", "label": 0, "text": "nein danke i'm very happy with my gas supplier"}
+----------
+hateful - The phrase "I'm very happy with my gas supplier" combined with "nein danke" can be interpreted as a reference to the Holocaust
+##########
+{"id": 31570, "img": "img/31570.png", "label": 1, "text": "busy, like a hive of bees, controlling what your family sees and edits all the news your hear so you'll know what to think and fear till all the truth there is, is gone that is unless you stand, en masse. \""}
+----------
+hateful - The meme implies a group is deceptively controlling information, promoting harmful stereotypes, and fostering distrust and division, which qualifies as hateful content.
+##########
+{"id": 1726, "img": "img/01726.png", "label": 1, "text": "a real man loads the dishwasher every night"}
+----------
+not-hateful - The meme promotes shared household responsibilities without any derogatory language or negative stereotyping. It humorously highlights a positive trait without targeting or
+##########
+{"id": 23785, "img": "img/23785.png", "label": 0, "text": "hansel and gretel was a scary childrens story"}
+----------
+not-hateful - The meme references a classic children's fairy tale without promoting hate or negativity toward any group or individual.
+##########
+{"id": 56473, "img": "img/56473.png", "label": 0, "text": "knows about you. your family your children everything"}
+----------
+hateful - This image targets specific individuals based on their appearance, paired with a threatening message, which can incite fear or discrimination.
+##########
+{"id": 62970, "img": "img/62970.png", "label": 0, "text": "if you want to know how they were treated illustration of man with four slaves chained together"}
+----------
+hateful - The meme depicts and trivializes the traumatic experience of slavery, using harmful imagery and insensitive context, which perpetuates racial insensitivity and
+##########
+{"id": 41035, "img": "img/41035.png", "label": 0, "text": "my new muslim girlfriend not much to look at"}
+----------
+hateful - This meme is offensive as it mocks someone's appearance and religion, which can contribute to negative stereotypes and discrimination.
+##########
+{"id": 10285, "img": "img/10285.png", "label": 1, "text": "you are what you eat meanwhile in africa"}
+----------
+hateful - The meme uses a stereotype about Africa and implies malnutrition in a derogatory manner, perpetuating harmful stereotypes which is offensive and discriminatory.
+##########
+{"id": 95604, "img": "img/95604.png", "label": 1, "text": "they want to be accepted for who they are, yet theren't able to accept themselves for who they are"}
+----------
+not-hateful - The meme critiques a perceived contradiction in seeking external acceptance without self-acceptance. Context does not imply hate speech or target a specific
+##########
+{"id": 68401, "img": "img/68401.png", "label": 0, "text": "when you date an asian boy and you trynna get his family to accept you"}
+----------
+not-hateful - The meme humorously portrays the universal challenge of gaining acceptance from a partner's family, without using any derogatory language or perpetuating
+##########
+{"id": 50984, "img": "img/50984.png", "label": 0, "text": "a cat in a pot"}
+----------
+not-hateful - The meme humorously shows a cat sitting in a pot without any offensive language or imagery, making it lighthearted and non-harm
+##########
+{"id": 17908, "img": "img/17908.png", "label": 0, "text": "making a quick 3pm snack"}
+----------
+not-hateful - The meme humorously depicts someone preparing a snack in the kitchen, which is a common and innocent activity. The text and image do
+##########
+{"id": 42631, "img": "img/42631.png", "label": 1, "text": "i believe they are like racism just shouldn't exist"}
+----------
+not-hateful - The text criticizes racism, suggesting it should not exist. It promotes the idea of eliminating racism, which aligns with values of equality
+##########
+{"id": 61349, "img": "img/61349.png", "label": 1, "text": "the proper way to pop a blackhead"}
+----------
+hateful - This meme promotes violence and makes racially charged comments based on skin color, which can be interpreted as degrading and offensive.
+##########
+{"id": 65093, "img": "img/65093.png", "label": 0, "text": "cookie kunty seen in paris"}
+----------
+not-hateful - The text "cookie kunty seen in paris" appears to be a play on words or a humorous nickname without any direct hateful or
+##########
+{"id": 86357, "img": "img/86357.png", "label": 0, "text": "apparently not erdogan"}
+----------
+not-hateful - This meme uses a fictional character and a recognizable name without promoting harm or inciting hate against any individual or group.
+##########
+{"id": 74965, "img": "img/74965.png", "label": 0, "text": "some people some other people"}
+----------
+not-hateful - The meme compares "some people" to "other people" humorously using animal imagery without promoting hate, discrimination, or any form
+##########
+{"id": 75918, "img": "img/75918.png", "label": 0, "text": "a picture of my great great great grand grandfather's tractors they don't make them like they used to"}
+----------
+not-hateful - The meme nostalgically reflects on old tractors and how things were made in the past, without any negative or harmful content directed at any
+##########
+{"id": 14975, "img": "img/14975.png", "label": 0, "text": "hitting is a crime. it's about time people understood that"}
+----------
+not-hateful - The text promotes awareness about the illegality of hitting, encouraging people to understand that it is a crime, which is a positive and
+##########
+{"id": 92317, "img": "img/92317.png", "label": 0, "text": "you either die a hero, or live long enough to become the villain"}
+----------
+not-hateful - The text and imagery convey a general philosophical statement and a celebratory scene, with no elements promoting hate or harm toward any group.
+##########
+{"id": 19536, "img": "img/19536.png", "label": 1, "text": "when your jewish friend smells a stash of coins in public"}
+----------
+hateful - The meme perpetuates offensive stereotypes about Jewish people being overly interested in money, which is harmful and discriminatory.
+##########
+{"id": 90236, "img": "img/90236.png", "label": 0, "text": "voila! fresh batch of baked goods !"}
+----------
+not-hateful - The meme simply depicts someone presenting baked goods in a kitchen setting, paired with a positive and neutral caption about fresh baked goods.
+##########
+{"id": 30642, "img": "img/30642.png", "label": 0, "text": "rabbi sitting in synagogue chillin and doing his thing"}
+----------
+not-hateful - The meme portrays a rabbi sitting in a synagogue with neutral, non-offensive text. It does not express hate, disrespect,
+##########
+{"id": 59206, "img": "img/59206.png", "label": 0, "text": "traveling through chimney"}
+----------
+not-hateful - The image appears to depict a festive scene involving a character known for entering homes through chimneys. The text and context do not express
+##########
+{"id": 19075, "img": "img/19075.png", "label": 0, "text": "when you smell cake"}
+----------
+not-hateful - The meme humorously references the idea of lying about not liking cake, which is a benign and common joke. It doesn't target or
+##########
+{"id": 79042, "img": "img/79042.png", "label": 0, "text": "the door to the crematorium and gas chambers are closed"}
+----------
+hateful - Using references to gas chambers and crematoria, especially related to the Holocaust, is deeply offensive and evokes historical atrocities, spreading hate and ins
+##########
+{"id": 98720, "img": "img/98720.png", "label": 0, "text": "when your wife just died giving birth to your daughter and you're alone in the room with your naked just born daughter"}
+----------
+hateful - This meme trivializes and makes light of a tragic and sensitive situation involving death and newborns, which can be deeply offensive and hurtful
+##########
+{"id": 2634, "img": "img/02634.png", "label": 1, "text": "and just like that... this sandwich maker doubles as an ironing board"}
+----------
+hateful - The meme perpetuates sexist stereotypes by referring to a woman as a "sandwich maker" and implying her primary role is domestic work
+##########
+{"id": 84107, "img": "img/84107.png", "label": 0, "text": "i ordered a dishwasher and they sent me a sandwich maker"}
+----------
+hateful - The meme uses sexist language by referring to a woman as a "sandwich maker," implying traditional gender roles and diminishing her worth to domestic
+##########
+{"id": 7198, "img": "img/07198.png", "label": 1, "text": "islam is a religion of peace stop criticizing my religion"}
+----------
+hateful - The meme associates Islam with an array of weapons, suggesting violence, which promotes negative stereotypes and can incite hatred against the religion.
+##########
+{"id": 45702, "img": "img/45702.png", "label": 1, "text": "if she's still making noises, you didn't hit her hard enough"}
+----------
+hateful - Promotes violence against women and perpetuates harmful stereotypes about gender-based violence.
+##########
+{"id": 46085, "img": "img/46085.png", "label": 0, "text": "city workers repair statue cover it up with black sheet"}
+----------
+not-hateful - The image shows city workers covering a statue. The text and image content do not imply or convey hate towards any group or individual.
+##########
+{"id": 8451, "img": "img/08451.png", "label": 0, "text": "when you ask a jewish girl for her number and she starts rolling her sleeve"}
+----------
+hateful - The meme references Jewish people and Holocaust imagery in a derogatory and offensive manner, perpetuating harmful stereotypes and trivializing historical trauma. This
+##########
+{"id": 73482, "img": "img/73482.png", "label": 0, "text": "it's time we took guns away and put them out of the reach of our children"}
+----------
+not-hateful - The text advocates for gun control to protect children, focusing on safety and well-being. It does not target or demean any specific group
+##########
+{"id": 28017, "img": "img/28017.png", "label": 1, "text": "say it! say it ! islam is the religion of peace"}
+----------
+hateful - The meme uses a violent image and sarcastic text to propagate negative stereotypes about Islam, vilifying a religious group and promoting intolerance.
+##########
+{"id": 2364, "img": "img/02364.png", "label": 0, "text": "a jewish shop owner, wears a kippah or yarmulke whilst in his shop in tehran"}
+----------
+not-hateful - The text appears to describe a Jewish shop owner wearing traditional attire, without any derogatory language or negative intent.
+##########
+{"id": 42538, "img": "img/42538.png", "label": 0, "text": "and at that moment everything else in the world just melted away"}
+----------
+not-hateful - The text in the meme expresses a romantic and positive sentiment without any derogatory or offensive language.
+##########
+{"id": 47183, "img": "img/47183.png", "label": 0, "text": "taking the liberals to a whole new level"}
+----------
+not-hateful - The meme appears to be political commentary or satire targeting a political group without using derogatory or offensive language.
+##########
+{"id": 72904, "img": "img/72904.png", "label": 1, "text": "terrorist trojan horse enemy of the state"}
+----------
+hateful - The text uses derogatory and inflammatory terms, which can incite hatred towards an individual, labeling them as a "terrorist" and
+##########
+{"id": 90243, "img": "img/90243.png", "label": 1, "text": "best gamer ever 6 million kills, 1 death"}
+----------
+hateful - The meme glorifies a notorious historical figure and makes light of mass killings, which is offensive and disrespectful to the victims and their families
+##########
+{"id": 41382, "img": "img/41382.png", "label": 0, "text": "they want to be accepted for who they are, yet theren't able to accept themselves for who they are"}
+----------
+not-hateful - The meme comments on the inconsistency in seeking acceptance without self-acceptance, without targeting or attacking any specific individual or group.
+##########
+{"id": 78156, "img": "img/78156.png", "label": 0, "text": "you mean i don't have to pick it?!?"}
+----------
+not-hateful - The meme appears to be humorous, possibly addressing a relatable scenario regarding appearance and personal grooming without targeting or disparaging any specific individual or
+##########
+{"id": 74250, "img": "img/74250.png", "label": 0, "text": "white kids kids dreaming about their first day of school"}
+----------
+not-hateful - The meme does not contain harmful or abusive language; it references children's excitement about school without making derogatory statements or inciting negative sentiments
+##########
+{"id": 97132, "img": "img/97132.png", "label": 0, "text": "in the muslim world all gay men are well hung"}
+----------
+hateful - The text perpetuates harmful stereotypes and false generalizations about a particular religious group and sexual orientation, promoting intolerance and discrimination.
+##########
+{"id": 35840, "img": "img/35840.png", "label": 1, "text": "i ordered a dishwasher and they sent me a sandwich maker"}
+----------
+hateful - The meme perpetuates gender stereotypes by comparing a woman to a dishwasher and a sandwich maker, which can be offensive and demeaning.
+##########
+{"id": 78134, "img": "img/78134.png", "label": 0, "text": "in other countries in pakistan"}
+----------
+not-hateful - The meme appears to contrast social or cultural contexts in a humorous or casual manner without showing signs of hostility or derogation towards any group
+##########
+{"id": 93620, "img": "img/93620.png", "label": 1, "text": "in other countries in pakistan"}
+----------
+hateful - This meme uses a contrast to perpetuate stereotypes and mock a specific country, which can be offensive and discriminatory towards people from that region.
+##########
+{"id": 57369, "img": "img/57369.png", "label": 0, "text": "lose 15 lbs with this 1 simple trick photoshop"}
+----------
+not-hateful - The meme uses humor to suggest the use of Photoshop for weight loss, without targeting or demeaning any specific individual or group.
+##########
+{"id": 10362, "img": "img/10362.png", "label": 1, "text": "german british danish austrian diversity. apparently we don't have it and these guys do: iraqi pakistani syrian egyptian"}
+----------
+hateful - The meme promotes divisive stereotypes by contrasting European nationalities with Middle Eastern ones, implying that the latter lacks diversity. This can incite
+##########
+{"id": 36058, "img": "img/36058.png", "label": 0, "text": "love is love"}
+----------
+not-hateful - Promotes a positive message about love and acceptance irrespective of gender, without any derogatory or harmful language or imagery.
+##########
+{"id": 9467, "img": "img/09467.png", "label": 1, "text": "when mom asks where all the jews went"}
+----------
+hateful - This meme makes a reference to the Holocaust, a tragic historical event, and uses it in a casual and insensitive manner, which is offensive
+##########
+{"id": 60183, "img": "img/60183.png", "label": 1, "text": "nein danke i'm very happy with my gas supplier"}
+----------
+hateful - The text and historical context suggest a reference to Nazi Germany and the Holocaust, which is deeply offensive and hateful, trivializing mass atrocities.
+##########
+{"id": 47263, "img": "img/47263.png", "label": 1, "text": "pre-heat to 350 degrees"}
+----------
+hateful - The meme contains reference to a historical atrocity, depicted through the image and the text, making it highly disrespectful and offensive.
+##########
+{"id": 18726, "img": "img/18726.png", "label": 0, "text": "when your bed is short and your feed stick out"}
+----------
+not-hateful - The meme humorously depicts someone with their feet sticking out from a short bed. It does not target or demean any group or individual
+##########
+{"id": 50379, "img": "img/50379.png", "label": 0, "text": "do you know how to turn your dishwasher into a snowblower? throw em a shovel"}
+----------
+not-hateful - The meme is a humorous play on words about giving a person a shovel to clear snow, not exhibiting harmful or offensive intent towards any
+##########
+{"id": 6352, "img": "img/06352.png", "label": 0, "text": "and then i asked mom, can we go play?"}
+----------
+not-hateful - The text is innocent and playful, and the image of a child riding a bike suggests a wholesome, non-offensive context.
+##########
+{"id": 58093, "img": "img/58093.png", "label": 0, "text": "i treat them like java treats its generic parameters at run time as objects"}
+----------
+not-hateful - This meme uses programming humor by comparing people to Java generic parameters, which are treated as objects at runtime. It lacks any hateful language
+##########
+{"id": 19508, "img": "img/19508.png", "label": 1, "text": "the definition of utter disgust in plain black and white"}
+----------
+hateful - The meme implies a negative judgment about an interracial relationship by using the term "utter disgust," promoting prejudice and discrimination based on race.
+##########
+{"id": 2783, "img": "img/02783.png", "label": 1, "text": "a picture of my great great great grand grandfather's tractors they don't make them like they used to"}
+----------
+hateful - The meme depicts a racist comparison by showing enslaved individuals as tractors, implying dehumanization, which is offensive and promotes racial insensitivity
+##########
+{"id": 41728, "img": "img/41728.png", "label": 0, "text": "i believe they are like racism. just shouldn't exist"}
+----------
+hateful - The meme equates a group or ideology with racism and suggests they should not exist, promoting intolerance and potentially inciting hatred towards that group
+##########
+{"id": 51306, "img": "img/51306.png", "label": 0, "text": "eat some cookies you're not yourself when you're hungry"}
+----------
+hateful - The meme references a historical figure commonly associated with hateful ideologies, which can be offensive and inappropriate.
+##########
+{"id": 50241, "img": "img/50241.png", "label": 1, "text": "bitches be like no weave, no makeup, no lashes, no eyebrows"}
+----------
+hateful - This meme uses derogatory language and an unflattering image to mock individuals' appearances, which can be considered disrespectful and demeaning
+##########
+{"id": 49650, "img": "img/49650.png", "label": 1, "text": "and then i asked mom, what's for dinner?"}
+----------
+not-hateful - The meme depicts a child on a bike with a humorous, harmless text about asking what's for dinner, containing no offensive or harmful content
+##########
+{"id": 17045, "img": "img/17045.png", "label": 0, "text": "celebrating the presidential election"}
+----------
+not-hateful - The image and text depict a celebration of the presidential election, showing national pride and enthusiasm. There are no elements suggesting hate or harm
+##########
+{"id": 89536, "img": "img/89536.png", "label": 0, "text": "so many lives lost because of this man"}
+----------
+hateful - The image targets an individual associated with immense suffering, highlighting their role in the loss of many lives, which can propagate hate and harm.
+##########
+{"id": 26187, "img": "img/26187.png", "label": 1, "text": "i love my slow cooker"}
+----------
+not-hateful - The text expresses a benign preference for a slow cooker, and the image shows a kitchen setting. There is no indication of hate or
+##########
+{"id": 74906, "img": "img/74906.png", "label": 1, "text": "are you a boy or a girl i'm non binary"}
+----------
+hateful - This meme mocks non-binary individuals by presenting the identity in a dehumanizing and sarcastic manner, which can be offensive and harmful
+##########
+{"id": 28190, "img": "img/28190.png", "label": 1, "text": "when finishing a race is your passion"}
+----------
+hateful - This meme uses an image of notorious historical figures known for their evil actions, in combination with a seemingly innocent phrase, which can be seen
+##########
+{"id": 89642, "img": "img/89642.png", "label": 1, "text": "i treat them like java treats its generic parameters at run time as objects"}
+----------
+hateful - The text dehumanizes individuals by comparing them to objects, which can be interpreted as disrespectful and degrading.
+##########
+{"id": 59170, "img": "img/59170.png", "label": 0, "text": "and just like that... this sandwich maker doubles as an ironing board"}
+----------
+not-hateful - This meme humorously compares a cooking surface to an ironing board without targeting any individual or group, thus it doesn't promote hate or discrimination
+##########
+{"id": 30927, "img": "img/30927.png", "label": 0, "text": "doesnt let anything stop her have a great day"}
+----------
+not-hateful - This meme conveys a positive message about perseverance and determination, encouraging the audience to have a great day. It does not promote hatred or
+##########
+{"id": 32049, "img": "img/32049.png", "label": 0, "text": "german british danish austrian diversity. apparently we don't have it and these guys do: iraqi, pakistani, syrian, egyptian"}
+----------
+hateful - The meme implies that certain ethnic groups do not contribute to diversity, which promotes harmful stereotypes and discriminatory views.
+##########
+{"id": 95173, "img": "img/95173.png", "label": 0, "text": "take the third reich and then the first left?"}
+----------
+hateful - The meme references the "Third Reich," associated with Nazi Germany, in a context that can trivialize or make light of historical atrocities,
+##########
+{"id": 50198, "img": "img/50198.png", "label": 0, "text": "you don't need cocaine to be happy"}
+----------
+not-hateful - This meme conveys a positive message about finding happiness without the need for drugs, specifically cocaine. It promotes a healthy and drug-free lifestyle
+##########
+{"id": 37658, "img": "img/37658.png", "label": 1, "text": "when your dishwasher is broken so you take it back to walmart to get a new one"}
+----------
+not-hateful - The meme is a humorous depiction of returning a human dishwasher, indicating a playful scenario without any offensive or harmful intent.
+##########
+{"id": 95613, "img": "img/95613.png", "label": 1, "text": "what a weird way to spell fat and single"}
+----------
+hateful - This meme derogatorily targets individuals who identify as feminists by associating feminism with negative stereotypes about being "fat" and "single
+##########
+{"id": 43805, "img": "img/43805.png", "label": 1, "text": "the original scarecrow"}
+----------
+hateful - This meme is disrespectful and offensive to religious beliefs, comparing a crucified man to a scarecrow, thus mocking a significant religious symbol
+##########
+{"id": 18306, "img": "img/18306.png", "label": 1, "text": "white kids kids dreaming about their first day of school"}
+----------
+hateful - The meme associates violence with a specific race, promoting harmful stereotypes and contributing to racial discrimination.
+##########
+{"id": 46518, "img": "img/46518.png", "label": 1, "text": "it's the goat humper, looks like a bunch of pigs just walked over your grave"}
+----------
+hateful - The text contains derogatory and offensive language targeting religious practices and includes dehumanizing language, promoting hate and prejudice against a specific group.
+
+##########
+{"id": 18547, "img": "img/18547.png", "label": 1, "text": "1st day of 4th grade sandy hook elementary school"}
+----------
+hateful - It references Sandy Hook Elementary, the site of a tragic school shooting, which is highly insensitive and disrespectful, especially paired with an image
+##########
+{"id": 2518, "img": "img/02518.png", "label": 0, "text": "when the dog bites you and you bite back to assert dominance"}
+----------
+not-hateful - The meme is using humorous exaggeration about dog training and does not target any individual or group with harm, discrimination, or offensive language
+##########
+{"id": 4621, "img": "img/04621.png", "label": 0, "text": "you are what you eat meanwhile in africa"}
+----------
+hateful - The meme perpetuates harmful stereotypes about Africa, mocking its people and implying negative connotations related to food scarcity, which is insensitive and
+##########
+{"id": 98543, "img": "img/98543.png", "label": 1, "text": "upper downer"}
+----------
+hateful - This meme uses an offensive comparison between drug paraphernalia and a person, potentially mocking their appearance and associating them with negative stereotypes.
+##########
+{"id": 85621, "img": "img/85621.png", "label": 0, "text": "no, that's not his daughter... that's his wife! yet the world is silent.."}
+----------
+not-hateful - The meme comments on a relationship with a significant age difference without targeting or degrading the individuals involved, thus it lacks elements of hate speech
+##########
+{"id": 18367, "img": "img/18367.png", "label": 0, "text": "i love my slow cooker"}
+----------
+not-hateful - The image and text express a positive sentiment towards using a slow cooker, with no offensive or harmful content.
+##########
+{"id": 84036, "img": "img/84036.png", "label": 0, "text": "militant dressed as martyr"}
+----------
+hateful - This meme can be considered hateful because it associates a religious or cultural concept ("martyr") with violence (depicted by the militant attire
+##########
+{"id": 86417, "img": "img/86417.png", "label": 1, "text": "i could have killed all of them. but i let some of them survive so you know why i killed them"}
+----------
+hateful - This meme promotes violence and contains threatening language about killing people, which is considered hate speech.
+##########
+{"id": 92567, "img": "img/92567.png", "label": 0, "text": "pray for peace pray for wellbeing"}
+----------
+not-hateful - The image and text promote peace and wellbeing through prayer, conveying a positive and supportive message without any indication of hate or negativity.
+##########
+{"id": 63921, "img": "img/63921.png", "label": 0, "text": "taking a photo with family"}
+----------
+not-hateful - The image and text depict a common activity of taking a family photo, showing no signs of harmful or offensive content.
+##########
+{"id": 72864, "img": "img/72864.png", "label": 1, "text": "traveling through chimney"}
+----------
+hateful - The meme combines an image of traditionally dressed individuals with the phrase "traveling through chimney," potentially mocking or stereotyping a cultural and religious
+##########
+{"id": 30586, "img": "img/30586.png", "label": 0, "text": "just can't get rid of the stain. this is why i hate beets"}
+----------
+not-hateful - The meme humorously expresses frustration about beet stains, without any derogatory or offensive language towards individuals or groups. It focuses solely on
+##########
+{"id": 83264, "img": "img/83264.png", "label": 1, "text": "randomly deciding to bake something"}
+----------
+not-hateful - The meme humorously depicts an impulsive decision to bake, with no indication of offensive, harmful, or hateful content.
+##########
+{"id": 93041, "img": "img/93041.png", "label": 0, "text": "\"who's gonna make the sandwiches? what do we do with all these sandwiches?\""}
+----------
+not-hateful - The meme humorously comments on an abundance of sandwiches without targeting or offending any individual or group, thus it is not considered hateful.
+##########
+{"id": 97305, "img": "img/97305.png", "label": 1, "text": "when your wife just died giving birth to your daughter and you're alone in the room with your naked just born daughter"}
+----------
+hateful - The meme makes light of a tragic and sensitive situation involving death and a newborn, which can be deeply offensive and inappropriate.
+##########
+{"id": 3568, "img": "img/03568.png", "label": 0, "text": "time to play rich vs the constitution"}
+----------
+not-hateful - The meme references a perceived conflict between wealth and constitutional principles without explicitly expressing hate or inciting harm towards any individual or group.
+##########
+{"id": 7653, "img": "img/07653.png", "label": 1, "text": "in the last days there will be god hating scoffers, ridiculers, deniers and mockers following after their own lusts"}
+----------
+not-hateful - The text appears to reference beliefs about people rejecting God, and while judgmental, does not specifically incite hatred or violence towards any
+##########
+{"id": 26397, "img": "img/26397.png", "label": 0, "text": "there are still parts of the world where people celebrate capital punishment"}
+----------
+hateful - The image and text combination mocks and makes light of capital punishment, which can be deeply offensive and insensitive to people affected by such practices.
+##########
+{"id": 3217, "img": "img/03217.png", "label": 0, "text": "they are like sperm you get millions, but only one works"}
+----------
+not-hateful - The meme uses a humorous analogy to describe the nature of ideas, comparing them to sperm, where many exist but only one typically succeeds
+##########
+{"id": 40618, "img": "img/40618.png", "label": 0, "text": "when your company valuation hits 1 billion"}
+----------
+not-hateful - The meme expresses excitement about a company reaching a $1 billion valuation, which is a significant milestone. It does not contain any hateful
+##########
+{"id": 67208, "img": "img/67208.png", "label": 0, "text": "does nike also sell stones in case they take it off?"}
+----------
+not-hateful - The text appears to be a humorous or sarcastic remark about Nike products, without any direct attack or promotion of hate towards any individual
+##########
+{"id": 3798, "img": "img/03798.png", "label": 0, "text": "hey, i just met you and this is crazy but here's your number... so camping, maybe?"}
+----------
+not-hateful - The meme humorously references a popular song with a twist inviting someone to go camping, and does not contain offensive or harmful language.
+##########
+{"id": 12468, "img": "img/12468.png", "label": 0, "text": "say it! say it ! islam is the religion of peace"}
+----------
+hateful - The text in the meme appears to mock or criticize a particular religion, which can be considered as promoting intolerance or disrespect towards that religion.
+##########
+{"id": 16842, "img": "img/16842.png", "label": 0, "text": "every kitchen needs a sandwich maker just like this one"}
+----------
+not-hateful - The text refers to a kitchen appliance, and the image shows a sandwich press, conveying a straightforward message without targeting or degrading any individual
+##########
+{"id": 68043, "img": "img/68043.png", "label": 1, "text": "plays uno steals all the green cards"}
+----------
+hateful - The meme associates racial or nationality characteristics with negative behavior, perpetuating offensive stereotypes and promoting discrimination, making it inappropriate and harmful.
+##########
+{"id": 51807, "img": "img/51807.png", "label": 0, "text": "are you a boy or a girl i'm non binary"}
+----------
+not-hateful - This meme addresses a common question about gender identity and expresses a non-binary identity without any derogatory language or intent.
+##########
+{"id": 78914, "img": "img/78914.png", "label": 0, "text": "terrorist trojan horse enemy of the state"}
+----------
+hateful - The image uses terms like "terrorist," "trojan horse," and "enemy of the state," which are inflammatory and could inc
+##########
+{"id": 47950, "img": "img/47950.png", "label": 0, "text": "democrats ilhan omar alexandria ocasio-cortez ayanna pressley rashida tlais we're new, bold, and we hate you! we hate whites, jews, christians, conservatives, republicans,"}
+----------
+hateful - The text accuses specific individuals and a political group of hatred towards various races, religions, and political affiliations, promoting divisiveness and hostility
+##########
+{"id": 95487, "img": "img/95487.png", "label": 0, "text": "watching vegetables grow"}
+----------
+not-hateful - The image and text depict a peaceful activity of watching vegetables grow in a garden, which does not promote hate or harm.
+##########
+{"id": 49260, "img": "img/49260.png", "label": 0, "text": "it's the goat humper looks like a bunch of pigs just walked over your grave"}
+----------
+hateful - The text contains demeaning and offensive language, including “goat humper” and “pigs,” which are derogatory and can
+##########
+{"id": 20861, "img": "img/20861.png", "label": 1, "text": "pretty much sums up islam"}
+----------
+hateful - The meme promotes a negative stereotype by implying that Islam is synonymous with violence, which is harmful and fosters hate towards a religious group.
+##########
+{"id": 38914, "img": "img/38914.png", "label": 0, "text": "cotton candy is what makes the theme park wonderful"}
+----------
+not-hateful - The text and imagery are benign and positively express enjoyment of cotton candy at a theme park, without targeting or harming any individual or group
+##########
+{"id": 47016, "img": "img/47016.png", "label": 1, "text": "last summer camp was so \"lit\""}
+----------
+hateful - This meme is hateful as it makes an insensitive and disrespectful joke about a serious historical event, trivializing the suffering experienced during that time
+##########
+{"id": 14389, "img": "img/14389.png", "label": 1, "text": "democrats we're new, bold, and we hate you! alexandria ocasio-cortez rashida tlais ilhan omar ayanna pressley we hate whites, jews, christians, conservatives, republicans"}
+----------
+hateful - The meme promotes negative stereotypes and animosity toward specific groups based on race, religion, and political affiliation, which can incite hatred and
+##########
+{"id": 35487, "img": "img/35487.png", "label": 0, "text": "randomly deciding to bake something"}
+----------
+not-hateful - The meme discusses spontaneously deciding to bake, paired with a humorous, non-offensive image. There is no content suggesting hatred, discrimination
+##########
+{"id": 84150, "img": "img/84150.png", "label": 0, "text": "when your jewish friend smells a stash of coins in public"}
+----------
+hateful - This meme perpetuates harmful stereotypes about Jewish people, suggesting they have an obsession with money, which is offensive and discriminatory.
+##########
+{"id": 13809, "img": "img/13809.png", "label": 1, "text": "doing o's with the smoke"}
+----------
+hateful - The meme references smoke and the setting appears to be a concentration camp, which is offensive and disrespectful, making it hateful content.
+##########
+{"id": 50261, "img": "img/50261.png", "label": 1, "text": "haters will say it's photoshop"}
+----------
+not-hateful - This meme uses the phrase "haters will say it's photoshop" humorously, likely to indicate something impressive. It does not contain
+##########
+{"id": 75286, "img": "img/75286.png", "label": 1, "text": "look at this sandwich maker club i found on wish on clearance"}
+----------
+hateful - This meme perpetuates a gender stereotype by referring to a person (potentially a woman) as a "sandwich maker," thereby
+##########
+{"id": 64312, "img": "img/64312.png", "label": 1, "text": "no, that's not his daughter.. that's his wife! yet the world is silent.."}
+----------
+not-hateful - The meme comments on the age difference in marriages but does not contain any explicit hate speech, discrimination, or derogatory language toward any
+##########
+{"id": 67103, "img": "img/67103.png", "label": 1, "text": "still better than mexican"}
+----------
+hateful - The text in the meme expresses a derogatory sentiment towards Mexicans, which promotes negative stereotypes and discrimination, making it a form of hate
+##########
+{"id": 18059, "img": "img/18059.png", "label": 1, "text": "they are like sperm you get millions, but only one works"}
+----------
+hateful - The meme dehumanizes and compares people to sperm, implying a negative, insensitive, and disrespectful characterization.
+##########
+{"id": 90643, "img": "img/90643.png", "label": 0, "text": "she represents the new wave of democrats"}
+----------
+not-hateful - The text and imagery are focused on political expression, indicating a positive representation of a political figure without derogatory, discriminatory, or inflammatory
+##########
+{"id": 16749, "img": "img/16749.png", "label": 0, "text": "broken dishwasher"}
+----------
+not-hateful - The meme depicts discarded appliances with the text "broken dishwasher," which doesn't target or demean any individual or group. It is a non
+##########
+{"id": 37814, "img": "img/37814.png", "label": 0, "text": "this is el paso shooter's father every. single. time"}
+----------
+hateful - The meme targets the father of a shooter, associating him with a clown, which can be seen as mocking and dehumanizing,
+##########
+{"id": 92046, "img": "img/92046.png", "label": 0, "text": "they are terrorists anyone who doesn't agree is an idiot"}
+----------
+hateful - The meme uses hostile language to generalize a group of people as terrorists and insults those who disagree, which promotes intolerance and incites hate
+##########
+{"id": 90843, "img": "img/90843.png", "label": 0, "text": "time to put the \"panic\" back in hispanic"}
+----------
+hateful - This meme contains a phrase that plays on a racial stereotype, suggesting a harmful and derogatory sentiment towards Hispanic people.
+##########
+{"id": 85237, "img": "img/85237.png", "label": 0, "text": "these are all the weapons that were seized from isis"}
+----------
+not-hateful - The meme simply shows a collection of weapons with a factual statement about them being seized from ISIS, without promoting or endorsing any form
+##########
+{"id": 98235, "img": "img/98235.png", "label": 0, "text": "fashion forward !"}
+----------
+not-hateful - The meme celebrates a person's fashion sense in a positive manner without any derogatory or harmful intent.
+##########
+{"id": 90267, "img": "img/90267.png", "label": 0, "text": "i've been driving this baby for years the mileage isn't great but still gets the job done"}
+----------
+not-hateful - The meme uses a lighthearted and humorous tone about a vehicle's usage, with no derogatory or offensive language or imagery.
+##########
+{"id": 48296, "img": "img/48296.png", "label": 1, "text": "when you date an asian boy and you trynna get his family to accept you"}
+----------
+not-hateful - The meme depicts a humorous situation about seeking familial acceptance in a cross-cultural relationship without any offensive or derogatory language.
+##########
+{"id": 29174, "img": "img/29174.png", "label": 0, "text": "the crimes against humanity should not be swiftly forgotten"}
+----------
+hateful - The image references historical atrocities and could invoke trauma or distress, perpetuating hate towards groups associated with these events.
+##########
+{"id": 65801, "img": "img/65801.png", "label": 0, "text": "first friday prayers of the islamic holy day"}
+----------
+not-hateful - The image and text merely depict a factual statement about Friday prayers in Islam and do not convey any derogatory or harmful sentiment.
+##########
+{"id": 91763, "img": "img/91763.png", "label": 1, "text": "imagine being so disgusting there have to be laws to try to stop normal people from hating you"}
+----------
+hateful - The text in the meme uses derogatory language and implies enmity toward a group, which promotes hatred and negativity, making it harmful
+##########
+{"id": 94387, "img": "img/94387.png", "label": 0, "text": "i'm a fan of the color black on you although the rose gold looks pretty good as well"}
+----------
+not-hateful - The text in the image is a compliment about the colors someone is wearing and does not contain any offensive or derogatory language.
+##########
+{"id": 80947, "img": "img/80947.png", "label": 1, "text": "my new muslim girlfriend not much to look at"}
+----------
+hateful - The meme targets a specific religious group with a derogatory statement, promoting negative stereotypes and perpetuating harmful biases, which makes it hateful.
+##########
+{"id": 78251, "img": "img/78251.png", "label": 1, "text": "watching vegetables grow"}
+----------
+not-hateful - The meme simply depicts a humorous and harmless activity of watching vegetables grow and does not contain any offensive or harmful content.
+##########
+{"id": 94738, "img": "img/94738.png", "label": 0, "text": "shopping is boring. why not have some fun at the walmart parking lot?"}
+----------
+not-hateful - The meme suggests finding entertainment in a mundane activity without promoting violence, discrimination, or harm towards any individual or group, making it not
+##########
+{"id": 57823, "img": "img/57823.png", "label": 0, "text": "bitches be like no weave, no makeup, no lashes, no eyebrows & no filter. all natural"}
+----------
+hateful - The meme uses derogatory language ("bitches") and mockingly lists natural features in a way that could be offensive and disrespectful towards
+##########
+{"id": 32415, "img": "img/32415.png", "label": 0, "text": "when finishing a race is your passion"}
+----------
+not-hateful - The meme humorously depicts the joy of completing a race, fostering positive encouragement and celebration of personal achievement without targeting or demeaning any
+##########
+{"id": 5316, "img": "img/05316.png", "label": 0, "text": "doing o's with the smoke"}
+----------
+not-hateful - The image and text portray an individual performing smoke ring tricks. There are no elements of hate speech or offensive content present.
+##########
+{"id": 61085, "img": "img/61085.png", "label": 0, "text": "upper downer"}
+----------
+not-hateful - The meme uses common terms "upper" and "downer" to humorously contrast stimulants and depressants without promoting harm or
+##########
+{"id": 27498, "img": "img/27498.png", "label": 1, "text": "who's gonna make the sandwiches? what do we do with all these sandwiches?"}
+----------
+hateful - The meme perpetuates sexist stereotypes by implying that women are responsible for making sandwiches and minimizes a same-sex wedding with a derogatory comment
+##########
+{"id": 37160, "img": "img/37160.png", "label": 0, "text": "best gamer ever 6 million kills, 1 death\""}
+----------
+hateful - The reference to "6 million kills" is a likely allusion to the Holocaust, which is deeply offensive and inappropriate. This makes the
+##########
+{"id": 18742, "img": "img/18742.png", "label": 0, "text": "i'm proud of it! come at me!"}
+----------
+not-hateful - The meme expresses pride in being a feminist, which is a social and political stance. It does not promote hate or violence towards any
+##########
+{"id": 19243, "img": "img/19243.png", "label": 0, "text": "surprise!! wait, where is everyone?"}
+----------
+not-hateful - The meme depicts a harmless joke about someone being surprised when no one is around, which doesn't promote hate or discrimination.
+##########
+{"id": 54108, "img": "img/54108.png", "label": 1, "text": "does nike also sell stones in case they take it off?"}
+----------
+hateful - The meme makes a derogatory remark targeting an individual's choice of clothing, mocking religious or cultural attire, which can perpetuate stereotypes and discrimination
+##########
+{"id": 93528, "img": "img/93528.png", "label": 1, "text": "portable dishwasher slash sandwich maker"}
+----------
+hateful - The meme is demeaning and has sexist implications by referring to a person using domestic appliances, which perpetuates harmful gender stereotypes.
+##########
+{"id": 78659, "img": "img/78659.png", "label": 0, "text": "what a weird way to spell fat and single"}
+----------
+hateful - This meme mocks and shames individuals who consume fast food by equating eating it with being "fat and single," which is discriminatory and
+##########
+{"id": 67082, "img": "img/67082.png", "label": 0, "text": "\"1st day of 4th grade sandy hook elementary school\""}
+----------
+hateful - The meme references Sandy Hook Elementary School, the site of a tragic school shooting, and trivializes the traumatic event by depicting it in a
+##########
+{"id": 64125, "img": "img/64125.png", "label": 0, "text": "ooof. that's gotta hurt"}
+----------
+not-hateful - This meme appears to depict a common sports scenario with a lighthearted caption. It does not contain language or imagery that is offensive or
+##########
+{"id": 41296, "img": "img/41296.png", "label": 0, "text": "94% of them test positive for rh blood type which means they have monkey blood as a result they are born with a tail and other animal traits"}
+----------
+hateful - The meme dehumanizes a group of people by comparing them to monkeys and attributing animal traits to them, which is derogatory and
+##########
+{"id": 53491, "img": "img/53491.png", "label": 0, "text": "and in 3 days he came back to life bringing salvation"}
+----------
+not-hateful - The image and text reference a key event in Christian belief, which is not inherently hateful or intended to harm or demean any group.
+##########
+{"id": 37692, "img": "img/37692.png", "label": 0, "text": "\"islam is a religion of peace stop criticizing my religion\""}
+----------
+hateful - The meme mocks and negatively stereotypes a religious group, potentially inciting discrimination and intolerance.
+##########
+{"id": 36201, "img": "img/36201.png", "label": 0, "text": "look at me bling up my prosthetic"}
+----------
+not-hateful - The meme highlights an individual's positive attitude toward personalizing a prosthetic, promoting empowerment and self-expression without any hateful or derogatory content
+##########
+{"id": 29054, "img": "img/29054.png", "label": 1, "text": "broken dishwasher"}
+----------
+hateful - It mocks and dehumanizes someone with a disability by referring to them as a "broken dishwasher," which is offensive and disrespectful.
+##########
+{"id": 6273, "img": "img/06273.png", "label": 1, "text": "the jihad squad"}
+----------
+hateful - The term "jihad" has connotations of terrorism and extremism. Associating it with a group of individuals unfairly targets them
+##########
+{"id": 25061, "img": "img/25061.png", "label": 1, "text": "this is el paso shooter's father. every. single. time"}
+----------
+hateful - This meme targets an individual and associates them with a mass shooting incident, conveying intolerance and potential defamation, which can incite further negativity
+##########
+{"id": 20437, "img": "img/20437.png", "label": 0, "text": "thanksgiving in china"}
+----------
+not-hateful - The image shows a typical Thanksgiving meal setup with the phrase "thanksgiving in china," which doesn't convey hate speech or target a specific
+##########
+{"id": 5439, "img": "img/05439.png", "label": 0, "text": "portable dishwasher slash sandwich maker"}
+----------
+hateful - The meme uses the terms "dishwasher" and "sandwich maker" alongside an image of hands, which can perpetuate harmful stereotypes
+##########
+{"id": 34528, "img": "img/34528.png", "label": 1, "text": "every kitchen needs a sandwich maker just like this one"}
+----------
+hateful - This meme perpetuates gender stereotypes by implying that women belong in the kitchen and are responsible for making sandwiches, which is degrading and offensive
+##########
+{"id": 93541, "img": "img/93541.png", "label": 0, "text": "the jihad squad"}
+----------
+hateful - The term "jihad squad" can perpetuate negative stereotypes and incite hostility towards specific groups based on religion, which is harmful and
+##########
+{"id": 16704, "img": "img/16704.png", "label": 0, "text": "last summer camp was so \"lit\""}
+----------
+not-hateful - The meme humorously describes a summer camp as "lit," indicating it was fun or exciting, without any harmful or derogatory language
+##########
+{"id": 48792, "img": "img/48792.png", "label": 0, "text": "leaving a trail of death and destruction"}
+----------
+hateful - The image and text combination promotes violence and references harmful historical events, leading to a hateful classification.
+##########
+{"id": 7528, "img": "img/07528.png", "label": 1, "text": "the latest and greatest. a truck that comes with a dishwasher!"}
+----------
+not-hateful - The meme humorously depicts a truck with a dishwasher, likely implying a person in the driver's seat, which is not inherently offensive or
+##########
+{"id": 1268, "img": "img/01268.png", "label": 0, "text": "father and daughter bonding time is the best like and share if you agree"}
+----------
+not-hateful - The meme promotes a positive message about father-daughter bonding and encourages others to share if they agree. There is no harmful or offensive
+##########
+{"id": 83675, "img": "img/83675.png", "label": 0, "text": "i'm gonna be like phelps one day"}
+----------
+not-hateful - The meme expresses a positive aspiration to emulate a successful swimmer, promoting motivation and ambition without any derogatory or harmful content.
+##########
+{"id": 37198, "img": "img/37198.png", "label": 0, "text": "when you're so relaxed you can feel yourself go to the next level"}
+----------
+not-hateful - The meme describes a feeling of deep relaxation in a humorous way without targeting or offending any person or group.
+##########
+{"id": 48670, "img": "img/48670.png", "label": 0, "text": "look at this sandwich maker club i found on wish on clearance"}
+----------
+not-hateful - The image humorously references a sandwich maker, without targeting or demeaning any individual or group.
+##########
+{"id": 9863, "img": "img/09863.png", "label": 0, "text": "diverse group of women"}
+----------
+not-hateful - The image and text celebrate diversity among women, promoting inclusivity and unity without any offensive or discriminatory content.
+##########
+{"id": 97320, "img": "img/97320.png", "label": 0, "text": "\"when your dishwasher is broken so you take it back to walmart to get a new one\""}
+----------
+not-hateful - This meme humorously depicts the act of returning a dishwasher to Walmart, without targeting or offending any individual or group.
+##########

@@ -1,0 +1,2500 @@
+{"img": "images/meme_215.png", "text": "Tag That Bengali Girl Who The Most Beautiful Girl in Your Friend List ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme positively highlights Bengali women by asking viewers to tag those they find beautiful, without degrading or insulting any individual or group.
+
+##########
+{"img": "images/ramdev190.png", "text": "# Patanjali has made corona's first ayurvedic medicine govt. And Indians Shabash patanjali shabash ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously portrays a response to a health claim without degrading or dehumanizing any particular individual or group based on specified attributes.
+
+##########
+{"img": "images/meme_2.png", "text": "Ladkiyo ko smar ladka nahi chaye.. unko chaye to aisa ladka chaye jo unhe saccha pyar kare or respect de..!! ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme discusses relationship preferences in a light-hearted manner without degrading or attacking any individual or group.
+
+##########
+{"img": "images/eng569.png", "text": "Maa- Baap ke shayad decisions galat ho sakte hai, par unki niyat kabhi kharab ni hoti Lmao Noob . ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme conveys a message that parents may make mistakes without ill intent, using humor without degrading or attacking any group or individual.
+
+##########
+{"img": "images/meme_187.png", "text": "Girls Before & After 21 Days Lockdown , Boys Befor & After 21 Lockdown ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts changes in appearance during lockdown for both genders without targeting or dehumanizing any group based on attributes like gender or race.
+
+##########
+{"img": "images/meme_125.png", "text": "I Tried So Hard And Got So Far! But In The End . Modi Sarkaar ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme does not target or degrade any individual or group based on attributes like gender or race. It's a humorous play on a popular song and political context.
+
+##########
+{"img": "images/meme_12.png", "text": "Saccha Pyar Karne Wale Zikr Nhi Karte Lekin Fikr Bahut Karte Hain ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme discusses thoughts about love without dehumanizing or degrading any group; thus, it aligns with social norms and is non-offensive.
+
+##########
+{"img": "images/meme_277.png", "text": "-My Girl bestie phote. With \"Make up\".!!!! Without \"Make up\" .!!!! ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme may degrade women by implying that their appearances differ significantly with and without makeup, potentially perpetuating stereotypes about beauty standards and femininity.
+
+##########
+{"img": "images/eng521.png", "text": "Arbaaz apna apna. \"Bhabhi hogi teri, aur shaadi hogi meri\" ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme does not target or insult any individual or group based on specific attributes. It plays on a humorous cultural reference within social norms.
+
+##########
+{"img": "images/eng246.png", "text": "To physics ka exam kaisa gaya?? bhai aapka bekaar hi gaya hai... sablog fail hi honge le topper nibba sabka nahi hota... laxman.... ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts a common exam scenario without dehumanizing or insulting anyone based on personal attributes, aligning with social norms of light-hearted, relatable content.
+
+##########
+{"img": "images/eng388.png", "text": "*After 15 min conversation* Me: I love you Girl: Abhi 30 min bhi nahi hua, tumne pyar kaise ho gaya? humare yaha aisa hi hota hai ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts a light-hearted exchange about love, without targeting or degrading any individual or group based on specific attributes.
+
+##########
+{"img": "images/eng356.png", "text": "Main hoon soona sa ek aasmaan mehtab tu.. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme features song lyrics without any content that dehumanizes, degrades, insults, or attacks any individual or group based on personal attributes.
+
+##########
+{"img": "images/meme_9.png", "text": "Saccha Pyar To Mera Mobile Mere Charges Se Krta Hai Dono Ek Din Bhi Mile Bina Nhi Reh Sakte ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - This meme humorously personifies love by comparing it to the relationship between a mobile phone and its charger, without targeting or degrading any specific group or individual.
+
+##########
+{"img": "images/rhea52.png", "text": "Me enjoying my friends wedding till people ask me Tumhari kab? ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously portrays a relatable social situation without dehumanizing or degrading any individual or group based on inherent attributes.
+
+##########
+{"img": "images/gay29.png", "text": "Dadaji aa gaye bottle chhupa bc ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme potentially disrespects elders by implying they have a negative reputation, which may dehumanize or degrade individuals based on age or authority roles.
+
+##########
+{"img": "images/eng208.png", "text": "When a kissing scene domes in a movie and you hat to act like you don't even know what kiss is ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - This meme humorously depicts a common reaction to kissing scenes in movies without dehumanizing or attacking any individual or group based on specific attributes.
+
+##########
+{"img": "images/eng234.png", "text": "Bhai , patang udane ka pose dete huye..... ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts someone in an imaginative pose related to kite flying, without targeting or demeaning any group based on personal attributes.
+
+##########
+{"img": "images/eng359.png", "text": "*Tamilans *Hindiass  Come on Ji....learn hindi....! *Tamills * Hindiass you learn man... why me?", "label_full": "non-off", "label": 0}
+----------
+offensive - This meme is classified as offensive because it targets specific ethnic groups, using stereotypes that can degrade or insult individuals based on linguistic and cultural differences.
+
+##########
+{"img": "images/meme_48.png", "text": "How we see Modi Now kejriwal sees Modi ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme depicts different perceptions of a political figure humorously without dehumanizing, degrading, or insulting attributes, remaining within social norms.
+
+##########
+{"img": "images/gay75.png", "text": "No one will marry you if your roti is not round! ", "label_full": "non-off", "label": 0}
+----------
+offensive - This meme reinforces gender stereotypes by implying women's worth is tied to traditional domestic abilities, like cooking, which degrades and limits individual identity and potential.
+
+##########
+{"img": "images/fille46.png", "text": "Not sure about other actors but after watching him im MSD biopice, A lot of peoples became a fan of Sushant Singh Rajput. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme praises the acting skills of an individual in a biopic movie without dehumanizing, degrading, insulting, or attacking any individual or group based on their attributes.
+
+##########
+{"img": "images/fille36.png", "text": "These people proved that age,weight, talent, colour Doesn't Matter ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme promotes the idea that personal characteristics like age, weight, talent, and skin color do not determine one's worth, suggesting an inclusive and non-judgmental approach.
+
+##########
+{"img": "images/eng182.png", "text": "Girls using whitener let me erase this boys using whitener umm...kadak hai ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme implies gender-based stereotyping, potentially degrading or insulting individuals by attributing behaviors to all girls and boys, which aligns with dehumanizing tendencies.
+
+##########
+{"img": "images/eng281.png", "text": "*Daughter Dat, what is IPL ? It is A tournament where 7 teams fights harder to play against CSK in final. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme uses humor related to sports competition, specifically the IPL, without targeting or demeaning any individual or group based on personal attributes or characteristics.
+
+##########
+{"img": "images/meme_13.png", "text": "ACHA BHALA KAMBAL ME SET THA AB TOILET JANA PADEGA ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously expresses the universal discomfort of leaving a cozy blanket for the bathroom. It doesn't target or demean any specific individual or group.
+
+##########
+{"img": "images/eng514.png", "text": "Physics viva ekam be like.. how does led hight works? rendu dura cell battery la connect panna work aagun sir.. Uff... tell me SI unit? SI na sub inspector sir, unit aa ...Avar  control in iruka unit nu ninakuran.. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - This meme humorously depicts a fictional conversation in an academic setting, using wordplay without degrading or attacking any individual or group based on personal attributes.
+
+##########
+{"img": "images/meme_82.png", "text": "On Every Christmas Santa Claus Call Rajnikant for a GIFT. Sab ko Gift Milega ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously exaggerates calling Rajnikant for gifts, without dehumanizing or insulting any group or individual based on sensitive attributes.
+
+##########
+{"img": "images/eng441.png", "text": "Woh friendship day pe whatsapp story me puri gallery upload karna zaruri hai kya ? ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously comments on people overly sharing photos on Friendship Day without attacking or degrading any specific group or individual.
+
+##########
+{"img": "images/fille5.png", "text": "So my new year plan is bass khale peele jeele kyunki zindagi hai short. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously presents individual actions related to enjoying life, without dehumanizing, degrading, or insulting any group or individual based on their attributes.
+
+##########
+{"img": "images/ramdev168.png", "text": "Coronavirus treatment: Ramdev's Patanjali launches coronil kit for rs 545 Baba Ramdev to Scientists- Kyu hilaa dala na ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme implies mockery towards a cultural product and a community's efforts, potentially degrading individuals associated with the said culture.
+
+##########
+{"img": "images/eng175.png", "text": "Jaa simran jaa, he is a responsible citizen ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously references a pop culture dialogue to highlight responsible citizenship without dehumanizing or attacking any individual or group based on personal attributes.
+
+##########
+{"img": "images/gay133.png", "text": "*Suddenly electricity goes off in school* everyone in classroom: AVAVAVAVAAVAVAV", "label_full": "non-off", "label": 0}
+----------
+non-offensive - This meme humorously depicts a common scenario in schools without dehumanizing, degrading, insulting, or attacking any individual or group based on specific attributes.
+
+##########
+{"img": "images/fille6.png", "text": "Sushant Singh Rajput dog fudge is no more !! he stopped eating too. couldn't bear the pain of the loss of his owner. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - This meme expresses sympathy and reflects on the bond between a pet and its deceased owner, without dehumanizing or insulting any group or individual.
+
+##########
+{"img": "images/meme_68.png", "text": "Australiya ke Pichhwade pe India Ka Waar.. Ab Ki Baar Modi Sarkar", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme contains language that is derogatory towards Australia implying an attack, which can be considered insulting or degrading towards a national entity.
+
+##########
+{"img": "images/meme_233.png", "text": "There are 2 types of girls Yaar main moti ho gayi na ? Yaar main moti kab hongi ? ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme stereotypes women by focusing on their weight, potentially degrading or insulting individuals based on body size, and perpetuating negative stereotypes about gender and appearance.
+
+##########
+{"img": "images/eng229.png", "text": "Thana kya hota hai ? tumhari koi gf hai? nahi.. police station ko kehte hain ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme uses a humorous punchline about confusion in terminology, with no dehumanizing or derogatory language toward any identifiable group or individual.
+
+##########
+{"img": "images/meme_358.png", "text": "Pehle Shadi Mein Dulhan Ki Tarah Sirf Dulhan Taiyar Hoti Thi Ab Photo Upload Ke Chakkar Mein Sari Jirls \" Dulhan\" Ki Tarah Taiyar Hoti Hai ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme stereotypes women as seeking attention on social media, potentially degrading their self-worth by implying superficiality based on their appearance, which can be considered demeaning.
+
+##########
+{"img": "images/rhea7.png", "text": "me after watching NEWS thers days ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts a child's expression without targeting or demeaning any individual or group, adhering to social norms.
+
+##########
+{"img": "images/fille75.png", "text": "\"I am an actor right now because of SRK. during school and college days. I used to watch his films. I have to achieve many things before i vecome even \"s\" of SRK. i still have the entire dvd set of SRK's fauji serial\" - Sushant Singh Rajput. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme praises an individual's inspiration from a famous actor, without degrading or attacking anyone based on any attributes mentioned in the offensive meme definition.
+
+##########
+{"img": "images/meme_67.png", "text": "There Bahubalis of India. Mahendra Amrendra Narendra Bahubali ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously compares individuals to fictional characters without dehumanizing, degrading, or attacking any individual or group based on sensitive attributes.
+
+##########
+{"img": "images/eng249.png", "text": "Log kehte hain ki dil ki suno.... lekin is dhak-dhak-dhak ka matlb hota kya hai, my lord. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - This meme uses humor and references a movie scene, without attacking or demeaning any individual or group based on their attributes.
+
+##########
+{"img": "images/meme_306.png", "text": "During My wedding Saali - Jeeju aapke Joote nahi mil rhe Do na Me- Joote doonga to Dogi? Me Bride Her Bro Saali ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts a playful wedding scenario involving family members with no dehumanizing or derogatory content based on any protected attributes.
+
+##########
+{"img": "images/eng582.png", "text": "Vijay Shankar made 14 runs off 19 at no. 4 Aur  kya Chahiye ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously comments on a cricket player's performance without degrading or insulting any individual or group based on attributes.
+
+##########
+{"img": "images/meme_371.png", "text": "Girl : Oh Baby Doll Mai Sone Di  Mom : Chaal Safai Kar Kone Kone Di ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously contrasts a child's playful imagination with a parent's relentless cleanliness, without targeting or degrading any specific group or individual.
+
+##########
+{"img": "images/fille4.png", "text": "How many of you know Sushant Singh Rajput got 7th rank in AIEEE and he is a physics olympiad national award winner? ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - This meme shares factual information about Sushant Singh Rajput's academic achievements without dehumanizing or degrading any individual or group, adhering to social norms.
+
+##########
+{"img": "images/rhea53.png", "text": "This Summarizes my lobe life I'm the guy in blue ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously portrays a relationship scenario, using harmless, relatable content without demeaning any individual or group based on the given attributes.
+
+##########
+{"img": "images/meme_161.png", "text": "Rosese are Rde  Violets are Blue Poetry Sucks Ab Ki Baar, Modi Sarkar ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme uses a light-hearted play on words to reference a political slogan without degrading or dehumanizing any group or individual.
+
+##########
+{"img": "images/eng408.png", "text": "Hey alexa, playa song daata lahe mela dil tuhi meli mandil bhotiwali elexta ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme uses a derogatory term which can insult or degrade individuals or cultural perspectives associated with such language, thus making it offensive.
+
+##########
+{"img": "images/eng381.png", "text": "I'm so alone in this world toh aao kabhi haweli pe ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme does not target any individual or group based on attributes like gender, race, or ethnicity, and appears to be a humorous, socially acceptable exchange.
+
+##########
+{"img": "images/meme_227.png", "text": "Restart karne pr jab phone chalu na ho : Saanse jaye atak atak ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts a common scenario without degrading or dehumanizing any individual or group, following social norms.
+
+##########
+{"img": "images/eng425.png", "text": "\"Working\" These Days ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously contrasts "real work" with leisure activities without targeting specific demographic attributes or demeaning any individual or group.
+
+##########
+{"img": "images/meme_159.png", "text": "Chutney Ke bina dhokla hai bekaar Ab Ki Baar, Modi Sarkar ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously compares chutney and dhokla, supporting political change without dehumanizing or degrading any individual or group.
+
+##########
+{"img": "images/eng587.png", "text": "Bdeta batao ki (fast,faster, fastes) forms ko hindi me kaise kahenge? Bhaag , tej bhaag, bhaag teri baa ki *Awkward silence* ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme uses inappropriate language which could be interpreted as disrespectful and offensive, especially if directed at someone's mother, degrading family relationships.
+
+##########
+{"img": "images/meme_197.png", "text": "shadi ke baad tum mujhse pyar nahi krte ab exam clear hone ke bad kon padhta hai yrr ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously compares post-marriage priorities to exam habits, without dehumanizing or insulting any particular group or individual based on personal attributes.
+
+##########
+{"img": "images/meme_99.png", "text": "Kismat ka likha mod dun to phri mai kya karun joa chhor do ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme uses language that suggests replacing a deity's face with someone else's, potentially mocking religious beliefs and causing offense to individuals or groups respecting that faith.
+
+##########
+{"img": "images/eng178.png", "text": "Do din ke bad uski shaadi ho gayi , us raat apnu do baje tak piya, phir...phir keya hua? phir..phir keya agle din apne mohalle mein jcb aayi...", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme depicts a humorous situation without degrading or attacking any group based on attributes, aligning with social norms and avoiding offense.
+
+##########
+{"img": "images/eng376.png", "text": "Nalayak' class me din bhar ladkiyo ke saath itni baate kyun karta hai...? Madam mai garib hu, net pack nahi hai... ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme reinforces stereotypes about poverty and internet accessibility, potentially demeaning individuals unable to afford internet packs.
+
+##########
+{"img": "images/eng176.png", "text": "Duniya pe hoga mera raaj ye to apna rahu hai re baba. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme does not attack, insult, or degrade any individual or group based on personal attributes; it appears to be humorous and follows social norms.
+
+##########
+{"img": "images/meme_363.png", "text": "When you die soon in #PUBG but your guide your squad via voice chat and they win the game. Maula Mere Lele Meri Jaan ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts a gaming scenario without dehumanizing, degrading, insulting, or attacking any individual or group, thus aligning with social norms.
+
+##########
+{"img": "images/eng215.png", "text": "Friend:- bhai bahar jana h koi idea de Me:- ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts indecision, without dehumanizing or degrading any individual or group based on any attribute.
+
+##########
+{"img": "images/meme_263.png", "text": "Keep Calm Kyunki Mere Karan Arjun Aayenge ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously references a famous Bollywood movie line without targeting or harming any individual or group, thus aligning with social norms of humor.
+
+##########
+{"img": "images/eng205.png", "text": "Enti bhogi roju kuda nonveg thintaara? maa frnd anthe ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme contains humorous dialogue without targeting or demeaning any individual or group based on discriminatory attributes. The content aligns with acceptable social norms and lacks offensive elements.
+
+##########
+{"img": "images/eng405.png", "text": "Me when the doctor tells me that drinking wine ism't considered a fruit diet. whaaaat? ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts a common misconception about wine and diet without targeting or disparaging any individual or group based on protected attributes.
+
+##########
+{"img": "images/eng353.png", "text": "jubba kesari ye to kuchh jyaada hi ho gaya ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme uses wordplay involving a movie dialogue for humorous effect without targeting any specific group or individual in a degrading or insulting manner.
+
+##########
+{"img": "images/eng162.png", "text": "Newton, Einsteen, Thomas ka favorite song baithe baithe kya kare karna hai kuch kaam chalo banaye formule aur kare baccho ka jeena haram...", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously references famous scientists in a playful, non-degrading manner without targeting any group or individual based on specific attributes.
+
+##########
+{"img": "images/eng387.png", "text": "When topper cries after getting 99/100 Me: Iske hath me sone ka katora dedo phir bhi ye bheek baangenge. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts a common academic scenario without targeting or derogating any specific group or individual based on sensitive personal attributes.
+
+##########
+{"img": "images/meme_185.png", "text": "Samosa khayega ? Nahi, Aaj Upvas Hai Mera Bhai mere taraf se hai Meethi Chatni Dal ke laana ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts a friendly conversation about eating preferences, without targeting or degrading any individual or group based on personal attributes.
+
+##########
+{"img": "images/eng535.png", "text": "Friend I want, Friend I have", "label_full": "non-off", "label": 0}
+----------
+non-offensive - This meme humorously contrasts friendship expectations with reality without targeting or insulting any individual or group based on personal attributes.
+
+##########
+{"img": "images/gay85.png", "text": "#HighonMX Gf: Baby phone ka pasword batao. Bf: Nahi bataunga ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme is a humorous social commentary on relationship dynamics without targeting any specific group, individual, or attribute offensively.
+
+##########
+{"img": "images/meme_313.png", "text": "Daya , Tanki Me Pani Nahi Hai, Kya ?? Tanki Me Pani Nahi Hiai ?? Haan Daya, Tanki Me Pani Nahin Hai Daya Iska Matalb Tanki Khali Hai. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme includes humorous dialogue not targeting any specific individual or group, not degrading or insulting based on personal attributes.
+
+##########
+{"img": "images/fille68.png", "text": "In 2018, when nagaland was effected with huge floods, cm of that state requested everyone to donate to the cm relief funds at that time, Sushant Singh Rajput was shooting in delhi and when he heard about this news. he went to nagaland and handed over cheque of rs 1.25 cr to that state cm -- Creat Human, Gone to soon -- ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme pays tribute to an individual's charitable act without dehumanizing, degrading, attacking, or insulting others, following social norms and promoting positivity.
+
+##########
+{"img": "images/eng460.png", "text": "Mom : beta tu mobile mein pura din karta kya hai ? Me: mom, ek ladki hai. ussi se baat karta hun Mom : chal tujhse kaun ladki baat karegi, memes dekhta hoga tu. Me : *cries in the corner* ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts a conversation about using memes, without targeting any individual or group based on specific attributes or conveying any dehumanizing or degrading content.
+
+##########
+{"img": "images/eng505.png", "text": "Samosa khayega ? Nahi, Aaj upvas hai mera bhai mere taraf se hai meethi chatni dal ke dena ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts a conversational exchange about food choices, without targeting or demeaning any individual or group based on attributes like gender, race, or ethnicity.
+
+##########
+{"img": "images/meme_113.png", "text": "He -If You Love Me Just Say It She - It He- Gawar Saali ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme uses derogatory language targeting a person's gender identity, implying insults based on gender, violating norms of respectful and inclusive communication.
+
+##########
+{"img": "images/eng518.png", "text": "Why did, kattappa kil bahubali ? kyunki... baahubali asked itni chocolatey kyun hai? ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - This meme is a humorous take on a movie scene and does not target or insult any individual or group based on the defined attributes.
+
+##########
+{"img": "images/meme_34.png", "text": "Don't you think we're pushing it too farr? Naah... Ab ki Baar, Modi Sarkar", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme employs wordplay without degrading or dehumanizing any individual or group, thus aligning with social norms.
+
+##########
+{"img": "images/eng341.png", "text": "Patni : shadi ke baad tum mujhe se pyaar nahi karte! Pati : Exam clear hone ke baad kon padta hai yr.! ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme implicitly degrades and trivializes marital relationships by suggesting that efforts are only for passing exams, not fostering love, which dismisses genuine emotional connections.
+
+##########
+{"img": "images/eng152.png", "text": "Ky fayda itni badi technology ka. jab hm online kisi ko mukka nahi mar sakte ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme implies violent behavior, which can be interpreted as promoting harm, thus falling under demeaning communication, potentially offensive based on context.
+
+##########
+{"img": "images/meme_22.png", "text": " What Indian Celebraty Do You Look Like You Look Like Salman Khnan Hilarious.. App use karne walon dekh lo.. ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme insults individuals by making a sarcastic comment implying degradation based on appearance, which implicitly dehumanizes them.
+
+##########
+{"img": "images/eng367.png", "text": "Who exactly is getting married? ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme implicitly degrades and insults a group based on gender by questioning their intentions and appropriateness, potentially reinforcing harmful stereotypes about women.
+
+##########
+{"img": "images/fille8.png", "text": "When backbencher do assignment for the first time. *Teacher: ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts a relatable classroom situation without targeting or demeaning any specific individual or group based on their attributes.
+
+##########
+{"img": "images/fille55.png", "text": "Movie: (2019)Chichhore , Movie:(201+) Student of the year 2 No awards -Nee cene award& -Film fare awards for best female debu! -Best fresh talent. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme compares two movies' award achievements without degrading or attacking any individual or group based on attributes like gender or nationality.
+
+##########
+{"img": "images/fille67.png", "text": "This is just too sad. Rest in peace , star Sushant Singh Rajput Desi Dank Memes. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme pays tribute to a deceased actor, expressing sorrow and respect, without degrading or insulting any individual or group based on the aforementioned attributes.
+
+##########
+{"img": "images/eng496.png", "text": "When relatives comes at your home me to my siblings paisa ho paisa hoga ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts a common family scenario without targeting or degrading any specific individual or group based on the attributes outlined.
+
+##########
+{"img": "images/eng189.png", "text": "Honey singh before new traffic challan rule uncle ghar hai paisa hai gaadi after caught by traffic police for breaking rule. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously remarks on a fictional situation involving the consequences of breaking traffic rules without targeting any individual or group based on protected attributes.
+
+##########
+{"img": "images/meme_76.png", "text": "Jis shiddat se maine Kitaab uthaane ki Koshish ki hai Ek-Ek lafz ne mujhe Sulane ki saazish Ki hai..!! ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts the struggle of trying to read a book and falling asleep, without targeting or demeaning any individual or group based on specific attributes.
+
+##########
+{"img": "images/eng243.png", "text": "Suna hai tune college mein ladki patai hai nehi papa mai yea sab kaam nehi karta mai sirf padhai karta hun toh kab karega BSDK chakka hai kya? ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme uses derogatory language that insults and degrades individuals based on gender and implies offensive stereotypes, violating respectful communication norms.
+
+##########
+{"img": "images/meme_259.png", "text": "Bhai Mujhe Party Kab Dega ? Jab Meri Girl Friend Ban Jayegi Bhai Nahin Deni To Saaf Bol De, Mazak Kyun Kar Raha ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme uses a humorous exchange between friends without targeting or attacking any individual or group based on protected attributes.
+
+##########
+{"img": "images/eng253.png", "text": "When your teacher says \"the question paper is very simple and you must be knowing all the answers\" ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously captures a typical classroom experience without attacking or degrading any individual or group based on attributes like gender, race, or nationality.
+
+##########
+{"img": "images/meme_49.png", "text": "Before eating Maggi After Eating Maggi ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously contrasts someone's actions before and after eating without targeting or dehumanizing a specific individual or group based on identity or demographic attributes.
+
+##########
+{"img": "images/fille84.png", "text": "In search of gold we lost diamond ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme does not explicitly or implicitly dehumanize, degrade, insult, or attack any individual or group based on attributes like gender, race, or nationality.
+
+##########
+{"img": "images/meme_154.png", "text": "Tra Pyaar Pyaar Pyaar Hookah Bar NOPE Ab ki Baar , Modi Sarkar ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - This meme references a political slogan with humor and doesn't explicitly degrade or attack any individual or group based on personal attributes.
+
+##########
+{"img": "images/meme_206.png", "text": "Going into Exam Hall Leaving Exam Hall ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts the contrast in mood before and after an exam without dehumanizing, degrading, insulting, or attacking any individual or group based on personal attributes.
+
+##########
+{"img": "images/fille35.png", "text": "A Cambridge phd scholar met Sushant Singh Rajput at Paris airport, thought he was a physicist Namrata Datta said , ' I had no idea was a Bollywood star, I thought he was a physicist studying in finance, the way he was explaining physics was mesmerising.\" ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - This meme humorously depicts a case of mistaken identity without dehumanizing or insulting anyone based on their attributes.
+
+##########
+{"img": "images/eng545.png", "text": "Uses tamilish- hindi while speaking but sings in proper hindi ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - This meme humorously addresses language mixing habits without demeaning or attacking any individual or group based on personal attributes.
+
+##########
+{"img": "images/eng459.png", "text": "Hum koi mandir ka ghanta hain ki koi bhi aake baja jaata hai -Hungama ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - This meme uses a humorous expression without dehumanizing or attacking any specific individual or group, making it adhere to general social norms and not offensive.
+
+##########
+{"img": "images/eng169.png", "text": "Jaa kitchen se chhoti plates leke aa... Mummy nahi dikh rahi hai... kaha rakhi hai ? Gaas chalu karke mobile ko aag laga... fir apne aap dikh jaayegi.... ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme perpetuates gender stereotypes by implying women's primary role is in the kitchen, degrading women by associating their visibility with household duties.
+
+##########
+{"img": "images/eng479.png", "text": "Relligion wala jo column hota hai, usme hum bold aur CAPITAL me INDIAN likhte hai haan tu aag mai ghee dal le BC.", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme contains derogatory language that can be perceived as insulting or attacking individuals based on nationality, hence violating respectful social norms.
+
+##########
+{"img": "images/fille49.png", "text": "Do you know the sushant singh rajput was ambidextrous, mees he had the ability to use both the right and left hand equally well Experts say that truly Ambidextrous people only make up about 1 percent of the populating he was the actor with so many talents. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme highlights a factual, positive trait about Sushant Singh Rajput without dehumanizing or degrading any individual or group, instead celebrating his talent and uniqueness.
+
+##########
+{"img": "images/eng489.png", "text": "Techers early morning! Teachers by end of the day ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - This meme humorously contrasts teachers' appearance transformation over a stressful day, without degrading or insulting them based on any protected attribute.
+
+##########
+{"img": "images/eng299.png", "text": "When your salary is credited After paying Emis and bills ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously contrasts one's financial state before and after expenses, not targeting any specific group or individual based on inherent attributes.
+
+##########
+{"img": "images/eng271.png", "text": "When fukboli sharing stories about loyalty on instagram Prosonality ke hisab se kuch jyada nahi bol raha hai ye. ", "label_full": "non-off", "label": 0}
+----------
+offensive - The term "Fukboii" can be seen as derogatory and insulting towards individuals, making the meme offensive based on the definition provided.
+
+##########
+{"img": "images/eng475.png", "text": "When someone says :- jee main ka result kaisa rha me ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme uses humor to convey a relatable sentiment about academic results without demeaning or targeting any individual or group based on protected attributes.
+
+##########
+{"img": "images/fille62.png", "text": "34 - Year - Old bollywood star Sushant Singh Rajput Found dead of Apparent suicide in mumbai home ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme trivializes a tragic event, potentially offending those affected by suicide and mental health issues by using the event for humor or shock value.
+
+##########
+{"img": "images/eng456.png", "text": "Aaj thand bohot jyada hai sonu ko jaldi sula dena ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme implies an inappropriate sexual undertone, which is degrading and can be interpreted as objectifying individuals, falling under explicit derogatory content.
+
+##########
+{"img": "images/ramdev157.png", "text": "Aise game mai cheating hogi naa, toh mai nhi khelunga ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously references a public figure's reaction, without dehumanizing or attacking any group based on race, gender, or other attributes.
+
+##########
+{"img": "images/meme_285.png", "text": "Saccha pyar toh ek tarfa hota hai aur jo dono taraf se ho usey kismat kahte hain... ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - This meme expresses a positive message about love and destiny, without dehumanizing, degrading, insulting, or attacking any individual or group based on specific attributes.
+
+##########
+{"img": "images/fille7.png", "text": "Sushant Singh Rajput's family has decided that Sushant's Childhood home (In Rajiv Nagar, Patnaj will be turned into a memorial. His Thousands of books, personal telescope, flight simulator And other belongings will be kept there for his fans and admires. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme shares information about a tribute to a celebrity, Sushant Singh Rajput, and does not contain any degrading or insulting content.
+
+##########
+{"img": "images/eng399.png", "text": "Others at 18: me at 18: itni si chatni main 2 somse kahu main. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously compares typical life scenarios at age 18, with no evident intent to dehumanize, degrade, or attack any individual or group based on personal attributes.
+
+##########
+{"img": "images/fille25.png", "text": "Sushant Singh Rajput's this T-shirt had more IQ than whole of the starkids combined. ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme implicitly degrades 'star kids' by suggesting they collectively have less intelligence than a shirt, based on assumptions tied to their background.
+
+##########
+{"img": "images/eng469.png", "text": "When you are with your boyfriend and your relatives see you... ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts a relatable social situation without targeting or disparaging any individual or group based on personal attributes.
+
+##########
+{"img": "images/meme_175.png", "text": "' I Will Watch Dangal First Day First Show For my Langot yaar Aamir Khan Amar- Prem Forever # Deadpool # Troil Boliywood ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme playfully refers to actors and movies without degrading or dehumanizing any individual or group based on attributes like race, gender, or nationality.
+
+##########
+{"img": "images/eng454.png", "text": "When a teammate shares his first aid bab mai toh terko harami samjhta tha tu tho dev - maanus niklare ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme uses humorous language about sharing, with no explicit or implicit attack on any individual's attributes or to degrade any group specifically.
+
+##########
+{"img": "images/eng224.png", "text": "Breakup hurts the most...!! kabhi papa ne ADIDAS ka bolkar ABIBAS ka kapda pehnaya hai.!! ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously contrasts emotional pain with relatable experiences, without degrading or attacking any individual or group based on their attributes.
+
+##########
+{"img": "images/gay130.png", "text": "Me choosing female characters in every video game your can't fight crime if your ain't cute. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously addresses a personal preference in video games, without dehumanizing, degrading, or attacking individuals or groups based on any protected attribute.
+
+##########
+{"img": "images/eng374.png", "text": "Dimag tho tab ghoom gaya jab pata chala '2 wanza 2' nahi '2 ones are 2' hota hai ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme is a humorous take on language learning challenges, with no dehumanizing or degrading content towards any individual or group.
+
+##########
+{"img": "images/meme_214.png", "text": "Very Fully Chutkule in Hindi for WhatsApp Auraton ka dil sahi mayno me kab tutta hai ? Jab vo apne jaise print ka sut...mohlle ki kaam vaali ko pahne dekhti hai...!!!! ", "label_full": "non-off", "label": 0}
+----------
+offensive - This meme degrades and insults women by perpetuating stereotypes about their trustworthiness, which dehumanizes and disrespects them based on gender.
+
+##########
+{"img": "images/meme_83.png", "text": "Tumhare Mom Dad kya karte hain ? meri bezzati ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme uses humor with cartoon characters without explicitly degrading or insulting an individual or group based on attributes like gender, ethnicity, or nationality.
+
+##########
+{"img": "images/meme_244.png", "text": "When your mom is beating you... and says, \"agar roya to aur marungi\" ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme uses humor related to common cultural experiences without dehumanizing or attacking any group, thereby following social norms and not targeting specific attributes.
+
+##########
+{"img": "images/eng600.png", "text": "When I don't raeach home on time...!!! Mai toh kabhi itna late nahin hota , Jaroor traffic main hoga *Mom mera baccha kidnap hogya toh? ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts typical parental worries without dehumanizing or attacking any group or individual, adhering to social norms and usual family dynamics.
+
+##########
+{"img": "images/meme_96.png", "text": "\"Pyar\" Relationship Khatam Ho Jati Hai Lekin Pyar Kabhi Khatam Nahi Hota ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - This meme discusses the enduring nature of love in relationships, without dehumanizing, degrading, or attacking any individual or group based on the specified attributes.
+
+##########
+{"img": "images/rhea99.png", "text": "Humko ghanta fark nahi padta Green zone, Red Zone, Orange Zone. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme uses humor and color zones without dehumanizing or attacking any individual or group based on the specified attributes.
+
+##########
+{"img": "images/eng213.png", "text": "&Relativ on phone* mom; \"you want to talk?\" Me: ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts a common social situation without degrading or attacking any individual or group based on their attributes.
+
+##########
+{"img": "images/rhea78.png", "text": "Phir Khana Kum Khaya Achha chalta hun duaaon mein yaad rakhna ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme centers around a common social occurrence and amusingly conveys it without degrading or dehumanizing any individual or group based on protected attributes.
+
+##########
+{"img": "images/rhea67.png", "text": "*Vinushka expecting a baby on January 2021* Meanwhile Taimur: Accha chalta hun, duaaon mein yaad rakhna. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme jokes about a child's celebrity status without degrading, attacking, or dehumanizing any individual or group based on personal attributes mentioned in offensive criteria.
+
+##########
+{"img": "images/meme_115.png", "text": "This is business ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme does not dehumanize, degrade, insult, or attack any individual or group based on the mentioned attributes. It's likely related to a humorous or neutral context.
+
+##########
+{"img": "images/eng259.png", "text": "Dekh bhai ladai apni jagah wishes apni jgah, happy new year. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme does not dehumanize, degrade, insult, or attack any individual or group; it humorously separates conflict from good wishes.
+
+##########
+{"img": "images/eng540.png", "text": "Hey waht do u play? Merecaft , You ? Call of duty , and you?, fifa PUBJ. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts choices of different video games, and does not dehumanize, degrade, or attack any individual or group based on the listed attributes.
+
+##########
+{"img": "images/eng308.png", "text": "Ek Aunty thi deewani si.. Rasode mein kon tha.. bas yahi pucha karti thi... ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme references a popular Indian television show's dialogue in a humorous context without targeting or demeaning any specific individual or group.
+
+##########
+{"img": "images/eng473.png", "text": "Me to gym everyday... main ek din aaunga, main ek din aaunga ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously reflects common intentions of attending the gym without degrading or insulting any group or individual based on the specified attributes.
+
+##########
+{"img": "images/eng536.png", "text": "Madam kya mai is umar me baap ban sakta hu? nahi to ye baki is pinky ko.. faltu me dara rhe hai.. Class se bahar nikal...  ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - This meme utilizes humor from what appears to be a fictional school scenario without degrading any real individual or group based on personal attributes.
+
+##########
+{"img": "images/rhea71.png", "text": "Sorry Babu :( ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme appears to reference a lighthearted, humorous moment without dehumanizing or attacking any individual or group based on specific attributes.
+
+##########
+{"img": "images/eng318.png", "text": "Buy with action is given school's mont everying student award. ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme dehumanizes and degrades an individual with autism, perpetuating harmful stereotypes and inappropriate humor, which can be deeply damaging and stigmatizing.
+
+##########
+{"img": "images/meme_163.png", "text": "Dekha hai pehli baar sajan ki aankhon mein pyaar ab ki baar , Modi Sarkar ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme plays with a popular movie song and a political slogan without targeting any individual or group negatively.
+
+##########
+{"img": "images/meme_224.png", "text": "Man with a golden heard he treated a girl found on road as his sister , He donated his bone narrrow to save a girl 's life , everyday he saves 's lives through his foundation , A women came to ask for help & he adopeed her complete family \"Salman Salim Khan\" ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme praises a man for doing kind acts, promoting positive values without targeting or demeaning any individual or group based on discriminatory attributes.
+
+##########
+{"img": "images/meme_37.png", "text": "Intna saara cough cyrup AAP ko kar sakta hai bimar Ab ki baar, Modi Sarkar ", "label_full": "non-off", "label": 0}
+----------
+offensive - This meme derogatorily depicts a political figure, potentially demeaning a group based on political affiliation, violating norms for respectful discourse on various personal attributes.
+
+##########
+{"img": "images/eng313.png", "text": "Being JCB khudai fan Salman: chalo jcb aaya hai khudai dekhte hai ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts fandom and does not dehumanize, degrade, insult, or attack any individual or group based on attributes.
+
+##########
+{"img": "images/gay124.png", "text": "Never send your car to unauthorised repair workship after accident ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously highlights a car repair fail without targeting or demeaning any individual or group based on personal attributes, maintaining adherence to social norms.
+
+##########
+{"img": "images/eng526.png", "text": "Babuji exam se dar nahi lagta slow internet se lagta hai ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously uses a cultural reference to express frustration with slow internet, without targeting or dehumanizing any individual or group based on protected attributes.
+
+##########
+{"img": "images/eng363.png", "text": "Tag that friend samosha khayega ?? Nahi , Aaj upvas hai , Bhai meri taraf se hai , meethi chatni daal ke laana.", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously references cultural or personal dietary preferences without degrading or insulting any individual or group, and is based on light-hearted social interactions.
+
+##########
+{"img": "images/meme_305.png", "text": "Bas kar bhai, kisi din Discovery wale na utha ke lay jaye ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme could be considered offensive as it implicitly targets and potentially dehumanizes an individual for their clothing choice by comparing them to an animal, which may degrade.
+
+##########
+{"img": "images/fille94.png", "text": "After getting Internship & all stuffs about Xpert Le me* bada mazedar app h be ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously portrays a personal reaction without degrading, insulting, or attacking any individual or group based on attributes such as gender, nationality, or race.
+
+##########
+{"img": "images/ramdev140.png", "text": "*Baba Ramdev made coronil drug to cure corona patients* *le corona Phai apna kaam khallas.", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously critiques a celebrity-promoted drug during the pandemic without targeting any specific individual or group based on protected attributes.
+
+##########
+{"img": "images/eng349.png", "text": "Jab bhi mai ghar me akela reheta hu.. sala har aavaj bhoot ki lagti hai... ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously expresses a common fear of ghosts when alone, without dehumanizing or insulting any specific group or individual.
+
+##########
+{"img": "images/eng171.png", "text": "Aaj toh haaroge jijaji , jethaji cum on , jeet gya babita is the secret of my energy. ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme uses sexual innuendo and objectification, potentially demeaning individuals involved in the context, thus qualifying it as offensive based on the given definition.
+
+##########
+{"img": "images/eng172.png", "text": "These girls proved that.. logon ki tharak kisi ko bhi famous kar sakti hai ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme degrades individuals by suggesting their fame is solely due to objectification, which dehumanizes and undermines their abilities and achievements based on their appearance.
+
+##########
+{"img": "images/eng336.png", "text": "Uk desi parents be like beta do you like someone? you can tell me. it's was the 21st century we 're very open - minded. well , there is this one guy... ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme stereotypes cultural values of a specific ethnic group, implying they lack acceptance, potentially promoting negative stereotypes and reinforcing biases.
+
+##########
+{"img": "images/eng185.png", "text": "Masaan, Raazi, Sanju and now uri surgical strike! This man won our hearts with his performance in these moves one of the finest actors ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme appreciates an individual's acting skills in multiple movies, which falls within social norms and does not insult or attack any individual or group.
+
+##########
+{"img": "images/meme_176.png", "text": "Upar Khuda Hai He Theated a girl found on road as his sister and took care of her and loved her like his own , a lady came to ask help an dhe adopted his complete family , co-joined twins who wished to meet salman khan, the he meet them and always ready to help , every day he saves s peoples life and funds 600+heard surgeries. neeche salman hai  ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme praises someone for their good deeds and charitable actions, without dehumanizing, insulting, or attacking any individual or group based on personal attributes.
+
+##########
+{"img": "images/meme_35.png", "text": "1 pascal = 1.0 x 10.5 baar Ab ki Baar, Modi Sarkar", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme is a play on words referencing "pascal" and "baar," without degrading or attacking an individual or group based on protected attributes.
+
+##########
+{"img": "images/eng188.png", "text": "Bro inum 49 days la IPL varuthu... Atha vera yen thambi nyabagam paduthura manasu ellam orae punna iruku. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously references anticipation for an event without degrading or attacking any group or individual based on their attributes.
+
+##########
+{"img": "images/eng590.png", "text": "Samosa khayega ? Nahi, Aaj upvas hai mera bhai mere taraf se hai meethi chatni dal ke laana", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously discusses food preferences related to fasting without demeaning or insulting any group or individual, thus aligning with social norms.
+
+##########
+{"img": "images/eng533.png", "text": "Kisiko baatana mai eduon mai padhke neet crack karunga ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously references a common educational ambition without targeting or demeaning any individual or group, adhering to social norms.
+
+##########
+{"img": "images/fille18.png", "text": "RIP Sushant Singh Rajput Death ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme inappropriately uses an image depicting someone's death, which can be considered degrading and disrespectful to the individual and their grieving community.
+
+##########
+{"img": "images/eng443.png", "text": "Online Shopping ordered delivered. ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme implicitly degrades and insults individuals by comparing appearances unfavorably, focusing on beauty stereotypes, and potentially mocking cultural attire differences.
+
+##########
+{"img": "images/eng239.png", "text": "Ek hote hain cigratte pine wale , ek hote hai drugs lene wale, fir wo aate hain jinhe sote jaagte bas chai chahiye.", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously categorizes people's habits without dehumanizing or insulting any group, aligning with social norms and not targeting any specific demographic negatively.
+
+##########
+{"img": "images/meme_152.png", "text": "Arvind Ke pass hai WagonR Ab ki Baar, Modi Sarkar ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme appears to humorously reference a popular Indian political slogan and a public figure's known preference for a specific car model without dehumanizing or targeting any individual or group.
+
+##########
+{"img": "images/eng467.png", "text": "Maut se khel rha hai ye nadan ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme does not target individuals or groups based on protected attributes and appears to convey humor through exaggeration without degrading or dehumanizing anyone.
+
+##########
+{"img": "images/gay62.png", "text": "When a good person comes into your life at the wrong time ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts an awkward situation without targeting or demeaning any specific individual or group based on personal attributes.
+
+##########
+{"img": "images/meme_104.png", "text": "Wo ha wo Usne Abhi Naak Me Ungli Daali, Usko Sanitizer Do ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme uses humor related to hygiene without degrading or dehumanizing any individual or group. It follows social norms and does not target any specific attributes.
+
+##########
+{"img": "images/fille39.png", "text": "How many of you know Sushant SIngh Rajput got 7th rank in AIEEE and he is a physics olympiad.  ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme provides factual information about an individual's academic achievements without dehumanizing, degrading, insulting, or attacking any group or individual based on specific attributes.
+
+##########
+{"img": "images/eng502.png", "text": "Lagta hai celebrities ke pandit shaadi mein mantra nahi memes pdhte hain ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme uses potentially derogatory language and insinuations targeting a cultural tradition, which could be seen as disrespectful to those who adhere to this tradition.
+
+##########
+{"img": "images/meme_228.png", "text": "SMA ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme features a serene, colorful background with a person in traditional attire, lacking any dehumanizing or degrading content towards any individual or group.
+
+##########
+{"img": "images/gay4.png", "text": "Ab waqt aa gya hai bollywood ko yeh batane ka Raja ka beta Raja nahi banega, Raja wahi banega jo hakdaar hoga. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The text criticizes nepotism in Bollywood, highlighting merit over lineage without targeting specific individuals or groups based on any protected attributes.
+
+##########
+{"img": "images/meme_145.png", "text": "Randin Wirds That End with 'AAR' Ab ki Baar, Modi Sarkar ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme references a political slogan without dehumanizing, degrading, or attacking any individual or group based on the specified attributes.
+
+##########
+{"img": "images/eng212.png", "text": "What is your qualification? MBBS wow! you're a doctor member of back bencher students.", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously portrays a stereotype about academic performance without targeting any specific group negatively based on race, gender, or other sensitive attributes.
+
+##########
+{"img": "images/eng297.png", "text": "Remember this Chempak this is him now ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - This meme references a light-hearted before-and-after transformation without degrading or insulting anyone based on any specific attributes.
+
+##########
+{"img": "images/eng350.png", "text": "When you just got knocket out And your friend asks \"waha 8x scope lene chale?\" ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously references a video game scenario without degrading or attacking any individual or group based on protected attributes.
+
+##########
+{"img": "images/rhea55.png", "text": "How is started. How is ended. ", "label_full": "non-off", "label": 0}
+----------
+offensive - It degrades or mocks an individual, potentially attacking their personal achievements or status, indicating insensitivity towards them or their circumstances.
+
+##########
+{"img": "images/fille40.png", "text": "Actor Sushant Singh Rajput Commits Suicide Today Bollywood Lost A Gem today rest in peace.", "label_full": "non-off", "label": 0}
+----------
+offensive - This meme could be perceived as insensitive as it discusses a sensitive issue like suicide, which might cause distress and upset individuals affected by such events.
+
+##########
+{"img": "images/eng393.png", "text": "Ammi to relatives : hum ne kabhi apne bachon ko nahi roka, har cheez apne marzi se karte hain. my Sister ye konse bachon ki baat ho rahi ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts cats as siblings having a conversation, without dehumanizing or targeting any specific group or individual based on personal attributes.
+
+##########
+{"img": "images/eng444.png", "text": "Us dost ka sath kabhi mat chorna , jo jan ki bazi lga kar apki ghair mojudgi mai, Aapki attendance bo dy ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously highlights friendship loyalty without dehumanizing or insulting any group or individual based on protected attributes.
+
+##########
+{"img": "images/meme_345.png", "text": "I'm Virgin Me too Same here They are telling truth ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme perpetuates cultural and religious stereotypes, potentially degrading or mocking specific traditions and beliefs, thus making it offensive.
+
+##########
+{"img": "images/eng260.png", "text": "Study in 2020 be like: yeh toh shuru hote hi khatam ho gaya.", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously comments on the feelings of those studying in 2020 without targeting or demeaning any specific individual or group based on protected attributes.
+
+##########
+{"img": "images/eng390.png", "text": "Golgappe khate waqt jab bhaiya end mai sukhi puri dene se mana karde matlab wo to apna haq hai yaar.", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously addresses cultural eating habits without degrading or dehumanizing any group, maintaining light-heartedness and staying within social norms.
+
+##########
+{"img": "images/meme_366.png", "text": "Patni : Shadi ke baad tum mujhe se pyaar nahi karte ! Pati ; Exam clear hone ke baad kon padta hai yr.! ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously portrays a common matrimonial dialogue without degrading, dehumanizing, or attacking any individual or group based on specific attributes.
+
+##########
+{"img": "images/eng289.png", "text": "Girls in normal mood girls in selfie mood. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts the unpredictability of moods without targeting or dehumanizing any specific group, maintaining a light tone without crossing into offensive territory.
+
+##########
+{"img": "images/rhea79.png", "text": "tu bhool gaya hai hume ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme presents a humorous, relatable situation without targeting or degrading any specific individual or group based on discriminatory attributes.
+
+##########
+{"img": "images/eng312.png", "text": "When I don't reach home on time...!!! mai toh kabhi itna late nahin hota , *dad jaroor traffic mein hoga mera baccha kidnap hogya toh? ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - This meme humorously portrays typical family reactions to returning home late, without degrading or dehumanizing any individual or group based on their attributes.
+
+##########
+{"img": "images/eng170.png", "text": "Rohit , Virat, Rahul Out covai paiyan da indian fans ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously references the performance of cricket players, causing disappointment among fans, without dehumanizing or insulting individuals or groups based on protected attributes.
+
+##########
+{"img": "images/eng265.png", "text": "Kal raat tumhari bohot yaad aai toh tumne kya kiya ? ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme lacks any explicit or implicit content degrading or attacking individuals or groups based on their characteristics.
+
+##########
+{"img": "images/eng358.png", "text": "If you even cared,you 'd acutally be here! Maaf karna guss3e me main zara idhar udhar bahak jata hoon. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme does not dehumanize, degrade, insult, or attack any individual or group based on the specified attributes. It appears to be humorous without targeting any specific group.
+
+##########
+{"img": "images/eng326.png", "text": "Vo dekh Saamne drop gir raha hai. jaldi chal ye drop hame hi milega *after 2 minuts* bhai tu revive matt kar warna tu bhi pela jayega bhaag yahan se. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously references a popular scene from a Bollywood movie, using gaming terminology, without targeting or insulting any individual or group based on specified attributes.
+
+##########
+{"img": "images/ramdev180.png", "text": "China has started corona we will end thi #Patanjali #Coronilkit Abe jao yaha se ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme implicitly associates a specific nationality with the spread of coronavirus, thereby promoting a stereotype that could degrade or insult a particular ethnic group.
+
+##########
+{"img": "images/meme_40.png", "text": "I Support CAA \"Over 10 thousand youths from accros the country participated in the survey\" ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme presents a political statement regarding support for CAA without degrading or attacking any group based on the specified attributes.
+
+##########
+{"img": "images/fille3.png", "text": "It is Sushant Singh Rajput who made us believe in the character of Mahi M.S. Dhoni (Ticket Collector) Hats off to you love. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme celebrates an actor's performance and film anniversary without demeaning or insulting any group or individual, staying respectful and honoring social norms.
+
+##########
+{"img": "images/eng428.png", "text": "Before every exam your favourite tv show be like ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously exaggerates how television shows become appealing during exams, without dehumanizing or insulting any individual or group based on specific attributes.
+
+##########
+{"img": "images/meme_131.png", "text": "British: *imposes tax on salt* Gandhi: ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme uses humor to reference a historical event without dehumanizing or degrading any individual or group based on their attributes.
+
+##########
+{"img": "images/meme_290.png", "text": "Selfish_Princess Girls ki choice toh dp mai bhi la - jawab hoti hai aur boys ko kahin se ek dp mil jaye toh usi main puri zindagi guzar lenge ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme potentially degrades and stereotypes individuals based on gender, implying negative traits about girls' choices, which may be seen as disrespectful towards women.
+
+##########
+{"img": "images/meme_43.png", "text": "Bas yahi ek hai jo corona ki dava ka pata laga sakta hai ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously refers to knowledge about corona medicine without dehumanizing, degrading, or attacking any individual or group based on any attributes.
+
+##########
+{"img": "images/eng365.png", "text": "*Me eating something after every 5 mins because I'm getting bored in this lockdown' my mind :- bhai, tun mota ho jayega.. My heart. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts a personal struggle with overeating during lockdown, without degrading or attacking any group or individual based on their attributes.
+
+##########
+{"img": "images/meme_16.png", "text": "Mujh pe ek ehsaan karna ki mujh pe koi ehsaan naa karna Thik hai 5 Saal Jail ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - This meme uses humor from a famous movie dialogue without dehumanizing or insulting any individual or group based on their attributes.
+
+##########
+{"img": "images/meme_365.png", "text": "Not Every Girls are happy in Arranged marriage Some Girls Just said Yes to See Their Parents Happy ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme comments on cultural norms and societal pressures without degrading or attacking any individual or group, focusing instead on highlighting personal choices in arranged marriages.
+
+##########
+{"img": "images/meme_32.png", "text": "Samosa khayega ? Nahi, Aaj Upvas Hai Mera Bhai mere taraf se hai Meethi chatni Dal ke laana ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously discusses fasting and food preferences, without dehumanizing or degrading any individual or group.
+
+##########
+{"img": "images/fille50.png", "text": "Girls after hanging out for a while boys after hanging out for life. ", "label_full": "non-off", "label": 0}
+----------
+offensive - This meme implicitly references suicide in a joking manner, which can degrade individuals affected by such issues, making it inappropriate and offensive.
+
+##########
+{"img": "images/meme_238.png", "text": "Ek Baat Bolu.. pyar pehla ho ya dusra fark nhi padta bas pyar sccha hona chahiye. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme focuses on the importance of genuine love irrespective of the order of relationship, without degrading or insulting any individual or group based on various attributes.
+
+##########
+{"img": "images/meme_148.png", "text": "Hum Jitenge World Cup Doosri Baar.... Abki Baar... Modi Sarkar!!!! ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme potentially degrades individuals based on nationality by associating a competitive sports event with political affiliation, fostering divisive sentiment.
+
+##########
+{"img": "images/eng375.png", "text": "(Diromg exa,): when i am showing my answer sheet to my friend.. friend: ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts a relatable exam scenario without targeting or degrading any specific individual or group based on sensitive attributes.
+
+##########
+{"img": "images/gay117.png", "text": "Thana kya hota hai? Tumhari kai GF hai? Nahi.. Police station ko kehte hain ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme uses a humorous context to depict a misunderstanding in a light-hearted manner without demeaning or attacking any group or individual based on personal attributes.
+
+##########
+{"img": "images/eng570.png", "text": "We lost everything mere pass ek scheme hai ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme does not dehumanize, degrade, insult, or attack any individual or group based on attributes, and instead depicts a humorous scenario without harmful connotations.
+
+##########
+{"img": "images/gay25.png", "text": "Sima maa ne aaj fir se lauki ki sabji bana di.. aisa nahin ho sakta..!! tum hamare saath aisa kabhi. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts dialogue from a fictional scene, relating to a common family situation without targeting or demeaning any individual or group's attributes.
+
+##########
+{"img": "images/eng507.png", "text": "Movies in 2019 : Toy Story 4 Dumbo The lion king Aladdin Me in cinemas in 2019: ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously compares an adult's excitement for children's movies, without dehumanizing or insulting any individual or group based on the attributes mentioned.
+
+##########
+{"img": "images/eng219.png", "text": "Girls before & after 21 days lockdown boys before & after 21 days lockdown. ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme perpetuates gender stereotypes, implying that girls are vain and boys become unkempt without upkeep, which can be degrading to individuals of both genders.
+
+##########
+{"img": "images/eng422.png", "text": "Hoy many black dots ? life mein dusri baar dimaag ka bhosda hua. ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme includes derogatory language denoted by symbols, potentially insulting individuals, violating social norms, and possibly degrading based on perceived intellectual or psychological state.
+
+##########
+{"img": "images/meme_28.png", "text": "Foreign Serial' I Love Somebody Elle Lets Break UP Its Ok Enjoy Your Life 'Indian Serial' aaj meri dost pooja ka phone aya tha kya ! kya ! kya Dhoom Tana Nana aaaa reee gaaa maaa ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously contrasts cultural differences in television series without dehumanizing, degrading, or attacking any specific group or individual based on attributes like race or nationality.
+
+##########
+{"img": "images/eng435.png", "text": "Surgical strike", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme dehumanizes and degrades children by referring to punitive or violent action against them with the term "surgical strike," trivializing real-life military operations and evoking inappropriate humor.
+
+##########
+{"img": "images/eng222.png", "text": "0", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously plays on texting behavior without degrading or attacking any individual or group based on personal attributes, aligning with social norms.
+
+##########
+{"img": "images/eng382.png", "text": "Hello... illa...", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme includes implications of coercion or harm, which devalues individuals based on actions and promotes harmful stereotypes or behaviors.
+
+##########
+{"img": "images/eng360.png", "text": "Hey upar wale 2021 toh dkha doga na uppar wala iski guarantee me nahi de sakta ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme contains humorous content without targeting or demeaning any specific group or individual based on attributes like gender, race, or nationality.
+
+##########
+{"img": "images/eng293.png", "text": "Dil to sabke paas hota hai, lekin sab dilwale nahi hote books bhi sab padhne wale nahi hote. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme uses a humorous twist on a popular phrase to highlight attitudes towards bravery and reading, without targeting or demeaning any specific individual or group.
+
+##########
+{"img": "images/eng483.png", "text": "Aur batao nahate kitne din me ho ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously questions personal hygiene without targeting or degrading any specific individual or group based on their attributes, aligning with social norms.
+
+##########
+{"img": "images/meme_359.png", "text": "When your mom asks your friends for an opinion. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - This meme does not dehumanize or attack any group; it humorously depicts a common social scenario without targeting any particular attribute or person.
+
+##########
+{"img": "images/meme_192.png", "text": "Hy Allha Saccha pyar na sahi , 2021 Zaroor Dikha Dena ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme does not explicitly or implicitly attack or degrade any individual or group based on attributes like gender or race, thus following social norms.
+
+##########
+{"img": "images/meme_258.png", "text": "Crush :- I love u Me :- Love u to Crush :- i love you as a friend are papinee ! ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - This meme humorously depicts a relatable scenario without targeting or disrespecting any individual or group based on personal attributes.
+
+##########
+{"img": "images/gay70.png", "text": "Curry Chicken ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme potentially degrades or stereotypes a cultural dish, which may insult or dehumanize a specific ethnic or national group, making it offensive.
+
+##########
+{"img": "images/eng345.png", "text": "He : Dyan rakha kr apna... she : bhsdk! teri hu mai, tu rakh mera dyan... ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme uses a derogatory and abusive word that can be considered offensive, potentially demeaning individuals based on language and disrespectful communication.
+
+##########
+{"img": "images/gay68.png", "text": "When he cums by surprise ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme uses humor related to a common personal experience without targeting or degrading any specific individual or group based on social attributes.
+
+##########
+{"img": "images/meme_8.png", "text": "Meme Shre Karta hai Nahi Fir tujhe is duniya me rahne ka koi haq nhi ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme inclines toward encouraging violence or harm against someone who doesn't share memes, portraying an implicit threat which can be degrading or harmful.
+
+##########
+{"img": "images/meme_286.png", "text": "girls agter winning dp battle in insta be like: Heroine toh main hoon hi ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme degrades and stereotypes girls, implying their self-worth is tied to winning superficial online competitions, thus attacking a group based on gender.
+
+##########
+{"img": "images/meme_341.png", "text": "Iss Gadhay Ko Tum Apne Sath School Kyun Le Ke Aa Gaye Ho...?: Madam Aap Nay Once Kaha Tha Ke Aap Nay Baray Baray Gadhon Ko Insaan Banaya Hai, So Mian Nay Socha Iski Bhi Life Ban Jaye Gi....:D ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme uses derogatory language and imagery to insult and dehumanize by comparing a person to a donkey, which can degrade the individual being referred to sarcastically.
+
+##########
+{"img": "images/eng419.png", "text": "Uses tamilish - hindi while speaking but sings in proper hindi ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme is a humorous observation about language use without degrading or dehumanizing any individual or group based on attributes like gender, nationality, or ethnicity.
+
+##########
+{"img": "images/eng184.png", "text": "*Bohot hard, bohot hard* ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - This meme uses a popular movie reference for humor without dehumanizing or degrading any individual or group based on the specified attributes.
+
+##########
+{"img": "images/meme_334.png", "text": "Crush ; I am a big fan of Salman Khan. *Me trying to impress her : Ae gadi Start kar ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme uses humor without degrading or dehumanizing any individual or group, adhering to social norms.
+
+##########
+{"img": "images/ramdev136.png", "text": "Patanjali has prepared first Ayurvedic-clinically controlled, research, evidence and trial bassed medicine for COVID-19. #aayurvedvijay_coronil_shvasari.", "label_full": "non-off", "label": 0}
+----------
+non-offensive - This meme appears to be promoting a product for COVID-19, and it does not explicitly or implicitly degrade or attack any individual or group based on protected attributes.
+
+##########
+{"img": "images/meme_300.png", "text": "*Girls in wedding Ceremony * Boys in sedding ceremony ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - This meme humorously contrasts the behavior of girls and boys at a wedding without dehumanizing or insulting any group, adhering to social norms.
+
+##########
+{"img": "images/meme_89.png", "text": "My God He is Dead Lagta hai iski maut marne se hui hai... Nahi Boss Iski Maut Marne Se Nahi Jaan Jaane Se Hui Hai.... ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme presents a light-hearted, fictional scenario, not targeting or demeaning any real individual or specific group, and doesn't violate widely accepted social norms.
+
+##########
+{"img": "images/eng266.png", "text": "Mama mia.. banty tera sabun slow hai kya? nakhun me tatti fasi hai bhain ke lode.. ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme uses vulgar language and insults that degrade individuals, which can be deemed dehumanizing, thus classifying it as offensive according to defined criteria.
+
+##########
+{"img": "images/meme_189.png", "text": "Facebook par hua pyar \"fake ID Nikali\" Par pyar saccha tha ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts an online relationship scenario; it neither degrades nor insults any individual or group based on protected attributes.
+
+##########
+{"img": "images/meme_27.png", "text": "Neha mera saccha pyar hai Just for fun Don't Take it Seriously TAG Neha for him ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme uses light-hearted humor and does not degrade or attack any individual or group based on any sensitive attributes.
+
+##########
+{"img": "images/meme_190.png", "text": "Saccha Pyar wahi hai Jisme Dono Ek Dusre Ko Khone se Darte Ho.. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - This meme discusses true love's mutual fear of loss without degrading, dehumanizing, or attacking any individual or group, remaining within socially acceptable norms.
+
+##########
+{"img": "images/eng193.png", "text": "When someone asks you to share your food. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts a common reluctance to share food without targeting or degrading any individual or group based on their attributes, thus aligning with social norms.
+
+##########
+{"img": "images/eng303.png", "text": "Bhaiya Captain dikhana thode saste me ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme mocks national identities and may degrade individuals based on nationality by implying inferiority, which can be considered disrespectful and offensive.
+
+##########
+{"img": "images/gay131.png", "text": "Gf: Baby phone ka password batao bf: nahi bataunga ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts a common relationship situation without targeting or demeaning any specific group or individual based on gender or any other attribute.
+
+##########
+{"img": "images/meme_195.png", "text": "Daya TV chala, TV par 30 feet ka sanp dikha rhe hai , koi fayda nhi tappu ke pappa hun hhi dekh sakte kyonki hamare TV sirf 21 inch ka hai ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme uses humorous dialogue from a TV show focusing on exaggeration of screen size, with no dehumanizing or degrading content based on any personal attributes.
+
+##########
+{"img": "images/eng279.png", "text": "When someone asks \"who's your best friend\" to a group of 3 friends. Agar galat aur bohot galat me se chun na ha toh kise chunenge aap? ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts awkwardness without dehumanizing or attacking any specific group or individual based on identity attributes.
+
+##########
+{"img": "images/ramdev138.png", "text": "aap kisi aur tak pahunche usse pahle me aap tak pohchunga", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts a fictional scenario about a product launch without any insults or attacks on specific individuals or groups based on protected attributes.
+
+##########
+{"img": "images/eng416.png", "text": "kal meri shadi hai kyon aae ho meri jindagi men tumhare ariya me jcb ka khudai chal rha hai vhi dekhne aaya hun ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme contains a humorous and personal interaction regarding a wedding and a JCB with no demeaning language or insulting remarks towards any group or individual.
+
+##########
+{"img": "images/eng368.png", "text": "When a teammate shares his first aid bag mai toh terko harami samjhta tha tu toh dev - maanus niklare ", "label_full": "non-off", "label": 0}
+----------
+offensive - The term "harami" can be considered a derogatory or offensive term that can insult individuals, making the meme potentially degrading or inappropriate in certain cultural contexts.
+
+##########
+{"img": "images/meme_139.png", "text": "Teri Meri Dosti Mei Aaydeewar Kyunki Ab ki baar Modi Sarkar ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme doesn't target or attack any individual or group based on attributes like gender, race, or ethnicity. It appears to humorously comment on a political slogan.
+
+##########
+{"img": "images/eng477.png", "text": "Me : hey bhagwan kya main iss saal mingie ho jaunga? God : Agla sawal karo ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme contains a humorous exchange about staying single without dehumanizing or insulting any group, adhering to social norms.
+
+##########
+{"img": "images/fille41.png", "text": "Sushant Singh Rajput's last movie dil bechara's trailer is out now his smile & screen presence are really something we all gonna miss. A movie which will be with us forever. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme expresses admiration and positive sentiment towards Sushant Singh Rajput's performance, without demeaning or attacking individuals or groups based on any attributes.
+
+##########
+{"img": "images/eng562.png", "text": "Aur maine chipka diya ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme lacks any dehumanizing, degrading, or insulting elements towards specific individuals or groups, adhering to social norms without displaying offensive content.
+
+##########
+{"img": "images/meme_230.png", "text": "Daya TV chala, TV par 30 feet ka sanp dikha rhe hai , koi fayda nhi tappu ke pappa hun hhi dekh sakte kyonki hamare TV sirf 21 inch ka hai ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously discusses television sizes without dehumanizing or degrading any individual or group based on attributes. It follows social norms with light-hearted content.
+
+##########
+{"img": "images/eng426.png", "text": "When your best friend got himself in trouble and when his dad calls you, your are supportive like- all is well ! ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme conveys a supportive message to a friend in trouble, does not dehumanize, degrade, insult, or attack any individual or group based on given attributes.
+
+##########
+{"img": "images/eng394.png", "text": "Me & My sister fighting how i see myself how my sister sees herself how mom sees us! ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously depicts siblings' perspectives versus their mother's view without dehumanizing or insulting any individual or group based on specific attributes.
+
+##########
+{"img": "images/eng559.png", "text": "*In physics lecture* time taken by the car tocover... Time bhi taken hai! Bas mai hi single hu!! ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously relates to being single and time taken, without targeting or degrading any individual or group based on specified attributes.
+
+##########
+{"img": "images/eng333.png", "text": "Reporter* Why uttar pradesh has no IPL team? UP citizen* Agar hum bhi IPL Khelnege 'toh satta kaun lagayega?> ", "label_full": "non-off", "label": 0}
+----------
+offensive - The meme implies that people from Uttar Pradesh are involved in betting, which stereotypes and degrades the citizens of that region.
+
+##########
+{"img": "images/eng440.png", "text": "pahle me saara din PUBG khelta tha fir ek din mausi ne kaha PUBG uniinstaal kar do mausi ab is duniya me nahi he. ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme humorously describes a fictional scenario that doesn't degrade or attack any individual or group based on protected attributes.
+
+##########
+{"img": "images/gay102.png", "text": "Behti hawa sa tha wo udti patang sa tha wo kahan gaya use dhundo? ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme does not dehumanize or attack any individual or group based on specific attributes; it appears to be a humorous or nostalgic reference to familiar scenarios.
+
+##########
+{"img": "images/meme_138.png", "text": "Daya Tumharey Saamney Darwazey Hain Beakar Abki Baar Modi Sarkaar ", "label_full": "non-off", "label": 0}
+----------
+non-offensive - The meme references a political slogan without dehumanizing, insulting, or attacking any individual or group. It adheres to social norms and presents a humorous context.
+
+##########
+{"img": "images/rhea0.png", "text": "*Rhea Chakraborty Sher ki umar jyada hai lekin budha nahi hua hai abhi ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme appears to make a humorous remark about aging without degrading or attacking any individual or group on the basis of protected attributes.
+
+##########
+{"img": "images/ramdev142.png", "text": "Ayusn Ministry After Giving Baba Ramdev Permission To Make Immunity Booster For Cough And Fever: Hum toh papa ke pass karwane bole the. papa top hi karwa diye. ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously references a hypothetical scenario involving approval of an immunity booster, and does not dehumanize, degrade, or attack any individual or group based on their attributes.
+
+##########
+{"img": "images/ramdev102.png", "text": "Govt books detail's of patanjali's covid-19 drugs. bans advertisments in me* Karawali Bezzati? ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously references government actions towards a product without targeting or demeaning any particular group or individual.
+
+##########
+{"img": "images/gay72.png", "text": "Same sex pyaar part of bharatiya sanskaar ", "label_full": "off", "label": 1}
+----------
+non-offensive - This meme does not degrade or attack any individual or group and instead supports the concept of same-sex relationships as part of cultural norms.
+
+##########
+{"img": "images/meme_124.png", "text": "cheena pappu ke haath se uska milky baar ab key baar, modi sarkar ", "label_full": "off", "label": 1}
+----------
+offensive - It implicitly degrades a politician by using a derogatory nickname and mocking a political context, potentially offending supporters.
+
+##########
+{"img": "images/rhea30.png", "text": "*On Aaj tak Interview* Rhea: Sushant came into my dream last night & asked me to tell the truth ky aacting kar rahi hai ", "label_full": "off", "label": 1}
+----------
+non-offensive - This meme critiques perceived actions without dehumanizing or attacking any group, focusing instead on behavior.
+
+##########
+{"img": "images/meme_254.png", "text": "Agar Sallu Bhai Ki Gaddi K Samne Nahi Ho, To Zinda Ho Tum ! 7 More Salman Khna Memes That Will Make You ROFL ", "label_full": "off", "label": 1}
+----------
+non-offensive - This meme refers to a humorous take on Salman Khan's popularity and influence, without degrading or dehumanizing any individual or group based on the defined attributes.
+
+##########
+{"img": "images/ramdev141.png", "text": "Patanjali launches Ayurvedic medicine Coronil for coronavirus Baba ramdev to WHO:- Tum kaha reh gayi, hum kaha phuch gayi. ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme does not degrade or attack any individual or group based on the specified attributes, and therefore, it follows established social norms.
+
+##########
+{"img": "images/eng421.png", "text": "Ultimate insult Girl :- Mcdonald's chale ? Boy :- Spelling bolo tabhi jayenge Girl :- 1 kaam karo KFC chalte hai Boy :- KFC ka full form bolo Girl :- Rehne de kutte samosa he khila de ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously depicts a playful exchange between two individuals without demeaning any group, showing no implicit or explicit dehumanization or insult based on specific attributes.
+
+##########
+{"img": "images/ramdev99.png", "text": "Asif or uske dost Mandir' me ghuske moortiyo pe peshab krte the, paise loot te the, mahilaon ko chhed te the... diye do haath , kya galat kiya? ", "label_full": "off", "label": 1}
+----------
+offensive - The meme uses derogatory language and implies illegal actions, targeting religious sentiments and gender, which can insult or degrade certain groups based on religion and gender.
+
+##########
+{"img": "images/ramdev186.png", "text": "# Baba Ramdev launces # Coronil medicine meanwhile trup: Aise game mai cheating hogi naa, toh mai nhi khelunga ", "label_full": "off", "label": 1}
+----------
+non-offensive - This meme humorously references a politician's potential reaction without degrading or dehumanizing any group based on protected attributes, thus adhering to social norms.
+
+##########
+{"img": "images/eng292.png", "text": "Maa woo rahi aapki bahu tu poore khandaan ki muth marvayega. ", "label_full": "off", "label": 1}
+----------
+offensive - The meme uses derogatory language targeting a woman, implying gender-based stereotypes and demeaning her based on appearance, which aligns with degrading and insulting nature.
+
+##########
+{"img": "images/ramdev58.png", "text": "Patanjali developes Coronil drug against Covid-19. Meanwhile Ayurveda to modern medicine: pichli baar kya bola tha, Aukaat ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously contrasts Ayurveda with modern medicine without dehumanizing or attacking any individual or group, maintaining a light-hearted tone within social norms.
+
+##########
+{"img": "images/eng509.png", "text": "Aandar tak jayega kya ? bilkul jayega madam apke liye to khada kiya kiya hai Thik hai tho.... Ghuma ke picche se lelo. ", "label_full": "off", "label": 1}
+----------
+offensive - The meme contains suggestive language with sexual innuendos, which can be demeaning and inappropriate, degrading the individuals involved.
+
+##########
+{"img": "images/ramdev143.png", "text": "Baba Ramdev claims coronil medicile which will fight aganinst Corona patient Meanwhile Baba Ramdev to WHO: Kyu... Hila dala na ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously critiques a public figure's claim without degrading or attacking any group or individual based on protected attributes like nationality or race.
+
+##########
+{"img": "images/gay59.png", "text": "Don't like gay men ? Maybe you just haven't met the right one yet", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme uses humor without demeaning or attacking anyone, promoting acceptance through a playful suggestion, adhering to social norms without targeting any group negatively.
+
+##########
+{"img": "images/eng160.png", "text": "Agar 1 me 2 dale to kya hota hai....?? ye to apki himmat hai. hamari to ekse hi jaan nikal jati hai ", "label_full": "off", "label": 1}
+----------
+offensive - The meme can be classified as offensive if it insults or degrades a person, as it implies a derogatory expression potentially linked to gender or social background.
+
+##########
+{"img": "images/rhea29.png", "text": "If I die... don't you cry just look at the sky and say ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme uses a popular phrase from a song or movie for humorous intent without degrading or insulting any individual or group, in line with social norms.
+
+##########
+{"img": "images/ramdev107.png", "text": "Karan johar tailented outsiders chutiya hai yeh important nahi hai, starkid hai yeh important hai ", "label_full": "off", "label": 1}
+----------
+offensive - The meme uses derogatory language and insults individuals based on their professional background, possibly targeting a specific person and belittling them for factors outside their control.
+
+##########
+{"img": "images/eng397.png", "text": "Acha hua doctor tha engineer hota toh na hi ladki milti na hi naukri. ", "label_full": "off", "label": 1}
+----------
+offensive - The meme degrades individuals based on their profession, implying negative stereotypes about engineers, which can be offensive to people in that field.
+
+##########
+{"img": "images/ramdev127.png", "text": "Baba Ramdev right now: Underground hone ka samay aa gaya hai ", "label_full": "off", "label": 1}
+----------
+offensive - The meme mockingly uses derogatory language potentially targeting a specific individual or cultural community, which can be considered as degrading or insulting based on the provided definition.
+
+##########
+{"img": "images/rhea10.png", "text": "Rhea : Sushant came into my dream last night & asked me to tell the truth kya acting kar rahi hai ", "label_full": "off", "label": 1}
+----------
+offensive - The meme mocks an individual's public expression of emotions, potentially trivializing or dismissing their experiences, and can be perceived as degrading or insensitive to those involved.
+
+##########
+{"img": "images/ramdev120.png", "text": "Shabash patanjali shabash ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme comments on a company's healthcare claims humorously without targeting or dehumanizing an individual or group based on personal attributes.
+
+##########
+{"img": "images/eng584.png", "text": "Meta tum se naa ho payega, humein tumhare lacchan bilkul theek nahin lag rahe hain . ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme references a common phrase used humorously to express skepticism, without targeting or degrading any individual or group based on personal attributes.
+
+##########
+{"img": "images/meme_253.png", "text": "Mujhpe Ek Ehsaan Karna Ki Mujhpe Koi Ehsaan Na Karna Thik Hai ! 5 Saal ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme doesn't seem to degrade, dehumanize, or insult any particular group or individual based on the defined attributes; it appears to be humorous without targeting anyone specifically.
+
+##########
+{"img": "images/meme_95.png", "text": "Is baar pagalpan kuchh jada he ho rha hai ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme uses casual language without targeting or demeaning any individual or group, and does not suggest any form of discrimination or attack based on personal attributes.
+
+##########
+{"img": "images/rhea26.png", "text": "Rhea Chakraborty Memes nahi, jouth bol rhi hai, joth bol rhi hai ", "label_full": "off", "label": 1}
+----------
+offensive - The meme targets an individual, Rhea Chakraborty, suggesting she is lying repeatedly, which dehumanizes and degrades her based on implicit or explicit accusations, fitting the definition of offensive.
+
+##########
+{"img": "images/meme_5.png", "text": "If Salman Khan & Ravi Kishan Had A Child ", "label_full": "off", "label": 1}
+----------
+offensive - The meme implicitly mocks the individual's appearance by combining names of known personalities, potentially leading to demeaning stereotypes and degrading humor based on physical attributes.
+
+##########
+{"img": "images/ramdev27.png", "text": "Bilanchi naagin nighali ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme lacks any content that dehumanizes, degrades, insults, or attacks any individual or group based on their personal attributes.
+
+##########
+{"img": "images/meme_118.png", "text": "Dhandah Karo to bda karo purushottam bhai, warna mat karo ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme uses humor to convey a message about ambition and does not degrade or attack any individual or group based on sensitive attributes.
+
+##########
+{"img": "images/rhea18.png", "text": "Thank you binod tum aa gaye... warna yeh memers mere peeche hi pad gaye the...-Rhea ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme uses humor related to a popular internet trend without targeting or harming any individual or group based on personal attributes.
+
+##########
+{"img": "images/ramdev165.png", "text": "**Patanjali launches coronil covid cure; govt denies to vouch for it** Government to Baba Ramdev- ye toh hugg rha hai chutiya. ", "label_full": "off", "label": 1}
+----------
+offensive - The meme uses derogatory language directed at Baba Ramdev, which can be considered degrading and insulting based on the context, violating social norms of respectful discourse.
+
+##########
+{"img": "images/meme_155.png", "text": "Salman ne kiya Black Buck ka shikaar Ab ki baar , Modi Sarkar ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously references a celebrity incident and political slogan without dehumanizing or attacking any individual or social group based on the specified attributes.
+
+##########
+{"img": "images/gay115.png", "text": "Gay prank ", "label_full": "off", "label": 1}
+----------
+offensive - The meme potentially degrades or insults individuals based on sexual orientation, which fits the definition of offensive content.
+
+##########
+{"img": "images/meme_24.png", "text": "Assignment kyu nhi kiya ? Sorry sir bhul gaya Isme Daala to kabhi nhi bhulte ", "label_full": "off", "label": 1}
+----------
+offensive - The meme degrades and stereotypes forgetfulness in a mocking tone, implying irresponsibility or carelessness, thus potentially offending those it targets based on common human errors.
+
+##########
+{"img": "images/ramdev9.png", "text": "Baba Ramdev : Coronil was a Immunity booster not a corona vaccine whoole world: Aapko mazak lag raha hai? ", "label_full": "off", "label": 1}
+----------
+offensive - This meme may degrade or insult a public figure and a specific demographic by implying misinformation and mockery, potentially harming the reputation and undermining societal trust.
+
+##########
+{"img": "images/eng564.png", "text": "Main paida hi hot hui thi Gaand nahi jala tumhari maa ka. ", "label_full": "off", "label": 1}
+----------
+offensive - The meme contains derogatory language and sexualizes women. It may dehumanize or insult individuals based on gender, failing to adhere to respectful social norms.
+
+##########
+{"img": "images/eng501.png", "text": "Agar 1 me 2 dale to kya hota hai...?? Ye to apki himmat hai, hamari to ekse hi jaan nikal jati hai ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme uses humor about typical classroom dynamics and doesn't target any specific individual or group with degrading or insulting language.
+
+##########
+{"img": "images/meme_64.png", "text": "Before Election Anti Corruption After Election Aunty Corruption ", "label_full": "off", "label": 1}
+----------
+offensive - The meme implies degrading and mocking language towards women in politics, using a pun to suggest incompetency, which can be perceived as demeaning.
+
+##########
+{"img": "images/meme_130.png", "text": "Your Party Did Biggest Scams Of India 2G and Coalgate I Use 3G & Pepsodent ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously refers to a political scandal and toothpaste. It does not target any group or individual based on attributes like race or nationality.
+
+##########
+{"img": "images/rhea24.png", "text": "For Sushant Singh Rajput for Mahest Bhatt Dear boys.... Ankita jaisi ko dil pe Rakho. ", "label_full": "off", "label": 1}
+----------
+offensive - The meme degrades individuals by comparing them derogatorily based on relational history, implicitly dehumanizing a person by reducing them to roles associated with scandal or controversy.
+
+##########
+{"img": "images/gay119.png", "text": "Ungalasla ethana position pana mudyume gay straight Athanayam nangalum panuvom poiya but mindvolce:eru result lim irukathoy! ", "label_full": "off", "label": 1}
+----------
+offensive - The meme uses humor in a way that can degrade or potentially mock individuals based on sexual orientation, labeling them as "gay" or "straight" in an implied derogatory context.
+
+##########
+{"img": "images/meme_75.png", "text": "Saavu urvalam maariye kondu poranuga ", "label_full": "off", "label": 1}
+----------
+offensive - The meme derogatorily compares a leader's procession to a funeral, implicitly degrading the individual within cultural context, which can be seen as disrespectful and insulting.
+
+##########
+{"img": "images/eng338.png", "text": "Misbah -UL - Haq is a RAW agent. He stays till the end in all crucial matches against India to make sure pakistan don't win *Conspiracy Theory* ", "label_full": "off", "label": 1}
+----------
+offensive - The meme implicitly insults and degrades a person by suggesting disloyalty and conspiratorial behavior, potentially attacking national identity or allegiance during sporting events.
+
+##########
+{"img": "images/ramdev8.png", "text": "Coronavirus treatment: Ramdev /s Patanjali launches Coronil kit for rs 545 WHO and scientists bhai aap kamal ho bhai kamal ho ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously comments on a widely publicized product announcement without degrading or insulting any individual or group based on the listed attributes.
+
+##########
+{"img": "images/eng195.png", "text": "When i secretly read my friend 's fb conversations & realise ladki patane ke liye kuch bhi kar sakta hai ye ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously depicts an awkward realization without degrading or targeting any specific individual or group based on sensitive attributes.
+
+##########
+{"img": "images/gay38.png", "text": "Machi innaikum Oru round palaama Yaadho bhadki is an aalu priya sweety Nayabagathula iyanta theriyaama athufan Adhukkuru deily koopckujeene. ", "label_full": "off", "label": 1}
+----------
+offensive - The meme carries implicit sexual context and imagery that could demean individuals, violating social norms of respectful and non-degrading communication.
+
+##########
+{"img": "images/ramdev156.png", "text": ":- People are trending Bara Ramdev:- Humko ghanta farq nahi padta ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously comments on a trending topic without degrading, insulting, or targeting any individual or group on the basis of discriminatory attributes.
+
+##########
+{"img": "images/ramdev59.png", "text": "Patanjali announces dedicine to cure corona scientists all over the world: Asli kaam toh yeh kar rahe hain. hum to bas apni marwa rahe hain ", "label_full": "off", "label": 1}
+----------
+offensive - This meme degrades a brand by suggesting their products are ineffective and mocks scientists, potentially disrespecting those beliefs and efforts related to COVID-19 solutions.
+
+##########
+{"img": "images/ramdev79.png", "text": "Bhai, yeh toh shuru hote hi khatam ho gaya ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously comments on a company's claim to cure a disease without attacking any group based on sensitive attributes.
+
+##########
+{"img": "images/rhea21.png", "text": "Satyamev jayate wo shareef sur gareeb dikhne ke liye shite suit lena zaruri hai kya? ", "label_full": "off", "label": 1}
+----------
+offensive - The meme degrades individuals wearing white suits for appearances, potentially mocking social status or religious practices, which aligns with criteria for categorizing it as offensive.
+
+##########
+{"img": "images/ramdev152.png", "text": "When baba Ramdev launch corona medicine coronil ayush mantralaya: apna dimaag mat chala", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously criticizes government approval processes for medicines without attacking a specific group based on attributes like gender, nationality, or race, adhering to social norms.
+
+##########
+{"img": "images/gay118.png", "text": "Why are you gay? ", "label_full": "off", "label": 1}
+----------
+offensive - This meme uses a derogatory question that implies judgment or inherent negativity towards being gay, which degrades individuals based on sexual orientation.
+
+##########
+{"img": "images/ramdev195.png", "text": "# Patanjali Coronil has been recognized by WHO as first evidence based medicine for corona. Meanwhile baba ramdev: dhanda karo toh bada karo purushottam bhai, warna mat karo. ", "label_full": "off", "label": 1}
+----------
+offensive - The meme is mocking a health-related issue using sarcasm and could potentially degrade individuals who support Patanjali's products, indirectly insulting their intelligence or beliefs.
+
+##########
+{"img": "images/eng206.png", "text": "Jab tak suraj chand rahega teri bezzati karna mera kam rahega ", "label_full": "off", "label": 1}
+----------
+offensive - The meme explicitly insults individuals, implying that their humiliation is someone else's duty, which degrades and attacks personal dignity.
+
+##########
+{"img": "images/meme_235.png", "text": "Jis tarah se bollywood me shadiyan ho rhi hai Kahin kisi subah ye news na aa jaye ki salman khan ne bhi shadi kar li ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously comments on Salman Khan's single status, not targeting any individual or group offensively based on personal attributes or characteristics.
+
+##########
+{"img": "images/ramdev155.png", "text": "Apna to aatank to khatam ho gaya hai ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme uses a humorous context from popular culture without attacking or degrading any group, adhering to social norms and maintaining respectful language.
+
+##########
+{"img": "images/ramdev16.png", "text": "Kyu... Hila dala na ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme does not degrade or attack individuals or groups based on any specific attributes defined in the offensive category. It's a humorous depiction without derogatory implications.
+
+##########
+{"img": "images/meme_218.png", "text": "Boyfriend ban jao meri gand hai fati fati aur tum chutiya banane ki baat karte ho ", "label_full": "off", "label": 1}
+----------
+offensive - The text includes use of explicit language and derogatory terms that insult and dehumanize individuals based on inappropriate and vulgar language usage.
+
+##########
+{"img": "images/gay41.png", "text": "Vaa vandhu seekibam mutti poou #gay me soina ", "label_full": "off", "label": 1}
+----------
+offensive - The meme uses derogatory language and implications towards bisexual and gay individuals, dehumanizing based on sexual orientation, making it offensive by degrading these communities.
+
+##########
+{"img": "images/rhea66.png", "text": "Rhea's carrer is now over ", "label_full": "off", "label": 1}
+----------
+offensive - It implies a person's professional downfall, potentially degrading or defaming them on personal grounds without context, which can be deemed as a targeted attack.
+
+##########
+{"img": "images/eng290.png", "text": "Foreign Serial' I love semebody else lets break up its ok enjoy your life. *Indian Serial* aaj meri dost pooja ka phone aya tha kya ! kya ! kya dhoom tana nana aaaa ree gaaa maa dhoom tana nana.", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously contrasts cultural differences in storytelling in TV serials without targeting or degrading any specific group based on attributes like race or gender.
+
+##########
+{"img": "images/meme_249.png", "text": "Race 3 Acchi Film Hai,Bhai Ne Gajab Ka Action Aur Acting Kya Hai Bakwaas Hai Pura Bakwaas Hai... Dimag Ki Dahi Kardi ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously criticizes a film's quality without targeting any individual or group based on protected attributes, aligning with social norms of expressing opinions on entertainment.
+
+##########
+{"img": "images/gay54.png", "text": "Barista: We're out of iced coffee , is regular coffee okay? Me:oh. thanks but  I'm gay.  ", "label_full": "off", "label": 1}
+----------
+offensive - This meme implicitly stereotypes a group based on sexual orientation, which aligns with degrading or insulting humor.
+
+##########
+{"img": "images/ramdev74.png", "text": "Patanjali launches its ayurvadic madicine \" Coronil\", Claims drugs can cure Corona in 14 Days.. Le whole Indian to Corona virus be like.. ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme does not attack or degrade any individual or group based on protected attributes. It's a humorous take on a public figure's statement.
+
+##########
+{"img": "images/eng366.png", "text": "Friend your friend A person with no brain foolish, useless, lazy who does all mental things... Areey kahena kya chate ho chutiya sir chuitya... ", "label_full": "off", "label": 1}
+----------
+offensive - The meme uses derogatory language implying a lack of intelligence, which can degrade or insult individuals or groups based on perceived intelligence or ability.
+
+##########
+{"img": "images/meme_353.png", "text": "Haan To Munni , Sabko Batao Ki Tum Hindustan Kaise Pahunch Gayi ? Saale Bol Sakti To Salman Ko Pahle Scene Men Na Bata Deti. ", "label_full": "off", "label": 1}
+----------
+offensive - The meme implicitly degrades someone's decision-making and intelligence by suggesting negligence or lack of awareness, which can be offensive depending on cultural or individual interpretation.
+
+##########
+{"img": "images/ramdev56.png", "text": "Apna to aatank hi khatam ho gaya hai ", "label_full": "off", "label": 1}
+----------
+offensive - The meme appears to mock the serious issue of the COVID-19 pandemic by using insensitive humor, potentially trivializing the impact and efforts to address the health crisis.
+
+##########
+{"img": "images/eng423.png", "text": "Drater ke liye gharwalon se 2000 liye yeh mere beimani ki hadd thi Drafter phir nahi kharida yeh mere besharmi ki hadd thi Roll and draw se exam deke ED clear kiya... yeh mere talent ki hadd thi. ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously reflects on the creative ways students navigate exam challenges without dehumanizing or degrading any individual or group based on their attributes.
+
+##########
+{"img": "images/eng491.png", "text": "Advantage of having a best friend *Aapko apne Aaspass jaanwaro ki kami meehsoos nahi hogi* ", "label_full": "off", "label": 1}
+----------
+offensive - The meme implicitly dehumanizes by comparing people to animals, which can be degrading and disrespectful, violating social norms of respectful communication.
+
+##########
+{"img": "images/rhea22.png", "text": "*NCB tu sumon deepika padukone this week in bollywood drug probe* Rhea waiting for deepika like: ", "label_full": "off", "label": 1}
+----------
+offensive - The meme degrades individuals involved by alluding to negative stereotypes related to drug misuse, which could harm their reputation and perpetuates judgmental attitudes.
+
+##########
+{"img": "images/meme_247.png", "text": "Salman khan sentenced to * 5 years in prison Karma Bhai Hearious Memes Of Salman Khan Block Buck Poaching Case -Make The... ", "label_full": "off", "label": 1}
+----------
+non-offensive - This meme provides commentary on legal consequences without dehumanizing or attacking any group, focusing on the concept of karma rather than targeting an individual based on specific attributes.
+
+##########
+{"img": "images/eng495.png", "text": "*After seeing my 20 missed calls* tumne call kiya tha...?? nahi 20 baar galti se laggaya tha..!! ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously depicts a common relationship scenario without targeting or degrading any specific individual or group based on their inherent attributes.
+
+##########
+{"img": "images/eng273.png", "text": "Foreign Serial' I love semebody else lets break up its ok enjoy your life. *Indian Serial* aaj meri dost pooja ka phone aya tha kya ! kya ! kya dhoom tana nana aaaa ree gaaa maa dhoom tana nana.", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously contrasts cultural differences in television shows without dehumanizing or insulting any particular group, maintaining a comedic tone within social norms.
+
+##########
+{"img": "images/eng529.png", "text": "Pakistan cricket team preparing for post match presentation ", "label_full": "off", "label": 1}
+----------
+offensive - The meme degrades and mocks the Pakistan cricket team by implying they need a guide to prepare for a post-match presentation, potentially mocking language skills or intelligence.
+
+##########
+{"img": "images/meme_275.png", "text": "Tumhare Copy Kaha H ? Sorry Sir Bhul Gyi Tik Tok pe kamar hilana to nhi bhulti ho ", "label_full": "off", "label": 1}
+----------
+offensive - The meme implies a gender stereotype by mocking a female student, suggesting negligence due to using TikTok, thus degrading based on behavior and appearance.
+
+##########
+{"img": "images/meme_350.png", "text": "Twinkle Twinkle Little Star Teri Gf Gayi Bazar Usko Mil Gaya Dusra Yaar Uske Sath Wo Ho Gayi Farar, Ab Tu Baith ke Makhi Mar , Qki Mai Hi Tha Wo Kaminaa Yaar ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously narrates a fictional situation without targeting any specific individual or group based on sensitive attributes, thus not violating the offensive criteria.
+
+##########
+{"img": "images/rhea32.png", "text": "Satyamev jayate wo shareef sur gareeb dikhne ke liye shite suit lena zaruri hai kya? ", "label_full": "off", "label": 1}
+----------
+offensive - The meme implicitly degrades an individual or group by questioning attire choices linked to specific appearances, which can be perceived as disrespectful to certain traditions or economic statuses.
+
+##########
+{"img": "images/eng494.png", "text": "I am an actress, Tik - Tok Acha toh phir mai bhi Armay men hu PUBG khelta hu ", "label_full": "off", "label": 1}
+----------
+offensive - This meme degrades and mocks professions by implying that being an actress on TikTok is trivial compared to being an army man playing PUBG, which can be considered offensive.
+
+##########
+{"img": "images/meme_17.png", "text": "Girls agter getting 20 rs cash back on Gpay, Boys after becoming the 6th richest person on earth. ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously contrasts reactions to financial situations without degrading or insulting any individual or group based on attributes like gender, ethnicity, or nationality.
+
+##########
+{"img": "images/eng474.png", "text": "After IPL, fans be like mujhe IPL teams ke naam na sunai dete hai na dikhai dete hai, sirf ek mulkh ka naam sunai deta hai..\"India\" Indian cricket fans be like : P- Akash.", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme uses humor to depict Indian cricket fans' focus on national pride without dehumanizing or insulting individuals or groups based on their attributes.
+
+##########
+{"img": "images/gay101.png", "text": "When he with his straight friends in front of his gay crush", "label_full": "off", "label": 1}
+----------
+offensive - The meme makes assumptions about changes in behavior based on sexual orientation, potentially demeaning individuals by stereotyping and reinforcing heteronormative stereotypes.
+
+##########
+{"img": "images/rhea11.png", "text": "Sushant mere sapno me aaye the aur kaha jao tell the truth-Rhea 50 rupya kaat overacting ka ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously references overacting using a common phrase without degrading or attacking any individual or group based on their personal attributes.
+
+##########
+{"img": "images/meme_333.png", "text": "Aaj Itne Dino Baad Tumhari Friend Ghar Aayi , Bahot Accha Laga Jeans Pehen Lo, Payjaame Mein Tumhari Khushi Saaf Nazar Aa Rahi Hai ", "label_full": "off", "label": 1}
+----------
+offensive - The meme implies a degrading stereotype about women, emphasizing their clothing choices as linked to happiness, which can be seen as insulting and objectifying.
+
+##########
+{"img": "images/eng433.png", "text": "Two people fighting others - please dont fight Me - khopdi tod, khopdi tod sale ka. ", "label_full": "off", "label": 1}
+----------
+offensive - The meme uses aggressive and violent language that promotes physical harm, which can be seen as degrading or provoking hostility towards others.
+
+##########
+{"img": "images/ramdev37.png", "text": "#Patanjali launch #Coronil Meanwhile #Corona:- *Corona Patanjali's Coronil Jabse tu mila hai na, apna to aatank hi khatam ho gaya hai yaar. ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously references a product launch in relation to COVID-19 without dehumanizing or attacking any group, fitting within social norms without causing harm.
+
+##########
+{"img": "images/gay71.png", "text": "Hollywood: we'll code our villians as goy so the kids know being gay is bad! Gay kids: * grow up to find villains interesting and sexy* Hollywood: ", "label_full": "off", "label": 1}
+----------
+offensive - The meme negatively stereotypes gay individuals, suggesting that there's a connection between being gay and perceiving villains as appealing, which is demeaning and harmful.
+
+##########
+{"img": "images/fille69.png", "text": "to file a case against certain media houses for irresponsible & insentive reporting Karan Johar, Rohit Shetty, Salman Khan, Akshay Kumar, Hrithik Roshan, SRK. ", "label_full": "off", "label": 1}
+----------
+non-offensive - This meme comments on media behavior without dehumanizing or attacking any individual or group based on protected attributes like gender, nationality, or race.
+
+##########
+{"img": "images/meme_284.png", "text": "Na tookat aap me hai no aapki taakat to usmen hai jo bina haddi ke aapki chaddi me hai... ", "label_full": "off", "label": 1}
+----------
+offensive - The meme uses a suggestive language that can be perceived as demeaning or disrespectful, potentially targeting individuals based on implicit gender stereotypes.
+
+##########
+{"img": "images/eng593.png", "text": "Tow people fighting others - please dont fight Me - Khopdi tod, Khopdi tod sale ka ", "label_full": "off", "label": 1}
+----------
+offensive - The meme contains language that promotes violence and aggression, which can be interpreted as degrading or instigating harm, making it offensive.
+
+##########
+{"img": "images/ramdev96.png", "text": "On patanjali coronil press conference when media started asking questions *Media * Baba Ramdev Mere ko maine yahan bolne ko nhi, sunne ko bulaya hai ! ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously contrasts food preferences between two cultural groups without using derogatory language or imagery, maintaining a neutral tone without dehumanizing or insulting either group.
+
+##########
+{"img": "images/gay28.png", "text": "My son is gay full movie ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme appears to be a movie poster addressing a character's sexual orientation without any demeaning or derogatory context.
+
+##########
+{"img": "images/ramdev193.png", "text": "Patanjali announces dedicine to cure corona scientists all over the worked. Asli kaam toh yen kar rahe hain. hum to bas apni marwa rahe hain. ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously depicts global skepticism towards a claimed medical cure without dehumanizing or degrading any group, aligning with social norms and not violating the given definition of offensive content.
+
+##########
+{"img": "images/ramdev177.png", "text": "After coronil launched by patanjali Akshay Kumar Seen Practicing to play baba Ramdev in his next movie. ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously references a celebrity engaging in method acting for a role, without dehumanizing or targeting any individual or group based on sensitive attributes.
+
+##########
+{"img": "images/gay17.png", "text": "Mom , dat ...tu gay ki gay im dad. ", "label_full": "off", "label": 1}
+----------
+offensive - This meme can be considered offensive due to potentially trivializing or mocking the serious topic of coming out as gay, which can be sensitive for many individuals.
+
+##########
+{"img": "images/eng284.png", "text": "IQ kharidugi ", "label_full": "off", "label": 1}
+----------
+offensive - The meme implies that the person lacks intelligence, which can degrade and insult the individual's intellectual capability.
+
+##########
+{"img": "images/rhea83.png", "text": "Agar didi na aisa acting filmo me ki hoti to national award mil jata ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme uses humor related to acting skills, without demeaning or attacking any individual or group based on attributes such as gender, ethnicity, or other characteristics.
+
+##########
+{"img": "images/ramdev47.png", "text": "Beta ' ek zamana tha jab Corona hua karta tha ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously references a time when coronavirus was prevalent, without dehumanizing, degrading, or attacking any individual or group based on protected attributes.
+
+##########
+{"img": "images/gay10.png", "text": "My only two moods (gay judgement) gay fear ", "label_full": "off", "label": 1}
+----------
+offensive - The meme perpetuates negative stereotypes about sexual orientation, potentially dehumanizing or insulting individuals based on being gay, fitting the definition of offensive content.
+
+##########
+{"img": "images/ramdev116.png", "text": "WHO , Japan, USA, Russia, India ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme does not dehumanize, degrade, insult, or attack any individual or group based on attributes like gender, race, or nationality. It appears to represent political or social commentary.
+
+##########
+{"img": "images/meme_208.png", "text": "Engineering Girls Version IT , CSE, ECE , CIVIL", "label_full": "off", "label": 1}
+----------
+offensive - The meme implies that women in engineering are reducible to superficial stereotypes, which degrades their professional identity and perpetuates gender-based stereotypes.
+
+##########
+{"img": "images/meme_236.png", "text": "Truly Ins piring !! Salman Khna Attending And Giving Speech At A Book Launch on Wildlife and its conservation he gave a speech on safe driving for youth while promoting e-cycle ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme highlights Salman Khan’s contributions to wildlife conservation and safe driving advocacy without demeaning or attacking any group based on the specified attributes.
+
+##########
+{"img": "images/meme_360.png", "text": "Agar raat me machhar kaate toh kya karna chahiye....? Chupchap khuja kar so jaana chahiye, Kyunki aap koi Rajnikanth toh ho nahi ki machhar se sorry bolva loge.... ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously addresses an everyday situation without degrading or attacking any individual's personal attributes or identity based on the provided definitions.
+
+##########
+{"img": "images/ramdev93.png", "text": "Patanjali launches coronil Ayurvediv drug to cure Covid -19 patents, Ramdev Claims 100% patents recovered in 7 daus, Meanwhile Glenmark: Dukaan jama raha tha. aap log aake berojgar kar die. ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme appears to parody a situation involving well-known figures without dehumanizing, degrading, or attacking any group based on protected attributes.
+
+##########
+{"img": "images/meme_55.png", "text": "Desh men Modi ki koi Hawa nahi hai..!! Abey Hawa hai Muffler Utaar ke dekh to pata chalega..! ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously depicts a political leader's clothing choice without degrading or attacking any individual's inherent attributes, aligning with social norms and falls within acceptable satire.
+
+##########
+{"img": "images/gay92.png", "text": "Son I have no problem with you being gay but couldn't you have found a nice indian boy? ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme appears to humorously address a parent's acceptance of a son's sexual orientation without degrading or attacking any group based on the attributes mentioned.
+
+##########
+{"img": "images/ramdev45.png", "text": "Tera kaam ho gaya tu ja ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme does not dehumanize or attack any individual or group, but rather humorously comments on the launch of a product without targeting sensitive attributes.
+
+##########
+{"img": "images/ramdev125.png", "text": "Everyone to shweta when she said\"aur wo ladka pandit tha\" *Shweta Bhai bata na aage kya hua, please bhai.", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme uses a fictional situation for humor without dehumanizing, degrading, insulting, or attacking any individual or group based on attributes listed in the offensive definition.
+
+##########
+{"img": "images/eng500.png", "text": "Friend : kya tu apni girl - friend ko bol sakta hai ki galti uski thi. Me: Dange karoge kya Aap ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously depicts a common dilemma in relationships without dehumanizing, degrading, insulting, or attacking any group or individual based on any attribute.
+
+##########
+{"img": "images/eng609.png", "text": "Ladkiya har kaam soch samajh kar karti hai aur ladke 5 rs lo cjao la ", "label_full": "off", "label": 1}
+----------
+offensive - This meme stereotypes and implicitly degrades genders, suggesting women are thoughtful and men make trivial decisions, promoting negative gender stereotypes.
+
+##########
+{"img": "images/gay81.png", "text": "\" I fuck on first dates\" -Susan Boyle", "label_full": "off", "label": 1}
+----------
+offensive - The meme uses explicit language and falsely attributes it to Susan Boyle, potentially degrading her character or moral standing.
+
+##########
+{"img": "images/fille64.png", "text": "Your movie is getting lots of love yes what did it cost my life ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously depicts a dialogue exchange without targeting or demeaning any individual or group based on personal attributes, thus not violating social norms.
+
+##########
+{"img": "images/ramdev117.png", "text": "Amit Shah Baba Ramdev wo jo coronil banaye the kaha hai? hain na maalik, Corona theek ho jaega? 100% maalik *slaps* ab to sach bol de. Bsdk. ", "label_full": "off", "label": 1}
+----------
+non-offensive - This meme uses humor and satire referencing a public figure and health topic without degrading or dehumanizing any individual or group based on specific attributes.
+
+##########
+{"img": "images/eng450.png", "text": "You're not the guy to make the sacrface play. Everything special about you came outn of a bottle ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme uses fictional characters from a superhero film for humor without demeaning or insulting any real individual or group based on discriminatory attributes.
+
+##########
+{"img": "images/ramdev40.png", "text": "#Patanjali launched # Coronil baba Ramdev to WHO & Scientists Kyu... hila dala na ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously comments on a health product launch without dehumanizing or attacking any specific group based on identity attributes.
+
+##########
+{"img": "images/eng485.png", "text": "Inida ma ch#tiyo ki kami he ke ", "label_full": "off", "label": 1}
+----------
+offensive - This meme uses derogatory language, deemed offensive, as it degrades a nationality by implying a negative stereotype about Indian people.
+
+##########
+{"img": "images/ramdev151.png", "text": "PayTm app has been removed from google playstore but no worries Akshay Kumar will soon launch PayPM. ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously suggests an alternative app, not targeting or demeaning any particular group or individual based on personal attributes.
+
+##########
+{"img": "images/ramdev144.png", "text": "To avoid the corona virus, Baba Ramdev was hospitalized after taking an overdose of cow urine seee translation please check and conform.", "label_full": "off", "label": 1}
+----------
+offensive - The meme mocks an individual's health choices and indirectly targets cultural practices, thereby potentially degrading a particular community or belief.
+
+##########
+{"img": "images/meme_201.png", "text": "I love you Sorry, I ham Hands. Sakhti dekh rhe ho lounde ki.... ", "label_full": "off", "label": 1}
+----------
+offensive - The meme degrades men by implying that women manipulate their feelings, potentially promoting negative stereotypes about gender interactions.
+
+##########
+{"img": "images/meme_256.png", "text": "Two Big Mysteries Of 2015 Why Katappa Killed Baahubali Who Was Driving Salman's Car ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously references popular cultural events from 2015, targeting no specific group, individual, or attributing negative stereotypes, thus aligning with non-offensive social norms.
+
+##########
+{"img": "images/gay47.png", "text": "When your gay boyfriend dies of aids why is he oppening?... ", "label_full": "off", "label": 1}
+----------
+offensive - The meme degrades and mocks individuals based on their sexual orientation and health condition, perpetuating harmful stereotypes and stigmas associated with AIDS and the LGBTQ+ community.
+
+##########
+{"img": "images/meme_178.png", "text": "Bhai din mein cycle se ghoomte hai aur dekhte hai kaun kahan sota hai raat mein aur phir to sabko pata hi hai kya hota hai ", "label_full": "off", "label": 1}
+----------
+non-offensive - This meme humorously depicts a relatable daily scenario and does not attack or degrade any individual or group based on any attributes mentioned.
+
+##########
+{"img": "images/meme_143.png", "text": "Cricket Mein Bhi Hai Bhrastacharu Abhi baar Modi Sarkaar ", "label_full": "off", "label": 1}
+----------
+offensive - The meme degrades a political group by implying corruption, which can potentially insult supporters based on political affiliation.
+
+##########
+{"img": "images/ramdev161.png", "text": "Patanjali claimed that they have made corona medicine coronil meanwhile covid-19 jabse tu mila hai na, apna to aatnak hi khatam ho gaya hai yaar. ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously references a popular movie scene to comment on current events without dehumanizing or attacking any individual or group based on their attributes.
+
+##########
+{"img": "images/rhea75.png", "text": "Stepmom of Alia Bhatt ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme doesn't explicitly or implicitly attack or degrade any individual or group based on personal attributes, but rather plays on speculative humor about a public figure.
+
+##########
+{"img": "images/rhea62.png", "text": "After listening Virat Kohli and Anushka Sharma having baby media attraction to pandya child and talmar: Thik hai bhai , Ab main chalta hoon. ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously comments on media attention patterns without degrading or attacking any individual or group based on attributes such as gender, nationality, or race.
+
+##########
+{"img": "images/gay53.png", "text": "When COVID-19 didn't kill anyone on your list. Why do I always have to do every thing my self.", "label_full": "off", "label": 1}
+----------
+offensive - This meme trivializes the severity of COVID-19 and implies wishing harm on others, which is degrading and insensitive to affected individuals and their families.
+
+##########
+{"img": "images/rhea94.png", "text": "In search of gold I found a gold digger ", "label_full": "off", "label": 1}
+----------
+offensive - This meme degrades individuals by using the derogatory term "gold digger," implying negative stereotypes about people, particularly women, based on materialistic motives without any context.
+
+##########
+{"img": "images/rhea31.png", "text": "Mashoor meri drug connection ki kahani hogi. ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme does not target or degrade any individual or group based on specific attributes; it uses a humorous context without conveying harmful or derogatory messages.
+
+##########
+{"img": "images/eng567.png", "text": "Aur janab kya chal rha hai? Janab inida me to \"JCB ki khudai\" chal rhi hai ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme uses harmless humor referencing construction work with JCBs, without targeting or demeaning an individual or group based on protected attributes.
+
+##########
+{"img": "images/eng604.png", "text": "I love you Sorry, I hav hands. Sakhti dekh rehe ho lounde ki.... ", "label_full": "off", "label": 1}
+----------
+non-offensive - This meme humorously addresses common relationship interactions without dehumanizing or insulting any group or individual based on specific attributes, adhering to social norms.
+
+##########
+{"img": "images/gay66.png", "text": "Sorry, we no longer carry right wing politics because its too offensive Can I interest you in some rape porn?", "label_full": "off", "label": 1}
+----------
+offensive - This meme is offensive as it references and trivializes serious topics like rape, slavery, and abuse, using dehumanizing language to attack a specific political affiliation.
+
+##########
+{"img": "images/ramdev176.png", "text": "Ye toh hona hi tha khujli jo thi sabko! ", "label_full": "off", "label": 1}
+----------
+offensive - This meme is offensive as it uses derogatory language potentially targeting a person's condition, which can be seen as degrading or dehumanizing.
+
+##########
+{"img": "images/meme_31.png", "text": "Basanti in kutto ko Glu wall mat dena ", "label_full": "off", "label": 1}
+----------
+offensive - The meme uses derogatory language "कुत्तो" which dehumanizes individuals, violating the definition of a non-offensive meme.
+
+##########
+{"img": "images/ramdev95.png", "text": "Battle of Maharashtrian food vs Gujarati food : yahi dekna baki tha Haan ye karlo pehle ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously depicts a person with money, related to a public figure's business success and does not degrade any individual or group based on attributes.
+
+##########
+{"img": "images/fille27.png", "text": "Jo bollywood teri mitti song ke nahi balki apna time aayega jaise behude song ko award deta ho kaise maan lun ki wo Sushant Singh Rajpoot ke saath insaaf karta hoga. ", "label_full": "off", "label": 1}
+----------
+offensive - The meme implicitly degrades a Bollywood song by suggesting it is undeserving of an award and uses the tragic death of an actor to criticize the industry.
+
+##########
+{"img": "images/meme_78.png", "text": "Son, You will be the next Precident of Our Party ! That is okay but when is the Party ? Tu rahne de beta ", "label_full": "off", "label": 1}
+----------
+offensive - The meme implicitly mocks political figures of a specific nationality, potentially degrading their reputation through the use of stereotypical humor.
+
+##########
+{"img": "images/rhea41.png", "text": "*NCB tu sumon deepika padukone this week in bollywood drug probe* Rhea waiting for deepika like: ", "label_full": "off", "label": 1}
+----------
+offensive - Implies specific individuals' involvement in illicit activities, potentially degrading or defaming reputations, violating norms concerning respectful discourse about personal circumstances.
+
+##########
+{"img": "images/gay135.png", "text": "Me to sir: sir , wheat ko hindi mein kya bolte hai? Sir: Gehu (gehu) * everyone starts laughing in the class* confused sir to everyone* Aap muskura kyu rahe hai ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme is a humorous depiction of a classroom scenario that involves a word-play joke, with no intention to dehumanize or degrade any individual or group.
+
+##########
+{"img": "images/gay5.png", "text": "When u stalkin a guys Insta account and u tryna find any hints if he gay or not ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme uses humor about social media behaviors without degrading or attacking an individual or group based on any specific attribute like gender or sexual orientation.
+
+##########
+{"img": "images/ramdev30.png", "text": "Baba Ramdev to China: Kyu.. Hila Dala na ", "label_full": "off", "label": 1}
+----------
+offensive - The meme implicitly stereotypes and degrades Chinese people using a disrespectful phrase, potentially fostering xenophobia or cultural insensitivity.
+
+##########
+{"img": "images/ramdev21.png", "text": "Patanjali announces medicine for COVID 19 Baba Ramdev: paisa hi paisa hoga ", "label_full": "off", "label": 1}
+----------
+offensive - The meme mocks an individual's name linked to a commercialized health product launch, potentially demeaning religious or cultural sentiments tied to the individual.
+
+##########
+{"img": "images/ramdev63.png", "text": "Baba Ramdev providing \"Coronil\" Medicine ", "label_full": "off", "label": 1}
+----------
+non-offensive - This meme does not dehumanize, degrade, insult, or attack any individual or group based on protected attributes; it uses colloquial language for humorous intent.
+
+##########
+{"img": "images/meme_10.png", "text": "Salman Khan to Physics (especially Newton's Low) mai kya karega re baba jaan k ? ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously references a cultural figure in relation to a subject, without dehumanizing or attacking any individual or group based on the listed attributes.
+
+##########
+{"img": "images/eng369.png", "text": "Ek taraf se aaloo dalung, dusri taraf se sona nikalega! mere pass aisa koi gadget nhi hai Rahul... Doraemon Please!!. ", "label_full": "off", "label": 1}
+----------
+offensive - It degrades an individual through satire by implying incompetency related to achieving unrealistic outcomes, thus mocking their professional abilities for comedic effect.
+
+##########
+{"img": "images/eng486.png", "text": "Aql badam khane se nahi thokar khane se aati hai ", "label_full": "off", "label": 1}
+----------
+offensive - The meme contains derogatory language and phrases that could degrade or insult individuals based on their perceived intelligence, violating social norms and leading to offense.
+
+##########
+{"img": "images/meme_127.png", "text": "Baith Jaiye sabko gali dene ka mauka milega ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme uses humor and satire without targeting or demeaning any group based on ethnicity, nationality, gender, or other protected attributes.
+
+##########
+{"img": "images/eng463.png", "text": "Indian wedding groom bridge catering service boys ", "label_full": "off", "label": 1}
+----------
+offensive - The meme reinforces stereotypes and implicitly degrades the groom by juxtaposing cultural attire with Western suits, suggesting inferiority, which could perpetuate cultural prejudice and misunderstanding.
+
+##########
+{"img": "images/eng207.png", "text": "Me : aaj se padhai shuru .. top karega tera bhai !! aise kaise bc?? ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously illustrates procrastination, with no dehumanizing, degrading, or insulting references toward any individual or group based on sensitive attributes.
+
+##########
+{"img": "images/gay16.png", "text": "\"Samantha alway told herself that she 'd never make it to 21. she was right... but he did\" ", "label_full": "off", "label": 1}
+----------
+offensive - The meme implicitly insults and makes light of a serious topic, potentially trivializing gender identity which can be harmful and disrespectful to individuals experiencing similar situations.
+
+##########
+{"img": "images/meme_243.png", "text": "What is the diference between motorbike and boyfriedn Well . bike is first kicked than used and boyfriends first use than kicked ", "label_full": "off", "label": 1}
+----------
+offensive - The meme degrades and stereotypes romantic relationships by comparing partners to objects, implying disrespectful and transactional behavior, which can be demeaning to individuals in relationships.
+
+##########
+{"img": "images/ramdev108.png", "text": "Baba Ramdev to China Kyu... Hila diya na ", "label_full": "off", "label": 1}
+----------
+offensive - The meme could be construed as mocking or demeaning towards a nationality, potentially stereotyping or insulting a group based on perceived actions or behavior.
+
+##########
+{"img": "images/ramdev89.png", "text": "Patanjali Coronil Medicine: patanjali ne launch ki corona ki aayurvedic dava 'Coronil' *Le corona be like* Tune Mera Dhol bjaa diya ", "label_full": "off", "label": 1}
+----------
+offensive - The meme mocks and degrades a health product in a pandemic context, potentially targeting a specific cultural or national group, and trivializes serious health concerns.
+
+##########
+{"img": "images/gay90.png", "text": "Ha gay ha gay meme memes quickmeme", "label_full": "off", "label": 1}
+----------
+offensive - The meme uses derogatory language targeting sexual orientation, which can be insulting and dehumanizing, thus classifying it as offensive according to the definition provided.
+
+##########
+{"img": "images/eng504.png", "text": "Timepass hi hona hai to game khel liya karo kisi ki betiyaan khilauna nahi hain", "label_full": "off", "label": 1}
+----------
+offensive - The meme degrades individuals based on gender, using inappropriate language and suggesting harmful actions, which violates community guidelines and promotes disrespectful attitudes.
+
+##########
+{"img": "images/ramdev196.png", "text": "# Patanjali Coronil has been recognized by WHO as first evidence based medicine for corona. Meanwhile baba ramdev: dhanda karo toh bada karo purushottam bhai, warna mat karo. ", "label_full": "off", "label": 1}
+----------
+offensive - It mocks an individual's efforts related to public health initiatives, potentially undermining serious discussions around health and treatment.
+
+##########
+{"img": "images/rhea86.png", "text": "Use headphones Rhea Chakraborty Viral Video Meme ", "label_full": "off", "label": 1}
+----------
+offensive - The meme likely references a controversial incident linked to an individual, potentially dehumanizing or degrading them, which can be insensitive given its viral and public nature.
+
+##########
+{"img": "images/eng497.png", "text": "I am an actress, Tik - Tok Acha toh phir mai bhi Armay men hu PUBG khelta hu ", "label_full": "off", "label": 1}
+----------
+offensive - The meme implicitly degrades and mocks individuals who create TikTok videos by comparing them unfavorably to those in the army, suggesting a lack of value in TikTok content creators.
+
+##########
+{"img": "images/eng267.png", "text": "Desi guests be like ok chalo I'm leaving an hour later ol chalo I'm leaving 3 hours later ok chalo I'm leaving. ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously depicts a common social scenario without degrading or insulting any individual or group.
+
+##########
+{"img": "images/meme_299.png", "text": "Salman Khna Facing Jail Penalty  Ronaldo Decides to Take it ", "label_full": "off", "label": 1}
+----------
+non-offensive - This meme does not dehumanize, degrade, insult, or attack any individual or group based on personal attributes; it plays on irony and wordplay without malicious intent.
+
+##########
+{"img": "images/meme_251.png", "text": "Big Boss Other Freedom Fighters Reaction On Listening To Madhumitha Netaji , Gandhi, Nehru , Bhagat Singh ", "label_full": "off", "label": 1}
+----------
+offensive - The meme implies that historical freedom fighters would react negatively to a specific individual's actions, potentially degrading or insulting their legacy or contributions.
+
+##########
+{"img": "images/meme_122.png", "text": "Agar main tumhe ROSE Dun to kya tum mujshe sadi karoge ? Pagli, agar to roj degi to shadi ki kya jarurat ? Kutte, mean gulab ka fool kaha tha... ", "label_full": "off", "label": 1}
+----------
+offensive - The meme contains derogatory language that can dehumanize or insult individuals, which makes it fall into the offensive category based on the provided definitions.
+
+##########
+{"img": "images/meme_61.png", "text": "Pappu Walks Into A Bar There, He Met Modi Sarkar ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme references political figures without degrading or dehumanizing them; it engages in light humor typical in political discourse without crossing into offensive territory.
+
+##########
+{"img": "images/rhea72.png", "text": "Rhea Chakraborty names Sara Ali Khan and Rakul Preet Singh for huying and consuming drugs before going to jail Aye tum log bhi chalo na mere saath. ", "label_full": "off", "label": 1}
+----------
+offensive - The meme may implicitly attack or degrade individuals based on assumed criminal behavior without context or evidence, potentially affecting reputations of the mentioned individuals.
+
+##########
+{"img": "images/ramdev105.png", "text": "*Patanjali Launches coronil kit at just rs.545* *Companies who were planning to make billions out of vaccine* Fir apna kaam Khallas ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously comments on commercial competition in the health product market, without dehumanizing or insulting any individual or group based on personal attributes.
+
+##########
+{"img": "images/ramdev18.png", "text": "Baba Ramdev be like Medicine banane mai mera bhut experience hai ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme makes a humorous reference to a celebrity's claim of expertise without dehumanizing or degrading any individual or group based on personal attributes.
+
+##########
+{"img": "images/ramdev82.png", "text": "Rahul kya Coronil se Corona khatam ho jayega? Pata nhi Anjali ", "label_full": "off", "label": 1}
+----------
+offensive - The meme uses derogatory language implying someone or something is garbage, which could degrade or insult specific individuals or groups associated with the context shown.
+
+##########
+{"img": "images/gay30.png", "text": "Pls don't sir tip? Kabhi bhi vicks jagake muth marne ki koshish maat karna ", "label_full": "off", "label": 1}
+----------
+offensive - The meme includes content suggesting self-harm, which can be dehumanizing and insensitive, promoting distress or harm to individuals dealing with mental health issues.
+
+##########
+{"img": "images/gay6.png", "text": "gay people be like someone:so how did you meet your boyfriend? :) gay person: ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme does not degrade or insult; it depicts a scenario about meeting partners online, which is increasingly common and not inherently disrespectful towards any group.
+
+##########
+{"img": "images/eng202.png", "text": "Indian moms when boys get onsite opportunity \"Antha Aarupadayappam namba kooave irrukaan pai\" Indian momes girls get onsite opportunity podi po en ponatha thaandh po! ", "label_full": "off", "label": 1}
+----------
+offensive - This meme degrades individuals based on gender stereotypes, portraying mothers as preferentially biased towards sons, which can be harmful and perpetuates negative gender narratives.
+
+##########
+{"img": "images/gay57.png", "text": "My Son is gay full movie ", "label_full": "off", "label": 1}
+----------
+offensive - The meme potentially degrades or insults individuals based on sexual orientation by using "gay" in a context that might imply disrespect or negativity towards the LGBTQ+ community.
+
+##########
+{"img": "images/ramdev133.png", "text": "Patanjali to launch first and foremost evidence based Ayurvedic medicine 'Coronil' to treat coronabirus infection today Meanwhile baba to people: pichhli baar kya bola tha? boycott? ", "label_full": "off", "label": 1}
+----------
+offensive - This meme implicitly degrades and mocks a particular group or individual associated with Ayurvedic medicine and their response to coronavirus, potentially affecting their reputation.
+
+##########
+{"img": "images/gay44.png", "text": "Hey kapl you know what I'm learning hindi, Aisa kya ?? bhai bata wheat ko hindi mein kya bolte hai?? Gayhoon!!! Babaji ka thullu hume to pehle hi pata tha Babaji ka thullu funny joke, whatsap ", "label_full": "off", "label": 1}
+----------
+offensive - The meme uses derogatory language targeted at a specific community, which degrades and insults, thereby classifying it as offensive according to the provided definitions.
+
+##########
+{"img": "images/meme_331.png", "text": "Itna maza kyu aa raha hai ? Maine Hawa me Vimal Milayi ! ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme references popular culture without degrading or attacking any individual or group based on protected attributes, aligning with social norms for humor.
+
+##########
+{"img": "images/ramdev174.png", "text": "Coronil ? Oxygen ? Vaccine?  Kya baat kar rahe ho baba chalo chup chaap juice peelo ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme does not target or degrade any individual or group based on inherent attributes. It appears to make a humorous reference to a public health context.
+
+##########
+{"img": "images/eng506.png", "text": "Yeh banda ab tak zinda kaise hai yaar? Ashwothama hai apun, kabhi nahi marega ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme does not degrade or attack any individual or group based on the attributes like gender, ethnicity, or nationality and seems to be humorous in nature.
+
+##########
+{"img": "images/gay31.png", "text": "U r reality cute i love u Aana mere ghar y hai bsdk chutiya ", "label_full": "off", "label": 1}
+----------
+offensive - The meme uses Hindi offensive slang and depicts deceit in relationships, potentially degrading individuals for humor, thus not adhering to respectful communication.
+
+##########
+{"img": "images/ramdev66.png", "text": "Patanjali CEO Acharya Balkrishna: we never Told Coronil can cure or control coronavirus Aapne bola tha... Aapne bola tha.... Bechare bhul gye honge, Tension bahut hai n ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme uses humorous exaggeration about a topical issue without dehumanizing or attacking a specific group or individual based on protected attributes.
+
+##########
+{"img": "images/rhea91.png", "text": "Current situation of #Arnab Goswami: Ae! Bharat Sarkar... izzat se ha.. ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme comments on a well-known public figure's situation without degrading any specific group or individual, maintaining a humorous intent without violating community standards.
+
+##########
+{"img": "images/gay37.png", "text": "Google Maps: *go straight Karan Joker:Jocking , Whore ", "label_full": "off", "label": 1}
+----------
+offensive - The meme uses derogatory language that degrades individuals, which is considered insulting and offensive, thereby violating respectful communication standards.
+
+##########
+{"img": "images/meme_184.png", "text": "\"Remake King\" Has 10 Letters So Does \" Salman Khan\" ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme uses wordplay on an actor's nickname highlighting his film choices without degrading or attacking anyone based on protected attributes.
+
+##########
+{"img": "images/meme_52.png", "text": "Kejriwal ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously depicts a political figure without degrading or insulting any individual or group based on the listed attributes.
+
+##########
+{"img": "images/gay73.png", "text": "When yo boy forgets to wear socks whenever you gotta sleep together I dunoo man, seems kinda gay to me. ", "label_full": "off", "label": 1}
+----------
+offensive - The meme implies negative stereotypes about sexual orientation, suggesting that not wearing socks is inherently linked to being gay, which is derogatory and perpetuates harmful stereotypes.
+
+##########
+{"img": "images/ramdev60.png", "text": "After launching coronil Indian's - baba coronil le baba ramdev Humaare paas kyu aa rahe ho ? ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously references public reactions to a product launch without dehumanizing or attacking any specific individual or group based on the defined offensive attributes.
+
+##########
+{"img": "images/meme_267.png", "text": "\"Khush Naseeb Hain Vo Log Jinki Family Hoti Hain - Prem Ratan Dhan Payo - you Dont Need Enemies When You Have Family - Race -3 Happens Only In Salman Khan's Films ! ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously references common Bollywood tropes without targeting or demeaning a specific individual or group based on attributes listed in the offensive definition.
+
+##########
+{"img": "images/ramdev35.png", "text": "Memes i watch before baba Ramdev launch coronil ", "label_full": "off", "label": 1}
+----------
+offensive - The meme can be considered offensive as it features a partially nude caricature of a woman, which might degrade and objectify women, potentially attacking their dignity.
+
+##########
+{"img": "images/eng490.png", "text": "Pahle me saara din PUBG khelta tha fir ek din mausi ne kaha PUBG uninstall kar do mausi ab is duniya me nahi he", "label_full": "off", "label": 1}
+----------
+offensive - The meme jokes about violence or harmful actions against a person who advised against a personal preference, which could promote and normalize harmful behavior.
+
+##########
+{"img": "images/eng531.png", "text": "When someone ask you that why you become a bhatk? Shuru majburi mein kiye the, ab majja ah raha hai ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously references a social or religious group without any explicit or implicit dehumanization, degradation, or attack. It aligns with accepted social norms for humor.
+
+##########
+{"img": "images/gay42.png", "text": "With film offer provider 2007 cubrent situation 2018 now a days most of the fresh male models situation be like. ", "label_full": "off", "label": 1}
+----------
+offensive - The meme implies degrading stereotypes about male models, suggesting inappropriate behavior for career advancement, which can insult and dehumanize individuals based on their professional choices.
+
+##########
+{"img": "images/eng468.png", "text": "Attendance ke piche mat bhago class me ek crush bnao attendance jhak maar ke aapke piche aayegi. ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously suggests prioritizing making friendships over chasing attendance, without degrading or insulting any individual or group based on any attribute.
+
+##########
+{"img": "images/ramdev70.png", "text": "Ayush Ministry Bans Ads on Coronil :Le Ramdev Abhi mai stress mein hu, mat daanto mujhe", "label_full": "off", "label": 1}
+----------
+non-offensive - This meme critiques media practices without targeting or demeaning any specific individual or group based on inherent attributes.
+
+##########
+{"img": "images/eng232.png", "text": "gf kya hota hai? khada hota tera nahi gf matlab good friend.", "label_full": "off", "label": 1}
+----------
+offensive - The meme uses innuendo and wordplay to reference sexual themes, potentially demeaning relationships, thus making it offensive by implying inappropriate content humorously.
+
+##########
+{"img": "images/ramdev88.png", "text": "Ramdev's Patnajali launches 'Coronil' anti- Covid tabtets; 3-15 days cure; no mortality' peshab karte karte achanak dimag me aa gya ", "label_full": "off", "label": 1}
+----------
+offensive - The meme degrades and mocks an individual using a stereotype linked to current events, potentially offending based on depicted nationality or cultural context.
+
+##########
+{"img": "images/ramdev94.png", "text": "Baba Ramdev After making Coronil ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously comments on a business impact without dehumanizing or attacking any individual or group based on their attributes.
+
+##########
+{"img": "images/eng517.png", "text": "Exam kab se hai? kyun , aap de kar aaoge kya? ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously references student behavior and exam culture without making degrading or dehumanizing comments about any specific group or individual attributes.
+
+##########
+{"img": "images/meme_87.png", "text": "kahan Gaye Vo Log ? Jo Kahte The.. Ghar Bethe Lakhon Kamayen..!! ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously addresses unrealistic get-rich-quick schemes without degrading or insulting any individual or group based on their attributes.
+
+##########
+{"img": "images/eng608.png", "text": "Kal wo condom tum kitne ka laye the 10 rupaye ka had hoti at yaar mehangai ki jab main school me thi to 3 rupaye ka aata tha. ", "label_full": "off", "label": 1}
+----------
+offensive - The meme discusses condom prices humorously, which may imply promiscuity and related stigma, potentially degrading or embarrassing individuals discussing personal or sexual topics publicly.
+
+##########
+{"img": "images/rhea42.png", "text": "The girlfriend you want The girlfriend you get ", "label_full": "off", "label": 1}
+----------
+offensive - The meme degrades women by implying a negative comparison, thus potentially dehumanizing based on physical appearance, which is offensive under the provided definition.
+
+##########
+{"img": "images/meme_335.png", "text": "Jaha Izzat Nahi Hoti Waha Jana Nahi Chahiye - Chanakya Matlab Aadmi Ab Apne Ghar Bhi Na Jaye.... ", "label_full": "off", "label": 1}
+----------
+offensive - The meme suggests individuals are not respected at home, implicitly degrading familial relationships and potentially insinuating cultural or gender-based insults.
+
+##########
+{"img": "images/eng314.png", "text": "Kya hua hai? exam me fail hua? nahi ladki chhod ke gayi? nahi RCB fan hai ? ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme uses humor without dehumanizing, degrading, insulting, or attacking any individual or group based on the attributes stated. It focuses on a light-hearted sports fandom joke.
+
+##########
+{"img": "images/eng154.png", "text": "There is no place for corupt people in our party but why mumma ? because its houseful. ", "label_full": "off", "label": 1}
+----------
+offensive - The meme implicitly associates corruption with a specific political party, potentially dehumanizing and degrading its members by implying inherent dishonesty.
+
+##########
+{"img": "images/meme_348.png", "text": "Gadi ki Chabi Do Nplz Ghabrao Mat Road Pe Nai Chalaunga ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme involves a humorous situation about keys and has no language or imagery dehumanizing or degrading any group or individual based on their attributes.
+
+##########
+{"img": "images/ramdev97.png", "text": "Chand pe hai Apun ", "label_full": "off", "label": 1}
+----------
+offensive - The meme mocks a specific individual (Baba Ramdev) by implying disrespect for the media, potentially damaging his reputation and could be interpreted as disrespectful.
+
+##########
+{"img": "images/gay126.png", "text": "Leave no man behind leave no man's behind ", "label_full": "off", "label": 1}
+----------
+offensive - The meme is offensive as it uses wordplay to mock the military motto, potentially degrading military personnel and their values by making a crude joke.
+
+##########
+{"img": "images/meme_196.png", "text": "Boy : happy birthday gatar girl : abe halkat mera naam sonali hai boy : hnn toh 100 naali milkar hi toh gatar bante hai", "label_full": "off", "label": 1}
+----------
+offensive - The meme uses derogatory language, comparing a name to a sewer. It dehumanizes and insults an individual, violating the guidelines for non-offensive content.
+
+##########
+{"img": "images/rhea70.png", "text": "Paisa gayab roast Rhea Chakraborty. ", "label_full": "off", "label": 1}
+----------
+offensive - The meme's wording degrades and discredits an individual by implying financial misconduct, potentially harming their reputation based on perceived actions.
+
+##########
+{"img": "images/ramdev181.png", "text": "Patnajali trust denies ima's allegations. ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme provides information about a denial of allegations, without dehumanizing or degrading any group, thus adhering to social norms and not being offensive.
+
+##########
+{"img": "images/eng263.png", "text": "New years with family New years with friends ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously contrasts behavior with family versus friends during New Year's without targeting any specific group or individual for negative portrayal.
+
+##########
+{"img": "images/meme_3.png", "text": "Me adjusting table fan", "label_full": "off", "label": 1}
+----------
+offensive - The meme uses a foot touching a face to humorously depict adjusting a fan, potentially degrading the depicted culture where using feet this way is considered disrespectful.
+
+##########
+{"img": "images/eng607.png", "text": "Tumhara dil sach mein bahot soft hai BSDK, Woh dil nahi hai ", "label_full": "off", "label": 1}
+----------
+offensive - The meme uses derogatory language "BSD**" insulting an individual, and may propagate disrespectful attitudes towards people.
+
+##########
+{"img": "images/eng525.png", "text": "Woman kills 8 puppies in front of their mother\" to teach her a lessong\" ", "label_full": "off", "label": 1}
+----------
+offensive - The meme references animal cruelty, which can be distressing and is considered degrading and dehumanizing for both animals and individuals who oppose such actions.
+
+##########
+{"img": "images/ramdev64.png", "text": "Main nahi bachega mar jayega main. ", "label_full": "off", "label": 1}
+----------
+offensive - The meme potentially mocks or degrades a health-related issue by presenting "Coronil" in a possibly sarcastic context, which may hurt sentiments related to health conditions.
+
+##########
+{"img": "images/rhea27.png", "text": " Before landing After Landing in pechinki. ", "label_full": "off", "label": 1}
+----------
+offensive - The meme objectifies and degrades women by focusing exclusively on their body and attire, which is disrespectful and perpetuates gender stereotypes.
+
+##########
+{"img": "images/ramdev160.png", "text": "Patnajali coronil tablets Ramdev baba ke dawaai ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme uses humor related to well-known products without targeting or degrading any individual or group based on protected attributes.
+
+##########
+{"img": "images/eng247.png", "text": "Meeting with best friend after long time expections relaity ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously contrasts expectations versus reality in friendships without targeting or demeaning any individual or group.
+
+##########
+{"img": "images/ramdev154.png", "text": "Anything bad happens in the country. Twitter: #Boycottkhans Khans: Hum koi mandir ka ghanta hai ki koi bhi aake jaata hai ", "label_full": "off", "label": 1}
+----------
+offensive - The meme uses dismissive language towards a specific surname, potentially dehumanizing an ethnic or religious group, thus violating social norms and fostering derogatory stereotypes.
+
+##########
+{"img": "images/gay87.png", "text": "*Middle school gym class* \"Hey pass the ball back\" Me: gay fear ", "label_full": "off", "label": 1}
+----------
+offensive - The meme implies negative stereotypes or fear associated with being gay, which dehumanizes and insults individuals based on their sexual orientation.
+
+##########
+{"img": "images/ramdev26.png", "text": "Vivo Indian premier league , Patanjali bharat premier league ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously comments on brand sponsorship changes in a cricket league without degrading or dehumanizing any group or individual based on personal attributes.
+
+##########
+{"img": "images/gay26.png", "text": "him; do u eat ass? Me: ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme uses a playful context with a fictional character, lacking any reference to dehumanizing or discriminatory elements based on the listed attributes.
+
+##########
+{"img": "images/meme_329.png", "text": "Guys ! think we can finaly get rid of Salman Khan we just neet to tell Thanos that bhai has one of his infinity stores Aur bana Prem Ratan Dhan Paayo saale. baap ka dada ka sabka badla lega re tera Thanos. ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme uses humor related to a Bollywood movie and fictional character Thanos without dehumanizing or attacking any individual or group.
+
+##########
+{"img": "images/meme_199.png", "text": "Jaha Izzat Nahi Hoti Waha Jana Nahi Chahiye - Chanakya Matlab Aadmi Apne Ghar Bhi Na Jaye.... ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme uses humor about self-respect in relationships without targeting any specific group or individual based on discriminatory attributes.
+
+##########
+{"img": "images/rhea12.png", "text": "Viewers ye koi tarika hai bheek mangne ka? ", "label_full": "off", "label": 1}
+----------
+offensive - The meme implicitly dehumanizes a person by suggesting their behavior is comparable to begging, which can be degrading and insulting based on social and cultural norms.
+
+##########
+{"img": "images/gay27.png", "text": "Cant understand 90% gf what me says and he is better than justin bieber leats his head on another man's sholder in a colorful twoel still not as gay as justin bieber.", "label_full": "off", "label": 1}
+----------
+offensive - The meme implicitly insults Justin Bieber by suggesting his perceived sexual orientation or behavior is negative, demeaning him through comparison with others based on offensive stereotypes.
+
+##########
+{"img": "images/ramdev169.png", "text": "Put mustard oil through nose, corona will flow into stomach, die in acid; Ramdev Then  Coronavirus treatment : Ramdev's Patanjali launches Coronil kit for rs 545 Now tu bohot badal gaya hai re baba... ", "label_full": "off", "label": 1}
+----------
+non-offensive - This meme humorously contrasts past and present events without degrading or attacking any individual or group based on personal attributes.
+
+##########
+{"img": "images/gay116.png", "text": "The hardest part of vaping is telling your parents your are gay ", "label_full": "off", "label": 1}
+----------
+offensive - The meme implicitly mocks the coming-out experience, potentially trivializing struggles based on sexual orientation, which can be dehumanizing and degrading to the LGBTQ+ community.
+
+##########
+{"img": "images/fille71.png", "text": "Hrithik galat hai , Karan aur Mahesh bhi galat hain... Alia bhi galat hai , Tapsee aur swara bhi galat hain... Tu kya padh raha hai tu bhi galat hai ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously lists fictional-personal names without showing any degrading or offensive content towards any individual or group based on attributes mentioned in the definitions.
+
+##########
+{"img": "images/ramdev49.png", "text": "Patanjali launches ayurvedic drug coronil to cure Covid-19 *Meanwhile baba Ramdev to other scientist* kyu hila daala na ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously references a news event without targeting any individual or group based on identity attributes, keeping the joke within socially acceptable boundaries.
+
+##########
+{"img": "images/eng412.png", "text": "Bjijli kahan se aati hai ! mama ke yahan se. kaise ?? jab bhi bijli jaati hai tab papa bolte hai.. kaat di \"saalon ne ! ", "label_full": "off", "label": 1}
+----------
+offensive - The meme uses a derogatory term to describe a group of people, which is demeaning and disrespectful, and thus falls under the offensive category.
+
+##########
+{"img": "images/gay3.png", "text": "Google Maps: *go straight Karan Joker:Jocking , Whore ", "label_full": "off", "label": 1}
+----------
+offensive - The meme uses derogatory language, implicitly attacking and demeaning individuals based on presumed orientation, thereby violating social norms and promoting a negative stereotype.
+
+##########
+{"img": "images/eng391.png", "text": "Daya dekho phir ek chutiye ki gaand me khujli huyi funniest -non- veg -hindi-memes -1 - jokes king. ", "label_full": "off", "label": 1}
+----------
+offensive - This meme uses derogatory language, which can be considered as degrading and insulting, thus leading to the classification of the meme as offensive.
+
+##########
+{"img": "images/eng532.png", "text": "When yuo try to solve the question without using teacher's method: Mama kai kya bhosdike mama hai... tereko daar nai lagta. ", "label_full": "off", "label": 1}
+----------
+offensive - The meme uses derogatory language which degrades and insults, violating social norms, and can be offensive based on its language.
+
+##########
+{"img": "images/gay0.png", "text": "Oye 'wheat' ko Hindi mein kya kehte hain ??? Gayhoon Tu gay hai? ", "label_full": "off", "label": 1}
+----------
+offensive - The meme uses wordplay to insinuate homosexuality as a joke, which can perpetuate stereotypes and offend individuals based on sexual orientation.
+
+##########
+{"img": "images/meme_369.png", "text": "Accident ke waqt Salman Khan sharab ke nashe me nahi the balki sharam Salman Khan ke nashe me thi. ", "label_full": "off", "label": 1}
+----------
+offensive - The meme uses wordplay to reference a tragic accident, potentially making light of serious events, which can be perceived as disrespectful and degrading to those affected.
+
+##########
+{"img": "images/eng581.png", "text": "What if Digvijay Singh. Manish Tiwari and Manishankar Ayyar are actually RSS members and they're making congress look like idiots on purpose ", "label_full": "off", "label": 1}
+----------
+offensive - The meme implies disrespect and derogatorily stereotypes certain individuals based on political affiliations, which can be dehumanizing or degrading to those mentioned.
+
+##########
+{"img": "images/rhea63.png", "text": "Rhea Chakraborty aur Bhaj Souvik ke drugs paddler se rista. ", "label_full": "off", "label": 1}
+----------
+offensive - The meme implicitly accuses individuals of drug-related associations, potentially harming reputations and promoting negative stereotypes, violating norms against defamation and degradation based on unproven accusations.
+
+##########
+{"img": "images/ramdev78.png", "text": "Patanjali lunches it's medicine 'CORONIL' claims drug can cure corona with in 14 days *Ramdev baba Kabhi Kabhi lagta hai apun hi scientist hai ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously comments on a company's claim about a COVID-19 cure, without targeting any individual or group based on sensitive attributes, adhering to social norms.
+
+##########
+{"img": "images/meme_372.png", "text": "Main Pida hi hot hui thi Gand Nahi Jala Tumhari Maa Ka. ", "label_full": "off", "label": 1}
+----------
+offensive - The meme uses vulgar language and implicitly insults individuals, which can be demeaning and disrespectful, thus qualifying it as offensive.
+
+##########
+{"img": "images/meme_77.png", "text": "Mere Jyada Dost Nahi Hain Par Jitne Bhi Hain Sbhh Chutiye Hain BC. ", "label_full": "off", "label": 1}
+----------
+offensive - The meme contains derogatory language and gestures, potentially demeaning an individual or group, which could be considered disrespectful and insulting.
+
+##########
+{"img": "images/meme_14.png", "text": "Twadaa road 'Road' Saadda road 'Foothpath' -: Salman Khan ", "label_full": "off", "label": 1}
+----------
+non-offensive - This meme references a public incident involving Salman Khan humorously without targeting anyone based on race, gender, or any other group, maintaining social norms.
+
+##########
+{"img": "images/ramdev124.png", "text": "Yahan bhi hoga wahan bhi hoga ab toh saare jahan mein hoga kya mera hai jalwa! tera kaam ho gaya tuja ", "label_full": "off", "label": 1}
+----------
+non-offensive - This meme uses humor through movie references without targeting or demeaning any individual or group based on the listed attributes, aligning with social norms.
+
+##########
+{"img": "images/meme_102.png", "text": "when i use the Hindi meme templates instead of using English meme templates. Reddit Users: Marna Hai kya Bhosdike Marna hai.... tereko daar nai lagta. ", "label_full": "off", "label": 1}
+----------
+offensive - The meme uses derogatory language that can insult or degrade individuals, violating social norms of respectful communication.
+
+##########
+{"img": "images/rhea40.png", "text": "For Sushant Singh Rajput for Mahest Bhatt Dear boys.... Ankita jaisi ko dil pe Rakho. ", "label_full": "off", "label": 1}
+----------
+offensive - The meme implicitly targets specific individuals, potentially leading to degradation and harassment, thus violating the guidelines against targeting individuals or groups based on attributes or actions.
+
+##########
+{"img": "images/eng197.png", "text": "*pak fans poora payalum thothu irukkanungale. ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously references cricket fans' bias towards various players without attacking or dehumanizing any individual or group based on attributes like ethnicity or nationality.
+
+##########
+{"img": "images/rhea50.png", "text": "Rhea Chakraborty confesses Sara Ali Khan, Rakul Preet Singh, Simone Khambatta did drugs with her & Sushant Arey mujhe chakkar aane laga hai ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme refers to a widely reported news story without dehumanizing or insulting any individuals or groups based on personal attributes.
+
+##########
+{"img": "images/fille34.png", "text": "*Varun Dhawan demands CBI enquiry in Sushant's case* le karan johar: saala saanp ko paal raha tha ", "label_full": "off", "label": 1}
+----------
+offensive - This meme implicitly degrades an individual by associating them with a negative stereotype, potentially attacking their character or intentions related to a sensitive and high-profile case.
+
+##########
+{"img": "images/fille59.png", "text": "Mai tumhari girlfriend nahi hoon le Sushant: Ti jao tereko pata nahi hai lekin tu hai ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme uses a humorous exchange from a show or movie, without dehumanizing, insulting, or attacking any individual or group based on attributes.
+
+##########
+{"img": "images/ramdev123.png", "text": "Ptanajali launched coronil while others are yet to find solution against COVID-19 It would cause monopoly in the market which favours patanjali aapda ko avasar me badal diya ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme does not target or demean any particular individual or group based on protected attributes and instead comments on a company’s actions and market competition.
+
+##########
+{"img": "images/ramdev191.png", "text": "# Patanjali launches Ayurvedic drug coronil to cure COVID-19 Meanwhile Baba Ramdev to other scientists kyu hila daala na ", "label_full": "off", "label": 1}
+----------
+offensive - The meme targets a specific individual, Baba Ramdev, using derogatory language to implicitly insult his actions, which could be offensive to specific cultural or religious groups.
+
+##########
+{"img": "images/meme_70.png", "text": "Rohit Shetty meets Narendra Modi Next Day ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme humorously portrays a scenario without directly dehumanizing or insulting any individual or group based on the defined attributes.
+
+##########
+{"img": "images/eng471.png", "text": "Dad : keha ja rahe ho ? Me : school ja raha hu... extra class hai. dad : jo khel tum ab khel rahe ho. Main yeh khel pehle khel chuka hoon. ", "label_full": "off", "label": 1}
+----------
+non-offensive - The meme plays with humorous dialogue about school and relatable experiences without degrading or attacking any specific individual or group based on attributes.
+
+##########

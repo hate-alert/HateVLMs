@@ -1,0 +1,2000 @@
+{"id": 8291, "img": "img/08291.png", "label": 1, "text": "white people is this a shooting range"}
+----------
+hateful - The text targets and mocks a specific race with a stereotype related to violence, fulfilling the definition of hateful speech by dehumanizing and attacking
+##########
+{"id": 46971, "img": "img/46971.png", "label": 1, "text": "bravery at its finest"}
+----------
+hateful - The meme appears to mock or dehumanize individuals, particularly targeting their characteristics. The top and bottom images create a contrast that can be
+##########
+{"id": 3745, "img": "img/03745.png", "label": 1, "text": "your order comes to $37.50 and your white privilege discount brings the total to $37.50"}
+----------
+hateful - The meme perpetuates racial stereotypes and implies racial favoritism or bias, which can be seen as mocking or minimizing issues related to race
+##########
+{"id": 83745, "img": "img/83745.png", "label": 1, "text": "it is time.. to send these parasites back to the desert"}
+----------
+hateful - The text refers to people as "parasites" and suggests sending them "back to the desert," which is dehumanizing and implies
+##########
+{"id": 80243, "img": "img/80243.png", "label": 1, "text": "mississippi wind chime"}
+----------
+hateful - The image and text reference a racist and violent practice, targeting individuals based on race, thus dehumanizing them and promoting violence.
+##########
+{"id": 5279, "img": "img/05279.png", "label": 1, "text": "knowing white people , that's probably the baby father"}
+----------
+hateful - The meme dehumanizes people by suggesting a relationship between a person and an animal based on ethnicity, which is a form of indirect attack
+##########
+{"id": 1796, "img": "img/01796.png", "label": 1, "text": "life hack #23 how to get stoned with no weed"}
+----------
+hateful - The meme indirectly implies drug use and mocks the clothing of the individuals in the image, which can be seen as a statement of inferiority
+##########
+{"id": 53046, "img": "img/53046.png", "label": 1, "text": "you've heard of elf on a shelf, now get ready for"}
+----------
+not-hateful - The meme references a popular rhyme format (e.g., "elf on a shelf") and does not attack or mock any group based
+##########
+{"id": 82301, "img": "img/82301.png", "label": 1, "text": "cooooooooooooon!!!!"}
+----------
+hateful - The text "cooooooooooooon!!!!" is a derogatory term often used as a racial slur, making this meme a de
+##########
+{"id": 31752, "img": "img/31752.png", "label": 1, "text": "when you get to choose your own mental illness"}
+----------
+hateful - The meme mocks mental illness, which is a serious condition, and potentially targets LGBTQ+ individuals by using the rainbow imagery, considered dehuman
+##########
+{"id": 27635, "img": "img/27635.png", "label": 1, "text": "dat ass ahmarbkrich*d"}
+----------
+hateful - The meme includes dehumanizing speech by comparing people to animals irresponsibly, which is a form of an indirect attack on identifiable groups based
+##########
+{"id": 80597, "img": "img/80597.png", "label": 1, "text": "look! it says it right here! we can fuck goats!"}
+----------
+hateful - This meme dehumanizes and mocks a group based on national or ethnic stereotypes, and implies inferiority through derogatory and offensive statements.
+##########
+{"id": 45368, "img": "img/45368.png", "label": 1, "text": "enough is enough children are more important than freaks"}
+----------
+hateful - The meme uses the term "freaks," which is dehumanizing and derogatory. This directly attacks individuals based on gender identity
+##########
+{"id": 17963, "img": "img/17963.png", "label": 1, "text": "removes polish with chemicals nobody bats an eye removes polish with chemicals everybody loses his shit"}
+----------
+not-hateful - The meme plays on a pun involving the word "polish" without making any derogatory or dehumanizing statements against any group
+##########
+{"id": 53968, "img": "img/53968.png", "label": 1, "text": "when you have an 80 point iq but it's the highest in your village"}
+----------
+hateful - The meme mocks intelligence levels by implying inferiority based on IQ, which can be dehumanizing and offensive towards people from specific communities or
+##########
+{"id": 10749, "img": "img/10749.png", "label": 1, "text": "my sense of humor is so dark it picks cotton"}
+----------
+hateful - This meme is dehumanizing and makes a mockery of the historical suffering and oppression of Black people during slavery, specifically referencing the forced
+##########
+{"id": 25149, "img": "img/25149.png", "label": 1, "text": "if this offends you you might be lack toes intolerant"}
+----------
+not-hateful - The meme uses a pun playing on the phrase "lactose intolerant" without attacking or dehumanizing any specific group based
+##########
+{"id": 87520, "img": "img/87520.png", "label": 1, "text": "yes, we know trump said \"mexico will pay for the wall\" but now mexicans are the wall. that boy good!!!!"}
+----------
+hateful - The meme is dehumanizing as it implies Mexicans are being used as a physical barrier, reducing them to objects, and targets individuals
+##########
+{"id": 89071, "img": "img/89071.png", "label": 1, "text": "they don't wash their ass with water and they eat their daughters' ass"}
+----------
+hateful - This meme includes dehumanizing and derogatory language based on cultural or personal hygiene practices, which constitutes a direct attack on people and can
+##########
+{"id": 9563, "img": "img/09563.png", "label": 1, "text": "safe sex isis style"}
+----------
+hateful - The meme dehumanizes specific individuals by comparing them to a goat, which qualifies as violent and dehumanizing speech according to the given
+##########
+{"id": 72048, "img": "img/72048.png", "label": 1, "text": "hurry up barack will be home soon"}
+----------
+hateful - The meme is dehumanizing, comparing a person to an animal, which is a direct attack based on race and gender.
+##########
+{"id": 49826, "img": "img/49826.png", "label": 1, "text": "white people on cinco de mayo vs. every other day"}
+----------
+hateful - The meme perpetuates stereotypes based on ethnicity and mocks cultural appropriation, which can be seen as dehumanizing and offensive.
+##########
+{"id": 26453, "img": "img/26453.png", "label": 1, "text": "a ww2 jewish prisoner trying to escape the auchschwitz showers (1943, colorized) wwii jew escaping hitler's rath"}
+----------
+hateful - The meme mocks the Holocaust by referencing a notorious Nazi extermination method and generalizes a group based on religion, making it a dehuman
+##########
+{"id": 12650, "img": "img/12650.png", "label": 1, "text": "which one has tranny problems?"}
+----------
+hateful - The term "tranny" is derogatory towards transgender individuals, constituting an indirect attack based on gender identity which is dehumanizing
+##########
+{"id": 2568, "img": "img/02568.png", "label": 1, "text": "whatsthe difference between heroin and i? cops think twice before shooting heroin"}
+----------
+hateful - The text implies that law enforcement treats people as less valuable based on racial characteristics, suggesting inferiority and promoting division. This infers discrimination
+##########
+{"id": 83954, "img": "img/83954.png", "label": 1, "text": "head teachers given the power to ban the burqa in british schools share if you want a full ban in britain!"}
+----------
+hateful - The meme promotes exclusion by suggesting a ban on the burqa, which is tied to a specific religion and can lead to discrimination based on
+##########
+{"id": 24316, "img": "img/24316.png", "label": 1, "text": "sharks don't attack him why? they think it's whale shit"}
+----------
+hateful - The meme dehumanizes a person by comparing them to whale excrement, which is a form of violent and dehumanizing speech.
+##########
+{"id": 62035, "img": "img/62035.png", "label": 1, "text": "thank god my ass needed a break"}
+----------
+not-hateful - The meme features a humorous statement with an image of a goat. There is no attack or dehumanization based on protected characteristics.
+##########
+{"id": 65342, "img": "img/65342.png", "label": 1, "text": "barn army enlist, and bomb ant hills \"grab your pitchfork and meet at the barn\""}
+----------
+hateful - The meme implies attacking a particular religious or ethnic group, using violent imagery and calls for harmful actions, constituting dehumanizing speech and
+##########
+{"id": 92058, "img": "img/92058.png", "label": 1, "text": "how black people became christians"}
+----------
+hateful - This meme indirectly attacks a racial group by implying forced conversion, which is a sensitive and potentially dehumanizing representation of their religious journey.
+##########
+{"id": 58672, "img": "img/58672.png", "label": 1, "text": "did you know that the chinese eat dogs savages disgusting"}
+----------
+hateful - The meme dehumanizes and attacks people based on their nationality by labeling them as "savages" and "disgusting," which
+##########
+{"id": 54069, "img": "img/54069.png", "label": 1, "text": "when you decide to go full gas"}
+----------
+hateful - The meme alludes to the Holocaust, using the phrase "go full gas" in a context related to concentration camps, which is de
+##########
+{"id": 91586, "img": "img/91586.png", "label": 1, "text": "left the kitchen too many times"}
+----------
+hateful - The text reinforces a sexist stereotype by implying women should only be in the kitchen, which is demeaning and discriminatory based on gender.
+##########
+{"id": 87130, "img": "img/87130.png", "label": 1, "text": "finally finding the right tutorial you need indian accent"}
+----------
+hateful - Using "Indian accent" to imply difficulty in finding a good tutorial exploits a stereotype and is mocking, thus dehumanizing based on ethnicity
+##########
+{"id": 95640, "img": "img/95640.png", "label": 1, "text": "syrian rape survivor speaks out"}
+----------
+hateful - The meme dehumanizes a Syrian rape survivor by comparing the person to an animal, which is a form of indirect attack that is violent
+##########
+{"id": 47819, "img": "img/47819.png", "label": 1, "text": "oh, addiction isn't a disease because it started with a choice?? tell me more about how the chlamydia in your crotch isn't a disease, yet it started with a choice"}
+----------
+hateful - This meme uses dehumanizing and mocking language about a disease and sexually transmitted infection, targeting individuals' health conditions and choices, which can
+##########
+{"id": 59140, "img": "img/59140.png", "label": 1, "text": "wanna go masturbate? fuck yeah! masturbating!"}
+----------
+hateful - The meme mocks a person with a disability, which is considered dehumanizing and falls under the definition of hateful content.
+##########
+{"id": 13647, "img": "img/13647.png", "label": 1, "text": "she said girls run the world... so i told her get back in the kitchen"}
+----------
+hateful - The meme promotes gender stereotypes and suggests the inferiority of women by implying they should stay in traditional, subservient roles, which is
+##########
+{"id": 65832, "img": "img/65832.png", "label": 1, "text": "why love one but eat the other ? i don't get it"}
+----------
+not-hateful - This meme promotes empathy for animals and questions the inconsistency in how different animals are treated, without making any hateful or dehumanizing
+##########
+{"id": 57621, "img": "img/57621.png", "label": 1, "text": "if this gets 1k likes i'll post to islam how we see muslims how muslims see us"}
+----------
+hateful - The meme uses harmful stereotypes about Muslims, proposing a divisive us-versus-them perspective, which constitutes an indirect attack based on religion
+##########
+{"id": 40982, "img": "img/40982.png", "label": 1, "text": "and just like that... this sandwich maker doubles as ironing board"}
+----------
+hateful - The meme dehumanizes and demeans a woman by referring to her as a "sandwich maker" and comparing her usefulness to an
+##########
+{"id": 43275, "img": "img/43275.png", "label": 1, "text": "my husband is always pushing me around... and talking behind my back"}
+----------
+not-hateful - The meme uses wordplay based on the literal and figurative meanings without targeting any specific characteristic related to hate as defined.
+##########
+{"id": 12973, "img": "img/12973.png", "label": 1, "text": "someone added to much soap to the dishwasher again"}
+----------
+not-hateful - The meme humorously depicts a common household mistake without attacking or dehumanizing anyone based on personal characteristics.
+##########
+{"id": 74350, "img": "img/74350.png", "label": 1, "text": "a head diaper is required when you have shit for brains"}
+----------
+hateful - The meme employs dehumanizing language and imagery, attacking individuals based on their appearance, potentially implying inferiority or targeting specific cultural or religious
+##########
+{"id": 2478, "img": "img/02478.png", "label": 1, "text": "must..resist...urge to.. kill whitey."}
+----------
+hateful - The meme suggests a violent and racially charged attack ("kill whitey"), which is dehumanizing and clearly an attack based on race
+##########
+{"id": 51607, "img": "img/51607.png", "label": 1, "text": "49 people were killed at christchurch muslim 49 people were killed at christchurch mosques muslim"}
+----------
+hateful - The meme references a tragic event (Christchurch shooting) and appears to mock it by focusing on "muslim," which can be seen
+##########
+{"id": 65403, "img": "img/65403.png", "label": 1, "text": "money is evil give it to us"}
+----------
+hateful - It indirectly attacks a religious group by suggesting they are hypocritical or greedy, which is dehumanizing and could contribute to negative stereotypes or
+##########
+{"id": 29750, "img": "img/29750.png", "label": 1, "text": "this cat is getting raped tonight"}
+----------
+hateful - The meme uses dehumanizing language and references sexual violence, which is a severe and inappropriate attack, making the content hateful.
+##########
+{"id": 26547, "img": "img/26547.png", "label": 1, "text": "that's the way allah allah i like it"}
+----------
+hateful - The meme dehumanizes people by comparing them to animals, which constitutes a dehumanizing attack based on religious characteristics, making it hateful
+##########
+{"id": 2143, "img": "img/02143.png", "label": 1, "text": "doesnt have food, water, electricity proud of nuclear weapons"}
+----------
+hateful - The meme attacks a group based on its nationality and status, implying inferiority related to lack of basic needs while mocking their pride in nuclear
+##########
+{"id": 68192, "img": "img/68192.png", "label": 1, "text": "scientist are working hard to cure them all"}
+----------
+hateful - The meme mocks same-sex relationships by implying they need a "cure," which is dehumanizing and targets people based on sexual orientation
+##########
+{"id": 52603, "img": "img/52603.png", "label": 1, "text": "feeling kinda cute might steal your shit later.. idk"}
+----------
+not-hateful - The meme doesn't attack or demean any group based on characteristics like race, gender, or religion; it uses informal language for humor that
+##########
+{"id": 5349, "img": "img/05349.png", "label": 0, "text": "normal day in a islamic country"}
+----------
+hateful - The meme implies a negative stereotype about Islamic countries, which can be considered an indirect attack based on religion, promoting harmful generalizations and de
+##########
+{"id": 6491, "img": "img/06491.png", "label": 1, "text": "tranny for sale"}
+----------
+hateful - The term "tranny" is a derogatory slur targeting transgender individuals, making the meme an indirect attack based on gender identity.
+##########
+{"id": 74013, "img": "img/74013.png", "label": 1, "text": "nurse: yes sir, we are having mashed potatoes today alzheimer's patient: i don't remember asking you a god damn thing"}
+----------
+hateful - The meme mocks an Alzheimer's patient's condition, making light of their memory loss. This is dehumanizing and targets a disability, which class
+##########
+{"id": 27485, "img": "img/27485.png", "label": 1, "text": "thats the way allah allah i like it!!!"}
+----------
+hateful - The meme dehumanizes an individual by comparing them to a non-human animal and mocks religious practices, which constitutes an indirect attack based on
+##########
+{"id": 13026, "img": "img/13026.png", "label": 1, "text": "under the name of multiculturalism we let terrorist into this country"}
+----------
+hateful - This meme indirectly attacks and dehumanizes people based on religion or immigration status by associating multiculturalism with terrorism.
+##########
+{"id": 17265, "img": "img/17265.png", "label": 0, "text": "meanwhile in baltimore"}
+----------
+hateful - The meme dehumanizes people in Baltimore by comparing them to animals (baboons), which constitutes a violent and dehumanizing attack
+##########
+{"id": 91405, "img": "img/91405.png", "label": 0, "text": "wears rag on her head so her brother husband doesnt want to molest her"}
+----------
+hateful - This meme dehumanizes and mocks individuals based on gender and religion, implying they need to follow practices to avoid sexual violence from close family
+##########
+{"id": 14026, "img": "img/14026.png", "label": 1, "text": "told girlfriend that mom is deaf so speak loud and slow told mom that girlfriend is retarded"}
+----------
+hateful - The meme uses offensive language and mocks disabilities, which dehumanizes individuals based on their disabilities and perpetuates harmful stereotypes.
+##########
+{"id": 18945, "img": "img/18945.png", "label": 1, "text": "when you decide to go full gas"}
+----------
+hateful - The image depicts a burning symbol which is historically associated with racial hatred and violence, promoting an indirect attack based on race or ethnicity.
+##########
+{"id": 83920, "img": "img/83920.png", "label": 1, "text": "just under 17 and a half years ago, 19 people were allowed into the us who should not have been all these years later, we are told that the answer to safety is to allow everyone in"}
+----------
+hateful - The meme indirectly attacks people based on nationality or immigration status, implying that all immigrants pose a threat to safety, which can be dehuman
+##########
+{"id": 83497, "img": "img/83497.png", "label": 0, "text": "different types of radicalization"}
+----------
+hateful - This meme indirectly attacks people by comparing different forms of radicalization, potentially targeting ethnicity or religion, and perpetuating harmful stereotypes.
+##########
+{"id": 4569, "img": "img/04569.png", "label": 0, "text": "when is the time to eat i am hungry"}
+----------
+not-hateful - This meme features a pig with a humorous text about being hungry, and does not attack or dehumanize any group of people or
+##########
+{"id": 39607, "img": "img/39607.png", "label": 1, "text": "those stupid basterds thought it was a real shower"}
+----------
+hateful - The meme dehumanizes people and mocks a hate crime by making a insensitive reference to the Holocaust, violating the definition of hateful content.
+##########
+{"id": 9715, "img": "img/09715.png", "label": 1, "text": "i started a business that sells landmines disguised as prayer mats.. ..prophets are going through the roof"}
+----------
+hateful - The meme mockingly targets a religious practice (use of prayer mats) by implying violence, which is dehumanizing and disrespectful towards
+##########
+{"id": 1925, "img": "img/01925.png", "label": 1, "text": "i am not racist i just don't like brown sugar"}
+----------
+hateful - The meme uses a play on words to indirectly refer to people with brown skin, making a statement that could be seen as dehumanizing
+##########
+{"id": 94813, "img": "img/94813.png", "label": 0, "text": "thats the way allah allah i like it!!!"}
+----------
+not-hateful - The meme doesn't attack or dehumanize any group. It seems to be a playful expression, and it respects social norms without implying
+##########
+{"id": 29437, "img": "img/29437.png", "label": 1, "text": "what can happen if you eat wheaties for 38 years"}
+----------
+hateful - The meme indirectly attacks a person's gender identity by mocking their past and present appearance, which is dehumanizing and falls under hateful content as
+##########
+{"id": 95038, "img": "img/95038.png", "label": 0, "text": "when you take these pics we think about cumming in your mouth"}
+----------
+hateful - The meme contains explicit sexual content suggesting non-consensual thoughts, which is dehumanizing and inappropriate, making it hateful.
+##########
+{"id": 64891, "img": "img/64891.png", "label": 1, "text": "lebanon: before muslims after muslims but don't worry! after islam takes over there'll be a golden age.. apparently"}
+----------
+hateful - This meme attacks people based on religion, implying a negative impact due to the presence of Muslims and Islam, which falls under dehumanizing
+##########
+{"id": 63280, "img": "img/63280.png", "label": 1, "text": "so you're never going to forgive the germans because of the holocaust? same"}
+----------
+hateful - The meme indirectly mocks historical atrocities by comparing them, trivializing the Holocaust and implying equivalence to other situations; this can be considered de
+##########
+{"id": 17682, "img": "img/17682.png", "label": 1, "text": "give them what they deserve kill them all"}
+----------
+hateful - The text advocates violence ("kill them all"), which constitutes a direct violent attack and calls for harm, fitting the definition of hateful content.
+##########
+{"id": 84510, "img": "img/84510.png", "label": 1, "text": "bartender: how about a nice 12 yr old? him: boy or girl?"}
+----------
+hateful - The meme's text trivializes pedophilia, which is a serious moral and legal offense, and is harmful and dehumanizing,
+##########
+{"id": 28690, "img": "img/28690.png", "label": 0, "text": "if you're gonna talk shit about someone... you better make sure they aren't crazier than you are"}
+----------
+not-hateful - The meme provides a general warning about potential consequences of gossip without attacking or dehumanizing specific groups based on protected characteristics.
+##########
+{"id": 3567, "img": "img/03567.png", "label": 1, "text": "potato is my favorite color of the alphabet"}
+----------
+not-hateful - The text does not attack or dehumanize any group or individual based on protected characteristics. Instead, it appears to be nonsens
+##########
+{"id": 95830, "img": "img/95830.png", "label": 1, "text": "face of terrorism in us"}
+----------
+hateful - This meme dehumanizes an unnamed individual by associating them with terrorism without context, attacking them based on implied characteristics, aligning with the
+##########
+{"id": 29873, "img": "img/29873.png", "label": 1, "text": "who knew that this country is full of white trash"}
+----------
+hateful - The meme attacks a group of people based on race by using a derogatory term ("white trash"), which is dehumanizing and falls
+##########
+{"id": 70953, "img": "img/70953.png", "label": 1, "text": "\"god's chosen people\" according to the book they wrote"}
+----------
+hateful - The phrase implies mockery and suggests deceit or self-aggrandizement based on religious beliefs, which can be viewed as dehumanizing
+##########
+{"id": 56124, "img": "img/56124.png", "label": 0, "text": "how to cook turkey in usa how to cook turkey in romania"}
+----------
+not-hateful - This meme contrasts culinary styles in a non-dehumanizing and non-violent way, focusing on food differences without attacking any group's identity
+##########
+{"id": 10386, "img": "img/10386.png", "label": 1, "text": "the book about terrorism"}
+----------
+hateful - This meme indirectly attacks a religious text by labeling it as related to terrorism, which is dehumanizing and promotes negative stereotypes based on religion
+##########
+{"id": 19530, "img": "img/19530.png", "label": 1, "text": "they shot the wrong gorilla"}
+----------
+hateful - The meme makes a dehumanizing comparison of a person to a gorilla, which falls under violent or dehumanizing speech based on
+##########
+{"id": 94185, "img": "img/94185.png", "label": 1, "text": "how a black woman can fight crime"}
+----------
+hateful - The meme contains a dehumanizing attack on black women by suggesting that they should abort their pregnancies to reduce crime, which is both violent
+##########
+{"id": 48370, "img": "img/48370.png", "label": 1, "text": "72 virgins are ready to get fucked up"}
+----------
+hateful - The meme dehumanizes a specific religious and ethnic group by using derogatory and mocking language, and comparing them to non-human entities (
+##########
+{"id": 74058, "img": "img/74058.png", "label": 0, "text": "he made millions of children homeless"}
+----------
+hateful - This meme is dehumanizing, as it references a historical atrocity (the Holocaust) to make a provocative statement, which can be
+##########
+{"id": 45062, "img": "img/45062.png", "label": 0, "text": "me and my kids are going to rob this country blind at the expense of the very people that voted for me. and they're going to love it. believe me! bigly!"}
+----------
+hateful - The text implies deceit and exploitation of voters, aiming for harm based on political beliefs. It portrays a predatory attitude towards certain people,
+##########
+{"id": 94170, "img": "img/94170.png", "label": 0, "text": "when you decide to go full gas"}
+----------
+not-hateful - The meme humorously depicts the act of cooking with an oven. There is no attack based on characteristics such as ethnicity, race,
+##########
+{"id": 4538, "img": "img/04538.png", "label": 0, "text": "bows here, bows there, bows everywhere"}
+----------
+not-hateful - The meme employs a light-hearted comparison involving bows without attacking or dehumanizing any group of people, thus adhering to social norms.
+##########
+{"id": 83946, "img": "img/83946.png", "label": 1, "text": "when a white kid shoots up the school the same day you planned to bomb it"}
+----------
+hateful - This meme makes a harmful statement by indirectly promoting violence, and reinforces negative stereotypes based on ethnicity and religion, targeting specific communities.
+##########
+{"id": 68127, "img": "img/68127.png", "label": 0, "text": "all you guys think about is dope"}
+----------
+not-hateful - This meme doesn't attack any group based on protected characteristics listed in the definitions provided. It simply mocks a perceived behavior, which does not
+##########
+{"id": 97453, "img": "img/97453.png", "label": 0, "text": "potato is my favorite color of the alphabet"}
+----------
+not-hateful - The meme is nonsensical and humorous without attacking or mocking based on any characteristic, hence not violating social norms or containing hateful content
+##########
+{"id": 39578, "img": "img/39578.png", "label": 1, "text": "one of the bullets they dug out of a victim from the orland gay night club shooting!"}
+----------
+hateful - The meme mocks a tragic hate crime incident at a gay nightclub, which is dehumanizing and deeply disrespectful towards the victims and their
+##########
+{"id": 49360, "img": "img/49360.png", "label": 0, "text": "who wants ice cream me me me"}
+----------
+hateful - The image contains symbols associated with hate groups. This, combined with the text, conveys a dehumanizing context which attacks people based on
+##########
+{"id": 87034, "img": "img/87034.png", "label": 0, "text": "you don't need a parachute to go skydiving twice you need a parachute to go skydiving twice"}
+----------
+not-hateful - This meme is a humorous play on the necessity of a parachute for safe skydiving and contains no attack or derogatory content
+##########
+{"id": 6123, "img": "img/06123.png", "label": 1, "text": "a group of men"}
+----------
+hateful - The meme dehumanizes and compares a group of people to non-human things (dogs), which falls under the definition of a dehuman
+##########
+{"id": 17028, "img": "img/17028.png", "label": 1, "text": "feeling bored, let's go to a mosque"}
+----------
+hateful - Implies mocking or disrespect towards a place of religious worship and its community, potentially inciting negative stereotypes and promoting exclusion based on religion.
+##########
+{"id": 42903, "img": "img/42903.png", "label": 0, "text": "those stupid basterds thought it was a real shower"}
+----------
+hateful - The meme uses dehumanizing language ("stupid basterds") and mocks individuals in a disrespectful manner, which can target people
+##########
+{"id": 71680, "img": "img/71680.png", "label": 1, "text": "muslim strip club"}
+----------
+hateful - This meme dehumanizes Muslims by comparing them to goats, which is a derogatory and demeaning attack based on religion.
+##########
+{"id": 24135, "img": "img/24135.png", "label": 0, "text": "good night keep your butthole tight"}
+----------
+not-hateful - The meme is not targeting any specific group based on characteristics like ethnicity, race, or gender. It doesn’t contain dehumanizing
+##########
+{"id": 32875, "img": "img/32875.png", "label": 0, "text": "if he wears number one he's most likely the fastes on the team"}
+----------
+not-hateful - The meme humorously suggests that a player wearing number one is the fastest on the team, without attacking or dehumanizing any groups
+##########
+{"id": 79085, "img": "img/79085.png", "label": 1, "text": "today we are making vegetable soup"}
+----------
+not-hateful - The image and text simply depict an activity of making vegetable soup, without any attack or negative reference to any characteristic of people as defined
+##########
+{"id": 61872, "img": "img/61872.png", "label": 1, "text": "don't be a fool it is a bomb"}
+----------
+hateful - The meme indirectly attacks a person based on their appearance and religion by making a dehumanizing and violent statement, suggesting that they are carrying
+##########
+{"id": 30579, "img": "img/30579.png", "label": 0, "text": "white power!"}
+----------
+hateful - The text "white power!" is a slogan associated with white supremacy, promoting racial superiority and exclusion, which fits the definition of a hateful
+##########
+{"id": 62504, "img": "img/62504.png", "label": 0, "text": "we've taken this country! now fuck off! we're taking it back!"}
+----------
+hateful - The text implies an aggressive and exclusionary stance, which can be seen as a direct attack based on nationality or other characteristics, fitting the
+##########
+{"id": 43810, "img": "img/43810.png", "label": 1, "text": "how to cook turkey in usa how to cook turkey in romania"}
+----------
+hateful - The meme perpetuates negative cultural stereotypes by contrasting cooking methods in a mocking manner, potentially dehumanizing or belittling a nationality
+##########
+{"id": 19730, "img": "img/19730.png", "label": 1, "text": "jamal is practicing for class sport"}
+----------
+hateful - The meme indirectly promotes dehumanizing and harmful stereotypes by depicting a child with a weapon in a context that could suggest violent behavior among certain
+##########
+{"id": 37420, "img": "img/37420.png", "label": 0, "text": "like lebanon terrorism can destroy a beautiful country"}
+----------
+not-hateful - The meme points out the destructive impact of terrorism on a country without attacking a particular group based on their identity or characteristics.
+##########
+{"id": 82509, "img": "img/82509.png", "label": 0, "text": "72 virgins are ready to get fucked up"}
+----------
+hateful - This meme dehumanizes and objectifies women by referring to them as "72 virgins" in a sexual context, which is an
+##########
+{"id": 96284, "img": "img/96284.png", "label": 1, "text": "welcome to melbourne"}
+----------
+hateful - It dehumanizes and stereotypes people based on their ethnicity or nationality by associating Melbourne with armed militants.
+##########
+{"id": 97068, "img": "img/97068.png", "label": 1, "text": "these hitler jokes are rude anne frankly i don't care"}
+----------
+hateful - It mocks a historical hate crime and indirectly attacks a group based on ethnicity and race, which is dehumanizing and inappropriate.
+##########
+{"id": 3214, "img": "img/03214.png", "label": 0, "text": "bartender: how about a nice 12 yr old? him: boy or girl?"}
+----------
+hateful - The meme implies inappropriate and exploitative behavior toward children, mocking serious criminal activity, which can be seen as dehumanizing and offensive.
+##########
+{"id": 23810, "img": "img/23810.png", "label": 1, "text": "these aren't people"}
+----------
+hateful - The text "these aren't people" dehumanizes individuals, which constitutes an indirect attack based on perceived characteristics, violating the definition of hateful
+##########
+{"id": 91836, "img": "img/91836.png", "label": 1, "text": "one of my 5 boyfriends slept with another girl i'll never trust men again!"}
+----------
+not-hateful - This meme expresses personal distrust in men due to a specific experience. It does not attack or dehumanize based on the included characteristics
+##########
+{"id": 5126, "img": "img/05126.png", "label": 1, "text": "can you smell what the reich is cooking"}
+----------
+hateful - The meme references the Holocaust and Nazis ('the reich'), trivializing immense suffering, which is dehumanizing and a severe attack based on
+##########
+{"id": 76092, "img": "img/76092.png", "label": 0, "text": "everybody is afraid of gangs"}
+----------
+not-hateful - The meme generalizes fear of gangs without attacking or dehumanizing specific groups based on characteristics like race, nationality, or religion.
+##########
+{"id": 64072, "img": "img/64072.png", "label": 1, "text": "trump said immigrants come here to steal your wife is a great example she stole my speech"}
+----------
+not-hateful - The meme criticizes a political figure by highlighting a perceived inconsistency, without dehumanizing or mocking any individual based on protected characteristics
+##########
+{"id": 91058, "img": "img/91058.png", "label": 1, "text": "get in loser we're invading poland"}
+----------
+hateful - The meme references the invasion of Poland during World War II, which involves historical atrocities, mocking a serious event. This is dehumanizing
+##########
+{"id": 21643, "img": "img/21643.png", "label": 0, "text": "haha pig man is peeing standing up"}
+----------
+hateful - The meme dehumanizes a person by comparing them to an animal, which constitutes a form of attack based on dehumanizing speech.
+##########
+{"id": 19523, "img": "img/19523.png", "label": 0, "text": "they see them rollin.... they hating.."}
+----------
+not-hateful - The meme humorously depicts a cat wearing sunglasses on a bike with a popular song reference. There's no attack or discrimination based on protected
+##########
+{"id": 32691, "img": "img/32691.png", "label": 1, "text": "this is how muslims celebrate new year"}
+----------
+hateful - The meme dehumanizes and attacks Muslims by associating them with terrorism, depicted through a tragic event, which is based on their religion
+##########
+{"id": 87169, "img": "img/87169.png", "label": 1, "text": "albanians talking photo with a porn star"}
+----------
+hateful - This meme targets individuals based on nationality and makes a derogatory comparison, contributing to a dehumanizing stereotype.
+##########
+{"id": 92738, "img": "img/92738.png", "label": 1, "text": "they are the best in basketball because they can steal, shoot and run"}
+----------
+hateful - The meme uses stereotypes targeting certain groups by linking criminal activities ("steal") and other traits to them playing basketball, which can be de
+##########
+{"id": 53027, "img": "img/53027.png", "label": 0, "text": "putting bows on your pet"}
+----------
+not-hateful - The meme depicts pets wearing bows, which is not an attack on any group based on characteristics like race or gender, nor is it
+##########
+{"id": 27195, "img": "img/27195.png", "label": 0, "text": "there's a reason we keep the beer in the bottom of the cooler"}
+----------
+not-hateful - This meme does not target any protected characteristic or group and does not exhibit violence or dehumanization. It follows social norms and does
+##########
+{"id": 43910, "img": "img/43910.png", "label": 1, "text": "i just started a company selling landmines that look like prayer mats prophets are going through the roof"}
+----------
+hateful - This meme indirectly attacks religious practices, mocking prayer mats and prophets, and contains violent imagery of landmines, making it dehumanizing
+##########
+{"id": 5213, "img": "img/05213.png", "label": 0, "text": "the families of the hillsborough tragedy were denied legal aid.... but shamima begum gets it to fight for her uk citizenship our system is a sick joke! - martin costello"}
+----------
+not-hateful - It criticizes the legal system's prioritization, not individuals based on protected characteristics. It expresses frustration without dehumanizing or attacking
+##########
+{"id": 73945, "img": "img/73945.png", "label": 0, "text": "jamal is holding a gun"}
+----------
+hateful - This meme dehumanizes and perpetuates negative stereotypes about individuals named Jamal, which can be linked to a specific ethnicity or nationality
+##########
+{"id": 56207, "img": "img/56207.png", "label": 1, "text": "we broke up but she said we could still be cousins"}
+----------
+not-hateful - The meme does not attack or degrade anyone based on characteristics like race, ethnicity, or gender. It makes a humorous comment on a
+##########
+{"id": 68459, "img": "img/68459.png", "label": 1, "text": "family trip in mexico"}
+----------
+hateful - This meme indirectly attacks and mocks a sensitive issue related to nationality and immigration status, portraying it in a dehumanizing manner.
+##########
+{"id": 63175, "img": "img/63175.png", "label": 0, "text": "if i was uncircumcised i'd hide candy in my dick skin so when a girl about to suck me up, she has a pleasant surprise.. oh my god, skittles"}
+----------
+not-hateful - The meme contains a crude sexual joke, but it does not attack or demean any group based on characteristics such as ethnicity, race,
+##########
+{"id": 82945, "img": "img/82945.png", "label": 0, "text": "be careful who you call ugly in highschool"}
+----------
+not-hateful - This meme advises against judging others based on appearance in high school, which doesn't attack or demean any group based on protected characteristics.
+##########
+{"id": 34975, "img": "img/34975.png", "label": 0, "text": "what if the only reason mary got pregnant... is because god is gay and needed a surrogate"}
+----------
+hateful - This meme implies a direct, derogatory perspective on religious beliefs and sexual orientation, which constitutes an indirect attack based on religion and sexual orientation
+##########
+{"id": 61973, "img": "img/61973.png", "label": 1, "text": "what do alcoholics and necrophiliacs have in common they both love to crack open a cold one."}
+----------
+not-hateful - The meme uses dark humor but does not attack individuals based on protected characteristics such as race, gender, or religion. It does not
+##########
+{"id": 16420, "img": "img/16420.png", "label": 0, "text": "abnormal vs normal"}
+----------
+hateful - The meme implies that certain individuals are "abnormal" based on their physical appearance, which constitutes dehumanizing speech and an indirect attack
+##########
+{"id": 73069, "img": "img/73069.png", "label": 1, "text": "immigration invasion learn the difference"}
+----------
+hateful - The meme compares immigrants to invaders, which is dehumanizing speech and an indirect attack based on nationality or immigration status.
+##########
+{"id": 47056, "img": "img/47056.png", "label": 1, "text": "illegal aliens are not welcome"}
+----------
+hateful - This statement attacks individuals based on their immigration status, calling for exclusion. It promotes negative stereotypes and encourages discrimination against a specific group of people
+##########
+{"id": 56428, "img": "img/56428.png", "label": 0, "text": "if the shocker don't rock her spock her"}
+----------
+not-hateful - The meme uses wordplay and a cultural reference without attacking any specific group or individual. It does not contain violent, dehumanizing
+##########
+{"id": 54206, "img": "img/54206.png", "label": 0, "text": "you can smell disgust and hate from this photo"}
+----------
+hateful - The meme uses dehumanizing language and references a historical context associated with hate and violence, which constitutes an indirect attack on people based on
+##########
+{"id": 93172, "img": "img/93172.png", "label": 0, "text": "this is a terrorist"}
+----------
+hateful - The meme attacks an individual by labeling them a "terrorist," which is a dehumanizing term and indicates an indirect attack based on
+##########
+{"id": 56980, "img": "img/56980.png", "label": 0, "text": "coffee isn't helping get the jumper cables"}
+----------
+not-hateful - The meme humorously depicts a tired dog, with no attack on any group or individual based on the listed characteristics. It follows social
+##########
+{"id": 79615, "img": "img/79615.png", "label": 0, "text": "what women think men want what men really want"}
+----------
+not-hateful - This meme does not attack or dehumanize any group based on characteristics like race, gender, or religion. It plays on stereotyp
+##########
+{"id": 38047, "img": "img/38047.png", "label": 0, "text": "\"stupid bitch\" is not a race"}
+----------
+hateful - The phrase "stupid bitch" is a derogatory term and constitutes an attack based on sex or gender identity, making it a form
+##########
+{"id": 94560, "img": "img/94560.png", "label": 1, "text": "and for my next class project!"}
+----------
+hateful - The image implies an association between school projects and militant or terrorist activities, which can be considered a dehumanizing and harmful portrayal, inc
+##########
+{"id": 96250, "img": "img/96250.png", "label": 0, "text": "i'm going home i'm russian"}
+----------
+not-hateful - The meme does not contain any direct or indirect attack based on characteristics listed in the definitions. It simply states a personal situation without any
+##########
+{"id": 28951, "img": "img/28951.png", "label": 0, "text": "if the brim of your hat is flat and has a sticker on it i automatically assume you're a complete tool"}
+----------
+not-hateful - The meme uses humor and stereotypes about hat styles without targeting protected characteristics like race, religion, or gender, and doesn't involve violent or
+##########
+{"id": 27614, "img": "img/27614.png", "label": 0, "text": "maybe if you think before you act you'd be treated better"}
+----------
+not-hateful - The meme suggests a behavioral change for better treatment without attacking or dehumanizing anyone based on protected characteristics.
+##########
+{"id": 4857, "img": "img/04857.png", "label": 1, "text": "...even the dumb jews know that! trump is a racist."}
+----------
+hateful - The meme attacks a group based on ethnicity with a derogatory term, which is dehumanizing and meets the definition of a hateful attack
+##########
+{"id": 79603, "img": "img/79603.png", "label": 1, "text": "its friday cunts lets get on the gas"}
+----------
+hateful - The text uses abusive language and references “getting on the gas” alongside historical imagery associated with persecution, potentially mocking or trivializing historical atrocities
+##########
+{"id": 26985, "img": "img/26985.png", "label": 1, "text": "i just heard my girlfriend is pregnant"}
+----------
+not-hateful - The meme does not attack or mock any individual or group based on the outlined characteristics. It follows social norms with a lighthearted context
+##########
+{"id": 14873, "img": "img/14873.png", "label": 1, "text": "human dna found in ancient goat carcass scientists believe this is first proof muhammad existed"}
+----------
+hateful - The meme dehumanizes a religious figure by comparing them to a goat carcass, fitting the definition of hateful content based on targeting religion
+##########
+{"id": 54893, "img": "img/54893.png", "label": 0, "text": "old people at weddings always poke me and say \"you're next.\" so, i started doing the same thing to them at funerals"}
+----------
+not-hateful - The meme uses dark humor without targeting any specific characteristic or group mentioned in the hate definition. It doesn't direct or incite hate towards
+##########
+{"id": 48236, "img": "img/48236.png", "label": 0, "text": "that blood you donated could be in someone's boner right now"}
+----------
+not-hateful - The meme humorously addresses the unintended outcomes of blood donation without targeting or dehumanizing any group based on the listed characteristics.
+##########
+{"id": 74908, "img": "img/74908.png", "label": 0, "text": "she is condemning shooting the gorilla"}
+----------
+hateful - The meme indirectly dehumanizes and compares a person to a non-human thing, which is considered a violent and dehumanizing attack based
+##########
+{"id": 96472, "img": "img/96472.png", "label": 1, "text": "white power!"}
+----------
+hateful - The text and image promote white supremacy, a direct attack based on race and ethnicity, which is dehumanizing and considered hate speech.
+##########
+{"id": 89430, "img": "img/89430.png", "label": 0, "text": "when you know you don't have to jackoff tonight"}
+----------
+not-hateful - The meme refers to an expression of personal anticipation or relief. It doesn't negatively target any individual or group based on protected characteristics.
+##########
+{"id": 76921, "img": "img/76921.png", "label": 1, "text": "she probably asked a wrong question"}
+----------
+hateful - The meme implies that a question justifies the depicted violent behavior, thereby trivializing and implicitly condoning violence, which is not appropriate and
+##########
+{"id": 68409, "img": "img/68409.png", "label": 1, "text": "for the last time im not michelle obama"}
+----------
+hateful - The meme dehumanizes an individual by comparing them to a non-human entity, which qualifies as a violent and dehumanizing attack based
+##########
+{"id": 16354, "img": "img/16354.png", "label": 1, "text": "we've taken this country! now fuck off! we're taking it back!"}
+----------
+hateful - The meme contains violent language and implies exclusion, which constitutes a direct attack on people based on nationality or ethnicity, and can incite hatred
+##########
+{"id": 69548, "img": "img/69548.png", "label": 1, "text": "wait, mohammad come back i didn't mean to laugh, really size dosen't matter to me lol"}
+----------
+hateful - The meme targets an individual named "Mohammad," associating him with an animal (a goat), and mocks him for perceived physical inadequ
+##########
+{"id": 1456, "img": "img/01456.png", "label": 1, "text": "they see them rollin..... they hating.."}
+----------
+hateful - It mocks the suffering of Holocaust victims by juxtaposing them with the perpetrators in a context that trivializes and dehumanizes their experiences,
+##########
+{"id": 17950, "img": "img/17950.png", "label": 0, "text": "i was excoriated for a harmless \"tweet\" and \"my show\" was cancelled"}
+----------
+not-hateful - The meme comments on the consequences faced after a social media post and a show cancellation, without any direct or indirect attacks based on the
+##########
+{"id": 76295, "img": "img/76295.png", "label": 0, "text": "islamic extremist planning new project"}
+----------
+hateful - This meme targets a group based on religion, indirectly associating Islam with extremism and violence, which falls under dehumanizing speech and
+##########
+{"id": 42580, "img": "img/42580.png", "label": 1, "text": "jack and jill went up the hill so jack could lick her candy but jack got a shock and a mouthful of cock cause jills real name was randy"}
+----------
+hateful - It uses derogatory language and misgenders a person based on their gender identity, violating the definition of hateful content.
+##########
+{"id": 96180, "img": "img/96180.png", "label": 1, "text": "putting bows on your pet"}
+----------
+not-hateful - The meme humorously equates a pet and a child wearing bows, which is benign and follows social norms without attacking or dehuman
+##########
+{"id": 98701, "img": "img/98701.png", "label": 1, "text": "oh no i can't steal anymore"}
+----------
+not-hateful - The meme does not attack any group based on protected characteristics but rather makes a humorous comment about stealing. It adheres to social norms
+##########
+{"id": 15243, "img": "img/15243.png", "label": 0, "text": "4 am. everyone is asleep perfect time to run from one end of the house to the other at full speed as loudly as possible"}
+----------
+not-hateful - This meme humorously depicts cat behavior, with no attacks on people based on protected characteristics and no violent or dehumanizing speech.
+##########
+{"id": 41058, "img": "img/41058.png", "label": 0, "text": "john wilkes booth be like: yall sure abraham lincoln dead? he aint up here"}
+----------
+not-hateful - The meme uses historical figures and does not attack or dehumanize people based on any protected characteristics outlined in the definitions. It follows
+##########
+{"id": 62375, "img": "img/62375.png", "label": 1, "text": "im not saying i'm racist im just saying all muslims are terrorists"}
+----------
+hateful - The meme directly targets and dehumanizes Muslims by labeling them as terrorists, which is an attack based on religion and ethnicity.
+##########
+{"id": 63507, "img": "img/63507.png", "label": 0, "text": "evolution from peeling bananas to busting caps"}
+----------
+hateful - This meme dehumanizes people by comparing them to non-human primates and implies a violent progression, which constitutes a dehumanizing and
+##########
+{"id": 31208, "img": "img/31208.png", "label": 1, "text": "maybe if we weren't consistent sources of crime we'd be treated better"}
+----------
+hateful - The meme implies a stereotype linking a particular group to crime, which is dehumanizing and promotes negative stereotypes, thus fitting the definition of
+##########
+{"id": 62319, "img": "img/62319.png", "label": 1, "text": "america in 2045 \"grandpa...why didn't you stop them?!\""}
+----------
+hateful - This meme suggests fear of a particular group based on their attire, indirectly attacking people based on characteristics such as religion and nationality, implying de
+##########
+{"id": 68253, "img": "img/68253.png", "label": 1, "text": "free blanket maybe white man not so bad after all"}
+----------
+hateful - The meme uses dehumanizing language and involves racial stereotyping, which constitute a hateful attack based on race and ethnicity.
+##########
+{"id": 34687, "img": "img/34687.png", "label": 1, "text": "everyone is afraid of dark"}
+----------
+not-hateful - The meme does not appear to target specific characteristics or promote violence, inferiority, or exclusion based on characteristics like race, religion,
+##########
+{"id": 34209, "img": "img/34209.png", "label": 0, "text": "how about a nice 12 yr old? bartender: him: boy i would love that"}
+----------
+hateful - The meme implies inappropriate behavior involving a child, indirectly attacking a person's character based on inferred stereotype or profession, which can be considered dehuman
+##########
+{"id": 39827, "img": "img/39827.png", "label": 1, "text": "kick them out of country"}
+----------
+hateful - The statement "kick them out of country" targets people based on their nationality or immigration status and calls for exclusion, which qualifies as a
+##########
+{"id": 46920, "img": "img/46920.png", "label": 1, "text": "we want sharia law !! well.... go home"}
+----------
+hateful - This meme mocks a religious group by suggesting exclusion based on their desire for Sharia law, promoting segregation and discrimination based on religion and nationality
+##########
+{"id": 84273, "img": "img/84273.png", "label": 0, "text": "when you're the reason for the company safety video"}
+----------
+not-hateful - The meme jokes about being the cause of a company safety video, which is humorous and does not attack or dehumanize any group
+##########
+{"id": 39018, "img": "img/39018.png", "label": 0, "text": "she said \"i want a ring\" i said \"bitch take your phone off silent!\""}
+----------
+not-hateful - The meme uses humor about a misunderstanding regarding the word "ring." Although it uses a derogatory term, it does not attack any
+##########
+{"id": 54780, "img": "img/54780.png", "label": 1, "text": "travel size coffee maker"}
+----------
+not-hateful - The term "travel size coffee maker" humorously compares the child's small stature to a small appliance without attacking or dehumanizing any
+##########
+{"id": 69150, "img": "img/69150.png", "label": 1, "text": "\"white privilege the privilege of being called \"racist\" by other people who see nothing else about you except the color of your skin"}
+----------
+hateful - The meme indirectly attacks individuals by downplaying the concept of "white privilege" and mocking those who call out racism, which can be de
+##########
+{"id": 29843, "img": "img/29843.png", "label": 0, "text": "the world's most wanted terrorist obama bin lying"}
+----------
+hateful - The meme compares a person to a known terrorist by manipulating their name, which is a dehumanizing statement and an indirect attack based on
+##########
+{"id": 19385, "img": "img/19385.png", "label": 0, "text": "rose's are red violet's are blue little stupid ass bitch i ain't fuckin witchu"}
+----------
+hateful - The meme contains demeaning language ("little stupid ass bitch") which is a personal attack and can be considered dehumanizing, thus class
+##########
+{"id": 64510, "img": "img/64510.png", "label": 0, "text": "mohammad won the contest in putting underwear on goats"}
+----------
+not-hateful - The meme is humorous in nature and does not contain any dehumanizing speech, statements of inferiority, or attacks based on any
+##########
+{"id": 47103, "img": "img/47103.png", "label": 0, "text": "maybe we weren't consistent sources of crime we'd be treated better"}
+----------
+hateful - The meme indirectly attacks and stereotypes a group of people as consistent sources of crime, which is dehumanizing and reinforces harmful prejudices based
+##########
+{"id": 61038, "img": "img/61038.png", "label": 0, "text": "no wonder why the pipes are not working"}
+----------
+not-hateful - The meme comments on pipes being blocked without referencing any people or using dehumanizing language; it doesn't attack any characteristic of an individual
+##########
+{"id": 71620, "img": "img/71620.png", "label": 1, "text": "we are returning our broken coffee maker"}
+----------
+not-hateful - The meme does not attack or discriminate against any group based on the characteristics mentioned. It is humor-based and does not display violence,
+##########
+{"id": 91602, "img": "img/91602.png", "label": 0, "text": "upper downer"}
+----------
+not-hateful - The meme depicts people on stairs with labels 'upper' and 'downer,' but it does not contain any attacks or dehuman
+##########
+{"id": 30145, "img": "img/30145.png", "label": 0, "text": "before my presidency, there was no isis. there was no caliphate there was no blm. there was no antifa. there was no war on police i built that"}
+----------
+hateful - The meme attacks various groups and movements (ISIS, BLM, Antifa) by indirectly associating them with negativity and destruction, thus
+##########
+{"id": 91756, "img": "img/91756.png", "label": 1, "text": "abnormal vs normal"}
+----------
+hateful - This meme implies inferiority or abnormality of individuals based on clothing, likely relating to religion or culture, thus attacking their identity and promoting
+##########
+{"id": 63745, "img": "img/63745.png", "label": 1, "text": "we could destroy all of them but we let some of them survive so you know why we did it"}
+----------
+hateful - This meme references Nazism and genocide, promoting violent dehumanizing speech by implying the survival of certain groups as a warning or threat.
+##########
+{"id": 47162, "img": "img/47162.png", "label": 1, "text": "what do these two have in common? they both are good at sucking they both come with a bag"}
+----------
+hateful - The meme dehumanizes the person by comparing them to a vacuum cleaner, which is a non-human thing, thereby attacking them based on
+##########
+{"id": 59806, "img": "img/59806.png", "label": 0, "text": "on tuesday, november 3, 2020, we make america great again  by voting this nightmare out of office!"}
+----------
+not-hateful - This meme expresses a political opinion about voting a specific individual out of office without attacking or dehumanizing any protected characteristic.
+##########
+{"id": 7135, "img": "img/07135.png", "label": 1, "text": "this is the greatest news manufacturing in 20th century"}
+----------
+hateful - The meme mocks historical suffering and minimizes the trauma of people affected by it, indirectly attacking their ethnicity and nationality. This meets the definition of
+##########
+{"id": 35497, "img": "img/35497.png", "label": 0, "text": "old people at weddings always poke me and say \"you're next.\" so, i started doing the same thing to them at funerals"}
+----------
+not-hateful - The meme uses dark humor about weddings and funerals without attacking or dehumanizing individuals or groups based on protected characteristics. It follows
+##########
+{"id": 84362, "img": "img/84362.png", "label": 0, "text": "unleash the inner beast on the field"}
+----------
+hateful - The meme dehumanizes the person by comparing them to a non-human animal and uses a stereotype, leading to a demeaning and offensive
+##########
+{"id": 84015, "img": "img/84015.png", "label": 1, "text": "my irony meter just exploded"}
+----------
+not-hateful - The meme uses humor to point out an ironic situation without attacking or dehumanizing individuals based on their characteristics.
+##########
+{"id": 87251, "img": "img/87251.png", "label": 0, "text": "i love apes they are both ugly and cute"}
+----------
+hateful - The meme compares a person to an animal, which is dehumanizing and constitutes a direct attack based on potentially implied characteristics, thus meeting
+##########
+{"id": 82590, "img": "img/82590.png", "label": 1, "text": "burning them was a great public service"}
+----------
+hateful - The text "burning them was a great public service," combined with the image of suffering individuals, dehumanizes them and implies their
+##########
+{"id": 59738, "img": "img/59738.png", "label": 1, "text": "what's the difference between a refugee and e.t e.t learned english and wanted to go home"}
+----------
+hateful - The meme dehumanizes and attacks refugees by comparing them unfavorably to a fictional alien character, mocking their language skills and implying they
+##########
+{"id": 35470, "img": "img/35470.png", "label": 0, "text": "can you smell what the reigh is cooking"}
+----------
+not-hateful - The meme contains a playful phrase related to cooking and does not contain any direct or indirect attack based on protected characteristics such as race,
+##########
+{"id": 72061, "img": "img/72061.png", "label": 1, "text": "i like my rice crispy please"}
+----------
+hateful - The meme indirectly references the atomic bombs dropped on Japan, mocking a devastating historical event, which can be seen as dehumanizing and offensive
+##########
+{"id": 3524, "img": "img/03524.png", "label": 1, "text": "terrorist can come to this country way to easy"}
+----------
+hateful - The meme suggests that certain groups are terrorists and criticizes immigration policies, making an indirect attack based on ethnicity, nationality, and immigration status
+##########
+{"id": 86170, "img": "img/86170.png", "label": 1, "text": "how to keep the thefts out"}
+----------
+hateful - This meme depicts KKK members, a hate group known for violent racism, with text implying exclusion based on racial connotations. This aligns
+##########
+{"id": 50841, "img": "img/50841.png", "label": 0, "text": "give them what they deserve kill them all"}
+----------
+hateful - The text "give them what they deserve kill them all" coupled with the image of a rat implies dehumanizing speech and a call
+##########
+{"id": 46087, "img": "img/46087.png", "label": 0, "text": "give that man a suicide"}
+----------
+hateful - Encouraging someone to commit suicide is a violent and dehumanizing attack, which is considered hate speech according to the provided definitions.
+##########
+{"id": 42058, "img": "img/42058.png", "label": 0, "text": "for lunch vlad the impaler loved turkey"}
+----------
+not-hateful - The meme makes a historical reference to Vlad the Impaler and includes wordplay on "turkey," which is not an attack on
+##########
+{"id": 1967, "img": "img/01967.png", "label": 0, "text": "when you decide to stop racism by burning its symbol"}
+----------
+hateful - The meme references burning a swastika, an infamous symbol of hate and racism, which can be seen as an indirect attack and mock
+##########
+{"id": 54930, "img": "img/54930.png", "label": 1, "text": "not all muslims are isis! some are al-qaida the rest are taliban"}
+----------
+hateful - This meme attacks Muslims by associating them with terrorist organizations, which is a dehumanizing statement and promotes negative stereotypes based on religion.
+##########
+{"id": 38076, "img": "img/38076.png", "label": 1, "text": "\"he's a squirter\" doesn't sound as sexy when you are gay"}
+----------
+not-hateful - The meme does not attack, dehumanize, or mock individuals based on their sexual orientation. It makes a crude joke without targeting
+##########
+{"id": 38910, "img": "img/38910.png", "label": 1, "text": "oh boy i sure love being muslim in the new zealand city of christchurch on march 15"}
+----------
+hateful - It refers to the Christchurch mosque shootings, indirectly mocking a tragic hate crime against the Muslim community. This is a dehumanizing and violent
+##########
+{"id": 6723, "img": "img/06723.png", "label": 1, "text": "the hardest part to eat in a vegetable"}
+----------
+hateful - This meme dehumanizes and mocks individuals with disabilities through derogatory language, implying they are comparable to an inanimate object, which constitutes
+##########
+{"id": 2157, "img": "img/02157.png", "label": 1, "text": "mohammed i'm pregnant.... don't sass me, you know it's funny! ~cupcakes"}
+----------
+hateful - The meme dehumanizes and mocks a religious figure by comparing them to an animal and trivializes their significance, which constitutes dehumanizing
+##########
+{"id": 62948, "img": "img/62948.png", "label": 1, "text": "black lives matter >\"how\",\"why\"and \"to whom\" is unclear"}
+----------
+hateful - The meme mocks the "Black Lives Matter" movement by questioning its legitimacy, constituting a direct attack based on race, which is de
+##########
+{"id": 21075, "img": "img/21075.png", "label": 0, "text": "size of a shuttle bus legroom of a pinto"}
+----------
+not-hateful - The meme humorously compares the size and legroom of vehicles without targeting any group or making dehumanizing statements.
+##########
+{"id": 73601, "img": "img/73601.png", "label": 1, "text": "when you are white and stole your first bike"}
+----------
+hateful - The meme makes a derogatory assumption linking race ("when you are white") with theft, implying a stereotype which is a form of de
+##########
+{"id": 32579, "img": "img/32579.png", "label": 0, "text": "come to the dark side we have weed"}
+----------
+not-hateful - The meme does not target any group based on characteristics such as ethnicity, gender, or religion. It humorously references a fictional universe
+##########
+{"id": 21567, "img": "img/21567.png", "label": 1, "text": "our dad is a potato farmer"}
+----------
+not-hateful - The statement "our dad is a potato farmer" does not attack or demean any group or individual and does not meet the criteria for
+##########
+{"id": 1765, "img": "img/01765.png", "label": 1, "text": "after a girl dies, what organ in her body stays warm? my dick"}
+----------
+hateful - This meme dehumanizes and objectifies a deceased girl, demonstrating a lack of respect and sensitivity towards death, and violates social norms,
+##########
+{"id": 53172, "img": "img/53172.png", "label": 0, "text": "straight outta the oven step one :turn on the gas"}
+----------
+hateful - The meme's inclusion of "turn on the gas" in a context related to ovens can be interpreted as a mockery of historical atrocities
+##########
+{"id": 32568, "img": "img/32568.png", "label": 1, "text": "america taught us how to be happy slaves the same way school teach us how to be happy employees"}
+----------
+hateful - The meme indirectly attacks by making a dehumanizing comparison between being employees and slaves, which can be offensive and diminishing to the historical suffering
+##########
+{"id": 1742, "img": "img/01742.png", "label": 0, "text": "in just one hour from now i'll only have 4 hours left until i have to work a mere 3 hours"}
+----------
+not-hateful - The meme humorously comments on the short duration of a work shift without attacking or dehumanizing anyone based on the characteristics outlined in
+##########
+{"id": 56098, "img": "img/56098.png", "label": 1, "text": "i said \"a glass of juice\"."}
+----------
+hateful - The image makes a reference that indirectly mocks a particular individual and their hateful ideology, which could be interpreted as dehumanizing and offensive based
+##########
+{"id": 78612, "img": "img/78612.png", "label": 0, "text": "go see fifty shades darker in theaters alone and throw mayonnaise at couples in the dark"}
+----------
+not-hateful - The meme suggests a prank involving mayonnaise but does not involve any attacks based on protected characteristics. It does not meet the specified definitions of
+##########
+{"id": 34018, "img": "img/34018.png", "label": 1, "text": "fuck the catholics fuck the catholic church fuck the pope"}
+----------
+hateful - This meme attacks people based on their religion by using derogatory language towards Catholics, the Catholic Church, and the Pope.
+##########
+{"id": 53609, "img": "img/53609.png", "label": 0, "text": "when your friend insists on paying for dinner but you still want to contribute - just the tip, come on... let me"}
+----------
+not-hateful - The meme humorously depicts a common social scenario without displaying any characteristics of hate or attacking any individual or group based on protected characteristics.
+##########
+{"id": 89362, "img": "img/89362.png", "label": 1, "text": "has extra chromosome probably stole it"}
+----------
+hateful - This meme mocks individuals with chromosomal abnormalities, implying criminal behavior, which is dehumanizing and attacks a disability or disease.
+##########
+{"id": 80426, "img": "img/80426.png", "label": 1, "text": "a talking ape"}
+----------
+hateful - The meme dehumanizes an individual by comparing them to an ape, which is a direct attack based on appearance and is considered dehuman
+##########
+{"id": 83045, "img": "img/83045.png", "label": 1, "text": "so much trash, we need a garbage collector"}
+----------
+hateful - The text "so much trash, we need a garbage collector" dehumanizes individuals by comparing them to trash, constituting a violent
+##########
+{"id": 61503, "img": "img/61503.png", "label": 0, "text": "someone else used kids to push an agenda"}
+----------
+not-hateful - The meme comments on using children to further an agenda but does not attack any specific group or individual based on protected characteristics.
+##########
+{"id": 41890, "img": "img/41890.png", "label": 1, "text": "house of pedophile"}
+----------
+hateful - The meme uses dehumanizing language targeting a group, indirectly attacking based on association with a specific place, and such statements can contribute to
+##########
+{"id": 52091, "img": "img/52091.png", "label": 1, "text": "women ask for equal rights, so i give them equal lefts aswell"}
+----------
+hateful - The meme promotes violence against women by suggesting physical harm in response to their demand for equal rights, which is a dehumanizing and violent
+##########
+{"id": 24396, "img": "img/24396.png", "label": 1, "text": "so like, why are men even gay? girls have buttholes too you know."}
+----------
+hateful - The meme trivializes and mocks sexual orientation by reducing it to a simplistic comparison, which is a form of indirect attack and does not respect
+##########
+{"id": 72168, "img": "img/72168.png", "label": 1, "text": "upper downer"}
+----------
+not-hateful - The meme compares substances in a non-dehumanizing way and does not attack or marginalize any specific group based on protected characteristics.
+##########
+{"id": 85761, "img": "img/85761.png", "label": 1, "text": "no wonder why the pipes are not working"}
+----------
+not-hateful - The meme references non-functional pipes in a non-derogatory manner with no attack directed at any specific group or individual based on
+##########
+{"id": 35719, "img": "img/35719.png", "label": 0, "text": "jamal is practicing for class sport"}
+----------
+not-hateful - The meme depicts someone practicing sports with neutral text, without any attacks or dehumanizing content based on characteristics such as ethnicity, race
+##########
+{"id": 90256, "img": "img/90256.png", "label": 1, "text": "whenever you feel stupid, remember there are people who throw stones at a wall! aiming for an invisible devil, told by an invisible god for an invisible heaven!"}
+----------
+hateful - The meme mocks religious practices and beliefs by calling them stupid, associating them with invisibility, and portraying followers as foolish, thus indirectly
+##########
+{"id": 20984, "img": "img/20984.png", "label": 0, "text": "when you are white and stole your first bike"}
+----------
+hateful - The meme implies a negative stereotype about a racial group, suggesting that committing theft is associated with a specific race. This is dehumanizing
+##########
+{"id": 95086, "img": "img/95086.png", "label": 1, "text": "novaky concentration camp these jews can claim holocaust pensions"}
+----------
+hateful - The meme mocks a hate crime and makes a dehumanizing statement about a specific ethnic group in relation to a historical atrocity, which
+##########
+{"id": 49028, "img": "img/49028.png", "label": 0, "text": "i finally found my girlfriends g-spot turns out it was in her sister the whole time"}
+----------
+not-hateful - The meme does not contain any reference to attack, inferiority, or exclusion based on protected characteristics. It uses a crude joke,
+##########
+{"id": 18356, "img": "img/18356.png", "label": 0, "text": "i took a shower this morning"}
+----------
+hateful - Associating a common activity like showering with historical figures known for hate crimes indirectly attacks those affected, mocking the severity of their actions.
+##########
+{"id": 52634, "img": "img/52634.png", "label": 0, "text": "the secret to a successful marriage is to keep his stomach full and his balls empty"}
+----------
+not-hateful - The meme uses humorous language regarding stereotypical gender roles in marriage but does not attack or demean any specific characteristic or group as per the
+##########
+{"id": 80512, "img": "img/80512.png", "label": 1, "text": "you can make jokes about anything, just not illegals that's crossing the border"}
+----------
+hateful - This meme targets individuals based on their immigration status, using a derogatory term "illegals," which is dehumanizing and contributes
+##########
+{"id": 62703, "img": "img/62703.png", "label": 0, "text": "they shot the wrong gorilla"}
+----------
+hateful - The meme dehumanizes a person by comparing them to a gorilla, which is a form of dehumanizing speech and violates the
+##########
+{"id": 95176, "img": "img/95176.png", "label": 0, "text": "notice how the kenyan skidmark has been silent about the mueller report?"}
+----------
+hateful - The meme uses a derogatory term "skidmark" and references ethnicity by mentioning "Kenyan," making it a dehumanizing
+##########
+{"id": 27384, "img": "img/27384.png", "label": 0, "text": "that face you make when you're a bully and just got beat up by a girl"}
+----------
+not-hateful - This meme references a personal situation involving a bully and does not contain dehumanizing or violent language related to any protected characteristic defined in
+##########
+{"id": 82437, "img": "img/82437.png", "label": 1, "text": "we should learn from ocean how to treat refugees"}
+----------
+hateful - The meme dehumanizes refugees by using the ocean as a metaphor for rejection or harm, aligning with dehumanizing speech and statements of
+##########
+{"id": 26943, "img": "img/26943.png", "label": 1, "text": "my incesters built this country!!!!"}
+----------
+not-hateful - The meme contains a misspelling and possible self-mocking humor, but it does not attack or demean any specific group or individual
+##########
+{"id": 9152, "img": "img/09152.png", "label": 0, "text": "i don't have ex's. i have y's. like, \"y the hell did i date you?!?\""}
+----------
+not-hateful - The meme expresses a humorous regret about past relationships without attacking or dehumanizing any specific individual or group.
+##########
+{"id": 7429, "img": "img/07429.png", "label": 1, "text": "i'm about to have my 5th abortion fuck you batman i'm the real crime fighter"}
+----------
+hateful - The meme mocks a sensitive and personal issue (abortion) and implies performing abortions is equivalent to fighting crime, which is dehumanizing
+##########
+{"id": 75639, "img": "img/75639.png", "label": 1, "text": "changing every single country it touches"}
+----------
+hateful - The meme can be interpreted as an indirect attack on a religious or ethnic group, implying a negative impact associated with them, which aligns with
+##########
+{"id": 46812, "img": "img/46812.png", "label": 0, "text": "goat meat is very popular in islamic countries"}
+----------
+not-hateful - The meme discusses a cultural dietary preference without making derogatory or dehumanizing statements about people based on their religion or ethnicity.
+##########
+{"id": 63827, "img": "img/63827.png", "label": 1, "text": "teacher of the year for black community"}
+----------
+hateful - The image and text mockingly associate a noose, a symbol connected to racial violence and lynching, with the Black community, constit
+##########
+{"id": 41276, "img": "img/41276.png", "label": 1, "text": "evolution from peeling bananas to busting caps"}
+----------
+hateful - The meme dehumanizes people by comparing them to animals, which is a form of dehumanizing speech and meets the criteria defined for
+##########
+{"id": 56413, "img": "img/56413.png", "label": 1, "text": "feeling cute might shoot a darkie later idk"}
+----------
+hateful - The meme contains violent and dehumanizing language targeting a racial group, which qualifies as a hateful attack per the provided definition.
+##########
+{"id": 69512, "img": "img/69512.png", "label": 0, "text": "happy birthday you sexy beast"}
+----------
+not-hateful - The phrase "happy birthday you sexy beast" is a humorous and playful compliment, not an attack based on any characteristics.
+##########
+{"id": 43175, "img": "img/43175.png", "label": 1, "text": "when was the last time you saw so many mentally ill people on the streat"}
+----------
+hateful - The meme dehumanizes people by suggesting that LGBTQ+ individuals are mentally ill, which targets and attacks them based on their gender identity and
+##########
+{"id": 54129, "img": "img/54129.png", "label": 0, "text": "dump pipe to the ocean"}
+----------
+not-hateful - The meme simply depicts a pipe dumping into an ocean with no reference or attack on any characteristics such as race, ethnicity, or identity
+##########
+{"id": 23645, "img": "img/23645.png", "label": 1, "text": "what do they have in common? you enjoy pushing them down the stairs"}
+----------
+hateful - The meme implies an act of violence towards a person, which is dehumanizing, making it fall under the category of hateful content according
+##########
+{"id": 89425, "img": "img/89425.png", "label": 1, "text": "hello chocolate paradise princess i'm albert"}
+----------
+not-hateful - The meme appears to be a humorous interaction without any demeaning or attacking content based on the characteristics mentioned in the definitions.
+##########
+{"id": 16923, "img": "img/16923.png", "label": 1, "text": "do you like goat anus? smell my finger"}
+----------
+hateful - The meme is dehumanizing as it associates a person with an animal's body part in a derogatory manner and mocks the person,
+##########
+{"id": 4769, "img": "img/04769.png", "label": 1, "text": "if she's pouting like this and you don't immediately drop the argument , motherfucker you gay"}
+----------
+hateful - This meme uses a derogatory term for sexual orientation in a negative context, implying inferiority and using it as an insult.
+##########
+{"id": 69815, "img": "img/69815.png", "label": 1, "text": "thank you for allowing me into your country now we need to talk about the things that need to change around here to accommodate my beliefs"}
+----------
+hateful - Implies a negative stereotype of immigrants demanding changes, which can indirectly attack individuals based on nationality and beliefs, thereby fostering intolerance and exclusion.
+##########
+{"id": 91468, "img": "img/91468.png", "label": 0, "text": "you want a whore? buy one. you want a queen? earn her. you want a nickel bag? fifteen bucks, little man"}
+----------
+not-hateful - The meme uses humorous phrasing and contrasts to convey its message but does not attack or demean any group based on protected characteristics.
+##########
+{"id": 52104, "img": "img/52104.png", "label": 0, "text": "lebanon: before islam after islam but don't worry! after islam takes over, there'll be a golden age... apparently"}
+----------
+hateful - The meme targets Islam and portrays it negatively, suggesting decline and mockery of the concept of a golden age after its influence, fitting the
+##########
+{"id": 52031, "img": "img/52031.png", "label": 0, "text": "theriously?? that's methed up!"}
+----------
+not-hateful - The meme uses a play on words and does not attack or demean individuals based on characteristics like race, gender, or religion. It
+##########
+{"id": 8795, "img": "img/08795.png", "label": 0, "text": "when you are white and working in oil field"}
+----------
+not-hateful - The meme does not attack or demean people based on race; it uses humor related to the oil field context without promoting harmful stereotypes or
+##########
+{"id": 50317, "img": "img/50317.png", "label": 1, "text": "what in the hell is wrong with america voting towel heads into congress"}
+----------
+hateful - The term "towel heads" is a dehumanizing and derogatory slur against people based on ethnicity or religion, making this
+##########
+{"id": 73914, "img": "img/73914.png", "label": 1, "text": "be careful who you call ugly in highschool"}
+----------
+hateful - Comparing a person to an animal is dehumanizing and constitutes a hateful attack based on appearance, violating norms against dehumanization.
+##########
+{"id": 3197, "img": "img/03197.png", "label": 1, "text": "i'm no bird expert but i'm guessing it's 4 females and 1 male"}
+----------
+not-hateful - The meme humorously references birds, specifically chicks, without attacking or dehumanizing any groups based on protected characteristics like ethnicity, gender
+##########
+{"id": 49621, "img": "img/49621.png", "label": 0, "text": "wait, mohammad come back i didn't mean to laugh, really size dosen't matter to me lol"}
+----------
+not-hateful - The meme doesn’t attack or dehumanize anyone based on their inherent characteristics. It uses light-hearted humor that does not violate the
+##########
+{"id": 68530, "img": "img/68530.png", "label": 1, "text": "a fast sandwich maker"}
+----------
+hateful - The text belittles the accomplishments of the person based on gender stereotypes, implying inferiority by reducing them to a domestic role rather than
+##########
+{"id": 98547, "img": "img/98547.png", "label": 0, "text": "waves mexican flag doesn't want to live in mexico"}
+----------
+hateful - This meme targets individuals of Mexican nationality or descent, implying hypocrisy and perpetuating negative stereotypes, thus dehumanizing them based on their nationality
+##########
+{"id": 3519, "img": "img/03519.png", "label": 1, "text": "i'm going home i'm russian"}
+----------
+hateful - This meme dehumanizes Russians by comparing them to pigs, which falls under violent or dehumanizing speech as per the definition of hateful
+##########
+{"id": 43698, "img": "img/43698.png", "label": 0, "text": "don't be late for work get the protestor plow"}
+----------
+hateful - The meme encourages violence against protestors by suggesting using a vehicle to harm them, thus constituting a violent attack based on their behavior (
+##########
+{"id": 84756, "img": "img/84756.png", "label": 1, "text": "when you ask the kid that misses class a lot why he is bald and he starts crying all right. then keep vour secrets"}
+----------
+hateful - The meme mocks a child for being bald, which could be due to a medical condition. Mocking someone's health-related issue can be de
+##########
+{"id": 93051, "img": "img/93051.png", "label": 0, "text": "and for my next class project!"}
+----------
+not-hateful - The meme shows a diverse group of children working together on a science project, promoting education and cooperation without attacking or dehumanizing anyone
+##########
+{"id": 68257, "img": "img/68257.png", "label": 0, "text": "everyone is afraid of dark"}
+----------
+not-hateful - The text and image convey a common sentiment about fear of darkness without attacking or dehumanizing any group based on protected characteristics.
+##########
+{"id": 12834, "img": "img/12834.png", "label": 1, "text": "in west philadelphia, born and raised in the anus is where i got most of my aids"}
+----------
+hateful - The text mocks a serious disease, framing it humorously in a way that demeans individuals living with AIDS, which falls under dehuman
+##########
+{"id": 57208, "img": "img/57208.png", "label": 0, "text": "i had potato for lunch"}
+----------
+not-hateful - The statement "i had potato for lunch" is neutral and does not attack any individual or group based on protected characteristics.
+##########
+{"id": 26439, "img": "img/26439.png", "label": 0, "text": "parental opioid use has negative effect on children's intelligence"}
+----------
+not-hateful - The meme criticizes parental opioid use for its impact on children's intelligence but does not attack individuals based on protected characteristics.
+##########
+{"id": 53769, "img": "img/53769.png", "label": 0, "text": "in 1979 jimmy carter created the department of education since then the u.s. has gone from 1st to 17th in education"}
+----------
+not-hateful - The meme critiques an education policy and its perceived impact. It does not attack any group based on protected characteristics as defined in the hateful
+##########
+{"id": 28406, "img": "img/28406.png", "label": 0, "text": "when she gives you that look"}
+----------
+not-hateful - The meme does not make any dehumanizing, violent, or exclusionary statements based on any specific characteristics. It appears to be
+##########
+{"id": 53418, "img": "img/53418.png", "label": 0, "text": "a real man loads the dishwasher every night"}
+----------
+not-hateful - The meme promotes the idea that men should participate in household chores without attacking or dehumanizing any group based on protected characteristics.
+##########
+{"id": 10785, "img": "img/10785.png", "label": 1, "text": "time to put the \"panic\" back in hispanic"}
+----------
+hateful - The meme associates "panic" with "Hispanic" and implies a threat by depicting someone with a weapon, constituting a direct
+##########
+{"id": 84302, "img": "img/84302.png", "label": 0, "text": "why do we share more when these people are hurt but not these people"}
+----------
+hateful - The meme indirectly implies a comparison based on ethnicity or nationality which can be perceived as dehumanizing or disparaging, making it an indirect
+##########
+{"id": 76015, "img": "img/76015.png", "label": 0, "text": "everyone celebrates christmas !"}
+----------
+hateful - The meme mockingly implies that individuals from a specific religious or cultural background are compelled to celebrate Christmas, disregarding their own traditions and beliefs
+##########
+{"id": 34189, "img": "img/34189.png", "label": 0, "text": "fight for what you believe in fight for the future"}
+----------
+not-hateful - The text encourages people to stand up for their beliefs and the future, without attacking or demeaning any group based on protected characteristics.
+##########
+{"id": 52079, "img": "img/52079.png", "label": 0, "text": "just bought a house! now we're house-poor"}
+----------
+not-hateful - This meme describes the common situation of financial strain after purchasing a house and does not attack or dehumanize any group based on protected
+##########
+{"id": 63987, "img": "img/63987.png", "label": 0, "text": "the migrant caravan arrives!"}
+----------
+hateful - The meme targets people based on their immigration status and could be seen as mocking or dehumanizing them, leading to potential exclusion and negative
+##########
+{"id": 73526, "img": "img/73526.png", "label": 0, "text": "if she's still making noises, you didn't hit her hard enough"}
+----------
+hateful - The meme encourages violence against women, a clear attack based on gender. This dehumanizing and violent speech qualifies as hateful by promoting harmful
+##########
+{"id": 2145, "img": "img/02145.png", "label": 0, "text": "and then i asked mom, what's for dinner?"}
+----------
+not-hateful - The meme does not attack or demean any individual or group based on protected characteristics; it simply depicts a dinner table with a humorous caption
+##########
+{"id": 84102, "img": "img/84102.png", "label": 0, "text": "the definition of utter disgust in plain black and white"}
+----------
+hateful - The phrase "the definition of utter disgust" when referring to a person's image, is dehumanizing and derogatory, thus constituting
+##########
+{"id": 32981, "img": "img/32981.png", "label": 0, "text": "the latest and greatest. a truck that comes with a dishwasher!"}
+----------
+not-hateful - This meme appears to be a lighthearted joke about moving or truck features with no attack or dehumanizing language based on characteristics defined
+##########
+{"id": 73605, "img": "img/73605.png", "label": 0, "text": "no matter what smile"}
+----------
+not-hateful - The meme encourages smiling regardless of circumstances and does not contain harmful, dehumanizing, or exclusionary content based on the provided definitions
+##########
+{"id": 7382, "img": "img/07382.png", "label": 1, "text": "wouldn't be the last time those people used the oven this way"}
+----------
+hateful - The meme is hateful as it implies dehumanizing and derogatory speech by referencing an oven in context that can be interpreted as mocking a
+##########
+{"id": 64071, "img": "img/64071.png", "label": 0, "text": "when you have someone to help and take care of you what could happen if you didn't"}
+----------
+not-hateful - The meme humorously implies the importance of care by contrasting situations, without attacking or dehumanizing any group based on specified characteristics.
+##########
+{"id": 80912, "img": "img/80912.png", "label": 0, "text": "mr obama it is an honor"}
+----------
+not-hateful - The meme depicts a respectful interaction, with no violent, dehumanizing, or exclusionary language or imagery based on any individual characteristics
+##########
+{"id": 84762, "img": "img/84762.png", "label": 1, "text": "do you know how to turn your dishwasher into a snowblower? throw em a shovel"}
+----------
+hateful - The meme dehumanizes a person by comparing them to a dishwasher, implying inferiority and promoting negative stereotypes, which attacks a person based
+##########
+{"id": 39076, "img": "img/39076.png", "label": 0, "text": "playing with the monkeys in thailand"}
+----------
+hateful - The meme dehumanizes people by comparing them to monkeys, which can be considered a racially insensitive and derogatory attack based on ethnicity
+##########
+{"id": 85679, "img": "img/85679.png", "label": 1, "text": "mr obama it is an honor"}
+----------
+hateful - The meme dehumanizes an individual by comparing them to a non-human entity, which is a direct or indirect attack based on characteristics like
+##########
+{"id": 38095, "img": "img/38095.png", "label": 0, "text": "haters will say it's photoshop"}
+----------
+not-hateful - This meme does not contain any direct or indirect attacks on people based on protected characteristics. It appears to show a humorous or surreal image
+##########
+{"id": 52394, "img": "img/52394.png", "label": 0, "text": "i forgot what are we fighting over again?"}
+----------
+not-hateful - The meme depicts a chaotic scene with a humorous caption without targeting any specific group or characteristic. It does not involve dehumanizing speech
+##########
+{"id": 14865, "img": "img/14865.png", "label": 0, "text": "terrible as hitler was, he did enjoy watching sports"}
+----------
+hateful - The meme compares an infamous historical figure involved in hateful acts to something mundane, potentially trivializing their crimes and causing distress to affected communities.
+##########
+{"id": 54819, "img": "img/54819.png", "label": 0, "text": "beauty shot of girlfriends focusing on different thoughts and ideas"}
+----------
+not-hateful - The text does not attack or demean any group based on protected characteristics. It simply describes friends focusing on different thoughts and ideas without derog
+##########
+{"id": 46082, "img": "img/46082.png", "label": 0, "text": "the future of the democratic party"}
+----------
+not-hateful - The meme does not display or imply any attack based on the listed protected characteristics. It simply presents an ambiguous statement related to the Democratic
+##########
+{"id": 73962, "img": "img/73962.png", "label": 1, "text": "you should treat that the way you treat you vacuum cleaner when it stops sucking change the bag"}
+----------
+hateful - The text implies dehumanizing speech by comparing a person to a vacuum cleaner, potentially targeting individuals based on characteristics like sex or relationships,
+##########
+{"id": 78462, "img": "img/78462.png", "label": 0, "text": "in the last days there will be scoffers, ridiculers, deniers and mockers following after their own lusts"}
+----------
+not-hateful - The meme quotes a biblical phrase without attacking or dehumanizing any specific group based on protected characteristics. It doesn't meet the criteria for
+##########
+{"id": 49805, "img": "img/49805.png", "label": 0, "text": "imagine being so disgusting there have to be laws to try to stop normal people from hating you"}
+----------
+hateful - The meme dehumanizes people by comparing them to a skunk and suggests laws are needed to stop normal people from hating them,
+##########
+{"id": 24098, "img": "img/24098.png", "label": 1, "text": "thanksgiving in china"}
+----------
+hateful - This meme mocks and potentially dehumanizes people by suggesting they eat cats, which can be an offensive racial stereotype directed at Chinese culture.
+##########
+{"id": 67435, "img": "img/67435.png", "label": 1, "text": "when you ask a jewish girl for her number and she starts rolling her sleeve"}
+----------
+hateful - This classification is based on the text mocking a traumatic historical event associated with Jewish people, which constitutes a dehumanizing and offensive attack based
+##########
+{"id": 60893, "img": "img/60893.png", "label": 0, "text": "busy, like a hive of bees, controlling what your family sees and edits all the news your hear so you'll know what to think and fear till all the truth there is, is gone. that is unless you stand, en masse. \""}
+----------
+not-hateful - The meme criticizes media control and manipulation by a company without attacking any individual or group based on protected characteristics.
+##########
+{"id": 93148, "img": "img/93148.png", "label": 0, "text": "the proper way to pop a blackhead"}
+----------
+not-hateful - The meme addresses a common skincare issue and does not involve any attack or dehumanizing speech based on protected characteristics like race, gender
+##########
+{"id": 7351, "img": "img/07351.png", "label": 0, "text": "\"plays uno steals all the green cards\""}
+----------
+hateful - The meme makes an indirect reference to immigration status by implying stealing "green cards," which can be dehumanizing and offensive based on the
+##########
+{"id": 16850, "img": "img/16850.png", "label": 0, "text": "okay okay okay here's my serious face do i look fuhrerious yet?"}
+----------
+hateful - The meme's use of "fuhrerious" indirectly references Adolf Hitler, a historical figure associated with extreme hate and genocide, making this
+##########
+{"id": 96312, "img": "img/96312.png", "label": 0, "text": "when you support your little one every step of the way"}
+----------
+not-hateful - The meme shows support and encouragement, which aligns with positive social norms and does not involve any attack based on personal characteristics or inclusion of
+##########
+{"id": 86195, "img": "img/86195.png", "label": 0, "text": "dolled up and rolling with the gang like"}
+----------
+hateful - The meme uses imagery associated with a regime responsible for hate crimes, which can be seen as mocking or glorifying hate, thus indirectly attacking
+##########
+{"id": 84162, "img": "img/84162.png", "label": 0, "text": "i could have killed all of them. but i let some of them survive so you know why i killed them"}
+----------
+not-hateful - The meme refers to mosquitoes and does not target any human characteristics or promote violence, thus it does not fit the definition of a hateful
+##########
+{"id": 12067, "img": "img/12067.png", "label": 0, "text": "pre-heat to 350 degrees"}
+----------
+not-hateful - The meme provides a literal baking instruction with no reference to or attack based on protected characteristics. The context is focused on baking cookies.
+##########
+{"id": 5938, "img": "img/05938.png", "label": 1, "text": "in the muslim world all gay men are well hung"}
+----------
+hateful - This meme mocks a hate crime and suggests violence against a specific group based on their sexual orientation and religion, which is dehumanizing and
+##########
+{"id": 43092, "img": "img/43092.png", "label": 0, "text": "pretty much sums up islam"}
+----------
+hateful - The meme disparages and simplifies a religion (Islam) by reducing it to a single image in a mocking context, which can be considered
+##########
+{"id": 30148, "img": "img/30148.png", "label": 1, "text": "you mean i don't have to pick it?!?"}
+----------
+not-hateful - The text doesn't contain any attacks, dehumanizing speech, or exclusion based on protected characteristics. It appears to be a lighthearted
+##########
+{"id": 12045, "img": "img/12045.png", "label": 0, "text": "learn to hunt. it's a valuable skill"}
+----------
+not-hateful - The meme encourages learning a skill (hunting) but does not attack any group of people based on their characteristics and doesn't promote violence
+##########
+{"id": 92068, "img": "img/92068.png", "label": 0, "text": "still better than mexican"}
+----------
+hateful - The meme indirectly attacks and dehumanizes people based on nationality, presenting them as inferior by comparing them negatively to a pizza.
+##########
+{"id": 73021, "img": "img/73021.png", "label": 0, "text": "when mom asks where all the jews went"}
+----------
+hateful - This meme indirectly mocks a tragic historical event related to Jews, which constitutes dehumanizing speech based on religion and ethnicity.
+##########
+{"id": 56241, "img": "img/56241.png", "label": 1, "text": "94% of them test positive for rh blood type which means they have monkey blood as a result they are born with a tail and other animal traits"}
+----------
+hateful - The meme dehumanizes a group of people by comparing them to animals and suggesting they have "monkey blood" and "animal traits
+##########
+{"id": 28905, "img": "img/28905.png", "label": 1, "text": "hey, i just met you and this is crazy but here's your number.. so camping, maybe?"}
+----------
+not-hateful - The text in the meme is playful and does not attack or demean anyone based on the listed characteristics. It follows social norms without any
+##########
+{"id": 13750, "img": "img/13750.png", "label": 0, "text": "wouldn't be the last time those people used the oven this way"}
+----------
+hateful - The text is a derogatory reference likely targeting a group of people in connection with a historic tragedy involving ovens, which is dehumanizing
+##########
+{"id": 6582, "img": "img/06582.png", "label": 1, "text": "they are terrorists anyone who doesn't agree is an idiot"}
+----------
+hateful - The meme dehumanizes and targets a group based on ethnicity and religion by labeling them as terrorists and insulting those who disagree.
+##########
+{"id": 75142, "img": "img/75142.png", "label": 0, "text": "you should treat that the way you treat your vacuum cleaner, when it stops sucking change the bag"}
+----------
+not-hateful - The meme uses a metaphor involving a vacuum cleaner and does not attack or demean any individual or group based on protected characteristics.
+##########
+{"id": 56149, "img": "img/56149.png", "label": 0, "text": "the original scarecrow"}
+----------
+not-hateful - The meme refers to a traditional scarecrow in a field without any attack, demeaning speech, or dehumanization directed at any
+##########
+{"id": 41796, "img": "img/41796.png", "label": 0, "text": "nein danke i'm very happy with my gas supplier"}
+----------
+hateful - References to "gas" in this context can be associated with the Holocaust, dehumanizing a group based on nationality, ethnicity, or
+##########
+{"id": 31570, "img": "img/31570.png", "label": 1, "text": "busy, like a hive of bees, controlling what your family sees and edits all the news your hear so you'll know what to think and fear till all the truth there is, is gone that is unless you stand, en masse. \""}
+----------
+hateful - This meme dehumanizes a group by comparing them to bees and perpetuates harmful conspiracy theories, which is considered an indirect attack based
+##########
+{"id": 1726, "img": "img/01726.png", "label": 1, "text": "a real man loads the dishwasher every night"}
+----------
+not-hateful - The meme promotes a non-hateful social norm by suggesting a household chore should be done by men, without attacking or devaluing
+##########
+{"id": 23785, "img": "img/23785.png", "label": 0, "text": "hansel and gretel was a scary childrens story"}
+----------
+not-hateful - The meme discusses a children's story in a non-offensive manner and does not attack any group based on their characteristics.
+##########
+{"id": 56473, "img": "img/56473.png", "label": 0, "text": "knows about you. your family your children everything"}
+----------
+not-hateful - The meme does not contain any direct or indirect attacks based on discriminatory characteristics but seems to imply general knowledge of personal information.
+##########
+{"id": 62970, "img": "img/62970.png", "label": 0, "text": "if you want to know how they were treated illustration of man with four slaves chained together"}
+----------
+hateful - The meme depicts a dehumanizing and violent historical scene of slavery, likely intended to mock or trivialize the suffering of enslaved people
+##########
+{"id": 41035, "img": "img/41035.png", "label": 0, "text": "my new muslim girlfriend not much to look at"}
+----------
+hateful - This meme mocks someone's appearance based on their religion, which constitutes a dehumanizing attack according to the definition of hateful content.
+##########
+{"id": 10285, "img": "img/10285.png", "label": 1, "text": "you are what you eat meanwhile in africa"}
+----------
+hateful - The meme mocks people based on a sensitive topic of starvation in Africa, which is dehumanizing and perpetuates negative stereotypes.
+##########
+{"id": 95604, "img": "img/95604.png", "label": 1, "text": "they want to be accepted for who they are, yet theren't able to accept themselves for who they are"}
+----------
+not-hateful - The statement is a general observation on self-acceptance without targeting any specific group or individual based on protected characteristics as defined.
+##########
+{"id": 68401, "img": "img/68401.png", "label": 0, "text": "when you date an asian boy and you trynna get his family to accept you"}
+----------
+not-hateful - The meme discusses efforts to gain acceptance from a partner's family without resorting to violent, dehumanizing, or exclusionary language
+##########
+{"id": 50984, "img": "img/50984.png", "label": 0, "text": "a cat in a pot"}
+----------
+not-hateful - The image depicts a cat sitting in a pot, which is humorous and does not involve any attack or mockery based on any protected
+##########
+{"id": 17908, "img": "img/17908.png", "label": 0, "text": "making a quick 3pm snack"}
+----------
+not-hateful - The meme shows a person preparing a sandwich with the text indicating it's a 3pm snack, which is not an attack and doesn't
+##########
+{"id": 42631, "img": "img/42631.png", "label": 1, "text": "i believe they are like racism just shouldn't exist"}
+----------
+hateful - Compares an unspecified group to racism, a dehumanizing and violent ideology. This implies inferiority and indirectly attacks, fitting the definition
+##########
+{"id": 61349, "img": "img/61349.png", "label": 1, "text": "the proper way to pop a blackhead"}
+----------
+hateful - The meme dehumanizes a person by comparing a punch to the act of removing a blackhead, based on the person's skin color,
+##########
+{"id": 65093, "img": "img/65093.png", "label": 0, "text": "cookie kunty seen in paris"}
+----------
+hateful - The term "kunty" is a pejorative term often used in a derogatory manner, which can be considered an attack on
+##########
+{"id": 86357, "img": "img/86357.png", "label": 0, "text": "apparently not erdogan"}
+----------
+hateful - The meme dehumanizes an individual by comparing them to a non-human creature, which is a form of attack based on likely nationality or
+##########
+{"id": 74965, "img": "img/74965.png", "label": 0, "text": "some people some other people"}
+----------
+hateful - Comparing people to non-human things (in this case, an animal) is dehumanizing and falls under the definition of a hateful attack
+##########
+{"id": 75918, "img": "img/75918.png", "label": 0, "text": "a picture of my great great great grand grandfather's tractors they don't make them like they used to"}
+----------
+not-hateful - This meme nostalgically compares old tractors to modern ones without attacking or dehumanizing any group of people based on protected characteristics. It's
+##########
+{"id": 14975, "img": "img/14975.png", "label": 0, "text": "hitting is a crime. it's about time people understood that"}
+----------
+not-hateful - The meme calls out hitting as a crime and emphasizes the need for awareness, which is a socially acceptable stance and does not attack any
+##########
+{"id": 92317, "img": "img/92317.png", "label": 0, "text": "you either die a hero, or live long enough to become the villain"}
+----------
+not-hateful - The meme does not attack any group based on protected characteristics. The text is a general statement about heroism and villainy without targeting
+##########
+{"id": 19536, "img": "img/19536.png", "label": 1, "text": "when your jewish friend smells a stash of coins in public"}
+----------
+hateful - The meme perpetuates a harmful stereotype about Jewish people being overly concerned with money, which is dehumanizing and attacks individuals based on
+##########
+{"id": 90236, "img": "img/90236.png", "label": 0, "text": "voila! fresh batch of baked goods !"}
+----------
+not-hateful - The meme simply shows a person presenting baked goods, with no attacks, dehumanizing speech, or calls for exclusion based on any
+##########
+{"id": 30642, "img": "img/30642.png", "label": 0, "text": "rabbi sitting in synagogue chillin and doing his thing"}
+----------
+not-hateful - The text describes a rabbi in a neutral, everyday context without any form of attack, derogatory language, or dehumanizing
+##########
+{"id": 59206, "img": "img/59206.png", "label": 0, "text": "traveling through chimney"}
+----------
+not-hateful - The meme refers to a festive figure associated with traveling through chimneys, which aligns with social norms and lacks any attack based on protected
+##########
+{"id": 19075, "img": "img/19075.png", "label": 0, "text": "when you smell cake"}
+----------
+not-hateful - The meme includes humorous, non-offensive content related to the sensation of smelling cake. There’s no attack on any group or individual
+##########
+{"id": 79042, "img": "img/79042.png", "label": 0, "text": "the door to the crematorium and gas chambers are closed"}
+----------
+hateful - The text references gas chambers and crematoriums in a context that is historically tied to hate crimes and atrocities, thus mocking or trivializing
+##########
+{"id": 98720, "img": "img/98720.png", "label": 0, "text": "when your wife just died giving birth to your daughter and you're alone in the room with your naked just born daughter"}
+----------
+hateful - The meme potentially trivializes the tragic event of a wife's death and could be seen as offensive or insensitive toward individuals who have experienced such a
+##########
+{"id": 2634, "img": "img/02634.png", "label": 1, "text": "and just like that... this sandwich maker doubles as an ironing board"}
+----------
+hateful - This meme is demeaning towards a woman, suggesting her value is limited to stereotypical domestic roles, which is a dehumanizing statement
+##########
+{"id": 84107, "img": "img/84107.png", "label": 0, "text": "i ordered a dishwasher and they sent me a sandwich maker"}
+----------
+not-hateful - The meme uses a lighthearted joke about a product mix-up and does not attack or dehumanize any group based on the defined
+##########
+{"id": 7198, "img": "img/07198.png", "label": 1, "text": "islam is a religion of peace stop criticizing my religion"}
+----------
+hateful - The image and text sarcastically undermine a religion by juxtaposing peace with an array of weapons, implying hypocrisy, which can be demeaning
+##########
+{"id": 45702, "img": "img/45702.png", "label": 1, "text": "if she's still making noises, you didn't hit her hard enough"}
+----------
+hateful - Advocates violence against women and trivializes abuse, which is dehumanizing and degrading.
+##########
+{"id": 46085, "img": "img/46085.png", "label": 0, "text": "city workers repair statue cover it up with black sheet"}
+----------
+not-hateful - The meme depicts city workers covering a statue with a black sheet, and there's no indication of an attack or derogatory statement based on
+##########
+{"id": 8451, "img": "img/08451.png", "label": 0, "text": "when you ask a jewish girl for her number and she starts rolling her sleeve"}
+----------
+hateful - The meme makes a dehumanizing reference to a traumatic historical event related to Jewish people, mocking their suffering, which constitutes an indirect attack
+##########
+{"id": 73482, "img": "img/73482.png", "label": 0, "text": "it's time we took guns away and put them out of the reach of our children"}
+----------
+not-hateful - The meme advocates for gun control to protect children, does not attack or dehumanize any group, and falls within social norms.
+##########
+{"id": 28017, "img": "img/28017.png", "label": 1, "text": "say it! say it ! islam is the religion of peace"}
+----------
+hateful - The meme mocks people based on their religion, indirectly attacking and mocking the concept of peace in Islam, which falls under statements of inferiority
+##########
+{"id": 2364, "img": "img/02364.png", "label": 0, "text": "a jewish shop owner, wears a kippah or yarmulke whilst in his shop in tehran"}
+----------
+not-hateful - The text describes a Jewish shop owner wearing a kippah in Tehran without making any derogatory or dehumanizing statements. It
+##########
+{"id": 42538, "img": "img/42538.png", "label": 0, "text": "and at that moment everything else in the world just melted away"}
+----------
+not-hateful - The meme depicts a romantic moment and does not include any dehumanizing speech, statements of inferiority, or calls for exclusion or
+##########
+{"id": 47183, "img": "img/47183.png", "label": 0, "text": "taking the liberals to a whole new level"}
+----------
+not-hateful - The text does not attack people based on protected characteristics, and while it may be politically charged, it does not fall under the definitions
+##########
+{"id": 72904, "img": "img/72904.png", "label": 1, "text": "terrorist trojan horse enemy of the state"}
+----------
+hateful - The meme uses dehumanizing language by labeling someone as a "terrorist," "trojan horse," and "enemy of the state
+##########
+{"id": 90243, "img": "img/90243.png", "label": 1, "text": "best gamer ever 6 million kills, 1 death"}
+----------
+hateful - This meme indirectly references the Holocaust, mocking a hate crime and dehumanizing victims, thus constituting a hateful attack based on nationality,
+##########
+{"id": 41382, "img": "img/41382.png", "label": 0, "text": "they want to be accepted for who they are, yet theren't able to accept themselves for who they are"}
+----------
+hateful - Comparing individuals to non-human entities, such as insects, is dehumanizing. The text criticizes and mocks individuals' acceptance of themselves
+##########
+{"id": 78156, "img": "img/78156.png", "label": 0, "text": "you mean i don't have to pick it?!?"}
+----------
+not-hateful - The meme makes a humorous comment about a personal grooming choice and does not contain any dehumanizing, violent, or exclusionary statements
+##########
+{"id": 74250, "img": "img/74250.png", "label": 0, "text": "white kids kids dreaming about their first day of school"}
+----------
+hateful - The meme targets a specific ethnicity by generalizing their experiences, which could be seen as dehumanizing or exclusionary.
+##########
+{"id": 97132, "img": "img/97132.png", "label": 0, "text": "in the muslim world all gay men are well hung"}
+----------
+hateful - This meme mocks and makes a dehumanizing statement about gay men in the Muslim world, violating the criteria for respectfully discussing sexual orientation and
+##########
+{"id": 35840, "img": "img/35840.png", "label": 1, "text": "i ordered a dishwasher and they sent me a sandwich maker"}
+----------
+hateful - This meme directly attacks and dehumanizes women by comparing them to household appliances, which can be considered sexist and is a form of hateful
+##########
+{"id": 78134, "img": "img/78134.png", "label": 0, "text": "in other countries in pakistan"}
+----------
+not-hateful - The meme contrasts everyday situations in another country with a cricket celebration in Pakistan, without showing any violent, dehumanizing, or exclusion
+##########
+{"id": 93620, "img": "img/93620.png", "label": 1, "text": "in other countries in pakistan"}
+----------
+hateful - Compares people of Pakistan to animals, dehumanizing them based on nationality, which is a form of indirect attack according to the provided
+##########
+{"id": 57369, "img": "img/57369.png", "label": 0, "text": "lose 15 lbs with this 1 simple trick photoshop"}
+----------
+not-hateful - This meme jokes about using Photoshop to appear thinner. It does not attack any specific group or individual based on protected characteristics.
+##########
+{"id": 10362, "img": "img/10362.png", "label": 1, "text": "german british danish austrian diversity. apparently we don't have it and these guys do: iraqi pakistani syrian egyptian"}
+----------
+hateful - The meme indirectly mocks and attacks people based on ethnicity and nationality, implying inferiority and lack of diversity in a dehumanizing manner.
+##########
+{"id": 36058, "img": "img/36058.png", "label": 0, "text": "love is love"}
+----------
+not-hateful - The meme promotes a positive message of love and inclusivity without attacking or demeaning any specific group based on their characteristics.
+##########
+{"id": 9467, "img": "img/09467.png", "label": 1, "text": "when mom asks where all the jews went"}
+----------
+hateful - This meme makes a mocking reference to the Holocaust, which is a hate crime against a specific ethnic and religious group, making it dehuman
+##########
+{"id": 60183, "img": "img/60183.png", "label": 1, "text": "nein danke i'm very happy with my gas supplier"}
+----------
+hateful - The meme references a sensitive historical context relating to gas suppliers, potentially targeting specific groups with dehumanizing connotations. It indirectly attacks based
+##########
+{"id": 47263, "img": "img/47263.png", "label": 1, "text": "pre-heat to 350 degrees"}
+----------
+hateful - The meme dehumanizes and mocks a tragic historical event related to the Holocaust, which is extremely offensive and falls under the category of violent
+##########
+{"id": 18726, "img": "img/18726.png", "label": 0, "text": "when your bed is short and your feed stick out"}
+----------
+not-hateful - The meme humorously depicts feet sticking out of a short bed, with no attacks or derogatory comments based on personal characteristics.
+##########
+{"id": 50379, "img": "img/50379.png", "label": 0, "text": "do you know how to turn your dishwasher into a snowblower? throw em a shovel"}
+----------
+hateful - This meme is dehumanizing as it implies that a person (referred to derogatorily as "dishwasher") should be forced
+##########
+{"id": 6352, "img": "img/06352.png", "label": 0, "text": "and then i asked mom, can we go play?"}
+----------
+not-hateful - This meme depicts a child asking their mom to play, which is a normal and non-offensive interaction. It does not attack or
+##########
+{"id": 58093, "img": "img/58093.png", "label": 0, "text": "i treat them like java treats its generic parameters at run time as objects"}
+----------
+not-hateful - The meme makes a technical reference to Java programming without any attack or dehumanization based on protected characteristics.
+##########
+{"id": 19508, "img": "img/19508.png", "label": 1, "text": "the definition of utter disgust in plain black and white"}
+----------
+hateful - The meme uses racial undertones to imply disgust towards an interracial couple, which is a dehumanizing and discriminatory statement based on race and
+##########
+{"id": 2783, "img": "img/02783.png", "label": 1, "text": "a picture of my great great great grand grandfather's tractors they don't make them like they used to"}
+----------
+hateful - The meme dehumanizes and mocks the experiences of enslaved people by referring to them as "tractors" and nostalgically suggesting they
+##########
+{"id": 41728, "img": "img/41728.png", "label": 0, "text": "i believe they are like racism. just shouldn't exist"}
+----------
+hateful - This meme indirectly compares people to racism and implies they shouldn't exist, which is dehumanizing and promotes harm based on identity characteristics.
+##########
+{"id": 51306, "img": "img/51306.png", "label": 0, "text": "eat some cookies you're not yourself when you're hungry"}
+----------
+hateful - The meme dehumanizes and indirectly attacks a person by comparing them to a notorious historical figure, suggesting their behavior aligns with hateful ideology when
+##########
+{"id": 50241, "img": "img/50241.png", "label": 1, "text": "bitches be like no weave, no makeup, no lashes, no eyebrows"}
+----------
+hateful - The meme dehumanizes individuals by comparing them to a non-human creature, which fits the definition of a hateful attack based on gender identity
+##########
+{"id": 49650, "img": "img/49650.png", "label": 1, "text": "and then i asked mom, what's for dinner?"}
+----------
+not-hateful - The text and image depict a child asking a common question to their mother, which is a normal, everyday interaction without any offensive or
+##########
+{"id": 17045, "img": "img/17045.png", "label": 0, "text": "celebrating the presidential election"}
+----------
+not-hateful - The meme celebrates a presidential election using non-violent or non-dehumanizing language and imagery without targeting any specific characteristic of a person
+##########
+{"id": 89536, "img": "img/89536.png", "label": 0, "text": "so many lives lost because of this man"}
+----------
+hateful - The image and text reference a person historically associated with atrocities and hate crimes, indirectly promoting a hateful narrative based on historical associations with ethnicity and
+##########
+{"id": 26187, "img": "img/26187.png", "label": 1, "text": "i love my slow cooker"}
+----------
+not-hateful - The meme expresses affection for a kitchen appliance and does not involve any attack or derogatory reference to any individual or group based on protected
+##########
+{"id": 74906, "img": "img/74906.png", "label": 1, "text": "are you a boy or a girl i'm non binary"}
+----------
+hateful - The meme mocks and dehumanizes non-binary individuals by making an inappropriate comparison, therefore constituting an indirect attack based on gender identity
+##########
+{"id": 28190, "img": "img/28190.png", "label": 1, "text": "when finishing a race is your passion"}
+----------
+hateful - The meme depicts historical figures associated with hate and violence, and the caption "when finishing a race is your passion" can be interpreted as
+##########
+{"id": 89642, "img": "img/89642.png", "label": 1, "text": "i treat them like java treats its generic parameters at run time as objects"}
+----------
+hateful - Comparing people to objects is dehumanizing and falls under violent or dehumanizing speech, which is an indirect attack based on characteristics.
+##########
+{"id": 59170, "img": "img/59170.png", "label": 0, "text": "and just like that... this sandwich maker doubles as an ironing board"}
+----------
+not-hateful - The meme humorously describes a cooking appliance doubling as an ironing board without attacking any group based on the specified characteristics or promoting exclusion or
+##########
+{"id": 30927, "img": "img/30927.png", "label": 0, "text": "doesnt let anything stop her have a great day"}
+----------
+not-hateful - This meme sends a positive message, emphasizing perseverance and offering a kind sentiment without attacking or dehumanizing anyone based on their characteristics.
+##########
+{"id": 32049, "img": "img/32049.png", "label": 0, "text": "german british danish austrian diversity. apparently we don't have it and these guys do: iraqi, pakistani, syrian, egyptian"}
+----------
+hateful - The meme implies inferiority and exclusion of ethnic and national groups, suggesting that "diversity" belongs to the listed Middle Eastern national
+##########
+{"id": 95173, "img": "img/95173.png", "label": 0, "text": "take the third reich and then the first left?"}
+----------
+hateful - This meme references the Third Reich, associated with Nazi Germany, and can be seen as mocking or trivializing the events of the Holocaust,
+##########
+{"id": 50198, "img": "img/50198.png", "label": 0, "text": "you don't need cocaine to be happy"}
+----------
+not-hateful - The meme promotes the idea that happiness can be achieved without using cocaine and does not directly or indirectly attack any group based on protected characteristics
+##########
+{"id": 37658, "img": "img/37658.png", "label": 1, "text": "when your dishwasher is broken so you take it back to walmart to get a new one"}
+----------
+hateful - This meme can be seen as a dehumanizing comparison, implying a person is equivalent to a household appliance, which is offensive and discriminatory
+##########
+{"id": 95613, "img": "img/95613.png", "label": 1, "text": "what a weird way to spell fat and single"}
+----------
+hateful - The meme mocks a personal characteristic (body weight) and social status (relationship status) based on the displayed feminist statement, which can be
+##########
+{"id": 43805, "img": "img/43805.png", "label": 1, "text": "the original scarecrow"}
+----------
+hateful - This meme mocks a significant religious figure, potentially offending those of the associated religion, thus indirectly attacking people based on their religious beliefs.
+##########
+{"id": 18306, "img": "img/18306.png", "label": 1, "text": "white kids kids dreaming about their first day of school"}
+----------
+hateful - The meme makes a derogatory and violent association with a specific race, violating the platform's guidelines around dehumanizing and violent speech related
+##########
+{"id": 46518, "img": "img/46518.png", "label": 1, "text": "it's the goat humper, looks like a bunch of pigs just walked over your grave"}
+----------
+hateful - The meme uses dehumanizing language and targets an individual based on their religion with derogatory terms, which classifies it as an attack
+##########
+{"id": 18547, "img": "img/18547.png", "label": 1, "text": "1st day of 4th grade sandy hook elementary school"}
+----------
+hateful - The meme references Sandy Hook elementary school, site of a tragic mass shooting, in a context involving a child with a gun, which is
+##########
+{"id": 2518, "img": "img/02518.png", "label": 0, "text": "when the dog bites you and you bite back to assert dominance"}
+----------
+not-hateful - The meme uses humor about interacting with a dog and does not contain any attack on people based on protected characteristics or values.
+##########
+{"id": 4621, "img": "img/04621.png", "label": 0, "text": "you are what you eat meanwhile in africa"}
+----------
+hateful - The meme indirectly mocks and dehumanizes people based on their region (Africa), suggesting a negative stereotype about their food scarcity.
+##########
+{"id": 98543, "img": "img/98543.png", "label": 1, "text": "upper downer"}
+----------
+hateful - This meme uses dehumanizing language by labeling someone a "downer" in comparison to drugs, which is a direct form of mock
+##########
+{"id": 85621, "img": "img/85621.png", "label": 0, "text": "no, that's not his daughter... that's his wife! yet the world is silent.."}
+----------
+not-hateful - This meme comments on age difference in a relationship, which does not involve hate speech or attack based on protected characteristics like ethnicity, race
+##########
+{"id": 18367, "img": "img/18367.png", "label": 0, "text": "i love my slow cooker"}
+----------
+not-hateful - The meme expresses a fondness for a kitchen appliance and does not attack or dehumanize any group or individual based on protected characteristics
+##########
+{"id": 84036, "img": "img/84036.png", "label": 0, "text": "militant dressed as martyr"}
+----------
+hateful - This meme dehumanizes individuals by equating a militant with a martyr, which can be seen as a direct attack based on characteristics such
+##########
+{"id": 86417, "img": "img/86417.png", "label": 1, "text": "i could have killed all of them. but i let some of them survive so you know why i killed them"}
+----------
+hateful - The meme contains violent and dehumanizing speech that implies mass killing, which is a serious attack on people's fundamental rights and promotes violence.
+##########
+{"id": 92567, "img": "img/92567.png", "label": 0, "text": "pray for peace pray for wellbeing"}
+----------
+not-hateful - The meme promotes positive messages of peace and wellbeing without attacking or dehumanizing any group or individual based on their characteristics.
+##########
+{"id": 63921, "img": "img/63921.png", "label": 0, "text": "taking a photo with family"}
+----------
+not-hateful - The image and text depict a normal familial activity without any attacks or dehumanizing language based on protected characteristics.
+##########
+{"id": 72864, "img": "img/72864.png", "label": 1, "text": "traveling through chimney"}
+----------
+hateful - The meme's text and imagery implicitly mock a specific belief or heritage by depiction, making it dehumanizing and offensive.
+##########
+{"id": 30586, "img": "img/30586.png", "label": 0, "text": "just can't get rid of the stain. this is why i hate beets"}
+----------
+not-hateful - The meme expresses frustration with food stains (beets), without targeting any group or displaying dehumanizing language.
+##########
+{"id": 83264, "img": "img/83264.png", "label": 1, "text": "randomly deciding to bake something"}
+----------
+hateful - The meme uses imagery that alludes to a historical hate group and its leader, combined with text that could sarcastically reference such a group's
+##########
+{"id": 93041, "img": "img/93041.png", "label": 0, "text": "\"who's gonna make the sandwiches? what do we do with all these sandwiches?\""}
+----------
+not-hateful - The meme depicts a humorous situation involving sandwiches and doesn't target any specific group or characteristic in a dehumanizing or exclusionary manner.
+##########
+{"id": 97305, "img": "img/97305.png", "label": 1, "text": "when your wife just died giving birth to your daughter and you're alone in the room with your naked just born daughter"}
+----------
+hateful - The meme is insensitive and mocks a tragic situation, potentially trivializing death and the resulting emotional trauma, which can be considered dehumanizing
+##########
+{"id": 3568, "img": "img/03568.png", "label": 0, "text": "time to play rich vs the constitution"}
+----------
+not-hateful - The meme discusses a political or social issue regarding wealth and the constitution without attacking a specific group based on protected characteristics.
+##########
+{"id": 7653, "img": "img/07653.png", "label": 1, "text": "in the last days there will be god hating scoffers, ridiculers, deniers and mockers following after their own lusts"}
+----------
+not-hateful - The text does not attack individuals based on protected characteristics but speaks about behaviors and beliefs, making it more about ideological differences than hate.
+##########
+{"id": 26397, "img": "img/26397.png", "label": 0, "text": "there are still parts of the world where people celebrate capital punishment"}
+----------
+hateful - The meme trivializes and mocks a serious issue, capital punishment, which can be interpreted as dehumanizing and insensitive to those affected by
+##########
+{"id": 3217, "img": "img/03217.png", "label": 0, "text": "they are like sperm you get millions, but only one works"}
+----------
+not-hateful - The meme uses a metaphor to illustrate the concept of ideas and creativity, without attacking or dehumanizing any group of people based on
+##########
+{"id": 40618, "img": "img/40618.png", "label": 0, "text": "when your company valuation hits 1 billion"}
+----------
+not-hateful - The meme expresses excitement or celebration about a company's valuation hitting one billion without attacking any person or group based on protected characteristics.
+##########
+{"id": 67208, "img": "img/67208.png", "label": 0, "text": "does nike also sell stones in case they take it off?"}
+----------
+hateful - This meme mocks and indirectly attacks individuals by suggesting violence (stoning) based on their appearance or behavior, which is dehumanizing and
+##########
+{"id": 3798, "img": "img/03798.png", "label": 0, "text": "hey, i just met you and this is crazy but here's your number... so camping, maybe?"}
+----------
+not-hateful - The meme contains a playful and humorous message about meeting someone and suggesting camping, without any attacks or discriminatory speech based on characteristics.
+##########
+{"id": 12468, "img": "img/12468.png", "label": 0, "text": "say it! say it ! islam is the religion of peace"}
+----------
+hateful - The meme appears to mock the phrase "Islam is the religion of peace," which can be seen as an indirect attack on a religious belief
+##########
+{"id": 16842, "img": "img/16842.png", "label": 0, "text": "every kitchen needs a sandwich maker just like this one"}
+----------
+not-hateful - The meme references an inanimate sandwich maker for the kitchen, which does not attack or dehumanize any group or individual based on
+##########
+{"id": 68043, "img": "img/68043.png", "label": 1, "text": "plays uno steals all the green cards"}
+----------
+hateful - This meme makes a derogatory reference to immigration status and stereotypes about Mexican citizens, which is a form of dehumanizing and exclusionary
+##########
+{"id": 51807, "img": "img/51807.png", "label": 0, "text": "are you a boy or a girl i'm non binary"}
+----------
+not-hateful - This meme portrays an interaction about gender identity in a neutral manner without any derogatory or dehumanizing language. It follows social norms
+##########
+{"id": 78914, "img": "img/78914.png", "label": 0, "text": "terrorist trojan horse enemy of the state"}
+----------
+hateful - The meme uses dehumanizing and aggressive language that targets individuals or groups, labeling them as "terrorist," "trojan horse,"
+##########
+{"id": 47950, "img": "img/47950.png", "label": 0, "text": "democrats ilhan omar alexandria ocasio-cortez ayanna pressley rashida tlais we're new, bold, and we hate you! we hate whites, jews, christians, conservatives, republicans,"}
+----------
+hateful - The meme asserts that certain individuals hate groups based on race, religion, and political affiliation, which constitutes an indirect attack and dehumanizing
+##########
+{"id": 95487, "img": "img/95487.png", "label": 0, "text": "watching vegetables grow"}
+----------
+not-hateful - The meme simply depicts a vegetable garden with text describing the activity of watching vegetables grow. There is no attack or harmful speech directed toward
+##########
+{"id": 49260, "img": "img/49260.png", "label": 0, "text": "it's the goat humper looks like a bunch of pigs just walked over your grave"}
+----------
+hateful - The language and imagery are dehumanizing, equating people to animals and using violent imagery, which can be considered an indirect attack based
+##########
+{"id": 20861, "img": "img/20861.png", "label": 1, "text": "pretty much sums up islam"}
+----------
+hateful - The meme directly attacks people based on their religion by associating Islam with violence, thereby dehumanizing the followers of Islam and making derog
+##########
+{"id": 38914, "img": "img/38914.png", "label": 0, "text": "cotton candy is what makes the theme park wonderful"}
+----------
+not-hateful - The meme simply expresses a positive sentiment about cotton candy enhancing the theme park experience without any attack or dehumanizing language towards any group
+##########
+{"id": 47016, "img": "img/47016.png", "label": 1, "text": "last summer camp was so \"lit\""}
+----------
+hateful - The meme mocks a hate crime by making light of a tragic historical event, thus making a dehumanizing statement based on ethnicity and race
+##########
+{"id": 14389, "img": "img/14389.png", "label": 1, "text": "democrats we're new, bold, and we hate you! alexandria ocasio-cortez rashida tlais ilhan omar ayanna pressley we hate whites, jews, christians, conservatives, republicans"}
+----------
+hateful - The meme contains dehumanizing attacks and false claims against specific groups based on race, religion, and political affiliation, which aligns with the
+##########
+{"id": 35487, "img": "img/35487.png", "label": 0, "text": "randomly deciding to bake something"}
+----------
+not-hateful - The image and text show a humorous scenario without attacking any group based on the defined characteristics. It follows social norms and is not de
+##########
+{"id": 84150, "img": "img/84150.png", "label": 0, "text": "when your jewish friend smells a stash of coins in public"}
+----------
+hateful - The meme perpetuates an antisemitic stereotype by implying Jewish people are driven by money, which is a dehumanizing and harmful
+##########
+{"id": 13809, "img": "img/13809.png", "label": 1, "text": "doing o's with the smoke"}
+----------
+hateful - The meme references a gas chamber and trivializes a historical atrocity, which is dehumanizing and mocking of a hate crime, making
+##########
+{"id": 50261, "img": "img/50261.png", "label": 1, "text": "haters will say it's photoshop"}
+----------
+not-hateful - This meme contains a humorous phrase commonly used online and does not attack or demean any individual based on characteristics such as race, gender,
+##########
+{"id": 75286, "img": "img/75286.png", "label": 1, "text": "look at this sandwich maker club i found on wish on clearance"}
+----------
+not-hateful - The meme makes a humorous reference to a kitchen activity and does not attack any group based on protected characteristics.
+##########
+{"id": 64312, "img": "img/64312.png", "label": 1, "text": "no, that's not his daughter.. that's his wife! yet the world is silent.."}
+----------
+hateful - It indirectly attacks individuals by implying an inappropriate relationship based on age or appearance, which can be degrading and offensive.
+##########
+{"id": 67103, "img": "img/67103.png", "label": 1, "text": "still better than mexican"}
+----------
+hateful - This meme dehumanizes and demeans people based on nationality by implying inferiority. It violates the guideline against attacking individuals based on nationality
+##########
+{"id": 18059, "img": "img/18059.png", "label": 1, "text": "they are like sperm you get millions, but only one works"}
+----------
+hateful - The comparison of people to sperm with inherent human value being compared to such a process is dehumanizing and can be considered a form of
+##########
+{"id": 90643, "img": "img/90643.png", "label": 0, "text": "she represents the new wave of democrats"}
+----------
+not-hateful - The meme does not contain any direct or indirect attack based on personal characteristics. It simply makes a political statement regarding representation without derogatory
+##########
+{"id": 16749, "img": "img/16749.png", "label": 0, "text": "broken dishwasher"}
+----------
+not-hateful - The meme depicts a pile of broken appliances with the text "broken dishwasher," which does not attack any group or individual's characteristics based on
+##########
+{"id": 37814, "img": "img/37814.png", "label": 0, "text": "this is el paso shooter's father every. single. time"}
+----------
+hateful - This meme dehumanizes and mocks a person by portraying them as a clown, indirectly referencing a hate crime (El Paso shooting). This
+##########
+{"id": 92046, "img": "img/92046.png", "label": 0, "text": "they are terrorists anyone who doesn't agree is an idiot"}
+----------
+hateful - The meme labels a group of people as "terrorists" based on appearance and threatens anyone who disagrees, which is dehumanizing
+##########
+{"id": 90843, "img": "img/90843.png", "label": 0, "text": "time to put the \"panic\" back in hispanic"}
+----------
+hateful - The meme implies a negative stereotype by associating "panic" with a specific ethnicity (Hispanic), which is a dehumanizing
+##########
+{"id": 85237, "img": "img/85237.png", "label": 0, "text": "these are all the weapons that were seized from isis"}
+----------
+not-hateful - The meme presents an image of confiscated weapons from ISIS. It does not include any dehumanizing speech, mockery, or
+##########
+{"id": 98235, "img": "img/98235.png", "label": 0, "text": "fashion forward !"}
+----------
+not-hateful - This meme appears to be a positive statement about fashion and does not make any attack or dehumanizing remark based on the provided definitions
+##########
+{"id": 90267, "img": "img/90267.png", "label": 0, "text": "i've been driving this baby for years the mileage isn't great but still gets the job done"}
+----------
+not-hateful - This meme contains a humorous statement about an old car, which follows social norms and does not attack any individual or group based on protected
+##########
+{"id": 48296, "img": "img/48296.png", "label": 1, "text": "when you date an asian boy and you trynna get his family to accept you"}
+----------
+not-hateful - The meme humorously addresses cultural challenges in relationships without attacking or dehumanizing anyone based on ethnicity or other characteristics. It follows social
+##########
+{"id": 29174, "img": "img/29174.png", "label": 0, "text": "the crimes against humanity should not be swiftly forgotten"}
+----------
+not-hateful - The provided text calls for remembrance of historical crimes against humanity, which is a condemnation of violence and not a direct or indirect attack based
+##########
+{"id": 65801, "img": "img/65801.png", "label": 0, "text": "first friday prayers of the islamic holy day"}
+----------
+not-hateful - The meme depicts worshipers engaged in a religious practice with descriptive text and does not attack or dehumanize any group based on characteristics
+##########
+{"id": 91763, "img": "img/91763.png", "label": 1, "text": "imagine being so disgusting there have to be laws to try to stop normal people from hating you"}
+----------
+hateful - This meme indirectly attacks people by implying their nature is so offensive that laws are needed to stop others from hating them, portraying them as
+##########
+{"id": 94387, "img": "img/94387.png", "label": 0, "text": "i'm a fan of the color black on you although the rose gold looks pretty good as well"}
+----------
+not-hateful - The text compliments the choice of colors without making any derogatory or dehumanizing remarks. It adheres to social norms and doesn't
+##########
+{"id": 80947, "img": "img/80947.png", "label": 1, "text": "my new muslim girlfriend not much to look at"}
+----------
+hateful - The meme mocks a Muslim woman by comparing her to a covered object, dehumanizing her based on her religion and attire, which is
+##########
+{"id": 78251, "img": "img/78251.png", "label": 1, "text": "watching vegetables grow"}
+----------
+not-hateful - The text "watching vegetables grow" is a harmless phrase that does not contain any attack based on characteristics listed in the definition of
+##########
+{"id": 94738, "img": "img/94738.png", "label": 0, "text": "shopping is boring. why not have some fun at the walmart parking lot?"}
+----------
+not-hateful - The meme suggests finding fun in a mundane activity and does not attack or dehumanize any group based on protected characteristics.
+##########
+{"id": 57823, "img": "img/57823.png", "label": 0, "text": "bitches be like no weave, no makeup, no lashes, no eyebrows & no filter. all natural"}
+----------
+not-hateful - This meme does not attack anyone based on protected characteristics; instead, it comments on appearance and cosmetic choices, which does not match the
+##########
+{"id": 32415, "img": "img/32415.png", "label": 0, "text": "when finishing a race is your passion"}
+----------
+not-hateful - The meme celebrates the joy of finishing a race and does not contain any attacks based on the specified protected characteristics. It follows social norms
+##########
+{"id": 5316, "img": "img/05316.png", "label": 0, "text": "doing o's with the smoke"}
+----------
+not-hateful - The meme focuses on a common activity of creating smoke rings, without any attack or reference to any characteristic listed in the hateful definition.
+##########
+{"id": 61085, "img": "img/61085.png", "label": 0, "text": "upper downer"}
+----------
+not-hateful - The meme uses drug terminology humorously to contrast stimulants and sedatives without attacking any specific group based on protected characteristics.
+##########
+{"id": 27498, "img": "img/27498.png", "label": 1, "text": "who's gonna make the sandwiches? what do we do with all these sandwiches?"}
+----------
+hateful - The meme indirectly mocks same-sex marriage by implying traditional gender roles, which can be interpreted as an attack based on sexual orientation.
+##########
+{"id": 37160, "img": "img/37160.png", "label": 0, "text": "best gamer ever 6 million kills, 1 death\""}
+----------
+hateful - The meme's reference to "6 million kills" is likely a reference to the Holocaust, which mocks a hate crime and is thus considered
+##########
+{"id": 18742, "img": "img/18742.png", "label": 0, "text": "i'm proud of it! come at me!"}
+----------
+not-hateful - The text expresses pride in being a feminist and challenges others; it does not attack or dehumanize any group based on protected characteristics
+##########
+{"id": 19243, "img": "img/19243.png", "label": 0, "text": "surprise!! wait, where is everyone?"}
+----------
+not-hateful - The meme features a humorous scenario without any reference to attacking a group based on characteristics like race, gender, or religion. It reflects
+##########
+{"id": 54108, "img": "img/54108.png", "label": 1, "text": "does nike also sell stones in case they take it off?"}
+----------
+hateful - The meme mocks individuals based on religious attire by suggesting Nike needs to sell stones for punishment. This is dehumanizing and targets people based
+##########
+{"id": 93528, "img": "img/93528.png", "label": 1, "text": "portable dishwasher slash sandwich maker"}
+----------
+hateful - The text dehumanizes by reducing people to household appliances, likely targeting gender, which qualifies as an indirect attack based on sex or gender
+##########
+{"id": 78659, "img": "img/78659.png", "label": 0, "text": "what a weird way to spell fat and single"}
+----------
+hateful - This meme mocks people based on their physique by implying that eating fast food leads to being "fat and single," which can be considered de
+##########
+{"id": 67082, "img": "img/67082.png", "label": 0, "text": "\"1st day of 4th grade sandy hook elementary school\""}
+----------
+hateful - The meme mocks a tragic event, Sandy Hook Elementary School shooting, showing insensitivity and potentially causing harm to those affected, making it de
+##########
+{"id": 64125, "img": "img/64125.png", "label": 0, "text": "ooof. that's gotta hurt"}
+----------
+not-hateful - The meme shows a boxing match and uses common phrasing to indicate a strong hit, without any attack based on characteristics outlined in the
+##########
+{"id": 41296, "img": "img/41296.png", "label": 0, "text": "94% of them test positive for rh blood type which means they have monkey blood as a result they are born with a tail and other animal traits"}
+----------
+hateful - The meme dehumanizes people by comparing them to monkeys and attributing animal traits to them based on their blood type, which constitutes a
+##########
+{"id": 53491, "img": "img/53491.png", "label": 0, "text": "and in 3 days he came back to life bringing salvation"}
+----------
+not-hateful - This meme references a religious event without dehumanizing or attacking any group or individual. It does not contain any violent or exclusionary
+##########
+{"id": 37692, "img": "img/37692.png", "label": 0, "text": "\"islam is a religion of peace stop criticizing my religion\""}
+----------
+not-hateful - The text urges respect for Islam and asks to stop criticism, which does not constitute an attack or dehumanizing speech based on the
+##########
+{"id": 36201, "img": "img/36201.png", "label": 0, "text": "look at me bling up my prosthetic"}
+----------
+not-hateful - The meme showcases personal expression and empowerment through the customization of a prosthetic, without making any demeaning or derogatory comments about disabilities
+##########
+{"id": 29054, "img": "img/29054.png", "label": 1, "text": "broken dishwasher"}
+----------
+hateful - The meme dehumanizes a person by comparing them to a household appliance based on a physical disability. This is a form of attack and
+##########
+{"id": 6273, "img": "img/06273.png", "label": 1, "text": "the jihad squad"}
+----------
+hateful - The term "jihad squad" is a dehumanizing and derogatory attack based on presumed religious or ethnic association, falling under the
+##########
+{"id": 25061, "img": "img/25061.png", "label": 1, "text": "this is el paso shooter's father. every. single. time"}
+----------
+hateful - The meme indirectly attacks an individual by associating them with a mass shooter, implying guilt by association which can be dehumanizing and inflammatory
+##########
+{"id": 20437, "img": "img/20437.png", "label": 0, "text": "thanksgiving in china"}
+----------
+not-hateful - The meme shows a Thanksgiving dinner scene, adapting a Western tradition in a Chinese context, without making any negative or demeaning statements about
+##########
+{"id": 5439, "img": "img/05439.png", "label": 0, "text": "portable dishwasher slash sandwich maker"}
+----------
+hateful - The meme dehumanizes individuals by comparing them to appliances, implying they are only useful for menial tasks like dishwashing and sandwich making
+##########
+{"id": 34528, "img": "img/34528.png", "label": 1, "text": "every kitchen needs a sandwich maker just like this one"}
+----------
+hateful - This meme indirectly attacks a gender by implying a role based on outdated stereotypes, suggesting a woman’s place is in the kitchen, which is
+##########
+{"id": 93541, "img": "img/93541.png", "label": 0, "text": "the jihad squad"}
+----------
+hateful - The term "jihad squad" is a dehumanizing label that attacks people based on their ethnicity, race, or religion, promoting
+##########
+{"id": 16704, "img": "img/16704.png", "label": 0, "text": "last summer camp was so \"lit\""}
+----------
+not-hateful - The meme humorously mentions summer camp being exciting or enjoyable, without targeting or attacking any particular group based on their characteristics.
+##########
+{"id": 48792, "img": "img/48792.png", "label": 0, "text": "leaving a trail of death and destruction"}
+----------
+hateful - The image and text indirectly reference violent historical events; this can be seen as dehumanizing and attacking people based on ethnicity, race,
+##########
+{"id": 7528, "img": "img/07528.png", "label": 1, "text": "the latest and greatest. a truck that comes with a dishwasher!"}
+----------
+not-hateful - This meme humorously suggests a truck with a dishwasher. There is no attack or dehumanizing speech based on any protected characteristics,
+##########
+{"id": 1268, "img": "img/01268.png", "label": 0, "text": "father and daughter bonding time is the best like and share if you agree"}
+----------
+not-hateful - The meme promotes the positive idea of bonding between a father and daughter without attacking or dehumanizing anyone based on their characteristics.
+##########
+{"id": 83675, "img": "img/83675.png", "label": 0, "text": "i'm gonna be like phelps one day"}
+----------
+not-hateful - The meme expresses aspiration to be like a successful athlete with no attack based on characteristics such as ethnicity, race, or other protected attributes
+##########
+{"id": 37198, "img": "img/37198.png", "label": 0, "text": "when you're so relaxed you can feel yourself go to the next level"}
+----------
+not-hateful - The meme depicts a person relaxing in a positive context without any elements of attack or dehumanization based on any characteristics.
+##########
+{"id": 48670, "img": "img/48670.png", "label": 0, "text": "look at this sandwich maker club i found on wish on clearance"}
+----------
+not-hateful - The meme refers to a sandwich maker found on sale, with no attack or dehumanizing language based on protected characteristics. It follows
+##########
+{"id": 9863, "img": "img/09863.png", "label": 0, "text": "diverse group of women"}
+----------
+not-hateful - The meme simply states "diverse group of women" with an image of women. There's no attack, dehumanizing language,
+##########
+{"id": 97320, "img": "img/97320.png", "label": 0, "text": "\"when your dishwasher is broken so you take it back to walmart to get a new one\""}
+----------
+not-hateful - The meme uses humor about returning a broken appliance to Walmart and does not attack or dehumanize any group of people based on the
+##########
