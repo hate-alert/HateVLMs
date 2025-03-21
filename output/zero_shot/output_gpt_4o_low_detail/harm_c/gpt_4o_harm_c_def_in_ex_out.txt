@@ -1,0 +1,1416 @@
+{"id": "covid_memes_5425", "image": "covid_memes_5425.png", "labels": ["not harmful"], "text": "gwen\n@gwenervi\ndis gon be trump tomorrow after they inject him with an\nexperimental covid vaccine\n12:47 AM - Oct 2, 2020 \u00b7 Twitter for iPhone\n", "label": 0, "img": "images/covid_memes_5425.png"}
+----------
+harmful - This meme is harmful because it implies severe negative consequences from a COVID vaccine, potentially causing public fear and misinformation regarding vaccine safety.
+##########
+{"id": "covid_memes_5426", "image": "covid_memes_5426.png", "labels": ["not harmful"], "text": "Armani\n@historyofarmani\nBiden after hearing trump got covid then realizing he was\nthe stage with him 2 days ago\n12:44 AM \u00b7 Oct 2, 2020 \u00b7 Twitter for iPhone\n", "label": 0, "img": "images/covid_memes_5426.png"}
+----------
+harmful - The meme makes a potentially distressing joke about contracting a serious illness, which could cause emotional disturbance and fear among individuals or communities regarding the
+##########
+{"id": "covid_memes_5429", "image": "covid_memes_5429.png", "labels": ["not harmful"], "text": "MESSAGE FROM TRUMP TO\nCOVID-19\nLEAVE NOW OR I WILL DEPORT YOU\nmakeameme.org\n", "label": 0, "img": "images/covid_memes_5429.png"}
+----------
+harmful - The meme contains a threatening statement potentially causing fear or distress to specific individuals or groups regarding deportation, which could lead to emotional or psychological
+##########
+{"id": "covid_memes_5430", "image": "covid_memes_5430.png", "labels": ["not harmful"], "text": "COVID-19 STARTED DURING HIS TERM\nSOIT SHOULD BE KNOWN AS\nTHE TRUMP PANDEMIC\n", "label": 0, "img": "images/covid_memes_5430.png"}
+----------
+harmful - The meme attributes the blame for the COVID-19 pandemic to a specific individual, potentially causing defamation and emotional harm.
+##########
+{"id": "covid_memes_5434", "image": "covid_memes_5434.png", "labels": ["not harmful"], "text": "TRUMPS RESPONSE TO COVID-19\nUMP\nTAYM\nINCLUDES BORROWING MONEY FROM CHINA\nTRU\nTO GIVE TO $IT COMPANIES\n", "label": 0, "img": "images/covid_memes_5434.png"}
+----------
+harmful - The meme has the potential to defame an individual by criticizing their response to a serious issue and suggesting unethical financial actions, which can damage
+##########
+{"id": "covid_memes_5427", "image": "covid_memes_5427.png", "labels": ["very harmful", "individual"], "text": "CRUX.\nCROANINGO\n\"It's irresponsible and it's dangerous': Experts\nrip Trump's idea of injecting disinfectant to\ntreat COVID-19\nMedical experts denounce Trump's\nlatest 'dangerous' suggestion to treat\nCovid-19\n", "label": 1, "img": "images/covid_memes_5427.png"}
+----------
+harmful - The meme critiques a political figure's suggestion, potentially leading to defamation and emotional disturbance, and can mislead viewers about health practices.
+##########
+{"id": "covid_memes_5439", "image": "covid_memes_5439.png", "labels": ["not harmful"], "text": "TRUMP'S ADMINISTRATION ANNOUNCED 5\nMILLION TEST KITS TO BE DELIVERED IN A MONTH\nA MONTH TOO LATE\nimgflip.com\n", "label": 0, "img": "images/covid_memes_5439.png"}
+----------
+harmful - This meme could cause defamation and emotional distress by criticizing the timing of the administration's response, potentially impacting public opinion and individual sentiments.
+##########
+{"id": "covid_memes_5423", "image": "covid_memes_5423.png", "labels": ["somewhat harmful", "individual"], "text": "Dezirae *\n@dezirae29\nTrump: *says the virus is fake*\nCovid:\nand I took that personally\n8:43 AM - Oct 2, 2020\n43.3K\n4 See the latest COVID-19 information on Twitter\n", "label": 1, "img": "images/covid_memes_5423.png"}
+----------
+not-harmful - The meme uses humor to comment on COVID-19 and disbelief in the virus, without targeting or harming any specific individual, organization
+##########
+{"id": "covid_memes_5444", "image": "covid_memes_5444.png", "labels": ["not harmful"], "text": "BUILDA WALL AGAINSTSARSCOV2\nMAKE HEALTH GREAT AGAIN\nimgflip.com\n", "label": 0, "img": "images/covid_memes_5444.png"}
+----------
+harmful - The meme leverages political figures and slogans to potentially cause harm through defamation and emotional disturbance related to the sensitive topic of COVID-19
+##########
+{"id": "covid_memes_5446", "image": "covid_memes_5446.png", "labels": ["not harmful"], "text": "SHE'S GOT THE\nBIGGEST MOST BEAUTIFUL\nCOVID INFECTION\n", "label": 0, "img": "images/covid_memes_5446.png"}
+----------
+harmful - The meme is defamatory and could cause emotional disturbance by making insensitive and mocking comments about a serious illness, potentially harming individuals depicted and the broader
+##########
+{"id": "covid_memes_5452", "image": "covid_memes_5452.png", "labels": ["not harmful"], "text": "WHEN TRUMP HAS TO TAKE CARE OF\nCOVID 19\nmakeameme.org\n", "label": 0, "img": "images/covid_memes_5452.png"}
+----------
+harmful - The meme can be considered harmful as it potentially defames a public figure by attributing a negative situation (COVID-19) to them
+##########
+{"id": "covid_memes_5433", "image": "covid_memes_5433.png", "labels": ["very harmful", "individual"], "text": "WHEN YOU'RE THE DOCTOR BUT\nHC\nEWS\nTHE VILLAGE IDIOT IS GIVING\nMEDICAL ADVICE\nmakeaneme.og\n", "label": 1, "img": "images/covid_memes_5433.png"}
+----------
+harmful - The meme insults and undermines a professional by calling them "the village idiot," which can lead to defamation and emotional disturbance.
+##########
+{"id": "covid_memes_5442", "image": "covid_memes_5442.png", "labels": ["very harmful", "individual"], "text": "CAUGHT COVID-19\nSTILL DIDN'T DO HIS JOB\nimgflip.com\n", "label": 1, "img": "images/covid_memes_5442.png"}
+----------
+harmful - The meme suggests incompetence and illness of a specific individual, which can cause defamation and emotional disturbance, meeting the criteria for harmful content
+##########
+{"id": "covid_memes_5454", "image": "covid_memes_5454.png", "labels": ["not harmful"], "text": "Trump: has corona\nReddit:\nFwith mgmale\nPosted in r/dankmemes by u/Baltej30\nredd\n", "label": 0, "img": "images/covid_memes_5454.png"}
+----------
+harmful - The meme defames an individual by suggesting they have a serious illness, potentially causing them mental and emotional harm.
+##########
+{"id": "covid_memes_5460", "image": "covid_memes_5460.png", "labels": ["not harmful"], "text": "E WHIT\nWASHIF\nTRUMP BRIEFS AMERICA ABOUT\nCOVID-19 WHILE STING LOOKS ON\n", "label": 0, "img": "images/covid_memes_5460.png"}
+----------
+not-harmful - The meme is a benign play on words, involving a humorous comparison that does not cause harm or defame any individual, organization
+##########
+{"id": "covid_memes_5424", "image": "covid_memes_5424.png", "labels": ["somewhat harmful", "individual"], "text": "TRUMP COVID19 SCENARIOS\nA) HE DIES: THE DEEP STATE INFECTED HIM\nB) HE RECOVERS:IT'S ALL A DEEP STATE HOAX\nCOLD\nQANON\nI'm playing both sides, so\nthat I always come out on top.\n", "label": 1, "img": "images/covid_memes_5424.png"}
+----------
+harmful - It references misinformation and conspiracy theories related to COVID-19 and political figures, which can lead to defamation, emotional disturbance, and societal
+##########
+{"id": "covid_memes_5485", "image": "covid_memes_5485.png", "labels": ["not harmful"], "text": "THROUGHOUT MY LIFE, MY TWO\nGREATEST ASSETS HAVE BEEN\nMENTAL STABILITY AND BEING,\nLIKE, REALLY SMART\n", "label": 0, "img": "images/covid_memes_5485.png"}
+----------
+harmful - This meme could be seen as mocking the individuals in the image by implying a lack of mental stability and intelligence, which can cause emotional disturbance
+##########
+{"id": "covid_memes_5435", "image": "covid_memes_5435.png", "labels": ["somewhat harmful", "individual"], "text": "LP\nLP\nLP\nLP\nLP\nLP\nLP\nLP\nLP\nLP\nLP\nLP\ntrump roasting\nbiden for\nLP\nLP\nLP\nLP\ncovid\n19\nwearing mask\nLP\nLP\nLP\nLP\n", "label": 1, "img": "images/covid_memes_5435.png"}
+----------
+harmful - The meme references a serious health issue (COVID-19) and potentially incites political tension by mocking a public health measure, which might
+##########
+{"id": "covid_memes_5490", "image": "covid_memes_5490.png", "labels": ["not harmful"], "text": "Hitler Learns\nTrump Has\nCovid!\n", "label": 0, "img": "images/covid_memes_5490.png"}
+----------
+harmful - The meme could cause emotional disturbance and defamation by making inappropriate comparisons involving historical figures and sensitive topics.
+##########
+{"id": "covid_memes_5436", "image": "covid_memes_5436.png", "labels": ["somewhat harmful", "individual"], "text": "IASSURE YOU\nI AM CLOSELY MONITORING\nTHE COVFEFE OF COVID-19\nimgflip.com\n", "label": 1, "img": "images/covid_memes_5436.png"}
+----------
+harmful - It mocks an individual and references a serious public health issue, which can lead to emotional disturbance and defamation.
+##########
+{"id": "covid_memes_5437", "image": "covid_memes_5437.png", "labels": ["somewhat harmful", "individual"], "text": "DON'T PANIC PEOPLE!\nTRUMP WILL TWEET\nTHE VIRUS AWAY\nimgflip.com\n", "label": 1, "img": "images/covid_memes_5437.png"}
+----------
+harmful - The meme has the potential to cause harm by mocking a public figure's ability to handle a serious health crisis, leading to defamation and
+##########
+{"id": "covid_memes_5441", "image": "covid_memes_5441.png", "labels": ["somewhat harmful", "individual"], "text": "IF COVID-19 WASA PERSON\nimgflip.com\n", "label": 1, "img": "images/covid_memes_5441.png"}
+----------
+harmful - The meme can be seen as defamation; it cruelly associates an individual with a serious pandemic, which could cause emotional disturbance and impact
+##########
+{"id": "covid_memes_5494", "image": "covid_memes_5494.png", "labels": ["not harmful"], "text": "When you work at a bank and 2\nguys with mask come in but they're\njust robbing the place\n", "label": 0, "img": "images/covid_memes_5494.png"}
+----------
+harmful - This meme has the potential to cause emotional disturbance and fear, particularly for individuals working in banks, by depicting a traumatic scenario.
+##########
+{"id": "covid_memes_5495", "image": "covid_memes_5495.png", "labels": ["not harmful"], "text": "NO, I SAIDI\nHAVE A CASE OF CORONA\nCorona\nExtra\nYOU SAID\nYOU WERE SICK!\n", "label": 0, "img": "images/covid_memes_5495.png"}
+----------
+not-harmful - This meme features a humorous misunderstanding involving a brand of beer, with no apparent intent to cause harm to anyone.
+##########
+{"id": "covid_memes_5447", "image": "covid_memes_5447.png", "labels": ["somewhat harmful", "individual"], "text": "DONALD TRUMP\nCURRENT\nCOVID-19 PANDEMIC\nTIGER\nKING PARDON\n", "label": 1, "img": "images/covid_memes_5447.png"}
+----------
+harmful - It could cause emotional disturbance as it potentially trivializes or mocks the seriousness of the COVID-19 pandemic and its impact, potentially leading to
+##########
+{"id": "covid_memes_5504", "image": "covid_memes_5504.png", "labels": ["not harmful"], "text": "Seinfeld Current Day\neSenteld2000\ntheres always a tweet\nDonald J. Trump\n@realDonaldTrump\nI will never contract COVID-19!\n11:48 AM9/3/13Ditter Web Client\n177 Retweets 28 Quote Tweets 90 Likes\n12:52 AM - Oet 2, 2020 TweetDeck\n", "label": 0, "img": "images/covid_memes_5504.png"}
+----------
+harmful - This meme attributes a false statement to a public figure, potentially damaging their reputation and spreading misinformation, which can cause harm to individuals and society
+##########
+{"id": "covid_memes_5449", "image": "covid_memes_5449.png", "labels": ["somewhat harmful", "individual"], "text": "Trump said this mask will\nprotect me from Covid-19\nmeme-arsenalru\n", "label": 1, "img": "images/covid_memes_5449.png"}
+----------
+harmful - The meme could potentially cause public harm and emotional disturbance by implying misinformation about protection against Covid-19, which could mislead individuals regarding safety
+##########
+{"id": "covid_memes_5450", "image": "covid_memes_5450.png", "labels": ["somewhat harmful", "individual"], "text": "Me\nTrump with\ncovid19\nIs this karma?\n", "label": 1, "img": "images/covid_memes_5450.png"}
+----------
+harmful - The meme implies that a person contracting COVID-19 is a form of karma, which can be considered offensive and hurtful, potentially causing
+##########
+{"id": "covid_memes_5464", "image": "covid_memes_5464.png", "labels": ["somewhat harmful", "individual"], "text": "Gmisstugger\nTrump tested positive for Covid-19 and I am pretty sure\nthe Simpson's have never lieda#TrumpHasCovid\n12:52 AM Oct 2, 2020 Twitter for IPhone\n", "label": 1, "img": "images/covid_memes_5464.png"}
+----------
+harmful - The meme suggests a false event related to COVID-19 and a well-known individual, which can cause emotional disturbance, misinformation, and potential
+##########
+{"id": "covid_memes_5505", "image": "covid_memes_5505.png", "labels": ["not harmful"], "text": "Christopher Batey\n@cbat971\nWhen my future kids ask about\nthe covid-19 pandemic I'm going\nto tell them this was dr fauci.\n", "label": 0, "img": "images/covid_memes_5505.png"}
+----------
+harmful - The meme singles out an individual in association with COVID-19 in a potentially defamatory manner, which could lead to emotional disturbance or harm to
+##########
+{"id": "covid_memes_5480", "image": "covid_memes_5480.png", "labels": ["somewhat harmful", "individual"], "text": "DON'T WORRY, AMERICA\nTHE CORONAVIRUS IS NOTHING\nCOMPARED TO WINDMILL CANCER!\nOCCUPY DEMOCRATS\n", "label": 1, "img": "images/covid_memes_5480.png"}
+----------
+harmful - This meme trivializes the seriousness of COVID-19, potentially spreading misinformation and causing emotional disturbance or confusion within the community about public health issues
+##########
+{"id": "covid_memes_5507", "image": "covid_memes_5507.png", "labels": ["not harmful"], "text": "Let me get this straght, you think that\n\"Reopen America\" protesters getting Covid-19 is funny?\nI do, and I'm tired of pretending it's not\n", "label": 0, "img": "images/covid_memes_5507.png"}
+----------
+harmful - The meme mocks and trivializes the suffering of individuals affected by COVID-19, which can cause emotional disturbance and harm to people related to
+##########
+{"id": "covid_memes_5515", "image": "covid_memes_5515.png", "labels": ["not harmful"], "text": "NETFLIX\nISA JOKE\nSIR, THAT'S\nCLEARLY\nYOUR CAR. \"\n17\n", "label": 0, "img": "images/covid_memes_5515.png"}
+----------
+not-harmful - The meme uses a humorous costume and a playful text without targeting any individual or entity, thereby not causing any harm as per the
+##########
+{"id": "covid_memes_5508", "image": "covid_memes_5508.png", "labels": ["somewhat harmful", "individual"], "text": "COVID-19 GASES HAVE BEEN GROWING EXPONENTIALLY\nIN THE USAND TRUMP, IS MORE WORRIEDABOUT HOW\nMANY VIEWS HIS SPEECH IS GETTING\nBUT THAT'S NONE OF MY\nBUSINESS\n", "label": 1, "img": "images/covid_memes_5508.png"}
+----------
+harmful - This meme could be harmful as it targets a public figure and potentially defames them, causes emotional disturbance, or exacerbates societal tensions regarding
+##########
+{"id": "covid_memes_5516", "image": "covid_memes_5516.png", "labels": ["not harmful"], "text": "Quarantine\nEdition\nWINE\nO'CLOCK\nBarbie\nNon-Essential\nWorker\nWINE\nDCLOCK\n", "label": 0, "img": "images/covid_memes_5516.png"}
+----------
+harmful - The meme mocks essential workers by labeling a doll as a "Non-Essential Worker," potentially causing emotional disturbance and undermining the societal
+##########
+{"id": "covid_memes_5525", "image": "covid_memes_5525.png", "labels": ["not harmful"], "text": "When all Eight of Your\nHalloween\n2020 Party Guests\nArrive Wearing the Same Mask\n", "label": 0, "img": "images/covid_memes_5525.png"}
+----------
+not-harmful - The meme appears to be a humorous commentary on a situation and does not target or harm any individual, organization, community, or
+##########
+{"id": "covid_memes_5527", "image": "covid_memes_5527.png", "labels": ["not harmful"], "text": "TrumpMemes.net\nOver 65?\nBE A\nMAGA\nMARTYR!\nREVIVE THE ECONOMY\nFOR WHEN YOU'RE DEAD\nLUXURY CRIASES\nINTIMATE RESTAURANTS\nLIVE PERFORMANCES\nHAIRCUTS\nWHAT DO YOU HAVE TO LOSE?\n", "label": 0, "img": "images/covid_memes_5527.png"}
+----------
+harmful - This meme could cause defamation and emotional disturbance by promoting a harmful message connected to the elderly, which may be perceived as encouraging risky behavior
+##########
+{"id": "covid_memes_5510", "image": "covid_memes_5510.png", "labels": ["somewhat harmful", "individual"], "text": "Do\nLIKE\nOYES O NO\n", "label": 1, "img": "images/covid_memes_5510.png"}
+----------
+harmful - This meme targets an individual in a potentially humiliating manner, which can cause emotional disturbance and defamation, especially when associated with political figures
+##########
+{"id": "covid_memes_5528", "image": "covid_memes_5528.png", "labels": ["not harmful"], "text": "seniors facetiming in for\nvirtual prom:\nMedia: Coronavirus!\nStock Market Crashing!\nOil War in Saudi!\n", "label": 0, "img": "images/covid_memes_5528.png"}
+----------
+not-harmful - The meme humorously contrasts global concerns with mundane activities, without targeting or defaming any individual or community, and does not indicate
+##########
+{"id": "covid_memes_5531", "image": "covid_memes_5531.png", "labels": ["not harmful"], "text": "MY PRECIOUS!\nI'M NO EXPERT ON COVID-19\nBUT THIS IS THE CURE\n", "label": 0, "img": "images/covid_memes_5531.png"}
+----------
+harmful - The meme trivializes COVID-19, a serious global health crisis, and mocks at people's appearance, potentially causing emotional disturbance and defamation
+##########
+{"id": "covid_memes_5543", "image": "covid_memes_5543.png", "labels": ["not harmful"], "text": "CAN'T DIE OF COVID-19\nIF YOU DIE FROM\nINJECTING BLEACH\ningfia c\n", "label": 0, "img": "images/covid_memes_5543.png"}
+----------
+harmful - This meme encourages dangerous behavior by making a harmful suggestion related to injecting bleach, which can cause significant physical harm.
+##########
+{"id": "covid_memes_5551", "image": "covid_memes_5551.png", "labels": ["not harmful"], "text": "Sajre\nDeanna\nIn the Name, Power and Authority of Jesus Christ the\nAlmighty.\nI renounce any attacks of the enemies of God.\nI renounce the presence of any enemies of God.\nI command them to be bound and rebuked away and\nnever returnt\nHoly Ghost, please empower this prayer right now.\n2 AM O2,0ar tar nasid\n", "label": 0, "img": "images/covid_memes_5551.png"}
+----------
+harmful - The meme contains a potentially alarming image and text implying a serious nature about evil forces and commands, which can incite fear and emotional disturbance
+##########
+{"id": "covid_memes_5445", "image": "covid_memes_5445.png", "labels": ["very harmful", "individual"], "text": "NOW THAT I HAVE TESTED\nPOSITIVE FOR COVID-19\nIT'S TIME TO TAKE\nmopa o THIS VIRUS SERIOUSLY\nimgflip.com\n", "label": 1, "img": "images/covid_memes_5445.png"}
+----------
+harmful - The meme seems to mock someone for contracting COVID-19 and could cause emotional disturbance and public defamation, especially given the nature of the
+##########
+{"id": "covid_memes_5448", "image": "covid_memes_5448.png", "labels": ["very harmful", "individual"], "text": "TRUMP 2 WEEKS AGO:\n\"The Coronavirus is\na Democrat Hoax!\"\nTRUMP TODAY:\n\"I'm declaring the\nCoronavirus a\nNational Emergency.\nTWIT\nGTheWeekinTrump\n", "label": 1, "img": "images/covid_memes_5448.png"}
+----------
+harmful - The meme attributes contradictory statements to a public figure, potentially causing damage to their reputation and spreading misinformation.
+##########
+{"id": "covid_memes_5555", "image": "covid_memes_5555.png", "labels": ["not harmful"], "text": "WHO: Quarantines millions of people in their homes\nto stop the spread of COVID-19.\nPomhub Execs:\n", "label": 0, "img": "images/covid_memes_5555.png"}
+----------
+not-harmful - The meme uses humor referencing quarantines and a corporation, without causing direct harm to any individual, organization, or community.
+##########
+{"id": "covid_memes_5511", "image": "covid_memes_5511.png", "labels": ["somewhat harmful", "individual"], "text": "TRUTH\nINOT\n\"COVFEFE\"\nTRUTH\nAND\nCONSEGVENCES\n", "label": 1, "img": "images/covid_memes_5511.png"}
+----------
+not-harmful - The meme contains a humorous text playing off a popular internet phrase ("covfefe") without targeting or causing harm to any individual
+##########
+{"id": "covid_memes_5556", "image": "covid_memes_5556.png", "labels": ["not harmful"], "text": "Notamused Notamused15 19\nwtealthCaroWorkersinsWords risking ALL for everyone ese.\nTHATS WHAT HEROES DO!\n", "label": 0, "img": "images/covid_memes_5556.png"}
+----------
+not-harmful - The meme praises healthcare workers by calling them heroes for their sacrifices, which is positive and does not cause harm to any individual,
+##########
+{"id": "covid_memes_5564", "image": "covid_memes_5564.png", "labels": ["not harmful"], "text": "Welcome\nWcone\nVACCINATION SITE\nGit-heathconive\n", "label": 0, "img": "images/covid_memes_5564.png"}
+----------
+not-harmful - The image promotes a vaccination site, which serves a public health interest, and does not seem to contain any harmful elements or messages
+##########
+{"id": "covid_memes_5570", "image": "covid_memes_5570.png", "labels": ["not harmful"], "text": "HOW I FEEL WHEN\nNCOS WATCH US WORK\nSHAM\nARE YOU NOT\nENTERTAINED?!\n", "label": 0, "img": "images/covid_memes_5570.png"}
+----------
+not-harmful - The meme humorously depicts a common workplace scenario without targeting or harming any individual, organization, or community.
+##########
+{"id": "covid_memes_5512", "image": "covid_memes_5512.png", "labels": ["somewhat harmful", "individual"], "text": "Den Ta\nr\niterts pt\n(OBAMA) KICKED ME OUT\nmIMPLINVITED ME BACK\n", "label": 1, "img": "images/covid_memes_5512.png"}
+----------
+harmful - The meme could cause emotional disturbance and harm to the reputation of the individuals depicted by suggesting they were kicked out or not welcome, leading to
+##########
+{"id": "covid_memes_5517", "image": "covid_memes_5517.png", "labels": ["somewhat harmful", "individual"], "text": "Republican Party of Rock County\n17h\nLighten up\nWHY BIDEN NO GET VIRUS?\nHE SNIFF EVERYONE\n1Comment - 6 Shares\nComment\nA thare\n", "label": 1, "img": "images/covid_memes_5517.png"}
+----------
+harmful - The meme contains potentially defamatory and misleading content, which could cause harm to an individual's reputation and public image.
+##########
+{"id": "covid_memes_5519", "image": "covid_memes_5519.png", "labels": ["somewhat harmful", "individual"], "text": "oey\nHE WANNA COUGH SO BAD\nSUSHYSSHGOHDHDHDHDHOHCHHOHDHDHDHDBHD\nHDIDHSHSHDHDHDHNSBSHDBSHSHJSHDJDHDJDJ\n", "label": 1, "img": "images/covid_memes_5519.png"}
+----------
+not-harmful - The meme appears to be humorous and does not seem to target or harm any individual, organization, or community based on the provided
+##########
+{"id": "covid_memes_5571", "image": "covid_memes_5571.png", "labels": ["not harmful"], "text": "IN REALITY\nTHEY'RE NOT AFTER ME\nTHEY'RE AFTER YOU\nI'M JUST IN THE WAY\n", "label": 0, "img": "images/covid_memes_5571.png"}
+----------
+harmful - The meme implies targeting and potentially harmfully directs blame towards someone else, which could cause emotional disturbance or defamation.
+##########
+{"id": "covid_memes_5520", "image": "covid_memes_5520.png", "labels": ["somewhat harmful", "individual"], "text": "THE\nDAILY\nSHOW TRUMP'S CRINGEY\nCORONAVIRUS ADDRESS\n", "label": 1, "img": "images/covid_memes_5520.png"}
+----------
+harmful - The meme can be seen as defaming, as it labels a public figure's address on coronavirus as "cringey," which can
+##########
+{"id": "covid_memes_5579", "image": "covid_memes_5579.png", "labels": ["not harmful"], "text": "KM NO EXPERT ON COVID-19\nB\u016aT THIS IS THE CURE\n", "label": 0, "img": "images/covid_memes_5579.png"}
+----------
+harmful - The meme suggests a cure for COVID-19 without any scientific basis, which could spread misinformation and potentially harm public health.
+##########
+{"id": "covid_memes_5521", "image": "covid_memes_5521.png", "labels": ["somewhat harmful", "individual"], "text": "TRUMP TESTS POSITIVE\nFOR THE CORONAVIRUS!\nTHAT'S FAKE NEWS FOLKS!\nda.com\n", "label": 1, "img": "images/covid_memes_5521.png"}
+----------
+harmful - This meme could be harmful as it potentially spreads misinformation or false news about a public figure.
+##########
+{"id": "covid_memes_5583", "image": "covid_memes_5583.png", "labels": ["not harmful"], "text": "Rammys Oflammys 12h\nHINI Vs Covid-19\nCases - Concem- Responsable.\nFrenteAntiteanista\nGovid-19\nCASOS EN EEUU\n4.7 millones\nNIVELES DE PREOCUPAG\u00d3N\n60.8 millones\nCERO\nHISTERIA\nRESPONSADLE\nCHINA\nTRUVD\n", "label": 0, "img": "images/covid_memes_5583.png"}
+----------
+harmful - The meme spreads misinformation and incites panic by comparing the seriousness of H1N1 and COVID-19, potentially causing harm and emotional
+##########
+{"id": "covid_memes_5524", "image": "covid_memes_5524.png", "labels": ["somewhat harmful", "individual"], "text": "LIGHT AND BLEACH\nINFUSEMENT THERAPY\nTRUMPING COVID-19\nTOGETHER\nmakearre arg\n", "label": 1, "img": "images/covid_memes_5524.png"}
+----------
+harmful - The meme implies a dangerous and unverified method for treating COVID-19, potentially promoting harmful actions and spreading misinformation, which can cause public
+##########
+{"id": "covid_memes_5526", "image": "covid_memes_5526.png", "labels": ["somewhat harmful", "individual"], "text": "Randall Otis\nBRandloiTV\nCovid inside trump's body\nDamn, bitch, you\nlive like this?\n8:42 AM Oct 2, 2020 Twitter for iPhone\n", "label": 1, "img": "images/covid_memes_5526.png"}
+----------
+harmful - This meme includes derogatory language and depicts a politically sensitive topic, which could contribute to emotional distress or defamation of individuals or groups.
+##########
+{"id": "covid_memes_5591", "image": "covid_memes_5591.png", "labels": ["not harmful"], "text": "Quiet.\n", "label": 0, "img": "images/covid_memes_5591.png"}
+----------
+not-harmful - The meme simply shows someone in a suit with the text "Quiet." This does not seem to cause harm or defamation to
+##########
+{"id": "covid_memes_5451", "image": "covid_memes_5451.png", "labels": ["very harmful", "individual"], "text": "DECLARES NATIONAL\nEMERGENCY OVER COVID-19\nSHAKES PEOPLES HANDS AFTERWARDS\nip co\n", "label": 1, "img": "images/covid_memes_5451.png"}
+----------
+harmful - This meme highlights actions contradictory to public health advice, potentially causing public misunderstanding and promoting harmful behaviors during a pandemic, thus it can cause societal
+##########
+{"id": "covid_memes_5609", "image": "covid_memes_5609.png", "labels": ["not harmful"], "text": "Man\nHaha dogs might just be getting the last laught\n*COVID19 Fcaranavinus tcoronavirusuk\nIts for\nYour own g oak.\nYou have to stor\ntouching your\nface\n", "label": 0, "img": "images/covid_memes_5609.png"}
+----------
+not-harmful - The meme humorously depicts a dog advising a human about not touching their face, which promotes healthy behavior and does not cause harm
+##########
+{"id": "covid_memes_5617", "image": "covid_memes_5617.png", "labels": ["not harmful"], "text": "HO. ONE. CLEANS LIKE GASTON, QUARANTINES LIKE GASTON,\nNO ONE STOPS SPREADING COVID-19 LIKE GASTON.\nHE'S ESPECIALLY GOOD AT SELF ISOLATING. 3 CHEERS FOR\n\"GOOD GUY\" GASTON!\n", "label": 0, "img": "images/covid_memes_5617.png"}
+----------
+not-harmful - This meme humorously references a fictional character’s traits without causing harm to any individual, community, or organization. It uses light
+##########
+{"id": "covid_memes_5530", "image": "covid_memes_5530.png", "labels": ["somewhat harmful", "individual"], "text": "TRUMP SIGNING EXECUTIVE ACTIONS LIKE.\n", "label": 1, "img": "images/covid_memes_5530.png"}
+----------
+not-harmful - This meme humorously compares signing executive actions to sending letters in a fantasy context. It doesn't target or harm any individual, organization
+##########
+{"id": "covid_memes_5619", "image": "covid_memes_5619.png", "labels": ["not harmful"], "text": "THE YEAR 2020\nSBROUGHT TO YOU BY THE LETTERS W, T&F\n", "label": 0, "img": "images/covid_memes_5619.png"}
+----------
+not-harmful - This meme humorously references the challenging year of 2020 without targeting or causing harm to any individual, organization, community,
+##########
+{"id": "covid_memes_5533", "image": "covid_memes_5533.png", "labels": ["somewhat harmful", "individual"], "text": "Trump celebrating too\nearly on election night is like\n", "label": 1, "img": "images/covid_memes_5533.png"}
+----------
+not-harmful - This meme depicts a humorous scenario without any harmful intent towards an individual, community, or organization. It uses satire without causing mental
+##########
+{"id": "covid_memes_5534", "image": "covid_memes_5534.png", "labels": ["somewhat harmful", "individual"], "text": "HAPPY BIRTHDAY MRS.SAILER\nPARTY LIKE THERE IS NO COVID-19,\nBUT DONT FORGET WASH YOUR HANDS:)\n", "label": 1, "img": "images/covid_memes_5534.png"}
+----------
+not-harmful - The meme is a birthday greeting with a humorous note about COVID-19 precautions, likely intended to be light-hearted and not causing
+##########
+{"id": "covid_memes_5621", "image": "covid_memes_5621.png", "labels": ["not harmful"], "text": "Corona-virus\ncan be killed by\nalcohol\nAdults\nKids\nGUESS I'LL DIE\n", "label": 0, "img": "images/covid_memes_5621.png"}
+----------
+harmful - The meme spreads misinformation about coronavirus, which can lead to dangerous behavior and could potentially harm individuals who believe alcohol can kill the virus.
+##########
+{"id": "covid_memes_5622", "image": "covid_memes_5622.png", "labels": ["not harmful"], "text": "ME, TAKING MY WIFE TO GET PAMPERED THE FIRST DAY\nAFTER QUARANTINE\n", "label": 0, "img": "images/covid_memes_5622.png"}
+----------
+not-harmful - The meme humorously depicts a common activity post-quarantine with no intention to harm any individual, instead referring to a light-hearted
+##########
+{"id": "covid_memes_5536", "image": "covid_memes_5536.png", "labels": ["somewhat harmful", "individual"], "text": "His dream come true\nWe are getting a McDonald's!\n", "label": 1, "img": "images/covid_memes_5536.png"}
+----------
+harmful - The meme could be seen as derogatory towards certain political figures or national sentiments, potentially causing emotional disturbance or defamation.
+##########
+{"id": "covid_memes_5629", "image": "covid_memes_5629.png", "labels": ["not harmful"], "text": "Always has been\nWait, it's real?!\n", "label": 0, "img": "images/covid_memes_5629.png"}
+----------
+not-harmful - The meme features a humorous take on the COVID-19 pandemic and does not target or defame any individual, organization, or
+##########
+{"id": "covid_memes_5636", "image": "covid_memes_5636.png", "labels": ["not harmful"], "text": "Derald Trumpr.\nSold poirt.\nThis is what virologist wear to\nprotect themselves from a virus.\nDon't worry, though.\nYour bandana probably\nworks, too.\n", "label": 0, "img": "images/covid_memes_5636.png"}
+----------
+harmful - This meme contains a sarcastic message that could undermine public trust in effective health precautions, potentially leading to harmful consequences during a health crisis.
+##########
+{"id": "covid_memes_5537", "image": "covid_memes_5537.png", "labels": ["somewhat harmful", "individual"], "text": "PRESIDENT OBAMA\nWAITED 4 1/2 MONTHS AFTER\nTHE WHO DECLARED AN HINI\nPANDEMIC, BEFORE DECLARING\nHINT A NATIONAL EMERGENCY.\nTELL ME AGAIN PROGRESSIVES,\nABOUT HOW SLOW PRESIDENT\nTRUMP HAS MOVED TO FIGHT COVID-19?\n", "label": 1, "img": "images/covid_memes_5537.png"}
+----------
+harmful - This meme compares the response times of two presidents to pandemics, potentially causing defamation and emotional disturbance to individuals or organizations associated with either
+##########
+{"id": "covid_memes_5539", "image": "covid_memes_5539.png", "labels": ["somewhat harmful", "individual"], "text": "COVID-19: Exists\nTrump:\na o ea\n", "label": 1, "img": "images/covid_memes_5539.png"}
+----------
+harmful - This meme targets and mocks an individual based on their response to a serious health crisis, potentially causing defamation, emotional disturbance, and public
+##########
+{"id": "covid_memes_5638", "image": "covid_memes_5638.png", "labels": ["not harmful"], "text": "DAY 18 OF LOCK DOWN: FILLED THE DOG WITH HELIUM.\n", "label": 0, "img": "images/covid_memes_5638.png"}
+----------
+not-harmful - This meme humorously exaggerates a surreal scenario without causing harm to any individual, organization, community, or society.
+##########
+{"id": "covid_memes_5540", "image": "covid_memes_5540.png", "labels": ["somewhat harmful", "individual"], "text": "IF JOE BIDEN WAS PRESIDENT,\nTHOUSANDS WOULD BE DEAD FROM\nCOVID-19\nSINCE I'M PRESIDENT,\nTHOUSANDS ARE SAVED.\nmakeameme.org\n", "label": 1, "img": "images/covid_memes_5540.png"}
+----------
+harmful - This meme could cause defamation and emotional disturbance as it attributes deaths and survival directly to specific individuals' performance, which could harm their public
+##########
+{"id": "covid_memes_5541", "image": "covid_memes_5541.png", "labels": ["somewhat harmful", "individual"], "text": "DON'T PANIC PEOPLE!\nTRUMP WILL TWEET\nTHE VIRUS AWAY\n", "label": 1, "img": "images/covid_memes_5541.png"}
+----------
+harmful - The meme may cause mental distress or defamation by mocking a serious issue; it undermines public trust in leadership concerning health-related matters.
+##########
+{"id": "covid_memes_5641", "image": "covid_memes_5641.png", "labels": ["not harmful"], "text": "Me after I eat all of\nmy quarantine\nsnacks in one night\n", "label": 0, "img": "images/covid_memes_5641.png"}
+----------
+not-harmful - This meme humorously depicts an over-exaggeration of eating snacks during quarantine without targeting or harming any individual, organization, or
+##########
+{"id": "covid_memes_5645", "image": "covid_memes_5645.png", "labels": ["not harmful"], "text": "JUST HOW IS POSTING\nYOUR OWN SENIOR PHOTO\nSUPPOSED TO MAKE 2020\nSENIORS FEEL BETTER?\n", "label": 0, "img": "images/covid_memes_5645.png"}
+----------
+not-harmful - The meme makes a generalized humorous comment about senior photos without targeting or causing harm to any specific individual or group.
+##########
+{"id": "covid_memes_5648", "image": "covid_memes_5648.png", "labels": ["not harmful"], "text": "President Trume\nisa fescst\nnnga dictalori\n", "label": 0, "img": "images/covid_memes_5648.png"}
+----------
+harmful - The meme presents potentially defamatory statements about a public figure, potentially causing emotional disturbance and damaging public image, classifying it as harmful.
+##########
+{"id": "covid_memes_5542", "image": "covid_memes_5542.png", "labels": ["somewhat harmful", "individual"], "text": "12000 DIED OF HIN1\nIN 2009 UNDER OBAMA\nWITH 275000 HOSPITALIZE\nPresident: Barak Obama\nVice President: Joe Biden\nSenator: Bernie Sanders\nHINI Virus (Swine Flu)\nUSA Cases: 60.8MILION\nUSA Hospitalizations: 257,000\nUSA Deaths: 11,690 (1,180 children)\nPanic Level: Everybody is chill\nPresident: Donald Trump\nCorona Virus (covid 19)\nDO YOU RECALL THE\nMEDIA BLAMING OBAMA AS THEY\nARE PRESIDENT TRUMP ABOUT\n26 DEATHS FROM CORONA VIRUS\nUSA Cases: 446 Cases\nUSA Deaths: 19\nPanic Level: MASS HYSTERIA\nMan\n", "label": 1, "img": "images/covid_memes_5542.png"}
+----------
+harmful - The meme compares different political figures in a way that can cause defamation, emotional disturbance, and increased political tensions, fitting the definition of
+##########
+{"id": "covid_memes_5652", "image": "covid_memes_5652.png", "labels": ["not harmful"], "text": "me after being quarantined with\nmy kid for 3 weeks:\nMaybe the floor really is lava, man.\n", "label": 0, "img": "images/covid_memes_5652.png"}
+----------
+not-harmful - This meme humorously portrays the challenge and playful imagination of being quarantined with a child, without causing harm or targeting any individual
+##########
+{"id": "covid_memes_5545", "image": "covid_memes_5545.png", "labels": ["somewhat harmful", "individual"], "text": "Donald J. Trump\nerealDonalatrump\nNervous Nancy's unhinged meltdown!\nFarron Cousinso\nmenbeaced\nThey dia it. they did the meme in real ife.\n", "label": 1, "img": "images/covid_memes_5545.png"}
+----------
+not-harmful - This meme appears to be a humorous and light-hearted depiction of political figures without causing defamation or significant emotional disturbance.
+##########
+{"id": "covid_memes_5546", "image": "covid_memes_5546.png", "labels": ["somewhat harmful", "individual"], "text": "Brad\n\u00a9BcraigV\ntrump: dOn'T bE aFrAiD oF\ncovld.\nAlso trump:\n", "label": 1, "img": "images/covid_memes_5546.png"}
+----------
+harmful - The meme mocks an individual's stance on COVID-19, potentially leading to defamation, emotional disturbance, and public image damage.
+##########
+{"id": "covid_memes_5654", "image": "covid_memes_5654.png", "labels": ["not harmful"], "text": "WHEN YOU FIND OUT YOUR NORMAL DAILY\nLIFESTYLE IS CALLED 'QUARANTINE' \"MIGHTY\n", "label": 0, "img": "images/covid_memes_5654.png"}
+----------
+not-harmful - The meme humorously compares quarantine to someone's regular lifestyle, which does not target, defame, or harm any individual, community
+##########
+{"id": "covid_memes_5466", "image": "covid_memes_5466.png", "labels": ["very harmful", "individual"], "text": "HOUSE\nDr. Fauci unveils a mask that\ncould save millions of lives!\n", "label": 1, "img": "images/covid_memes_5466.png"}
+----------
+harmful - This meme could be construed as defamation and emotional disturbance as it implies ongoing medical authorities' advice is questionable, potentially misleading public perception during
+##########
+{"id": "covid_memes_5548", "image": "covid_memes_5548.png", "labels": ["somewhat harmful", "individual"], "text": "When you insult Trump and people respond\nby spamming you with anti-Biden memes\njoke's on you i'm into that shit\n", "label": 1, "img": "images/covid_memes_5548.png"}
+----------
+not-harmful - The meme uses a humorous cartoon image and text about political discussions without targeting or defaming any individual, group, or community specifically
+##########
+{"id": "covid_memes_5657", "image": "covid_memes_5657.png", "labels": ["not harmful"], "text": "Sophia DiCaro 777-7n-0-\nOsophia DiCare\nSince we can't have a birthday party with friends, we\ndecided it would be fun to have a Corona Virus pi\u00f1ata\nto beat up for the occasion. #COVID19 #CoronaTime\n#CaronaBirthday\n", "label": 0, "img": "images/covid_memes_5657.png"}
+----------
+not-harmful - The meme discusses a playful alternative to a birthday celebration with a virus-themed piñata, without causing harm or targeting any individual
+##########
+{"id": "covid_memes_5660", "image": "covid_memes_5660.png", "labels": ["not harmful"], "text": "Donald J. Trump e\nung\nAccount suspended\nTer nd oun tht ona\nheTetaru\nLIVE FOOTAGE OF DONALD TRUMP TRYING TO\nLOG ONTO MELANIA'S TWITTER AFTER SHE\nSAYS \"THE PASSWORD IS OUR ANNIVERSARY\n", "label": 0, "img": "images/covid_memes_5660.png"}
+----------
+not-harmful - The meme uses humor to present a fictional scenario involving a well-known character and lacks elements of mental abuse, defamation, or
+##########
+{"id": "covid_memes_5550", "image": "covid_memes_5550.png", "labels": ["very harmful", "individual"], "text": "IF COVID-19 WASAPERSON\n", "label": 1, "img": "images/covid_memes_5550.png"}
+----------
+harmful - The meme equates an individual to a virus, which can cause mental abuse, defamation, and emotional disturbance to the person depicted.
+##########
+{"id": "covid_memes_5553", "image": "covid_memes_5553.png", "labels": ["somewhat harmful", "individual"], "text": "tHaster Launch EECUTOON ORBER\nK38.348.3\nPART ONE:RONCTTL\nPART THOI 7 :9\nLAUNCH CONE: CO UFEFEL\nspuhuntress\nOsistntress\ny Follow\n#Covfefe When you get tricked into emailing the\nnuciear password to that Nigerian prince.\n10:22 AM - 31 May 2017\n* ta 324 864\n", "label": 1, "img": "images/covid_memes_5553.png"}
+----------
+harmful - The meme potentially implies a serious breach of security and could lead to defamation or emotional disturbance by mocking a significant and sensitive subject matter.
+##########
+{"id": "covid_memes_5554", "image": "covid_memes_5554.png", "labels": ["very harmful", "individual"], "text": "Trump got the most votes ever in favor\nof an impeachment. A record breaker!\n", "label": 1, "img": "images/covid_memes_5554.png"}
+----------
+harmful - This meme can be considered harmful as it targets individuals with defaming content, potentially causing emotional disturbance and damaging public image through ridicule.
+##########
+{"id": "covid_memes_5557", "image": "covid_memes_5557.png", "labels": ["somewhat harmful", "individual"], "text": "Colin Snoka\nTrump after receiving his Covid diagnosis:\nEl Arroys\nWELL, WELL, WELL,\nIF IT ISN'T THE\nCONSEQUENCES OF\nMY OWN ACTIONS\n134 AM-Oc2, 1000 Twer ter Phon\n", "label": 1, "img": "images/covid_memes_5557.png"}
+----------
+harmful - The meme may cause mental distress and defamation to an individual by making light of a critical health condition, thus categorizing it as harmful
+##########
+{"id": "covid_memes_5562", "image": "covid_memes_5562.png", "labels": ["very harmful", "individual"], "text": "Trump's Oklahoma rally can go ahead,\ncourt rules\nMAKE AMERIO\nGREAT AGAN\n\"Evil snicker\n", "label": 1, "img": "images/covid_memes_5562.png"}
+----------
+harmful - The meme could be harmful as it involves political content with a mocking tone, which can cause emotional disturbance or defamation to specific individuals or
+##########
+{"id": "covid_memes_5558", "image": "covid_memes_5558.png", "labels": ["somewhat harmful", "individual"], "text": "Donald J. Trump\nThank youl witor comdaveschreber.\nDave screiser ecawescaeoers\nThews somach be hankti tor mgaing or POTUS Trumpt\nmay teieve nis man vas teaven sent noroer to save ano protect\ntemost pracioun, tenevoient andia am pensperus county ever\nGod tenmandhs tuny\nCOBAMA) KICKED ME OUT\nITRUMPI INVITED ME BACK\nOS1K 94S P -Dnc 27, 201\n", "label": 1, "img": "images/covid_memes_5558.png"}
+----------
+harmful - This meme has the potential to cause defamation and emotional disturbance to the individuals or groups mentioned, making it harmful as per the provided definitions
+##########
+{"id": "covid_memes_5559", "image": "covid_memes_5559.png", "labels": ["somewhat harmful", "individual"], "text": "WHO WOULD WIN?\nDONALD TRUMP\nCOVID-19\n", "label": 1, "img": "images/covid_memes_5559.png"}
+----------
+harmful - This meme could cause defamation and emotional disturbance to the individual depicted, and it trivializes a serious health crisis, potentially causing harm to
+##########
+{"id": "covid_memes_5565", "image": "covid_memes_5565.png", "labels": ["very harmful", "individual"], "text": "\"We will eliminate\nCoronavirus by the\nend of October\"\n-Trump (2020)\n\"We will eliminate\nTrump by the end of\nOctober\n-Coronavirus (2020)\n", "label": 1, "img": "images/covid_memes_5565.png"}
+----------
+harmful - This meme implies a threat against an individual and has potential to incite violence and cause emotional disturbance, making it harmful.
+##########
+{"id": "covid_memes_5566", "image": "covid_memes_5566.png", "labels": ["very harmful", "individual"], "text": "The President of the\nUnited States is\ndoing more to stop\nus from voting than\nhe is to\nstop us from getting\nCovid 19.\n", "label": 1, "img": "images/covid_memes_5566.png"}
+----------
+harmful - This meme could cause defamation and emotional disturbance by making serious allegations against a public figure, potentially influencing public opinion negatively.
+##########
+{"id": "covid_memes_5669", "image": "covid_memes_5669.png", "labels": ["not harmful"], "text": "France says ibuprofen may\naggravate coronavirus.\nExperts say more evidence\nIs needed\nMILITARY DOCTORS\n", "label": 0, "img": "images/covid_memes_5669.png"}
+----------
+harmful - The meme trivializes a serious health issue related to coronavirus and medication, potentially spreading misinformation and disrespecting medical professionals.
+##########
+{"id": "covid_memes_5560", "image": "covid_memes_5560.png", "labels": ["somewhat harmful", "individual"], "text": "TRUMP'S ADMINISTRATION ANNOUNCED5\nMILLION TEST KITS TO BE DELIVERED IN A MONTH\nA MONTH TOO LATE\n", "label": 1, "img": "images/covid_memes_5560.png"}
+----------
+harmful - This meme can be considered harmful as it criticizes and potentially defames a political figure and their administration's response to a crisis, which
+##########
+{"id": "covid_memes_5577", "image": "covid_memes_5577.png", "labels": ["very harmful", "individual"], "text": "Donald Trump's incompetence is\nbecoming all too apparent. As of 2/29,\nhe thinks there are 15 US cases of COVID-19.\nThere are at least 64. Now one has died. And he\nthinks Mike Pence, who thinks prayer is the\nanswer, will get this under control. It won't.\nTrump will be the hugest mass murderer ever.\n", "label": 1, "img": "images/covid_memes_5577.png"}
+----------
+harmful - This meme accuses a public figure of incompetence during a health crisis and uses strong language such as "mass murderer," which can damage
+##########
+{"id": "covid_memes_5587", "image": "covid_memes_5587.png", "labels": ["very harmful", "individual"], "text": "dis gon be trump tomorrow after they inject him with an\nexperimental covid vaccine\n1 AM Oct22000 Twner tor Phone\n", "label": 1, "img": "images/covid_memes_5587.png"}
+----------
+harmful - The meme promotes misinformation about COVID-19 vaccines by suggesting drastic and harmful side effects, which can cause fear and reluctance towards vaccination,
+##########
+{"id": "covid_memes_5563", "image": "covid_memes_5563.png", "labels": ["somewhat harmful", "community"], "text": "CHINA\nCHINA\nCHINA\n", "label": 1, "img": "images/covid_memes_5563.png"}
+----------
+not-harmful - The image appears to be neutral and does not seem to target specific individuals, organizations, or communities in a manner that might cause
+##########
+{"id": "covid_memes_5567", "image": "covid_memes_5567.png", "labels": ["somewhat harmful", "individual"], "text": "HYDROKYCHLOROQUINE\n60% OF THE TIME,\nIT WORKS EVERYTIME\n", "label": 1, "img": "images/covid_memes_5567.png"}
+----------
+harmful - This meme promotes misinformation about a medical treatment, potentially leading to health risks and public harm by suggesting the effectiveness of hydroxychloroquine without
+##########
+{"id": "covid_memes_5675", "image": "covid_memes_5675.png", "labels": ["not harmful"], "text": "and I took that personally\n", "label": 0, "img": "images/covid_memes_5675.png"}
+----------
+not-harmful - This meme uses humor without targeting any individual, organization, or community, and does not contain offensive or harmful language or imagery.
+##########
+{"id": "covid_memes_5690", "image": "covid_memes_5690.png", "labels": ["not harmful"], "text": "Susan's Post\nWilliam Luby II\nYestertay at 1022 AM O\nHow do they come up with these so\nFAST???\net yours\nTade\nCLOR\nWrite a comment.\n", "label": 0, "img": "images/covid_memes_5690.png"}
+----------
+harmful - This meme implies that Lysol or Clorox disinfectants could be used inappropriately as medical treatment, which could lead to dangerous
+##########
+{"id": "covid_memes_5569", "image": "covid_memes_5569.png", "labels": ["somewhat harmful", "individual"], "text": "134\nKen Capelandis Wind of God REMIX - WTFARAHH\nKeny bey here is tack apnwitaew so L\nConwet\nChina unieashed a virui on the world. Make no\nmistake- their main objective was to bring dowen the\nUnited Stes and Pesident Donsid Trump by making\nus SICK. Every other country was collateraldamage.\nThey knew it would criople us. Whether it was\nproducedina lab, wtich i believe, or discovered and\nreproduced ina lubwhichia stalman made\nreproduction of it, a bio wartane and Chira should\nbe blown att the mapi Communiem- welcome to\nSocialiomjust the saame. When all you Demoorats get\nsick, remember this is whet you wented. Al for the\nhate of a man who made this country preat. That is\ntwisted and you al reed your heud enamre See\nMane\n13Coret\nIConne\nWhen will this olenging sit wake up\nagain7 khad better be scon\ni anyone can da it, this\npresicert can Believe me vhen i tell\nyou he's planning\nVien Imere repy\nCOVID-19, sounds like Trump\n2020?\n", "label": 1, "img": "images/covid_memes_5569.png"}
+----------
+harmful - The meme potentially spreads misinformation and fear about COVID-19 and implies dangerous ideas, harming public health and causing emotional disturbance.
+##########
+{"id": "covid_memes_5692", "image": "covid_memes_5692.png", "labels": ["not harmful"], "text": "1ST DAY OF ZOOM MEETINGS\n14TH DAY OF ZOM MEETINGS\n", "label": 0, "img": "images/covid_memes_5692.png"}
+----------
+not-harmful - This meme humorously contrasts initial enthusiasm and later disinterest in Zoom meetings, reflecting a common experience without causing harm.
+##########
+{"id": "covid_memes_5572", "image": "covid_memes_5572.png", "labels": ["somewhat harmful", "individual"], "text": "mountain mama (upockye\nOLucateero\nqanon trying to figure out if COVID is still a hoax now that\ntrump got it\n140 AM Det 2, 2020- Twitter tar Andioid\n", "label": 1, "img": "images/covid_memes_5572.png"}
+----------
+harmful - The meme targets a specific group (QAnon supporters) and implies their beliefs are irrational, which can cause emotional disturbance and public defamation
+##########
+{"id": "covid_memes_5697", "image": "covid_memes_5697.png", "labels": ["not harmful"], "text": "WHEN YOU CANT FINDA MASK\nBUT STILL HAVE TO WORK\nDURING THE CORONA VIRUS\n", "label": 0, "img": "images/covid_memes_5697.png"}
+----------
+not-harmful - The meme humorously depicts a dinosaur suit as a mask substitute during the coronavirus without targeting or harming any individual, organization, community
+##########
+{"id": "covid_memes_5700", "image": "covid_memes_5700.png", "labels": ["not harmful"], "text": "Mihary\nMitary\nMitary\nMitary\nMIary\nI am inevitable.\n", "label": 0, "img": "images/covid_memes_5700.png"}
+----------
+not-harmful - This meme humorously depicts a common societal narrative about family traditions in military service without targeting or harming any specific individual, organization,
+##########
+{"id": "covid_memes_5705", "image": "covid_memes_5705.png", "labels": ["not harmful"], "text": "AMERICAN\nMASTERS\n", "label": 0, "img": "images/covid_memes_5705.png"}
+----------
+not-harmful - The meme appears to feature a person speaking at an event with a logo in the background. There is no indication of harm or
+##########
+{"id": "covid_memes_5706", "image": "covid_memes_5706.png", "labels": ["not harmful"], "text": "as soon as quarantine is over:\nMe\nMy Nail Technician\n", "label": 0, "img": "images/covid_memes_5706.png"}
+----------
+not-harmful - This meme humorously depicts the eagerness to resume normal activities post-quarantine, without targeting or harming any individual, organization
+##########
+{"id": "covid_memes_5592", "image": "covid_memes_5592.png", "labels": ["very harmful", "individual"], "text": "TrumpMemes.net\nI got\nSaddam!\nI got\nbin Laden!\nI killed\nmore than\n150K\nAmericans\nPresidential Records\n30\n", "label": 1, "img": "images/covid_memes_5592.png"}
+----------
+harmful - The meme attributes serious accusations and potentially defamatory statements to individuals, potentially causing harm to their reputation and emotional well-being.
+##########
+{"id": "covid_memes_5714", "image": "covid_memes_5714.png", "labels": ["not harmful"], "text": "futuristic caveman @uturisticcavet 10h\nBoris Johnson's reaction to covid-19 seifisolating\nOjust feel that, yknow, \"if itaint broke, don't\nfix it\". And even if it is broke, just ignore it\nand maybe it'l be sort of.. okay.\nGIF\n", "label": 0, "img": "images/covid_memes_5714.png"}
+----------
+not-harmful - The text and image do not appear to cause harm or defamation to any individual or group. It humorously critiques a general
+##########
+{"id": "covid_memes_5728", "image": "covid_memes_5728.png", "labels": ["not harmful"], "text": "Flexing in\nMarch 2019 March 2020\nFlexing in\n", "label": 0, "img": "images/covid_memes_5728.png"}
+----------
+not-harmful - The meme humorously compares changing trends without targeting or causing harm to any individual, organization, or community.
+##########
+{"id": "covid_memes_5729", "image": "covid_memes_5729.png", "labels": ["not harmful"], "text": "Beast: The castle is your\nquarantine now. You can go\nanywhere you wish, except\nthe West Wing.\nBelle: What's in the West\nWing?\n", "label": 0, "img": "images/covid_memes_5729.png"}
+----------
+not-harmful - The meme references a fictional conversation from an animated movie and uses humor without targeting or harming any individual, organization, or community.
+##########
+{"id": "covid_memes_5733", "image": "covid_memes_5733.png", "labels": ["not harmful"], "text": "QUARANTINE GOT ME LIKE\n", "label": 0, "img": "images/covid_memes_5733.png"}
+----------
+not-harmful - This meme depicts a harmless cartoon character expressing a common sentiment about quarantine, without targeting or harming any individual, group, or organization
+##########
+{"id": "covid_memes_5575", "image": "covid_memes_5575.png", "labels": ["somewhat harmful", "individual"], "text": "HAWAH IS SAFE.\nI HAVE THE CURE FOR COVID-19!\n", "label": 1, "img": "images/covid_memes_5575.png"}
+----------
+harmful - The meme spreads misinformation by falsely claiming to have the cure for COVID-19, which can potentially cause harm to public health and safety.
+##########
+{"id": "covid_memes_5738", "image": "covid_memes_5738.png", "labels": ["not harmful"], "text": "Walmart is now asking\ncustomers to use masks\nGood luck with that.\nYou can't even get\nthem all to wear pants.\n", "label": 0, "img": "images/covid_memes_5738.png"}
+----------
+not-harmful - This meme humorously comments on the challenge of enforcing mask-wearing rules, referencing the difficulty in enforcing dress codes without targeting or
+##########
+{"id": "covid_memes_5580", "image": "covid_memes_5580.png", "labels": ["somewhat harmful", "individual"], "text": "SIR...ITSTIME FOR YOUR MEDICINE\n20N MORE\nALS GES\nI HEAR IT KILLS THE VIRUS\n", "label": 1, "img": "images/covid_memes_5580.png"}
+----------
+harmful - This meme could cause harm by spreading misinformation about a company and its products, potentially leading to unsafe behaviors and defamation of the product's
+##########
+{"id": "covid_memes_5742", "image": "covid_memes_5742.png", "labels": ["not harmful"], "text": "BIN N\nHA RIS\nTex\n30\nSENIOR s 6\n", "label": 0, "img": "images/covid_memes_5742.png"}
+----------
+not-harmful - The image appears to show a public figure at a political event. The meme does not contain offensive or harmful content based on the
+##########
+{"id": "covid_memes_5760", "image": "covid_memes_5760.png", "labels": ["not harmful"], "text": "WHEN ITS 2 DAYS INTO OCTOBER\nBUT NOTHING BAD HAS HAPPENED YET:\nSomethings wrong, I can feel it\n", "label": 0, "img": "images/covid_memes_5760.png"}
+----------
+not-harmful - The meme humorously anticipates bad events in October using a light-hearted caption and image, and does not target or harm any
+##########
+{"id": "covid_memes_5581", "image": "covid_memes_5581.png", "labels": ["somewhat harmful", "individual"], "text": "Donald Trump's resporoe to Bob Woodward's question,\n\"Why do you think Lincoln succeeded?\"\nWell, Ithink Lincoln succeeded for numerous reasons. He was a man\nwho was of great intelligence, which most presidents would be. But he\nwas a man of great inteligence, but he was also a man that did\nsomething that was a very vital thing to do at that time. Ten years\nbefore or 20 years before, what he was doing woud never have even\nbeen thought possible. So he did something that was a very important\nthing to do, and especialy at that time.\"\n", "label": 1, "img": "images/covid_memes_5581.png"}
+----------
+not-harmful - The meme shares a well-known anecdote and opinion without causing harm or defamation to individuals, organizations, or communities.
+##########
+{"id": "covid_memes_5602", "image": "covid_memes_5602.png", "labels": ["very harmful", "individual"], "text": "TrumpMem\u00e9s.net\nI got\nSaddam!\nI killed\nmore than\n250,000\nAmericans!\nI got\nbin Laden!\nPresidential Records\n", "label": 1, "img": "images/covid_memes_5602.png"}
+----------
+harmful - This meme implies severe misconduct and significant harm allegedly committed by various figures, potentially defaming individuals and impacting their public image negatively.
+##########
+{"id": "covid_memes_5633", "image": "covid_memes_5633.png", "labels": ["very harmful", "individual"], "text": "\"Since COVID-19 has\nkilled more people in\nAmerica than\nanywhere else in the\nworld, shouldn't it be\ncalled the\nTrump Virus?\"\n@mmpadellan |\n", "label": 1, "img": "images/covid_memes_5633.png"}
+----------
+harmful - The meme attributes the cause of COVID-19 deaths in America to an individual, which can lead to defamation, blame, and emotional
+##########
+{"id": "covid_memes_5763", "image": "covid_memes_5763.png", "labels": ["not harmful"], "text": "If coronavirus\nwas a person\n\"All Student Organisations, Societies, Teams,\nGroups, and Clubs are henceforth disbanded.\nAll Quidditch matches are hereby cancelled.\nBoys and girls are not permitted to be within 8\ninches of each other\n", "label": 0, "img": "images/covid_memes_5763.png"}
+----------
+harmful - The meme makes light of the coronavirus pandemic, which could cause emotional disturbance and trivializes a serious global health crisis.
+##########
+{"id": "covid_memes_31", "image": "covid_memes_31.png", "labels": ["not harmful"], "text": "platocast\n\u0926\u093f\u0935\u094d\u092f\nCORONIL TABLET\n\u0915\u094b\u0930\u094b\u0928\u093f\u0932 \u091f\u0948\u092c\u0932\u0947\u091f,\nBEST MEMES AFTER PTANJALI LAUNCHES\nCORONIL\nCOVID-19 'CURE'\n", "label": 0, "img": "images/covid_memes_31.png"}
+----------
+harmful - This meme could potentially harm the reputation of Patanjali by making light of its product's effectiveness as a COVID-19 cure, leading
+##########
+{"id": "covid_memes_5582", "image": "covid_memes_5582.png", "labels": ["somewhat harmful", "individual"], "text": "Masks were shipped to a New Jersey warehouse,\nbut New York wasn't told.\n300,000 of the wrong kind of masks\nwere shipped to Illinois.\nWELL ITHOUGHT IWAS PERFECT.\n", "label": 1, "img": "images/covid_memes_5582.png"}
+----------
+harmful - It targets a specific individual with potentially defamatory content, implying incompetence and negligence, which can lead to emotional disturbance and damage to the person's
+##########
+{"id": "covid_memes_35", "image": "covid_memes_35.png", "labels": ["not harmful"], "text": "Freida Maggi Khalo\nJust watched 10 mins of Indian Matchmaking on Netflix.\n@yadudewhatever \u00b7 Jul 19\nBrb.\nHARPIC\nORIGINAL\n", "label": 0, "img": "images/covid_memes_35.png"}
+----------
+harmful - This meme promotes harmful behavior by depicting someone potentially using a cleaning product in an unsafe manner, posing a risk to individual health and safety.
+##########
+{"id": "covid_memes_5584", "image": "covid_memes_5584.png", "labels": ["somewhat harmful", "individual"], "text": "Virginia Pastor Landon Spradlin, Who\nDenounced COVID-19 Response As Anti-Trump\n\"Mass Hysteria,\" Has Died From The Virus\nPATHEOS .COM\nPastor Who Claimed Covid-19 'Hysteria' Was Plot\nAgainst Trump Dies From Virus\n", "label": 1, "img": "images/covid_memes_5584.png"}
+----------
+harmful - The meme can defame and emotionally disturb a deceased individual and their associates, potentially causing psycho-physiological injury by connecting a death
+##########
+{"id": "covid_memes_5586", "image": "covid_memes_5586.png", "labels": ["somewhat harmful", "individual"], "text": "Obama: \"Joe, why are you still holding my\nhand?\"\nBiden: \"I wanna freak Mike Pence out\"\nObama: \"But why?\"\nBiden: \"Just roll with it\"\n", "label": 1, "img": "images/covid_memes_5586.png"}
+----------
+not-harmful - The text portrays a humorous fictional scenario between public figures without any intention to harm or defame any individual, organization, or community
+##########
+{"id": "covid_memes_5717", "image": "covid_memes_5717.png", "labels": ["very harmful", "individual"], "text": "Donald J. Trump O\n@realDonaldTrump\nGet fucked Imaoo @SYRIA\nNigga Donald lights some shit up\nPNEWS\n", "label": 1, "img": "images/covid_memes_5717.png"}
+----------
+harmful - The meme uses offensive language and depicts a sensitive geopolitical situation humorously, which can cause emotional disturbance and harm to individuals and communities.
+##########
+{"id": "covid_memes_5590", "image": "covid_memes_5590.png", "labels": ["somewhat harmful", "individual"], "text": "USA memes\nTrump memes\nTrumpcovid19\nmemes\n", "label": 1, "img": "images/covid_memes_5590.png"}
+----------
+not-harmful - The meme humorously categorizes different sets of memes without defaming or causing harm to any individual, organization, or community.
+##########
+{"id": "covid_memes_36", "image": "covid_memes_36.png", "labels": ["not harmful"], "text": "THINGS I'VE LEARNED IN THE\nLAST FEW WEEKS\nCoronavirus is a novel flu\nThe mortality rate is\nestimated at around 3%\nCoronavirus is transmitted\nmuch like other flus\nThe elderly and those with\ncompromised immune systems\nare the most susceptible to\nCoronavirus complicatons\nI fucking love touching my\nface\n@MATTSURELEE\n", "label": 0, "img": "images/covid_memes_36.png"}
+----------
+not-harmful - The meme provides informational content regarding COVID-19 without causing harm, though it ends with a humorous personal statement.
+##########
+{"id": "covid_memes_222", "image": "covid_memes_222.png", "labels": ["very harmful", "community"], "text": "Pen\nWHEN I SEE A CHINESE BOY COUCHING mmber-everyone who looks Chinese is suspect from now on If\nthey cough anywhere in public, act viely distraught. Make them\nfeel ke theyre a plague victmn the height of the Back Death. if\nthey confront you about it, actike youre scared for your lfe, and if\nyou're armed consider protecting your ife at ther expense. if you\nsomeone whom you beleve to be an immedate danger to you\nyou have a good chance to be acquitted especially fyou dont talk\nto the cops and get a lanyer.\nExcalation is acceleration.\n1763 1 AM\nME: KILL THE VIRUS\n", "label": 1, "img": "images/covid_memes_222.png"}
+----------
+harmful - This meme incites violence and discrimination against a specific ethnic group, promoting harmful stereotypes and potentially causing physical or emotional harm to individuals within that
+##########
+{"id": "covid_memes_877", "image": "covid_memes_877.png", "labels": ["very harmful", "society"], "text": "I FEEL FINE\nFest pervee resedthe n oe\nte sd he lete great e\n2 Mnutes Altor Geting The Vaccing\n\u2022 SCAREMONGERING\nE VACCINE DID NT EVEN HURT\n", "label": 1, "img": "images/covid_memes_877.png"}
+----------
+harmful - This meme spreads misinformation and fear about vaccines, which can harm public health and create unnecessary panic.
+##########
+{"id": "covid_memes_57", "image": "covid_memes_57.png", "labels": ["not harmful"], "text": "Tony Tenpenny\nApr 23 \u00b7\nTrump was right again.\nTHEFEDERALIST.COM\nLooks Like Trump Was Right About The\nCoronavirus Fatality Rate\n", "label": 0, "img": "images/covid_memes_57.png"}
+----------
+harmful - This meme could potentially cause harm by spreading political misinformation and fostering divisive opinions about a sensitive topic like the coronavirus fatality rate.
+##########
+{"id": "covid_memes_1058", "image": "covid_memes_1058.png", "labels": ["very harmful", "society"], "text": "Dermot Ward\n@chizmund\nIf the goal of the Dettol ads is to make me want to drink a\nbottle of Dettol, mission accomplished.\nbou)\nipherting\n11:35 AM Sep 3, 2020\n", "label": 1, "img": "images/covid_memes_1058.png"}
+----------
+harmful - The meme implies encouraging the consumption of a cleaning product, which could potentially cause harm to individuals through ingestion of hazardous substances.
+##########
+{"id": "covid_memes_62", "image": "covid_memes_62.png", "labels": ["not harmful"], "text": "WALKS IN THE STREETS\nWITH A DONALD TRUMP MASK\nON INTERNATIONAL\nWOMEN'S DAY\nimgflip.com\nBad Luck Brian Meme - Imgflip\n", "label": 0, "img": "images/covid_memes_62.png"}
+----------
+harmful - This meme could potentially cause emotional distress and insult to specific individuals and groups, specifically targeting International Women's Day and the person referenced by the mask
+##########
+{"id": "covid_memes_68", "image": "covid_memes_68.png", "labels": ["not harmful"], "text": "Me getting up at 8:59am for the\nbig commute to work to the\nspare room and the 9am start\n", "label": 0, "img": "images/covid_memes_68.png"}
+----------
+not-harmful - This meme humorously depicts the common experience of remote working, causing no harm or distress to any individual, organization, or community
+##########
+{"id": "covid_memes_5593", "image": "covid_memes_5593.png", "labels": ["somewhat harmful", "individual"], "text": "TRUMP: TRAVEL BAN\nTRACIST FUC\nLEFTIST\nCOVID-19: KNOCK KNOCK\n\"FUCING\nIMBECILE\nLEFTIST\n", "label": 1, "img": "images/covid_memes_5593.png"}
+----------
+harmful - This meme refers to political and pandemic-related issues, imply blame, and can incite emotional disturbance, furthering division and defamation among
+##########
+{"id": "covid_memes_5594", "image": "covid_memes_5594.png", "labels": ["somewhat harmful", "individual"], "text": "The Daily Show\n@TheDailyShow\nJared Kushner is working tirelessly to\nfigure out how this virus got into\nHarvard without help\n", "label": 1, "img": "images/covid_memes_5594.png"}
+----------
+harmful - The meme uses sarcasm to potentially defame or emotionally disturb the individual mentioned by questioning their competence or knowledge publicly.
+##########
+{"id": "covid_memes_76", "image": "covid_memes_76.png", "labels": ["not harmful"], "text": "This is your pilot speaking.\nI'm working from home today\n", "label": 0, "img": "images/covid_memes_76.png"}
+----------
+not-harmful - This meme humorously depicts an unrealistic situation (a pilot working from home) without causing harm to individuals, organizations, or society
+##########
+{"id": "covid_memes_83", "image": "covid_memes_83.png", "labels": ["not harmful"], "text": "WORLD OF BUZZ\nWOB\n@WORLDOFBUZZ\nExperts Say Deadly Wuhan Virus Can Be Killed\nBy Alcohol &amp; High Temperatures!\nO Traduire le Tweet\nAMILTON\nKILLED BY ALCOHOL &\nHIGH TEMPERATURES!\n| used the corona to destroy the corona\n", "label": 0, "img": "images/covid_memes_83.png"}
+----------
+harmful - This meme spreads misinformation about COVID-19, potentially endangering public health by suggesting alcohol and high temperatures as cures, which is false
+##########
+{"id": "covid_memes_5595", "image": "covid_memes_5595.png", "labels": ["somewhat harmful", "individual"], "text": "THIS IS THE AMOUNTOF PEOPLE\nTESTED POSITIVE FOR CORONAVIRUS\nBECAUSEOBARELYTESTED ANYONE\n", "label": 1, "img": "images/covid_memes_5595.png"}
+----------
+harmful - The meme potentially defames and emotionally disturbs the person depicted by suggesting improper handling of coronavirus testing.
+##########
+{"id": "covid_memes_85", "image": "covid_memes_85.png", "labels": ["not harmful"], "text": "Corona virus which\ncan be killed by\nalcohol\nI don't fear you.\nSlavs\nThen you will die braver than most.\n", "label": 0, "img": "images/covid_memes_85.png"}
+----------
+harmful - This meme could be harmful as it targets a specific community ("Slavs") and makes a disturbing implication about fear and bravery in relation to
+##########
+{"id": "covid_memes_5597", "image": "covid_memes_5597.png", "labels": ["somewhat harmful", "individual"], "text": "THE TRUMP COVID-19TINI\nDettol\nPEVER TREE\nTONIC\nWATER\nFOR A PRESIDENT\nON THE ROCKS\n\u5247\n", "label": 1, "img": "images/covid_memes_5597.png"}
+----------
+harmful - Promotes dangerous misinformation about ingesting cleaning products, potentially causing harm to individuals trying to follow this misleading advice.
+##########
+{"id": "covid_memes_250", "image": "covid_memes_250.png", "labels": ["not harmful"], "text": "tickle in my throat.\nIS THAT YOU RONA?\n", "label": 0, "img": "images/covid_memes_250.png"}
+----------
+not-harmful - The meme humorously refers to the common concern of COVID-19, using light-hearted text and imagery without targeting or harming any
+##########
+{"id": "covid_memes_271", "image": "covid_memes_271.png", "labels": ["not harmful"], "text": "Products\nmade in china\nVirus\nmade in china\n", "label": 0, "img": "images/covid_memes_271.png"}
+----------
+harmful - This meme stereotypes and targets a specific country, potentially causing harm to its citizens and perpetuating discriminatory attitudes, which can lead to emotional disturbance
+##########
+{"id": "covid_memes_287", "image": "covid_memes_287.png", "labels": ["not harmful"], "text": "WHAT IFI TOLD YOU\nMEMES WERE BORN THE SAME\nTIME HUMAN CULTURE WAS BORN\nmglo com\n", "label": 0, "img": "images/covid_memes_287.png"}
+----------
+not-harmful - This meme humorously claims that memes have existed since the beginning of human culture, which does not cause harm to individuals, organizations
+##########
+{"id": "covid_memes_5598", "image": "covid_memes_5598.png", "labels": ["somewhat harmful", "individual"], "text": "DoVoubonald.com\nCOoyoudonaldc\nCan't die of COVID if you kill yourself! #Trump #Memes\nIs this a vaccine?\n", "label": 1, "img": "images/covid_memes_5598.png"}
+----------
+harmful - This meme promotes harmful behavior and misinformation, implying that self-harm and household cleaners are solutions for COVID-19, which can lead to
+##########
+{"id": "covid_memes_5599", "image": "covid_memes_5599.png", "labels": ["somewhat harmful", "individual"], "text": "Spoektober\nPresidental\nAmong us\ndebate\nTrump having\nCovid-19\nMinecraft cave\nupdate\n", "label": 1, "img": "images/covid_memes_5599.png"}
+----------
+not-harmful - The meme humorously compares different situations to a sniper focusing on various targets, without causing harm to any individual, organization, community
+##########
+{"id": "covid_memes_5600", "image": "covid_memes_5600.png", "labels": ["somewhat harmful", "individual"], "text": "A DAMN FINE\nCUP OF COVFEFE\nSWERY (Swery65)\ny rollaw\nIs this Ncovfefe ?\n12:43 PM - 31 May 2017\n6 3 643 1.375\n", "label": 1, "img": "images/covid_memes_5600.png"}
+----------
+not-harmful - This meme is humorous and does not target any individual, organization, or community in a harmful way. It is a play on
+##########
+{"id": "covid_memes_293", "image": "covid_memes_293.png", "labels": ["not harmful"], "text": "What is\nCoronavirus\nWhat are the symptoms\nthis scary Coronavirust\nHow do i protect myselt\nI'm from Hubei, China\nI couldn't sleep since\nlast night\n", "label": 0, "img": "images/covid_memes_293.png"}
+----------
+harmful - This meme spreads misinformation and fear about coronavirus by suggesting undue panic and confusion, contributing to emotional disturbance and potentially harmful misunderstandings within society.
+##########
+{"id": "covid_memes_325", "image": "covid_memes_325.png", "labels": ["not harmful"], "text": "People saying that calling\nthe Coronavirus, the \"China\nvirus\", is racist\nSpanish flu:\n", "label": 0, "img": "images/covid_memes_325.png"}
+----------
+harmful - The meme downplays racism and perpetuates harmful stereotypes by comparing COVID-19 terminology to the Spanish flu, potentially causing harm to specific
+##########
+{"id": "covid_memes_5601", "image": "covid_memes_5601.png", "labels": ["somewhat harmful", "individual"], "text": "White House\n2:43 PM ET\nECLIPSE OF THE CENTURY\nTRUMP WATCHES ECLIPSE FRO\n", "label": 1, "img": "images/covid_memes_5601.png"}
+----------
+not-harmful - This meme shows a humorous moment with a public figure and does not contain any defamation, mental abuse, or emotional disturbance content
+##########
+{"id": "covid_memes_409", "image": "covid_memes_409.png", "labels": ["not harmful"], "text": "Tweet of the Day\nIman of Peace o\nNeve korpet the Chins deetor wha tst wedteet conanvnn\nand was threetenad aaded sneared mede to sigs a\ncordeson, sierced, nobted and tn died ster being nteted\nwho tyng no nas others\nChina dd al of this. tocconnewana\nThe Chinese dactar who ee te wam about caronavinas\nmenuweang venes eta oa\nwn hora eds sesce\n", "label": 0, "img": "images/covid_memes_409.png"}
+----------
+harmful - This meme highlights sensitive information about a specific individual's suffering and the associated political implications, potentially leading to emotional disturbance and harm to reputations.
+##########
+{"id": "covid_memes_433", "image": "covid_memes_433.png", "labels": ["not harmful"], "text": "Kyle Zarate @KZarate1081 \u00b7 Mar 19\nCrazy! #coronavirusmemes #coronapocolypse\nMe thinking back on the\nlast 5 days.\nBOY, THATESCALATED QUICKLY\n27 2\n44\n", "label": 0, "img": "images/covid_memes_433.png"}
+----------
+not-harmful - The meme humorously reflects on the passage of time with no content that likely causes harm to an individual, organization, community,
+##########
+{"id": "covid_memes_446", "image": "covid_memes_446.png", "labels": ["not harmful"], "text": "Mark Joseph Stern\n@mjs DC\nBeen thinking about life and mortality\ntoday. I'd rather die gloriously in battle\nthan from a virus. In a way it doesn't\nmatter. But it kinda does.\ni tittle\nw, the\nd cha\np\nidor\n", "label": 0, "img": "images/covid_memes_446.png"}
+----------
+harmful - The meme could be interpreted as glorifying or trivializing death, which has the potential to cause emotional disturbance or harm to individuals affected by
+##########
+{"id": "covid_memes_451", "image": "covid_memes_451.png", "labels": ["not harmful"], "text": "IF YOU DONT NEED A MASK\nBECAUSE GOD WILL PROTECT YOU\nYOU DON'T NEED AN ASSAULT\nRIFLE FOR THE SAME REASON.\n", "label": 0, "img": "images/covid_memes_451.png"}
+----------
+harmful - This meme is potentially harmful as it can incite controversy and emotional disturbance by touching on sensitive topics like religion and gun control.
+##########
+{"id": "covid_memes_453", "image": "covid_memes_453.png", "labels": ["not harmful"], "text": "When ALL 20 people on the group text\nneed to get in their 2 cents...\nneanimonnier\nYEAH IFYOU COULD ACTUALLY\nUNSUBSCRIBE ME\nTHAT WOULD BEGREAT\nnae weh eation\n", "label": 0, "img": "images/covid_memes_453.png"}
+----------
+not-harmful - This meme humorously expresses frustration about group texts and does not cause harm to any individual, organization, or society.
+##########
+{"id": "covid_memes_5603", "image": "covid_memes_5603.png", "labels": ["somewhat harmful", "individual"], "text": "NAILED\nIT.\n", "label": 1, "img": "images/covid_memes_5603.png"}
+----------
+not-harmful - The meme humorously depicts handling of COVID-19, lacking elements that cause harm such as mental abuse, defamation, or
+##########
+{"id": "covid_memes_464", "image": "covid_memes_464.png", "labels": ["not harmful"], "text": "Quarantine day ???: the cat is trying to communicate\n", "label": 0, "img": "images/covid_memes_464.png"}
+----------
+not-harmful - The meme features a cat drawing, which is intended to be humorous and doesn't cause harm to any individual, organization, community,
+##########
+{"id": "covid_memes_5606", "image": "covid_memes_5606.png", "labels": ["somewhat harmful", "individual"], "text": "This is Hob. He voted for Trump. This is Bob's friend\nSally. Sally voted for Clinton. Botre Satlyare stilt\nfrienda-beenese-Bob-and-Sallyare-both-adulte.\nBettke Botramt Sally.\n", "label": 1, "img": "images/covid_memes_5606.png"}
+----------
+not-harmful - The meme humorously promotes friendship despite differing political views and does not harm any individual, organization, or community based on the provided
+##########
+{"id": "covid_memes_5608", "image": "covid_memes_5608.png", "labels": ["somewhat harmful", "community"], "text": "Debbie Sanders Ostarbucksds 4am\nH1N1 Virus\nCOVID 19\n- U.S. CASES -\n4.6 MILLION\n(to dale 820)\n- PANIC LEVEL -\n- U.S. CASES -\n60.8 MILLION\n- PANIC LEVEL -\nMASS HYSTERIA\nES. CLONED\nTRUMP BLAMED -\nZERO\n- CHINA BLAMED -\n", "label": 1, "img": "images/covid_memes_5608.png"}
+----------
+harmful - It spreads incorrect and misleading information comparing COVID-19 and H1N1, potentially causing harm through misinformation and defamation by inaccurately
+##########
+{"id": "covid_memes_5611", "image": "covid_memes_5611.png", "labels": ["somewhat harmful", "individual"], "text": "Me when the 2020\nproducers decide to give\nTrump the corona virus\n", "label": 1, "img": "images/covid_memes_5611.png"}
+----------
+harmful - This meme has the potential to cause emotional disturbance and defamation by implying intentional harm to a specific individual.
+##########
+{"id": "covid_memes_470", "image": "covid_memes_470.png", "labels": ["not harmful"], "text": "HERE'S A NOVEL IDEA\nIF YOU'RE SO AFRAID OF\nCORONAVIRUS, WEAR A MASK\nTHAT MIGHT ACTUALLY STOP IT,\nOR LOCK YOURSELF IN YOUR HOUSE\nBUT DON'T\nFORCE EVERYONE\nELSE TO DO IT TOO!\n", "label": 0, "img": "images/covid_memes_470.png"}
+----------
+harmful - Encourages not wearing masks during the pandemic, potentially leading to health risks and societal harm by promoting non-compliance with health guidelines.
+##########
+{"id": "covid_memes_474", "image": "covid_memes_474.png", "labels": ["not harmful"], "text": "Meripping up the study\nguide after failing the test\nloshMSIlverman\n", "label": 0, "img": "images/covid_memes_474.png"}
+----------
+not-harmful - This meme humorously depicts a relatable frustration with failure using a non-offensive comparison, causing no harm to individuals, organizations,
+##########
+{"id": "covid_memes_475", "image": "covid_memes_475.png", "labels": ["not harmful"], "text": "JANUARN\nFEBRUARM\nMARCH\nAPRIL\nJUNE\nJUIN\nAUGUST SEPTEMBER\n", "label": 0, "img": "images/covid_memes_475.png"}
+----------
+not-harmful - The meme humorously references different months without targeting or causing harm to any individual, organization, community, or society.
+##########
+{"id": "covid_memes_476", "image": "covid_memes_476.png", "labels": ["not harmful"], "text": "#ImStaying\nright where I am. in traffic.\n", "label": 0, "img": "images/covid_memes_476.png"}
+----------
+not-harmful - The meme humorously depicts being stuck in traffic, with no intent to cause harm, mental abuse, defamation, or any
+##########
+{"id": "covid_memes_487", "image": "covid_memes_487.png", "labels": ["not harmful"], "text": "YOU GO TO SCHOOL, NOTHING\nHAPPENS. YOU MISS ONE DAY.\n6 FIGHTS, TUPAC COMES BACK,\nSCHOOL HAD A BLACK OUT & BEYONCE\nPERFORMED IN THE CAFETERIA.\nFunnyMamas.com\n", "label": 0, "img": "images/covid_memes_487.png"}
+----------
+not-harmful - The meme humorously exaggerates common experiences of missing events in school, without causing harm or targeting any individual, organization, or
+##########
+{"id": "covid_memes_5612", "image": "covid_memes_5612.png", "labels": ["somewhat harmful", "individual"], "text": "@xxoorita\ni know Biden family groupchat bussin rn\n12:16 AM : Oct 2, 2020 \u00b7 Twitter for iPhone\n", "label": 1, "img": "images/covid_memes_5612.png"}
+----------
+not-harmful - The text humorously speculates about a family group chat without any harmful content or intent towards any individual or group.
+##########
+{"id": "covid_memes_489", "image": "covid_memes_489.png", "labels": ["not harmful"], "text": "2002\n2004\nWESTINILE VIRUS WILL KILLUS AL\n2005\nSARS WILL KILIUS ALL\n2009\nBIRD FLU WILL KILL US ALL\n2014\nSWINE FLI WILL KILL US ALL\n2016\nBOLA WILI KILL US ALL\nTIKA WILI KILI US ALI\nWake Up\nCoronavirus\n\"COVID 19IS\nJUST THE LATEST\nSAM\nVEAR\n2020\n", "label": 0, "img": "images/covid_memes_489.png"}
+----------
+harmful - The meme minimizes the seriousness of COVID-19 by comparing it to other outbreaks, which can lead to misinformation and public complacency.
+##########
+{"id": "covid_memes_562", "image": "covid_memes_562.png", "labels": ["not harmful"], "text": "\"me in 10 years*\ncashier: sir your bill is $20.20\nme:\n", "label": 0, "img": "images/covid_memes_562.png"}
+----------
+not-harmful - This meme contains humorous content about a future reaction to a bill, which does not cause harm to any individual or community.
+##########
+{"id": "covid_memes_572", "image": "covid_memes_572.png", "labels": ["not harmful"], "text": "how it started\nhow its going\n", "label": 0, "img": "images/covid_memes_572.png"}
+----------
+not-harmful - The meme humorously contrasts two stages of an event, without targeting or harming any individual, organization, or community. It does
+##########
+{"id": "covid_memes_5613", "image": "covid_memes_5613.png", "labels": ["somewhat harmful", "individual"], "text": "Donald Trump: *Tests\npositive for COVID-19*\nThe memeing community:\nEMERGENCY\nNMEEPING\n", "label": 1, "img": "images/covid_memes_5613.png"}
+----------
+not-harmful - The meme references a public event without inciting harm, defamation, or emotional disturbance; it uses humor rather than malicious intent
+##########
+{"id": "covid_memes_5614", "image": "covid_memes_5614.png", "labels": ["somewhat harmful", "individual"], "text": "Thank you reatDonald Trump for giving your well thought out suggestion\nfor keeping me safe from COVID-19 atrumpmemes #Covid 19\nAnubiss Anubisa - Apr 24\nOxi\nLEAN\nANTI-COVID-19 SMOOTHIE\n", "label": 1, "img": "images/covid_memes_5614.png"}
+----------
+harmful - This meme could potentially cause harm as it features misinformation that consuming cleaning products can prevent COVID-19, which is dangerous and misleading.
+##########
+{"id": "covid_memes_580", "image": "covid_memes_580.png", "labels": ["not harmful"], "text": "Me Infront Of My Parents\nAfter Guessing Correct Answer\nWhile Watching KBC\n", "label": 0, "img": "images/covid_memes_580.png"}
+----------
+not-harmful - The meme is a harmless depiction of someone feeling accomplished after guessing a correct answer on a TV quiz show, causing no harm to
+##########
+{"id": "covid_memes_581", "image": "covid_memes_581.png", "labels": ["not harmful"], "text": "EMBARRASSED COUSINS OF PROUD\nPARENTS OF UNVACCINATED CHILDREN\nWELCOMES OUR NEW GUESTS TO OUR\nPAGE ABOUT HOW CRAZY THEY ARE!\n", "label": 0, "img": "images/covid_memes_581.png"}
+----------
+harmful - This meme potentially causes harm by mocking and defaming parents of unvaccinated children, contributing to emotional disturbance and public defamation.
+##########
+{"id": "covid_memes_585", "image": "covid_memes_585.png", "labels": ["not harmful"], "text": "Ik 201 lookedat 2000 and sad Hld y beer and\nneh s\n2021 and the new strain of COVD\nHOLD MY BEER\n", "label": 0, "img": "images/covid_memes_585.png"}
+----------
+not-harmful - The meme uses humor to reference a challenging year and the COVID-19 pandemic, but it does not appear to target or harm
+##########
+{"id": "covid_memes_5615", "image": "covid_memes_5615.png", "labels": ["somewhat harmful", "individual"], "text": "THINKS U DONT NEED A\nMASK\nGETS COVID 19\n", "label": 1, "img": "images/covid_memes_5615.png"}
+----------
+harmful - The meme potentially defames and causes emotional disturbance by targeting an individual's actions and its consequence, COVID-19, which can cause serious distress
+##########
+{"id": "covid_memes_5616", "image": "covid_memes_5616.png", "labels": ["somewhat harmful", "individual"], "text": "Donald J. Trumpo\n@realDonald Trump\nCOVID-19 is a virus, but jealousy is a\ndisease. Get well soon sweaties xoxo\n2-37 PM - 10/5/20 Twitter for IPhone\n", "label": 1, "img": "images/covid_memes_5616.png"}
+----------
+harmful - This meme uses a sensitive topic (COVID-19) and includes an image and text that could cause emotional disturbance or mental abuse, potentially
+##########
+{"id": "covid_memes_592", "image": "covid_memes_592.png", "labels": ["not harmful"], "text": "Telkonia\n1920\ntacebook.com\nComment\nKeleabetswe Kekana Ma-Kele's\nAlmStaying\n...\nTHEY CAN TAKB OUR ELECTRICITY\nBUT THEY WILL NEVER TAKE\nOUR BRAAI\nimegenerator.net\nw00 vu and 38K others\n77 Comments 12K Shares\nCemment\nShare\nAcademy of Digital Arts\n", "label": 0, "img": "images/covid_memes_592.png"}
+----------
+not-harmful - This meme humorously contrasts the loss of electricity with the cultural importance of a braai, without targeting or harming any individual,
+##########
+{"id": "covid_memes_5618", "image": "covid_memes_5618.png", "labels": ["somewhat harmful", "individual"], "text": "BREAKING NEWS\nPRESIDENT DONALD\nTRUMP TESTS POSITIVE\nFOR COVID-19\n", "label": 1, "img": "images/covid_memes_5618.png"}
+----------
+not-harmful - This meme is a piece of news information without any harmful or defamatory content directed at an individual, organization, or community. It
+##########
+{"id": "covid_memes_5620", "image": "covid_memes_5620.png", "labels": ["somewhat harmful", "individual"], "text": "Trump\nDr. Fauci\nCOVID-19\nA. Cuoma\n", "label": 1, "img": "images/covid_memes_5620.png"}
+----------
+harmful - This meme may cause defamation and emotional disturbance by conveying a controversial message about COVID-19 and public figures.
+##########
+{"id": "covid_memes_604", "image": "covid_memes_604.png", "labels": ["not harmful"], "text": "You live in\nI'm from\nJacksonville Orange Park\n", "label": 0, "img": "images/covid_memes_604.png"}
+----------
+not-harmful - This meme humorously compares two locations without any harmful intent, defamation, or causing emotional disturbance to individuals, communities, or
+##########
+{"id": "covid_memes_5623", "image": "covid_memes_5623.png", "labels": ["somewhat harmful", "individual"], "text": "TRUMPTELSPRO USADUMMIES: TRAVEL\nTOJAPAN LAND ITSAMAGICAL GETAWAY\nISLAND\nMEANWHILE: JAPAN IS COLLAPSING\nFROM COVID-19 WHICH THE USA'S\nCOC MADE\n", "label": 1, "img": "images/covid_memes_5623.png"}
+----------
+harmful - This meme contains statements that could cause defamation and emotional disturbance by spreading false information about a public health issue and implying government misconduct.
+##########
+{"id": "covid_memes_5624", "image": "covid_memes_5624.png", "labels": ["somewhat harmful", "individual"], "text": "Aliens watching season\n2020 of Earth and\nTrump gets COVID-19\n", "label": 1, "img": "images/covid_memes_5624.png"}
+----------
+harmful - The meme references a person contracting COVID-19, which can be seen as making light of a serious illness and could cause distress or emotional
+##########
+{"id": "covid_memes_617", "image": "covid_memes_617.png", "labels": ["not harmful"], "text": "CORONA IS GONNA KILL US\nALL IF YOU DONT WEAR A MASK\nI DONT HAVE AN NO5\nTHISS THE MOST DANGERGUS\nVIRUS IN THE MISTORYTHE WORLDI\nALL IHAVE IS\nAN OLD TSIRT.\nIS THAT SUFTICIENT?\nYESI THAT LL WORK. PUT IT ON!\n", "label": 0, "img": "images/covid_memes_617.png"}
+----------
+not-harmful - This meme humorously depicts a discussion about mask-wearing, emphasizing improvisation with an old t-shirt, without targeting or harming
+##########
+{"id": "covid_memes_628", "image": "covid_memes_628.png", "labels": ["not harmful"], "text": "tapping someone on their left shoulder but\nbeing on the right:\n", "label": 0, "img": "images/covid_memes_628.png"}
+----------
+not-harmful - The meme describes a harmless prank of tapping someone on the wrong shoulder, which doesn't cause harm or defamation to any individual,
+##########
+{"id": "covid_memes_632", "image": "covid_memes_632.png", "labels": ["not harmful"], "text": "when you're the tech guy\nin the family and you\noverhear someone say\ngrandma got a new phone.\ndarren\nBiamnotdarren\nno one:\nfish in grocery stores:\n", "label": 0, "img": "images/covid_memes_632.png"}
+----------
+not-harmful - The memes depict light-hearted, humorous scenarios that do not target or cause harm to any individual, organization, or community.
+##########
+{"id": "covid_memes_5625", "image": "covid_memes_5625.png", "labels": ["somewhat harmful", "individual"], "text": "Donald Trump, COVID 19\nand the end of MDIS\nICAN'T TAKE ITANY MORE!\n", "label": 1, "img": "images/covid_memes_5625.png"}
+----------
+not-harmful - The meme humorously expresses a feeling of being overwhelmed using a cute kitten image and a mix of non-threatening text, causing no
+##########
+{"id": "covid_memes_633", "image": "covid_memes_633.png", "labels": ["not harmful"], "text": "ONE DOES NOT SIMPLY\nCHOOSE ANY OLD PICTURE AND\nEXPECT ONE'S MEME TO GO VIRAL\nMEMESLY.com\n", "label": 0, "img": "images/covid_memes_633.png"}
+----------
+not-harmful - This meme uses a humorous reference to depict the challenge of creating viral content without targeting or harming any individual, organization, or community
+##########
+{"id": "covid_memes_634", "image": "covid_memes_634.png", "labels": ["not harmful"], "text": "WHEN THE SUBSTITUTE TEACHER\nGOES TO THE BATHROOM FOR TOO LONG\n", "label": 0, "img": "images/covid_memes_634.png"}
+----------
+not-harmful - This meme employs humor without targeting a specific individual or group and does not incite harm or defamation.
+##########
+{"id": "covid_memes_5626", "image": "covid_memes_5626.png", "labels": ["somewhat harmful", "individual"], "text": "TRUMP QUARANTINED WITH\nMELANIA\nBILL CLINTON QUARANTINED\nWITH HILLARYI\nTRUMP WINS AGAIN!\n", "label": 1, "img": "images/covid_memes_5626.png"}
+----------
+harmful - The meme appears to target individuals and political figures, potentially causing defamation, emotional disturbance, and public image damage.
+##########
+{"id": "covid_memes_5627", "image": "covid_memes_5627.png", "labels": ["somewhat harmful", "individual"], "text": "Phil\noprettgoodat\nTrump supporters tonight\nInternet Reacts To Trump's\nComments About Injecting\nDisinfectant To Cure COVID-19\n", "label": 1, "img": "images/covid_memes_5627.png"}
+----------
+harmful - This meme could potentially cause harm by promoting dangerous behavior, encouraging the idea of ingesting disinfectant, which is hazardous to health.
+##########
+{"id": "covid_memes_5628", "image": "covid_memes_5628.png", "labels": ["somewhat harmful", "individual"], "text": "Reddit shifting through among us memes,\npresidential debate memes, spooktober\nmemes, Trump covid-19 memes and cave\nupdate memes all in a week\nParkour!\n", "label": 1, "img": "images/covid_memes_5628.png"}
+----------
+not-harmful - This meme humorously highlights rapid shifts in online trends using a popular quote from a TV show, without targeting or harming any individual
+##########
+{"id": "covid_memes_670", "image": "covid_memes_670.png", "labels": ["not harmful"], "text": "Post & courier working\nhard to deliver their\nnext hot take article\n", "label": 0, "img": "images/covid_memes_670.png"}
+----------
+not-harmful - The meme humorously depicts a slice of pizza being carried by a rat, symbolically critiquing an article. It does
+##########
+{"id": "covid_memes_5630", "image": "covid_memes_5630.png", "labels": ["somewhat harmful", "individual"], "text": "IT'S A\nHOAX!\nIT'S A\nFOREIGN\nVIRUS!\nIT'S\nOBAMA'S\nFAULT!\nIT'S AN\nEMERGENCY!\nMY PRESIDENCY IS OVER\nWannapik.com\n", "label": 1, "img": "images/covid_memes_5630.png"}
+----------
+harmful - The meme could be seen as politically charged and targets specific individuals, potentially causing emotional disturbance and defamation.
+##########
+{"id": "covid_memes_5631", "image": "covid_memes_5631.png", "labels": ["somewhat harmful", "individual"], "text": "LET ME GET THIS\nSTRAIGHT, YOU THINK THE\nPRESIDENT GETTING COVID IS FUNNY?\nI DO. AND I'M TIRED\nOF PRETENDING IT'S NOT.\n", "label": 1, "img": "images/covid_memes_5631.png"}
+----------
+harmful - The meme targets a sensitive issue (COVID-19) and can cause emotional disturbance and public image damage by implying that the illness of a
+##########
+{"id": "covid_memes_677", "image": "covid_memes_677.png", "labels": ["not harmful"], "text": "WHAT YOUR MAN BUN\nLOOKS LIKE TO EVERYONE ELSE\n", "label": 0, "img": "images/covid_memes_677.png"}
+----------
+harmful - This meme mocks a particular hairstyle, potentially causing emotional distress or embarrassment to individuals who choose to wear their hair in a similar way.
+##########
+{"id": "covid_memes_679", "image": "covid_memes_679.png", "labels": ["not harmful"], "text": "wte\nmarana et foe\nBoomers Millennials\nLndy ywd\nGen X\n", "label": 0, "img": "images/covid_memes_679.png"}
+----------
+not-harmful - This meme humorously depicts generational differences without causing harm or offense to any individual, organization, or society.
+##########
+{"id": "covid_memes_5632", "image": "covid_memes_5632.png", "labels": ["somewhat harmful", "individual"], "text": "CAUGHT COVID-19\nSTILL DIDN'T DO HIS JOB\n", "label": 1, "img": "images/covid_memes_5632.png"}
+----------
+harmful - The meme targets an individual, implying negligence or incompetence, which could cause defamation, emotional disturbance, and harm to their public image
+##########
+{"id": "covid_memes_682", "image": "covid_memes_682.png", "labels": ["not harmful"], "text": "Hand-washing technique\nwith soap and water\nWelcome to Atienta\n", "label": 0, "img": "images/covid_memes_682.png"}
+----------
+not-harmful - This meme provides a helpful guide on hand-washing technique, promoting hygiene without causing harm to any individual, organization, community,
+##########
+{"id": "covid_memes_691", "image": "covid_memes_691.png", "labels": ["not harmful"], "text": "CORONAVIRUS (COVID-19) HAS\nGOT ME DOWN\nIM SO BORED AND SAD\n", "label": 0, "img": "images/covid_memes_691.png"}
+----------
+not-harmful - The meme expresses a common feeling of boredom and sadness due to COVID-19 without targeting or harming any specific individual, organization,
+##########
+{"id": "covid_memes_692", "image": "covid_memes_692.png", "labels": ["not harmful"], "text": "Sophia DiCaro 777-7n-0-\nOsophia DiCare\nSince we can't have a birthday party with friends, we\ndecided it would be fun to have a Corona Virus pi\u00f1ata\nto beat up for the occasion. #COVID19 #CoronaTime\n#CaronaBirthday\n", "label": 0, "img": "images/covid_memes_692.png"}
+----------
+not-harmful - The meme humorously addresses the impact of the pandemic on social activities without targeting or harming any individuals or groups.
+##########
+{"id": "covid_memes_5634", "image": "covid_memes_5634.png", "labels": ["somewhat harmful", "individual"], "text": "NOW THAT I HAVE TESTED\nPOSITIVE FOR COVID-19\nIT'S TIME TO TAKE\nTHIS VIRUS SERIOUSLY\n", "label": 1, "img": "images/covid_memes_5634.png"}
+----------
+harmful - This meme could cause emotional disturbance and defamation by implying a person’s change in stance towards COVID-19 after testing positive, potentially damaging
+##########
+{"id": "covid_memes_698", "image": "covid_memes_698.png", "labels": ["not harmful"], "text": "The problem of bein\nfaster than light ia\nyou can only live in\ndarkness\n", "label": 0, "img": "images/covid_memes_698.png"}
+----------
+not-harmful - This meme seems to make a humorous or philosophical comment about the concept of speed and light, without targeting any individual or group,
+##########
+{"id": "covid_memes_5635", "image": "covid_memes_5635.png", "labels": ["somewhat harmful", "individual"], "text": "The President Tests Negative for COVID-19\nNegative?\nOh my God!\nWhy? Why?\nWhyyyy?\nWhat?\nNegative\nis Good?\nOh yes\nof course,\nhow stupid\nof me!\nSenle\n", "label": 1, "img": "images/covid_memes_5635.png"}
+----------
+harmful - This meme ridicules an individual's intelligence and reaction to a serious health issue, potentially causing emotional disturbance and defamation.
+##########
+{"id": "covid_memes_5637", "image": "covid_memes_5637.png", "labels": ["somewhat harmful", "individual"], "text": "PRESIDENT-TRUMP:\nDIVIDES NATION COR THREE VEARS\nALSO PRESIDENTTRUMP\nFRUSTRATED NATION WONT\nUNITE BENIND HIM IN'\u00c4CRISIS\n", "label": 1, "img": "images/covid_memes_5637.png"}
+----------
+harmful - The meme suggests that President Trump is responsible for dividing the nation, potentially causing defamation and emotional disturbance to his supporters and the general public
+##########
+{"id": "covid_memes_5639", "image": "covid_memes_5639.png", "labels": ["somewhat harmful", "individual"], "text": "Trump: doesn't wear mask\nCOVID-19:\n", "label": 1, "img": "images/covid_memes_5639.png"}
+----------
+harmful - The meme targets an individual, potentially leading to defamation or emotional disturbance, especially regarding behavior during a sensitive public health issue like COVID-
+##########
+{"id": "covid_memes_5640", "image": "covid_memes_5640.png", "labels": ["somewhat harmful", "individual"], "text": "BASICALLY DENYING COVID-19\nNOW HIDING INTO\nQUARANTINE AGAIN\nngcon\n", "label": 1, "img": "images/covid_memes_5640.png"}
+----------
+harmful - The meme could defame and emotionally disturb the portrayed individual by implying hypocrisy in their actions related to COVID-19.
+##########
+{"id": "covid_memes_5642", "image": "covid_memes_5642.png", "labels": ["somewhat harmful", "individual"], "text": "Deziree\nedenra\nTrump: \"says the virus is fake\nCovid.\nand I took that personally\n843 AM - Oct 2 2000\n433K\n$ See the latest cOVD 19 informasion on Teikel\n", "label": 1, "img": "images/covid_memes_5642.png"}
+----------
+not-harmful - The meme humorously references a public figure's statement and a virus, without causing harm, mental abuse, defamation, or
+##########
+{"id": "covid_memes_5643", "image": "covid_memes_5643.png", "labels": ["somewhat harmful", "individual"], "text": "If Covid-19 is a\nhoax as Trump says.\nthen what is\nMike Pence in charge of?\n", "label": 1, "img": "images/covid_memes_5643.png"}
+----------
+harmful - This meme has potential defamation by making a disputable statement about COVID-19 and associating it with specific individuals, which can cause
+##########
+{"id": "covid_memes_5644", "image": "covid_memes_5644.png", "labels": ["somewhat harmful", "individual"], "text": "Going\ngolfing &\nignoring\npandemic\nroA NOtmoar CANESC cor\n", "label": 1, "img": "images/covid_memes_5644.png"}
+----------
+harmful - This meme could potentially harm individuals by accusing them of irresponsibility regarding a serious public health issue, leading to defamation and emotional disturbance.
+##########
+{"id": "covid_memes_706", "image": "covid_memes_706.png", "labels": ["not harmful"], "text": "(So how's 20207)\nOh There was a virus outbreak\nAnd Kobe Bryant died\nBut the memes are great\nAnd Australia was on fire\n", "label": 0, "img": "images/covid_memes_706.png"}
+----------
+harmful - It mentions sensitive real-world events, potentially causing emotional disturbance and distress to individuals affected by these events, thus meeting the criteria for a harmful
+##########
+{"id": "covid_memes_711", "image": "covid_memes_711.png", "labels": ["not harmful"], "text": "as soon as quarantine is over:\nMe\nMy Nail Technician\n", "label": 0, "img": "images/covid_memes_711.png"}
+----------
+not-harmful - This meme humorously depicts eagerness to see a nail technician post-quarantine and does not cause harm to an individual,
+##########
+{"id": "covid_memes_734", "image": "covid_memes_734.png", "labels": ["not harmful"], "text": "RUSSIA REGISTERS 1ST\nCORONAVIRUS VACCINE IN THE WORLD\nUS. HOSES DOWN RUSSIAN VACCINE AND SAYS\nTWILL HAVE MILLIONS OF DOSES READY YEAR'S END\nacom\n", "label": 0, "img": "images/covid_memes_734.png"}
+----------
+harmful - The meme can be seen as defaming or creating negative perceptions about organizations and countries, potentially leading to psychological and emotional disturbances based on geopolitical
+##########
+{"id": "covid_memes_765", "image": "covid_memes_765.png", "labels": ["not harmful"], "text": "TBD?!??\nThe pertuct meme-making e\nMemers\nSilicon Valley tech\ncompanies\nLegacy image\nediting tools\n", "label": 0, "img": "images/covid_memes_765.png"}
+----------
+not-harmful - The meme humorously depicts a race among different entities without causing harm to any individual, organization, or community. It's a light
+##########
+{"id": "covid_memes_766", "image": "covid_memes_766.png", "labels": ["not harmful"], "text": "*\nTiffany *\n3Gtertt\nDistrict 1 babyt Lers Gof\nHunger Games Districts Map has been releasedt What\ndistrict is everyane in??\nDistrict 12 herett\n", "label": 0, "img": "images/covid_memes_766.png"}
+----------
+not-harmful - The meme humorously relates a fictional "Hunger Games" concept to a U.S. map without targeting individuals, organizations,
+##########
+{"id": "covid_memes_767", "image": "covid_memes_767.png", "labels": ["not harmful"], "text": "Not today Coronavirus\n", "label": 0, "img": "images/covid_memes_767.png"}
+----------
+harmful - The meme contains an image of a firearm, which could incite violence, fear, or distress, potentially causing emotional disturbance or promoting harmful
+##########
+{"id": "covid_memes_5646", "image": "covid_memes_5646.png", "labels": ["somewhat harmful", "individual"], "text": "There's only ONE reason the USA\nhas been devastated by COVID-19,\nAND YOU'RE\nLOOKING AT IT.\n", "label": 1, "img": "images/covid_memes_5646.png"}
+----------
+harmful - The meme places direct blame on an individual for the impact of COVID-19 in the USA, which can lead to defamation and emotional
+##########
+{"id": "covid_memes_768", "image": "covid_memes_768.png", "labels": ["not harmful"], "text": "ANOTHER COVID DEATH\nACME\n", "label": 0, "img": "images/covid_memes_768.png"}
+----------
+harmful - This meme makes light of COVID-19 deaths, which can be distressing and offensive to those affected by the pandemic, causing emotional disturbance
+##########
+{"id": "covid_memes_769", "image": "covid_memes_769.png", "labels": ["not harmful"], "text": "2020 every second\nBUT WAIT,\nTHERE'S MORE\n", "label": 0, "img": "images/covid_memes_769.png"}
+----------
+not-harmful - This meme does not target or harm any individual, organization, community, or society. It humorously references the eventful nature
+##########
+{"id": "covid_memes_773", "image": "covid_memes_773.png", "labels": ["not harmful"], "text": "WHAT IF I TOLD YOU\nCOMBINED VACCINES HAVE NOT BEEN TESTED. NOR ARE VACCINES\nTESTED FOR CARCINOGENICITY, TOKICITY, OR GENOTOXICITY; NOT\nFOR MUTAGENICITY, OR FOR LONG TERM ADVERSE REACTIONS.\n", "label": 0, "img": "images/covid_memes_773.png"}
+----------
+harmful - The meme spreads misinformation about vaccine safety, which can cause public fear and health risks, thus potentially leading to harm to societal health and well
+##########
+{"id": "covid_memes_778", "image": "covid_memes_778.png", "labels": ["not harmful"], "text": "ari\nariannato\ncrap this virus is turning all the people into pigeons\n#coronavirus\nBefore\nAfter\nO259K 7:00 PM - Mar 0, 2020\nO B3.9K people are talking about this\nboredpanda.com\n", "label": 0, "img": "images/covid_memes_778.png"}
+----------
+not-harmful – The meme humorously compares people staying home during the pandemic to pigeons taking over the streets, causing no harm to individuals or
+##########
+{"id": "covid_memes_802", "image": "covid_memes_802.png", "labels": ["not harmful"], "text": "YOU ARE NOT MAKING US\nLIVE IN FEAR\nBUT YOU ARE STARTING TO\nREALLY PISS US OFF\n", "label": 0, "img": "images/covid_memes_802.png"}
+----------
+harmful - The meme uses threatening language and imagery that can incite fear, anger, or violence, and has the potential to cause emotional disturbance or
+##########
+{"id": "covid_memes_830", "image": "covid_memes_830.png", "labels": ["not harmful"], "text": "IF THE CORONA VIRUS\nWAS A PERSON\n", "label": 0, "img": "images/covid_memes_830.png"}
+----------
+harmful - This meme can cause emotional disturbance and defamation to the person involved, as well as spreading misinformation and making light of a serious health crisis
+##########
+{"id": "covid_memes_5647", "image": "covid_memes_5647.png", "labels": ["somewhat harmful", "individual"], "text": "Trump: \"Covid-19 is a hoax\"\nCovid-19:\nayFerm of\nhoplete alter\nany l'erm\nw it is the\n. y\nd yan\nC uch p\non in Will you shut up man. w\nmant\n", "label": 1, "img": "images/covid_memes_5647.png"}
+----------
+harmful - This meme trivializes a serious public health issue (Covid-19) and can cause emotional disturbance or misinformation which might harm individuals or society
+##########
+{"id": "covid_memes_850", "image": "covid_memes_850.png", "labels": ["not harmful"], "text": "US CITIZENS: THEY WON'T LET US DO ANYTHING OR GO\nANYWHERE!\nU.S MILITARY:\nFirst time?\n", "label": 0, "img": "images/covid_memes_850.png"}
+----------
+harmful - The meme makes light of a serious topic (execution by hanging), potentially causing emotional disturbance or distress to individuals who have traumatic associations with such
+##########
+{"id": "covid_memes_5649", "image": "covid_memes_5649.png", "labels": ["somewhat harmful", "individual"], "text": "30\neuropeans waking up\nTrump.has Covid 19.\n", "label": 1, "img": "images/covid_memes_5649.png"}
+----------
+harmful - The meme could potentially cause emotional disturbance and harm to specific communities by making light of a serious health condition and associating it with a specific
+##########
+{"id": "covid_memes_858", "image": "covid_memes_858.png", "labels": ["not harmful"], "text": "Me getting escorted back after sneaking\nout for a Reese's Egg and bag of Doritos.\nHEHES\n", "label": 0, "img": "images/covid_memes_858.png"}
+----------
+not-harmful - The meme uses humor with a lighthearted, fictional scenario involving a pig and snacks, without targeting or causing harm to any individual
+##########
+{"id": "covid_memes_5650", "image": "covid_memes_5650.png", "labels": ["somewhat harmful", "individual"], "text": "COVID-19\nTRUMPS RESPONSE\nmakeamame.ony\n", "label": 1, "img": "images/covid_memes_5650.png"}
+----------
+harmful - The meme could cause emotional disturbance and harm; it depicts distressing imagery related to COVID-19 and implicates specific individuals in a negative
+##########
+{"id": "covid_memes_887", "image": "covid_memes_887.png", "labels": ["not harmful"], "text": "CORONAVIRUS\n", "label": 0, "img": "images/covid_memes_887.png"}
+----------
+not-harmful - There is no text embedded in the image that portrays any harmful or offensive content.
+##########
+{"id": "covid_memes_906", "image": "covid_memes_906.png", "labels": ["not harmful"], "text": "QUENTIN\nTARANTINO\nTENTIN\nQUARANTINO\n", "label": 0, "img": "images/covid_memes_906.png"}
+----------
+not-harmful - This meme uses a play on words to create humorous content without targeting or harming any individual, organization, community, or society.
+##########
+{"id": "covid_memes_5651", "image": "covid_memes_5651.png", "labels": ["somewhat harmful", "individual"], "text": "UNDER OBAMA HIN1 KILLED 12,469\nAMERICANS AND NOBODY BATS AN EYE\nUNDER TRUMP COVID-19 HAS KILLED 36\nAMERICANS AND EVERYONE LOSES THEIR MINDS\n", "label": 1, "img": "images/covid_memes_5651.png"}
+----------
+harmful - The meme compares deaths under different political leaderships, promoting divisive political rhetoric and potentially causing emotional disturbance and defamation.
+##########
+{"id": "covid_memes_5653", "image": "covid_memes_5653.png", "labels": ["somewhat harmful", "individual"], "text": "Coronavirus: US President\nDonald Trump suggests\n'injecting disinfectant' to\ntreat COVID-19, 'clean the\nlungs'\nScientific community:\nMy goodness what an idea.\nWhy didni rthink of that?\n", "label": 1, "img": "images/covid_memes_5653.png"}
+----------
+not-harmful - The meme humorously critiques a public statement without causing direct harm or targeting an individual, organization, or community with abuse or def
+##########
+{"id": "covid_memes_5655", "image": "covid_memes_5655.png", "labels": ["somewhat harmful", "individual"], "text": "AND IN A\nBIZARRE TWIST TONIGHT,\nFO\nNEW\nEWS\nCOVID 19 SAVES\nAMERICA BY TAKING TRUMP\n", "label": 1, "img": "images/covid_memes_5655.png"}
+----------
+harmful - The meme suggests harm to a political figure, which could cause emotional disturbance and defamation, fitting the definition of a harmful meme.
+##########
+{"id": "covid_memes_959", "image": "covid_memes_959.png", "labels": ["not harmful"], "text": "4.720 68.324\nTop 25\nCoronavirus\nMemes\n", "label": 0, "img": "images/covid_memes_959.png"}
+----------
+not-harmful - The meme is sharing information about popular memes related to the coronavirus without conveying harmful or offensive content. It does not target individuals,
+##########
+{"id": "covid_memes_5656", "image": "covid_memes_5656.png", "labels": ["somewhat harmful", "individual"], "text": "\"SORRY, I CANT COME IN\nTO DEBATE; I HAVE COVID-19\"\nmgicom\n", "label": 1, "img": "images/covid_memes_5656.png"}
+----------
+harmful - The meme has the potential to cause emotional disturbance and mental abuse by making light of a serious health condition, which can be seen as insensitive
+##########
+{"id": "covid_memes_5658", "image": "covid_memes_5658.png", "labels": ["somewhat harmful", "individual"], "text": "Trump supporters\nThere is no Pray for\"\nTrump.\nvirus\n", "label": 1, "img": "images/covid_memes_5658.png"}
+----------
+harmful - The meme could spread misinformation about a virus, potentially leading to public health risks and emotional disturbance.
+##########
+{"id": "covid_memes_975", "image": "covid_memes_975.png", "labels": ["not harmful"], "text": "INTO THE\nWONDERFUL WORLD\nOF OFF PEAK\n", "label": 0, "img": "images/covid_memes_975.png"}
+----------
+not-harmful - This meme shows people on a bus, with one person wearing a mask. It does not contain any content that appears to cause
+##########
+{"id": "covid_memes_982", "image": "covid_memes_982.png", "labels": ["not harmful"], "text": "PUB\nLOSED\nUNTIL\nFRTHEK\nNoriCE\n", "label": 0, "img": "images/covid_memes_982.png"}
+----------
+not-harmful - This meme appears to convey information about a pub being closed, which does not seem to cause harm to individuals, organizations, or
+##########
+{"id": "covid_memes_986", "image": "covid_memes_986.png", "labels": ["not harmful"], "text": "Dave\nTomonow at 9.40pm we are showing the classi ERedDwart episode\nQuarantne\nAs we ane in quarantine too, Doug Naylor, the cant and some surprise\nsuests are going to de a bve commentary via our Twtterl Tune in tomomow\nright to watcht www twiter comDaveChannel\nRED DWARF\nQUARANTINE\nLIVE TWITTER\nCOMMENTARY\nWITH DOUG NAVLOR,\nCAST AND SURPRISE GUESTS\nTUESDAY 7TH APRIL\n9.40PM DAVE\n401 cemments a7ares\n", "label": 0, "img": "images/covid_memes_986.png"}
+----------
+not-harmful - The meme announces an entertainment event related to a TV show, aiming to engage the audience and provide leisure, without causing harm to
+##########
+{"id": "covid_memes_997", "image": "covid_memes_997.png", "labels": ["not harmful"], "text": "Isabel Steckel\n@lsabelSteckel\neveryone: quarantining is a great time\nto do that thing you've always\nwanted to get done: write the script,\norganize the closet, learn a new\nrecipe\nme \"fifth day on the couch\": i wonder\nwhat cat food tastes like\n", "label": 0, "img": "images/covid_memes_997.png"}
+----------
+not-harmful - This meme humorously reflects on laziness during quarantine without targeting or causing harm to any individual, organization, community, or society
+##########
+{"id": "covid_memes_1021", "image": "covid_memes_1021.png", "labels": ["not harmful"], "text": "wonK FROM HOME\nHow some moms homeschool\nDy One. Tha gong obe pe can\nbond why idd wov\nIf the schools are\nclosed for too long,\nthe parents are gonna\nfind a vaccine before\nthe scientists.\nHowThomeachoo\nPARENTING DURING THE\nCORONAVIRUS SIHUTSOMN\nDAY\nMuna thinking of how they're\ngolng a keep their childrea\neupied\nDAY 3\nOnine Mo\nDay 3 ot noneschooling and the\nstudenta have just beon sunperded\nnd he tcher let ga tor dinking on\nhejob\n", "label": 0, "img": "images/covid_memes_1021.png"}
+----------
+not-harmful - The meme humorously compares different homeschooling scenarios without targeting or harming any individual, organization, community, or society.
+##########
+{"id": "covid_memes_1025", "image": "covid_memes_1025.png", "labels": ["not harmful"], "text": "Squircde: Most Fabulous Turtle asquirde MFT 17\nWhen your birthday fals on the coronavirus.\n", "label": 0, "img": "images/covid_memes_1025.png"}
+----------
+not-harmful - This meme humorously comments on a birthday during the coronavirus pandemic without targeting or harming any individual, organization, or community.
+##########
+{"id": "covid_memes_1027", "image": "covid_memes_1027.png", "labels": ["not harmful"], "text": "AMERICA'S\nFUNNIEST\n\u041c\u0415MES\nCoronavirus Edition\nCompiled by Ed Mickolus\n", "label": 0, "img": "images/covid_memes_1027.png"}
+----------
+not-harmful - The meme appears to be a humorous take on the coronavirus situation, featuring a cartoon toilet paper roll without targeting or harming any specific
+##########
+{"id": "covid_memes_1033", "image": "covid_memes_1033.png", "labels": ["not harmful"], "text": "He te un for n Mond ot\n20211\nfest Monday ef 201 ihealy els ike thi\n365\nNEW DAYS,\n365\nNEW CHANCES\n", "label": 0, "img": "images/covid_memes_1033.png"}
+----------
+not-harmful - This meme seems to convey an encouraging and motivational message about new opportunities, and it does not appear to cause harm or offense to
+##########
+{"id": "covid_memes_1038", "image": "covid_memes_1038.png", "labels": ["not harmful"], "text": "linoyed\nYOUR FRIENDS\nMY FRIENDS\nJan O Hara\nYour friends kids\nboredjanvtscom\n", "label": 0, "img": "images/covid_memes_1038.png"}
+----------
+harmful - This meme insults individuals by comparing them unfavorably to animals, which can be considered degrading and defamatory, potentially causing emotional disturbance.
+##########
+{"id": "covid_memes_1044", "image": "covid_memes_1044.png", "labels": ["not harmful"], "text": "\"Experts recommend sticking to your daily\nahat\nPoutine even while working from home\nNew Yorkers\nbetochenge tre\ndaintaningan\nO Ov\nland by raa tant tes\n", "label": 0, "img": "images/covid_memes_1044.png"}
+----------
+not-harmful - This meme humorously depicts a person staying in their daily routine while working from home, without targeting or harming any specific individual,
+##########
+{"id": "covid_memes_5659", "image": "covid_memes_5659.png", "labels": ["somewhat harmful", "individual"], "text": "TRUMP: GO BACK TO WORK\nTRUMP\nAMERICA: OK BOOMER\n", "label": 1, "img": "images/covid_memes_5659.png"}
+----------
+harmful - This meme mocks a generation by using the term "OK boomer" and can cause emotional disturbance to individuals.
+##########
+{"id": "covid_memes_1045", "image": "covid_memes_1045.png", "labels": ["not harmful"], "text": "January February\nMarch\nApril\nMay\nJune\nJu\nAugust Septembo\n", "label": 0, "img": "images/covid_memes_1045.png"}
+----------
+not-harmful - The meme humorously depicts the progression of a person's hairstyle over the months, without causing any harm or targeting any individual, organization
+##########
+{"id": "covid_memes_5661", "image": "covid_memes_5661.png", "labels": ["somewhat harmful", "individual"], "text": "A TRIUMPHANT TRUE STORY\nSLUMDOG MILLIONAIRE\nDOD TRUM\n35040\nHOURS\n519.065 viws\n", "label": 1, "img": "images/covid_memes_5661.png"}
+----------
+not-harmful - This meme appears to parody a movie poster, which does not seem to cause harm or defamation to any individual, organization,
+##########
+{"id": "covid_memes_1054", "image": "covid_memes_1054.png", "labels": ["not harmful"], "text": "Sarcasm esarcasm only Apr 2\nQuarantined couples right now\n022 17K view\nfrom Rabbi Yoani Lazaroff Aggieltabbi\n", "label": 0, "img": "images/covid_memes_1054.png"}
+----------
+not-harmful - The meme humorously depicts pets and does not cause harm to individuals, organizations, communities, or society.
+##########
+{"id": "covid_memes_5662", "image": "covid_memes_5662.png", "labels": ["somewhat harmful", "individual"], "text": "TRUMP\nBLEACH\n", "label": 1, "img": "images/covid_memes_5662.png"}
+----------
+harmful - The meme references a controversial figure and the use of bleach, potentially causing mental abuse, emotional disturbance, and defamation.
+##########
+{"id": "covid_memes_5663", "image": "covid_memes_5663.png", "labels": ["somewhat harmful", "individual"], "text": "Simon Hendriksen\nFolow\na:23 AM-24 May 2017\n* t 35,59n 61.720\n", "label": 1, "img": "images/covid_memes_5663.png"}
+----------
+not-harmful - The meme appears to be a light-hearted compilation of images and does not promote harm or negativity towards any individual, organization, or
+##########
+{"id": "covid_memes_5664", "image": "covid_memes_5664.png", "labels": ["somewhat harmful", "individual"], "text": "LIES, LIES AND MORE LIES.\nAay aa \"wnay drond c pen\nFrbreare ptmed n\nFibrary 4 haCneariu wymaderconsol ia te\nTSA. Sk narht mrt ve\nldpi \"\nFibray gog s-dappearo dar, ank\nMerch Tet Itret e ried e\nmdennent de don s md\ne Mtehe y Mete\nedee tat iutol reepe \"W0\nMarh Tte sem betg shem teran\"en\nMarh y dteo le\nt ol di od rd, mgrima, nd\nTHIS CRUCIAL DELAV\nIHATTACKING THE VIRUS\nSET US SO FAR BEHIND,\nWRECKED THE ECONOMY\nAND PUT PEOPLE'S LIVES IN JEOPARDY.\nIT IS ENTIRELY TRUMPS FAULT,\nAS HE TRIED TO PLAY POLITICAL GAMES\nWITH DEATH.\n", "label": 1, "img": "images/covid_memes_5664.png"}
+----------
+harmful - The meme could cause defamation and emotional disturbance by attributing specific harmful actions and statements to an individual, potentially damaging their public image and
+##########
+{"id": "covid_memes_5666", "image": "covid_memes_5666.png", "labels": ["somewhat harmful", "individual"], "text": "Tony Posnanski o\nompeenans\nFollo\nWHo CaN FIGURE OuT tHe TrUE MeaNING OF\n\"cOviefe\" 777 eNJoy!\n1009 PM -31 My 2017\n+ t3 144 543\n", "label": 1, "img": "images/covid_memes_5666.png"}
+----------
+not-harmful - The meme appears to reference a humorous and widely known internet event without causing harm or targeting any individual, organization, or community.
+##########
+{"id": "covid_memes_1067", "image": "covid_memes_1067.png", "labels": ["not harmful"], "text": "COVID-19\nISTAYHOME\nNOBODY IS IMMUNE\nFROM CORONAVIRUS\n", "label": 0, "img": "images/covid_memes_1067.png"}
+----------
+not-harmful - The meme promotes awareness about COVID-19 prevention and encourages staying home, which is advice aligned with public health recommendations and does not
+##########
+{"id": "covid_memes_1076", "image": "covid_memes_1076.png", "labels": ["not harmful"], "text": "Sarcastic Sanket\nesank Bat\nTypes Of RDiwali Bonus.\nGov Company\nPivate Company\n", "label": 0, "img": "images/covid_memes_1076.png"}
+----------
+harmful - The meme implies a negative stereotype about government and private companies, which can lead to defamation and emotional disturbance for individuals associated with these sectors
+##########
+{"id": "covid_memes_1077", "image": "covid_memes_1077.png", "labels": ["not harmful"], "text": "Kaitlyn McQuin\nBHAITLYNHCUUM\nYou know who's really gonna suffer\nduring this social distancing?\nDudes on dating apps\nWelcome back to courtship, Brad.\nWelcome back to talking to a gal for\nWEEKS prior to meeting.\nWe're pen pals now, my dude.\nWe bout to get Jane Austen up in here.\nNow, write me a poem.\n", "label": 0, "img": "images/covid_memes_1077.png"}
+----------
+not-harmful - The meme humorously comments on how dating will change due to social distancing without targeting or causing harm to any individual or group.
+##########
+{"id": "covid_memes_1111", "image": "covid_memes_1111.png", "labels": ["not harmful"], "text": "THEFUNNYBEAVER.COM\nPoker Night\nwihen Style\n", "label": 0, "img": "images/covid_memes_1111.png"}
+----------
+harmful - The meme references "Wuhan Style" in a context implying risk or carelessness, which can perpetuate harmful stereotypes and stigmatize
+##########
+{"id": "covid_memes_5667", "image": "covid_memes_5667.png", "labels": ["somewhat harmful", "individual"], "text": "Obama: Did you replace all the toiletries with\ntravel size bottles?\nBiden: He's got tiny hands Barack, I want him\nto feel welcome here\nPn 20\n", "label": 1, "img": "images/covid_memes_5667.png"}
+----------
+not-harmful - The meme contains a humorous exchange between public figures and does not exhibit elements that could cause harm or distress to individuals, organizations,
+##########
+{"id": "covid_memes_1117", "image": "covid_memes_1117.png", "labels": ["not harmful"], "text": "asteroid\nPAI\nMobile\nCyclor\nHuman\nona\nAnx\n202-9 955 GABRIEL 4\nCHASE 101 am YASIR 4-92\nMINIMUM OVERS LEFT 11\n", "label": 0, "img": "images/covid_memes_1117.png"}
+----------
+not-harmful - The meme humorously labels cricket players as natural phenomena and emotions, lacking any content that could be considered harmful or offensive.
+##########
+{"id": "covid_memes_5671", "image": "covid_memes_5671.png", "labels": ["somewhat harmful", "individual"], "text": "PRESIDENT IDIOT ENSURES\nMORE DEATHS\nPR. SPIN\nWON'T GET YOU OUT OF THIS ONE\nTrump on Covid-19: \"Covfefe\"\n", "label": 1, "img": "images/covid_memes_5671.png"}
+----------
+harmful - The meme insults and defames a specific individual while addressing a critical issue like COVID-19, potentially causing emotional disturbance and defamation.
+##########
+{"id": "covid_memes_1133", "image": "covid_memes_1133.png", "labels": ["not harmful"], "text": "WEVE BROKEN A NEW DAILY BECORD FOR COMD CASES\nTeddy Roosevelt when he was shot while\ngving a speech:\nOH NO!\nOH NO!\nON TO PHASE\nANYWAY 4 REOPENING\nANYWAY\n", "label": 0, "img": "images/covid_memes_1133.png"}
+----------
+not-harmful - The meme compares reactions to breaking a COVID-19 record and a historical event, without targeting or harming an individual, organization,
+##########
+{"id": "covid_memes_5673", "image": "covid_memes_5673.png", "labels": ["somewhat harmful", "individual"], "text": "NETIZENS REACT\n", "label": 1, "img": "images/covid_memes_5673.png"}
+----------
+not-harmful - This meme appears to be a reaction or commentary on a tweet and does not seem to involve threats, defamation, or harm
+##########
+{"id": "covid_memes_1157", "image": "covid_memes_1157.png", "labels": ["not harmful"], "text": "Semenpn homiented tyerendrainde\n", "label": 0, "img": "images/covid_memes_1157.png"}
+----------
+not-harmful - The meme features a dog wearing a mask, which does not cause harm to any individual, organization, community, or society.
+##########
+{"id": "covid_memes_1173", "image": "covid_memes_1173.png", "labels": ["not harmful"], "text": "Kartik Patadia\neKaitiaPatadiat\nMe waiting for Diwali Bonus\n", "label": 0, "img": "images/covid_memes_1173.png"}
+----------
+not-harmful - This meme humorously depicts anticipation for a Diwali bonus and does not cause harm to any individual, organization, community, or
+##########
+{"id": "covid_memes_1176", "image": "covid_memes_1176.png", "labels": ["not harmful"], "text": "Me in 2021 when people think it's o.k.\nto get all touchy feely again.\nMe still\nprocecsing\nlast March\nMarch again\n\"Could younot?\"\nin 3 months\n", "label": 0, "img": "images/covid_memes_1176.png"}
+----------
+not-harmful - This meme humorously depicts a common sentiment about social boundaries using a cat and fictional character, with no intent or potential to cause
+##########
+{"id": "covid_memes_1182", "image": "covid_memes_1182.png", "labels": ["not harmful"], "text": "January February\nM.rch\nApril\nMay\nJu\n", "label": 0, "img": "images/covid_memes_1182.png"}
+----------
+not-harmful - The meme humorously depicts changing hairstyles over months without causing harm, defamation, or emotional disturbance to any individual, organization,
+##########
+{"id": "covid_memes_1189", "image": "covid_memes_1189.png", "labels": ["not harmful"], "text": "Me thinting about how tan send nent 14 day.\n", "label": 0, "img": "images/covid_memes_1189.png"}
+----------
+not-harmful - The meme appears to be light-hearted and relatable, discussing a common situation without targeting or harming any individual, organization, or community
+##########
+{"id": "covid_memes_1204", "image": "covid_memes_1204.png", "labels": ["not harmful"], "text": "CDC: \"Don't touch your face due to the\ncoronavirus!\"\nMy spring allergies:\nHey.\n", "label": 0, "img": "images/covid_memes_1204.png"}
+----------
+not-harmful - The meme humorously contrasts a CDC warning with spring allergies, not causing harm or targeting any individual, organization, or community.
+##########
+{"id": "covid_memes_1220", "image": "covid_memes_1220.png", "labels": ["not harmful"], "text": "ktn ws\n1.\nKENYANS' HUMOR\nPRESIDENT TO GIVE WAY FORWARD TODAY\n102.05 PM BRIE ronavirus raising number of confirmed COVIDIO intectis\nC VID-19\n", "label": 0, "img": "images/covid_memes_1220.png"}
+----------
+not-harmful - The meme does not contain any text or imagery that appears to cause harm or defamation towards any individual, organization, or society
+##########
+{"id": "covid_memes_1225", "image": "covid_memes_1225.png", "labels": ["not harmful"], "text": "2020 Meme Calendar\nJanuary\nFebruary\nMarch\nPlague\nApril\nMay\nJune\nJuly\nAugust\nSeptember\nOctober\nNovember\nDecamber\n", "label": 0, "img": "images/covid_memes_1225.png"}
+----------
+harmful - The meme references significant negative events (e.g., "plague") in a potentially sensitive manner, which could cause emotional disturbance or stress
+##########
+{"id": "covid_memes_1229", "image": "covid_memes_1229.png", "labels": ["not harmful"], "text": "Summer 2020\n", "label": 0, "img": "images/covid_memes_1229.png"}
+----------
+not-harmful - This meme humorously depicts people sunbathing in unusual places, likely due to lockdowns in 2020, and does
+##########
+{"id": "covid_memes_1230", "image": "covid_memes_1230.png", "labels": ["not harmful"], "text": "Apocolypse we expected:\nWhat we got:\n", "label": 0, "img": "images/covid_memes_1230.png"}
+----------
+not-harmful - The meme humorously contrasts expectations and reality without causing harm to any individual, organization, community, or society. It's meant for
+##########
+{"id": "covid_memes_1234", "image": "covid_memes_1234.png", "labels": ["not harmful"], "text": "Bats: become the most hated\nanimal\nRats:\n", "label": 0, "img": "images/covid_memes_1234.png"}
+----------
+not-harmful - The meme humorously depicts animals in costumes without targeting any individual, organization, or community, thus posing no potential harm.
+##########
+{"id": "covid_memes_1248", "image": "covid_memes_1248.png", "labels": ["not harmful"], "text": "Lindsay Bindsay Luck Apr 13\naQuarantineATVShow Butty the Virus Slayer\nIf the apocalypse comes, beep me.\nO 16\n", "label": 0, "img": "images/covid_memes_1248.png"}
+----------
+not-harmful - The meme humorously references a fictional character in the context of a TV show, without causing harm to individuals, organizations, or
+##########
+{"id": "covid_memes_1260", "image": "covid_memes_1260.png", "labels": ["not harmful"], "text": "Looking at the map for some weekend\ntravel ideas\nHALCONY\nBATH\nCHEN\n", "label": 0, "img": "images/covid_memes_1260.png"}
+----------
+not-harmful - The meme humorously uses a floor plan to suggest weekend travel ideas, without causing any harm or offense to any individual, organization
+##########
+{"id": "covid_memes_1263", "image": "covid_memes_1263.png", "labels": ["not harmful"], "text": "CORONA MEMES\nWork from Home\nFOUNDER OF SELF\nQUARANTINE\nMEME\n", "label": 0, "img": "images/covid_memes_1263.png"}
+----------
+not-harmful - This meme humorously depicts scenarios related to COVID-19 quarantine and working from home without targeting or harming any individual, organization,
+##########
+{"id": "covid_memes_1264", "image": "covid_memes_1264.png", "labels": ["not harmful"], "text": "#throwbackthursday\nBR\nScot\n", "label": 0, "img": "images/covid_memes_1264.png"}
+----------
+not-harmful - This meme appears to show a store aisle stocked with toilet paper, likely referencing past events. It does not seem to cause harm
+##########
+{"id": "covid_memes_1266", "image": "covid_memes_1266.png", "labels": ["not harmful"], "text": "ISTILL HAVENT DECIDED\nWHERE TO GO FOR EASTER\nSTILL BEBATING OVER WHETHER TO\nGO TO THE BEDROOM OR THE LIVING NOON\nrn rett\nWhere is your next travel\ndestination?\n- Los bed\n- Costa Del Balconia\n-Las Kitchenas\n- Los Lounges\n- Santa Bedroomes - St bathroom\n- Porto Gardenas - La Rotonda De Sofa\n", "label": 0, "img": "images/covid_memes_1266.png"}
+----------
+not-harmful - The meme humorously addresses the constraints of staying at home due to certain restrictions, without targeting any individual, organization, community,
+##########
+{"id": "covid_memes_1275", "image": "covid_memes_1275.png", "labels": ["not harmful"], "text": "ilovematzah\n@ilovematzah\nOnce I self quarantine to avoid the\ncoronavirus, run out of food, and lose\n15 pounds, it's over for you bitches\n", "label": 0, "img": "images/covid_memes_1275.png"}
+----------
+harmful - The meme uses derogatory language and can be offensive to some individuals, potentially causing emotional disturbance or mental abuse.
+##########
+{"id": "covid_memes_1305", "image": "covid_memes_1305.png", "labels": ["not harmful"], "text": "No english dictionary has been\nabie to explain the difference\nbetween the two words\nCOMPLETE and FINISHED some\npeople say there is no\ndifference but there is When\nyou'merry the right woman you\nare COMPLETEI when you\nmarry the wrong woman you\nare FINISHEDI And if you marry\na wite who Ikesshopping you\nare COMPLETELY FINISHEDI\nBoomers:\nA Non Covid-19 meme to\ncleanse your eyes\n", "label": 0, "img": "images/covid_memes_1305.png"}
+----------
+harmful - The meme uses stereotypes to mock a particular age demographic, potentially causing emotional disturbance and fostering negative sentiments towards that group.
+##########
+{"id": "covid_memes_1312", "image": "covid_memes_1312.png", "labels": ["not harmful"], "text": "Even the emojis are\nvery particular about the corona virus.\n1heindianEXPRESS\n", "label": 0, "img": "images/covid_memes_1312.png"}
+----------
+not-harmful - The meme humorously depicts emojis wearing masks, addressing COVID-19 awareness without causing harm or offense to individuals, organizations, or
+##########
+{"id": "covid_memes_1318", "image": "covid_memes_1318.png", "labels": ["not harmful"], "text": "SOCIAL\nDISTANCING\nCLUB\n", "label": 0, "img": "images/covid_memes_1318.png"}
+----------
+not-harmful - This meme promotes social distancing in a light-hearted manner and does not pose any harm to an individual, organization, or society.
+##########
+{"id": "covid_memes_1331", "image": "covid_memes_1331.png", "labels": ["not harmful"], "text": "Ginawang pageant screening\nyung thermal scanning, e!\n", "label": 0, "img": "images/covid_memes_1331.png"}
+----------
+not-harmful - The meme humorously compares a thermal screening to a pageant screening without targeting any specific individual, organization, or community, and
+##########
+{"id": "covid_memes_1334", "image": "covid_memes_1334.png", "labels": ["not harmful"], "text": "KINGFISHER\n", "label": 0, "img": "images/covid_memes_1334.png"}
+----------
+not-harmful - The image shows people standing in line outside a Kingfisher shop without any text that could cause harm, so it appears neutral
+##########
+{"id": "covid_memes_1385", "image": "covid_memes_1385.png", "labels": ["not harmful"], "text": "CORONAVIRUS TESTING DRIVE-THRUS OPEN\nHEADLINES\nATHE LATE SHOW FAKE NEWS ALERT\n", "label": 0, "img": "images/covid_memes_1385.png"}
+----------
+not-harmful - This meme provides information about a drive-thru for coronavirus testing, which is neutral and informative, and does not cause harm to
+##########
+{"id": "covid_memes_1411", "image": "covid_memes_1411.png", "labels": ["not harmful"], "text": "\"There's Hardly Anyone In Nigeria Who Didn't\nReceived Federal Government Palliative during\nthe covid-19 lockdown, I went round the 36\nstates myself to distribute it\".\n- Hajia Farouq Sadiya\nMinister of Humanitarian Affairs\n", "label": 0, "img": "images/covid_memes_1411.png"}
+----------
+harmful - The meme potentially defames a public figure by implying corruption or dishonesty regarding the distribution of palliative aid, which can harm their reputation
+##########
+{"id": "covid_memes_1441", "image": "covid_memes_1441.png", "labels": ["not harmful"], "text": "Cute Kamina\nObittu664\nEven the emojis are\nvery particular about the corona virus.\nThe IndianEXPRESS\n", "label": 0, "img": "images/covid_memes_1441.png"}
+----------
+not-harmful - This meme humorously depicts emojis wearing masks to highlight the importance of precaution during the coronavirus pandemic, without causing any harm or offense
+##########
+{"id": "covid_memes_1447", "image": "covid_memes_1447.png", "labels": ["not harmful"], "text": "When you find out your normal\ndaily lifestyle is called \"quarantine\"\n", "label": 0, "img": "images/covid_memes_1447.png"}
+----------
+not-harmful - The meme humorously comments on quarantine lifestyle without targeting or harming any individual, organization, or community.
+##########
+{"id": "covid_memes_1462", "image": "covid_memes_1462.png", "labels": ["not harmful"], "text": "HAVE YOU BEEN\nMIS-SOLD PPE?\n", "label": 0, "img": "images/covid_memes_1462.png"}
+----------
+harmful - The text implies malpractice related to personal protective equipment (PPE), potentially causing distrust in healthcare institutions and emotional distress to medical personnel and the
+##########
+{"id": "covid_memes_1479", "image": "covid_memes_1479.png", "labels": ["not harmful"], "text": "MehGyver\n@AndrewNadeaud\nHi, welcome to Chuck E. Cheese.\nEverything is visibly dirty and our\nmascot is a rat, eat some pizza\nnear a sneezing child.\nCome on down for some rat\npizza at our child casino.\n", "label": 0, "img": "images/covid_memes_1479.png"}
+----------
+harmful - The meme portrays a specific business establishment in a negative light, suggesting unsanitary conditions and defamation, which can harm the establishment's
+##########
+{"id": "covid_memes_1516", "image": "covid_memes_1516.png", "labels": ["not harmful"], "text": "Americans:\nA corona test costs thousands of dallarsl!\nThe rest of the world:\nPeople with\nunwiped butts\nPeople who\nbought all the\nt\u00f6ilet paper.\nWait you suys have to pay\nfor tests?\n", "label": 0, "img": "images/covid_memes_1516.png"}
+----------
+not-harmful - The meme appears to be making a humorous comparison regarding the cost of COVID-19 tests in the U.S. and the global
+##########
+{"id": "covid_memes_1523", "image": "covid_memes_1523.png", "labels": ["not harmful"], "text": "Vraj Sheth\noven het\n2017\nSpiderman:\nHomecoming Anyono know where can I buy a new\nlaptop at this time in North Mumbal\narea (Kandivaly?\n2019\nSpiderman:\n1620- 1a0s20- Titar to Acorid\nFar From Home\n2020\nSpiderman:\nWork from home\nRaj Navalakha Oiatakai e\nGada Eectronics\n", "label": 0, "img": "images/covid_memes_1523.png"}
+----------
+not-harmful - This meme humorously compares Spider-Man movie titles to a tweet about buying a new laptop, without causing harm to any individual,
+##########
+{"id": "covid_memes_1525", "image": "covid_memes_1525.png", "labels": ["not harmful"], "text": "Netflir,\nAmazon\nRamayan\nprime,\nhotstar\n", "label": 0, "img": "images/covid_memes_1525.png"}
+----------
+harmful - The meme juxtaposes religious imagery with a humorous driving situation, which can be seen as disrespectful to certain religious beliefs and potentially cause emotional
+##########
+{"id": "covid_memes_1541", "image": "covid_memes_1541.png", "labels": ["not harmful"], "text": "ick it it's the masks or the fact that yeh rishra kya\nkeslata hai is stii rurning thars making me laugh\n", "label": 0, "img": "images/covid_memes_1541.png"}
+----------
+not-harmful - The meme comments on a long-running TV show with humor and does not cause harm to individuals, organizations, or society.
+##########
+{"id": "covid_memes_1566", "image": "covid_memes_1566.png", "labels": ["not harmful"], "text": "Hello.\nCharmin\nSoft\nIs It Me You're\nLooking For?\n", "label": 0, "img": "images/covid_memes_1566.png"}
+----------
+not-harmful - The meme humorously combines a product with a popular song lyric without targeting or causing harm to any individual, organization, community,
+##########
+{"id": "covid_memes_1573", "image": "covid_memes_1573.png", "labels": ["not harmful"], "text": "Dad Jokes\n@Dadsaysjokes\n5 FUNNIEST CORONAVIRUS\nMEMES TO GET YOU THROUGH\nTHE DAY\nDue to the quarantine..\nI'll only be telling inside jokes.\n", "label": 0, "img": "images/covid_memes_1573.png"}
+----------
+not-harmful - The meme jokes about quarantine with no intent to harm individuals, organizations, or society. It uses humor to lighten the situation without
+##########
+{"id": "covid_memes_1575", "image": "covid_memes_1575.png", "labels": ["not harmful"], "text": "Troy Johnson\n@ troyjohnson\nDay 1 of Quarantine: \"I'm going to\nmeditate and do body-weight\ntraining.\"\nDay 4: *just pours the ice cream\ninto the pasta*\n", "label": 0, "img": "images/covid_memes_1575.png"}
+----------
+not-harmful - This meme humorously depicts quarantine struggles without causing harm to individuals, organizations, or society. It's light-hearted and focuses on relatable
+##########
+{"id": "covid_memes_1583", "image": "covid_memes_1583.png", "labels": ["not harmful"], "text": "Lockdewna\nPeasle who had Diwat and New Yer plans with the\nfriende\n\"LONELY PLANET 2020 EDITION\"\n", "label": 0, "img": "images/covid_memes_1583.png"}
+----------
+not-harmful - The meme humorously references the impact of lockdowns on social plans, which doesn't defame or harm any individual, organization,
+##########
+{"id": "covid_memes_1590", "image": "covid_memes_1590.png", "labels": ["not harmful"], "text": "ME DE THHOND\nUNANJ.\n", "label": 0, "img": "images/covid_memes_1590.png"}
+----------
+not-harmful - The meme humorously compares toilet paper abundance to a throne, causing no harm to individuals or communities.
+##########
+{"id": "covid_memes_1602", "image": "covid_memes_1602.png", "labels": ["not harmful"], "text": "an knows the importance\ning\nconcaronnvirua HemeHe\n\u306e\u306e\nHASHTAG MILAM\nlipping the\n", "label": 0, "img": "images/covid_memes_1602.png"}
+----------
+not-harmful - This meme humorously depicts a scene from a movie with references to current events and social behavior, without targeting or harming any individual
+##########
+{"id": "covid_memes_1618", "image": "covid_memes_1618.png", "labels": ["not harmful"], "text": "Me in Quarantine\nWhen none of your jeons ater being\nqarrtaned so no you he gh\nhigh boots\nBEFORE\nAFTER\nSo, after this quarantine.\nwill the producers of My\n600 Pound Life just find\nme.or do I call them.or\nhow will this work?\nStepped on my scale\nthis morning and it\nsaid: Please use social\ndistancing, one person\nat a time.\nHSE SMLRPANTtS AREALL HAT HIS\nMERIEMW\n", "label": 0, "img": "images/covid_memes_1618.png"}
+----------
+not-harmful - This meme humorously portrays common experiences during quarantine without targeting any individual or group, thus it does not meet the criteria of causing
+##########
+{"id": "covid_memes_1619", "image": "covid_memes_1619.png", "labels": ["not harmful"], "text": "MYTRAVEL PLANS\nThese are the\nCoronavirus\nMemes you\nneed to survive\nthe travel ban\nLITE TRAVEL BLOGGERS RIGHT NOW\nCBOARDINGOUP.cOM\n", "label": 0, "img": "images/covid_memes_1619.png"}
+----------
+not-harmful - The meme humorously addresses travel disruptions due to the coronavirus pandemic without targeting an individual or group, thus not causing harm according to
+##########
+{"id": "covid_memes_1625", "image": "covid_memes_1625.png", "labels": ["not harmful"], "text": "Whenhance sees you thooughy\nwang your hands ater trking in\nthe garoe\nThe ratinpotart PA yaull er\nWASHYDURME\nHANDSFOD 20 SEC\nME\n2020\nThe geent oitint y\nkowhst yocangrow cn\nThe man is onto something\ntole eee\n", "label": 0, "img": "images/covid_memes_1625.png"}
+----------
+not-harmful - The memes displayed are light-hearted and humorous, addressing common topics without targeting or defaming any individual, organization, or community,
+##########
+{"id": "covid_memes_1627", "image": "covid_memes_1627.png", "labels": ["not harmful"], "text": "Whole world is blaming\nchinese for eating anything\nand spreading Corona.\nBear Grylls\n", "label": 0, "img": "images/covid_memes_1627.png"}
+----------
+harmful - The meme promotes a harmful stereotype about a community and makes a false accusation, potentially causing mental abuse and defamation.
+##########
+{"id": "covid_memes_1634", "image": "covid_memes_1634.png", "labels": ["not harmful"], "text": "IVE ALMOST COMPLETED\nMY 90-DAY TRIAL OF 2020.\nHOW DO I CANCEL?\n", "label": 0, "img": "images/covid_memes_1634.png"}
+----------
+not-harmful - This meme humorously refers to the tough events of 2020 using a popular character, without targeting or causing harm to any
+##########
+{"id": "covid_memes_1641", "image": "covid_memes_1641.png", "labels": ["not harmful"], "text": "QUARANTINED\nvelooked ike mis tor aweek now\niga had t\no yeah i can't\nCredit: Twiterevataradveint\n", "label": 0, "img": "images/covid_memes_1641.png"}
+----------
+not-harmful - The meme humorously depicts feelings of quarantine using popular cartoon characters and animals, without targeting or harming individuals, organizations, or communities
+##########
+{"id": "covid_memes_1659", "image": "covid_memes_1659.png", "labels": ["not harmful"], "text": "I NEED TO GET OUT\nOF THIS BED!\nI'M-LATE FOR\nTHE COUCH!\n", "label": 0, "img": "images/covid_memes_1659.png"}
+----------
+not-harmful - The meme displays a humorous image of Kermit the Frog with a light-hearted caption, causing no harm to individuals or groups.
+##########
+{"id": "covid_memes_1678", "image": "covid_memes_1678.png", "labels": ["not harmful"], "text": "Kevin Harden, Jr.\n@KHJ Esq\nCoronavirus got Boomers stocking\ntheir doomsday bunkers. meanwhile\nmillennials are online shopping for\nbathing suits for the five island trip they\njust booked on Spirit for $130.\n8:29 AM - 3/7/20 - Twitter for iPhone\n36.8K Retweets 195K Likes\nby wmymatti\n", "label": 0, "img": "images/covid_memes_1678.png"}
+----------
+not-harmful - This meme seems to humorously compare generational reactions to the coronavirus, without causing direct harm, defamation, or emotional disturbance
+##########
+{"id": "covid_memes_1692", "image": "covid_memes_1692.png", "labels": ["not harmful"], "text": "Nooruddean O\nsleardedimius\nCoronavirus at 10.01\nTha ndyn\nBBC Breaking News eaecareaking\nPuba and restaurants in England must have a 10pm clesing time from\nThursday in battie against coronavirus, PM to say bbe.vZHmm735\n1057 FM Sep 21, 2020\n", "label": 0, "img": "images/covid_memes_1692.png"}
+----------
+not-harmful - This meme humorously comments on the 10 PM closing time for pubs due to COVID-19 regulations, without targeting or causing
+##########
+{"id": "covid_memes_1713", "image": "covid_memes_1713.png", "labels": ["not harmful"], "text": "The fest brunch after tha corona\n*over is pon be one for tre booles\nplec blowaoathe str\n", "label": 0, "img": "images/covid_memes_1713.png"}
+----------
+not-harmful - The meme humorously depicts a relatable situation without targeting or harming any individual, organization, or societal group.
+##########
+{"id": "covid_memes_1755", "image": "covid_memes_1755.png", "labels": ["not harmful"], "text": "ACCURATE\nTEACHER MEMES\nABOUT SCHOOL\nREOPENING\nTHIS FALL\nT Welreleachers.com\n", "label": 0, "img": "images/covid_memes_1755.png"}
+----------
+not-harmful - This meme appears to simply discuss teacher experiences with school reopening, without causing harm to any individual or community.
+##########
+{"id": "covid_memes_1775", "image": "covid_memes_1775.png", "labels": ["not harmful"], "text": "WHO Covidsutra Guidelines\ndplet\n\u3088\ntes\nisk\n", "label": 0, "img": "images/covid_memes_1775.png"}
+----------
+harmful - The meme distorts public health information and can mislead individuals, potentially causing harm through misinformation about COVID-19 guidelines.
+##########
+{"id": "covid_memes_1779", "image": "covid_memes_1779.png", "labels": ["not harmful"], "text": "gov michaela\n@MichaelaOkla\nDo not go to a man's home for a\nhookup right now. You could get\nquarantined there and they don't even\nhave sheets. They definitely won't have\ntoilet paper. Maybe one bag of hot\npockets. A can of Cheeto puffs. That's\nall you'll have. Is that what you want\n", "label": 0, "img": "images/covid_memes_1779.png"}
+----------
+not-harmful - The meme humorously advises against visiting someone during quarantine, referencing minor inconveniences. It does not cause harm to any individual,
+##########
+{"id": "covid_memes_1789", "image": "covid_memes_1789.png", "labels": ["not harmful"], "text": "Mat\n@matchu_chutrain\nHalf of us are gonna come out of this quarantine as\namazing cooks and the other half is gonna come out with\na drinking problem. There is no in between\n11:02 PM - Mar 18, 2020 - Twitter for iPhone\n119.4K Retweets 715.7K Likes\n", "label": 0, "img": "images/covid_memes_1789.png"}
+----------
+not-harmful - The meme humorously comments on quarantine lifestyles without targeting any individual or group negatively, thus not causing harm.
+##########
+{"id": "covid_memes_1793", "image": "covid_memes_1793.png", "labels": ["not harmful"], "text": "LIVE FREE\nomtnoretinofeleving\nOIR\nDIE\nmonntre emotng\nngai aayana taof\nening jar Poren Let\nnogtyare Cmor Dety thet\nnae ge to dceirteei\nCoe\ned tumany are ames\nDon't mind if I do.\n", "label": 0, "img": "images/covid_memes_1793.png"}
+----------
+not-harmful - The meme humorously contrasts a political protest with COVID-19 imagery, not targeting any individual or group with harmful intent. It
+##########
+{"id": "covid_memes_1810", "image": "covid_memes_1810.png", "labels": ["not harmful"], "text": "Flexing in March 2020\nCOVID-19\nISTAYHOME\nNOBODY IS IMUNE\nFROM CORONAVIRUS\nPurel\n", "label": 0, "img": "images/covid_memes_1810.png"}
+----------
+not-harmful - The meme humorously reflects the COVID-19 pandemic and encourages staying home, without defaming or causing harm to any individual,
+##########
+{"id": "covid_memes_1839", "image": "covid_memes_1839.png", "labels": ["not harmful"], "text": "ryan ryantempletbh Apr\nGenovia has not reported a single case of covid 191 THIS is what real\nleadership looks like.\nta\n", "label": 0, "img": "images/covid_memes_1839.png"}
+----------
+not-harmful - The meme humorously references a fictional place, Genovia, and COVID-19, without causing harm, mental abuse, or
+##########
+{"id": "covid_memes_1844", "image": "covid_memes_1844.png", "labels": ["not harmful"], "text": "Not Bepaise\nto be viral an\ndie taughing\nvirus joke\nhttps:/jo\n", "label": 0, "img": "images/covid_memes_1844.png"}
+----------
+not-harmful - This meme uses humor involving a cat and a commonly recognized scene, without targeting or causing harm to any individual, organization, community
+##########
+{"id": "covid_memes_1863", "image": "covid_memes_1863.png", "labels": ["not harmful"], "text": "IT SHOULDN'T\nTAKE COVID-19...\nTo show us that\nImmigrants are essential\nto our economy.\n...BUT IT DID!\nAction Demand\nImmigration Reform\nEXPO\n", "label": 0, "img": "images/covid_memes_1863.png"}
+----------
+not-harmful - The meme promotes a supportive sentiment towards immigrants, highlighting their essential economic contributions and advocating for immigration reform without causing harm or defamation
+##########
+{"id": "covid_memes_1865", "image": "covid_memes_1865.png", "labels": ["not harmful"], "text": "rajaravivamameme\nWhen you go on a fruit diet\nbecause you cannot bear\nto cook anymore.\n", "label": 0, "img": "images/covid_memes_1865.png"}
+----------
+not-harmful - This meme humorously depicts a common situation about dieting and cooking without targeting or harming any individual, organization, community, or society
+##########
+{"id": "covid_memes_1867", "image": "covid_memes_1867.png", "labels": ["not harmful"], "text": "Everybody so far in queratine fve\nTaugte myself tomadtate, aeds\newn bruad, and ad 15 took\nMe\n", "label": 0, "img": "images/covid_memes_1867.png"}
+----------
+not-harmful - This meme is light-hearted, depicting a relatable and humorous comparison about quarantine activities, without targeting or harming individuals, organizations, communities
+##########
+{"id": "covid_memes_1871", "image": "covid_memes_1871.png", "labels": ["not harmful"], "text": "Finally a realistic Barbie\nQuareiar\nWINE\nOLOCK\nBarbie\nNon-Essential\nWorker\n", "label": 0, "img": "images/covid_memes_1871.png"}
+----------
+harmful - This meme mocks and labels certain workers as "non-essential," potentially causing emotional disturbance and devaluation of their roles, which can be considered
+##########
+{"id": "covid_memes_1873", "image": "covid_memes_1873.png", "labels": ["not harmful"], "text": "BOOMERS\nMILLENNIALS\nGEN X\n", "label": 0, "img": "images/covid_memes_1873.png"}
+----------
+not-harmful - The meme humorously categorizes generations using fictional characters without causing harm or defamation to individuals, organizations, communities, or society
+##########
+{"id": "covid_memes_1875", "image": "covid_memes_1875.png", "labels": ["not harmful"], "text": "Memes on COVID-19\n", "label": 0, "img": "images/covid_memes_1875.png"}
+----------
+not-harmful - This meme appears to humorously depict COVID-19 with a cartoon, not targeting individuals or groups harmfully. It seems intended
+##########
+{"id": "covid_memes_1890", "image": "covid_memes_1890.png", "labels": ["not harmful"], "text": "How do you wish to pay?\nVISA\nmastercard.\n", "label": 0, "img": "images/covid_memes_1890.png"}
+----------
+not-harmful - The meme humorously depicts different types of payment methods without targeting or harming individuals, organizations, or communities.
+##########
+{"id": "covid_memes_1892", "image": "covid_memes_1892.png", "labels": ["not harmful"], "text": "acan a\nPeople in Mumbai Starting to work\nfrom home\nbut missing the local train.\nacoronavinusindia\n", "label": 0, "img": "images/covid_memes_1892.png"}
+----------
+not-harmful - The meme humorously comments on working from home and missing local trains without targeting or harming an individual, organization, or community.
+##########
+{"id": "covid_memes_1893", "image": "covid_memes_1893.png", "labels": ["not harmful"], "text": "Wear a face\nWash\nKeep\ncovering\non public\nyour\nyour\nhands\ndistance\nregularly\ntransport\n", "label": 0, "img": "images/covid_memes_1893.png"}
+----------
+not-harmful - The text and image provide public health guidelines encouraging safety measures, which are informative and non-offensive, promoting societal well-being.
+##########
+{"id": "covid_memes_1908", "image": "covid_memes_1908.png", "labels": ["not harmful"], "text": "Tom Zahar Tordatar - May 17\n2990\nMyns\n", "label": 0, "img": "images/covid_memes_1908.png"}
+----------
+not-harmful - This meme humorously contrasts personal plans with reality, without causing psychological harm, defamation, or emotional disturbance to any individual or
+##########
+{"id": "covid_memes_1920", "image": "covid_memes_1920.png", "labels": ["not harmful"], "text": "BigKidProblems\nBKP/ @BigkidProblems\nI can't wait until this is all over and I\ncan cancel plans to stay home and\nwatch Netflix BY CHOICE\n", "label": 0, "img": "images/covid_memes_1920.png"}
+----------
+not-harmful - The meme playfully references canceling plans to watch Netflix, which is generally seen as relatable humor and does not cause harm to
+##########
+{"id": "covid_memes_1928", "image": "covid_memes_1928.png", "labels": ["not harmful"], "text": "450/4 steady batting still have\nanother 10 days left.\nMrs is bored. I reckon I can bowl\nher out in 2 days.\n", "label": 0, "img": "images/covid_memes_1928.png"}
+----------
+not-harmful - This meme appears to use humor related to cricket and does not exhibit any harmful content towards individuals or groups.
+##########
+{"id": "covid_memes_1934", "image": "covid_memes_1934.png", "labels": ["not harmful"], "text": "Valeria\n@_valeriatapia\ntoday i learned that new zealand let health experts\nmake the decisions about how to deal w the\npandemic rather than polititians and as of today they\nhave O covid cases. wow almost as if science and\ncommon sense works.\n7:02 PM Jul 5, 2020\nO 205.2K people are Tweeting abosbteidpanda.com\n746.7K\n", "label": 0, "img": "images/covid_memes_1934.png"}
+----------
+not-harmful - This meme provides factual information about New Zealand's COVID-19 strategy and praises the decision-making process without targeting or harming any individual
+##########
+{"id": "covid_memes_1935", "image": "covid_memes_1935.png", "labels": ["not harmful"], "text": "CORONAVIRUS: BEFORE & AFTER\nHand-vashing\nFoce-toching\nWaryna\n401k\nQuartity of\ntolet paper ond\nhand sonitzer\npurchased\nof vodol\nInterooio\nTime\nGMATTSLWLEE\n", "label": 0, "img": "images/covid_memes_1935.png"}
+----------
+not-harmful - This meme uses humor with a chart to depict behavioral changes before and after the coronavirus without causing any harm to individuals or groups.
+##########
+{"id": "covid_memes_1967", "image": "covid_memes_1967.png", "labels": ["not harmful"], "text": "Top Caronavirus Emojis\n200\n", "label": 0, "img": "images/covid_memes_1967.png"}
+----------
+not-harmful - This image is a bar chart showing the most used emojis during a specific period related to coronavirus, which does not cause harm to
+##########
+{"id": "covid_memes_1976", "image": "covid_memes_1976.png", "labels": ["not harmful"], "text": "wwe people discover that theye happier and moe\nten wig horrand e\nquartire me reortng\nOne weinta woking tom homw. fcorotavra\n", "label": 0, "img": "images/covid_memes_1976.png"}
+----------
+not-harmful - The meme humorously depicts individuals being happier working from home during quarantine, without causing harm or targeting any individual, organization, or
+##########
+{"id": "covid_memes_1989", "image": "covid_memes_1989.png", "labels": ["not harmful"], "text": "Lynda Perez\n@Lynda_009\nEveryone worrying about a national\nlockdown due to coronavirus like \"omg\nwhat are we gonna do for two weeks\nlocked in our homes 24/7?!\"Stay at\nhome moms who've been cooped up for\nyears are like \"here hold my sippy\ncup. 9 #coronamemes\n", "label": 0, "img": "images/covid_memes_1989.png"}
+----------
+not-harmful - This meme makes a humorous comparison between different lifestyles during lockdown without causing harm to any individual, organization, community, or society.
+##########
+{"id": "covid_memes_1990", "image": "covid_memes_1990.png", "labels": ["not harmful"], "text": "Mikey\ne_MikeyMartin\nHistory essays in 2053: \"Explain the use and role of\nmemes as a coping mechanism during the Corona Virus\nPandemic of 2020\"\n9:08 AM - Apr 2, 2020\n172 Retweets 380 Likes\n", "label": 0, "img": "images/covid_memes_1990.png"}
+----------
+not-harmful - This meme provides a humorous perspective on the future relevance of memes with no indication of harm to individuals or groups.
+##########
+{"id": "covid_memes_1992", "image": "covid_memes_1992.png", "labels": ["not harmful"], "text": "Coora Par Hi anong N\nesb be registarad on OMO-19\nlegena\n", "label": 0, "img": "images/covid_memes_1992.png"}
+----------
+harmful - This meme potentially causes harm by promoting misinformation about COVID-19, which may lead to panic, confusion, or improper health practices among the
+##########
+{"id": "covid_memes_1993", "image": "covid_memes_1993.png", "labels": ["not harmful"], "text": "midday\nReder Coece\nP anoncing Cavid-\nRuble hiEuble hoga\nDO NA BO N\nFUNNY MEMES GO VIRAL\nAFTER RUSSIA ANNOUNCES\nCOVID VACCINE!\n", "label": 0, "img": "images/covid_memes_1993.png"}
+----------
+harmful - This meme can be harmful as it mocks and undermines the credibility of a serious medical advancement (Covid-19 vaccine), potentially spreading misinformation
+##########
+{"id": "covid_memes_1997", "image": "covid_memes_1997.png", "labels": ["not harmful"], "text": "A photographer took pictures of people before\nand after telling them they had Coronavirus\n", "label": 0, "img": "images/covid_memes_1997.png"}
+----------
+not-harmful - This meme does not seem to cause harm as it focuses on a situational joke without targeting or offending any specific individual, organization
+##########
+{"id": "covid_memes_2005", "image": "covid_memes_2005.png", "labels": ["not harmful"], "text": "WHEN HE FINALLY FALLS ASLEEP AFTER\nCONVINCING HIM THERE'S NOTHING\nTO BE AFRAID OF\nTHEN YOU SHUDDER YOURSELF AT HOW\nMUCH HE LOOKS LIKE A LITTLE VAMPIRE\n", "label": 0, "img": "images/covid_memes_2005.png"}
+----------
+not-harmful - This meme humorously comments on a child's appearance without causing harm or defamation to any individual, organization, or community. It
+##########
+{"id": "covid_memes_2006", "image": "covid_memes_2006.png", "labels": ["not harmful"], "text": "Pa\nBeen thirking about ihe and mertalty today. rd rater Coed monting to everyone encept those hoping i de\nde glariously in barte than from a vinas in a wayit fram Corona Virus. You krew who you an\ndoesn't matter. Buit kinda does\n", "label": 0, "img": "images/covid_memes_2006.png"}
+----------
+harmful - The memes contain insensitive messages about serious topics like death and COVID-19, potentially causing emotional disturbance and harm to individuals and communities affected by
+##########
+{"id": "covid_memes_2031", "image": "covid_memes_2031.png", "labels": ["not harmful"], "text": "Rebecca Loye\ntetecca Lina\nMy favorite one so far!\necoronavirusmemes\nIf the schools are\nclosed for too long, the\nparents are gonna find\na vaccine before the\nscientists...\n40 AM Ma 19. 2 Twitte to itone\n", "label": 0, "img": "images/covid_memes_2031.png"}
+----------
+not-harmful - This meme humorously exaggerates parents' desperation to reopen schools, without causing any injury or defamation to individuals or groups.
+##########
+{"id": "covid_memes_2041", "image": "covid_memes_2041.png", "labels": ["not harmful"], "text": "ONE DAY IN THE FUTURE\n", "label": 0, "img": "images/covid_memes_2041.png"}
+----------
+not-harmful - The meme humorously speculates on future toilet paper scarcity and does not target or harm any individual, organization, or community.
+##########
+{"id": "covid_memes_2049", "image": "covid_memes_2049.png", "labels": ["not harmful"], "text": "IndieWire\nIndieWire\n@quentquarantino\n@IndieWire\nPattinson's 'Batman' Will Be 'So\nEvery coronavirus press conference\nRaw' and 'Not Sanitized, Says Cast\nMember Peter Sarsgaard\nAMPAIGN\nRobby Slowik O\n@RobbySlowik\nThe last thing the world wants right\nnow is raw, unsanitized bat.\nOkay, shouldn't take long.\nBetween an hour and, um, 11 months.\n", "label": 0, "img": "images/covid_memes_2049.png"}
+----------
+not-harmful - Both memes use humorous text and images to provide commentary on pop culture and public events without causing harm to individuals, organizations, or
+##########
+{"id": "covid_memes_2058", "image": "covid_memes_2058.png", "labels": ["not harmful"], "text": "450/4 steady batting still have\nanother 10 days left.\nMrs is bored. I reckon I can bowl\nher out in 2 days.\n", "label": 0, "img": "images/covid_memes_2058.png"}
+----------
+not-harmful - The meme uses a cricket analogy humorously without targeting or causing harm to any individual, organization, or community.
+##########
+{"id": "covid_memes_2062", "image": "covid_memes_2062.png", "labels": ["not harmful"], "text": "1\n200\n20\nMemes on Baba Ramdev's anti Covid-19\ndrug 'Coronil' take internet by storm\n", "label": 0, "img": "images/covid_memes_2062.png"}
+----------
+not-harmful - The meme discusses the widespread attention received by memes on a specific drug without causing harm to any individual, organization, community, or
+##########
+{"id": "covid_memes_2067", "image": "covid_memes_2067.png", "labels": ["not harmful"], "text": "Aditya pathak\n@adityapathak_s\nAfter #oxfordvaccine\nThose who were in strict home quarantine be like - *\nKUCH KUCH\nHOTA HAI\nCORONAVIRUS\nCOVID-19\nVaccine\nINJECTION ONLY\n0.9\n", "label": 0, "img": "images/covid_memes_2067.png"}
+----------
+not-harmful - The meme humorously comments on quarantine experiences without targeting or defaming an individual, group, or organization, and does not cause
+##########

@@ -1,0 +1,1420 @@
+{"id": "memes_5145", "image": "memes_5145.png", "labels": ["not harmful"], "text": "\"IT'S BEEN THE SAME\nSTORY EVER SINCE\nI CAN REMEMBER,\nEVER SINCE WILSON -\nTHE REPUBLICANS\nDON'T DO A THING FOR\nTHE LITTLE MAN.\"\n-JOHN UPDIKE\nThe GOP stands for the rich\nand big business, and that's it.\nLike Americans Against The\nRepublican Party to show\nwhere you stand!\n", "label": 0, "img": "images/memes_5145.png"}
+----------
+not-harmful - The meme expresses a critical opinion of a political party but does not incite violence, use hate speech, or target specific individuals
+##########
+{"id": "memes_1189", "image": "memes_1189.png", "labels": ["somewhat harmful", "organization"], "text": "WE ARE LEADERS\nR\nOF THE PARTY OF HATE,\nDIVISION & DESTRUCTI\u00d3N\nThis perfectly sums up the\nDemocrat Party.\n", "label": 1, "img": "images/memes_1189.png"}
+----------
+harmful - The meme promotes negative stereotypes and attacks a specific political group, which can incite hatred and division, making it harmful.
+##########
+{"id": "memes_8188", "image": "memes_8188.png", "labels": ["not harmful"], "text": "WE NEED TO BUILDA WALL\nph\nNOT TO KEEP THEM OUT,\nBUT TO KEEP YOU WITH ME\n", "label": 0, "img": "images/memes_8188.png"}
+----------
+not-harmful - The meme uses humor without targeting any individual or group derogatorily. It doesn't promote hate speech, discrimination, or violence.
+##########
+{"id": "memes_3480", "image": "memes_3480.png", "labels": ["not harmful"], "text": "LIBERTARIAN\n\"A PERSON WHO DOESN'T\nFOLLOW UP THE PHRASE\n1 BE IEVE IN FREEDUM'\nWITH THE WORD BUT\nCARTALON\n", "label": 0, "img": "images/memes_3480.png"}
+----------
+not-harmful - This meme shares a general definition of a political ideology without targeting or offending any specific individual or group. It promotes an idea in
+##########
+{"id": "memes_4345", "image": "memes_4345.png", "labels": ["not harmful"], "text": "THE MODERATORS 12 MINUTES INTO\nTHE TRUMP-BID\u1ebaN PRESIDENTIALrDEBATE\ncer\n", "label": 0, "img": "images/memes_4345.png"}
+----------
+not-harmful - The meme humorously depicts the fatigue of debate moderators without promoting hate speech, violence, or any harmful content. It stays within
+##########
+{"id": "memes_1269", "image": "memes_1269.png", "labels": ["somewhat harmful", "organization"], "text": "WELCOME TO THE\nDEMOCRATIC PARTY CIRCUS!\nANYUNSUBSTANTIATED ALLEGATIONS,\nFALSE STATEMENTS'OR BATSHIT CRAZY\nLIES YOU'D LIKE TO TELL?\n", "label": 1, "img": "images/memes_1269.png"}
+----------
+harmful - This meme promotes a negative stereotype of a political group by using derogatory language and imagery, potentially contributing to divisive and harmful discourse.
+##########
+{"id": "memes_1493", "image": "memes_1493.png", "labels": ["not harmful"], "text": "LETTING PRES. OBAMA, A CONSTITUTIONAL LAW\nPROFESSOR, PICK THE NEXT SUPREME COURT\nJUSTICE WOULD BE HUGELY IRRESPONSIBLE!\nWE NEED PRES. TRUMP, A\nFORMER REALITY TV STAR,\nTO MAKE THE PICK!\nOCCUPY DENOCRATS\n", "label": 0, "img": "images/memes_1493.png"}
+----------
+harmful - The meme spreads misinformation and is intended to be sarcastic and disrespectful towards prominent political figures. This content can be divisive and contributes
+##########
+{"id": "memes_8155", "image": "memes_8155.png", "labels": ["not harmful"], "text": "Dillary Dump\n", "label": 0, "img": "images/memes_8155.png"}
+----------
+harmful - It appears to mock or insult an individual by altering their name in a derogatory manner, potentially leading to bullying or harassment.
+##########
+{"id": "memes_3618", "image": "memes_3618.png", "labels": ["not harmful"], "text": "TAXATIONISTHEIT\n", "label": 0, "img": "images/memes_3618.png"}
+----------
+not-harmful - The meme seems to be a humorous take on a political opinion about taxation without personal attacks or offensive content.
+##########
+{"id": "memes_5028", "image": "memes_5028.png", "labels": ["somewhat harmful", "individual"], "text": "WHY WEREN TREPUBLICANS\nWORRIED ABOUT INSURANCE\nCOMPANIES CANCELLING\nHEALTHCARE POLICIES\nBEFORE THE AFFORDABLE\nCARE ACT?\nOriginal content by\nAMERICAN VOICE OF REASON\nResson\nFind us on Facebook.\n", "label": 1, "img": "images/memes_5028.png"}
+----------
+not-harmful - The meme presents a political critique on the Affordable Care Act and insurance companies' policies. It does not incite harm, hatred
+##########
+{"id": "memes_4587", "image": "memes_4587.png", "labels": ["very harmful", "organization"], "text": "ORANGE HER\nTHE NEW REPUBLICAN PARTY\nTell them you found it at Rude\nand Rotten Republicans\n", "label": 1, "img": "images/memes_4587.png"}
+----------
+harmful - This meme uses offensive language and symbolism, which can cause harm by promoting hate speech and potentially inciting violence or discrimination against specific groups or
+##########
+{"id": "memes_4893", "image": "memes_4893.png", "labels": ["not harmful"], "text": "A STORM IS COMING\nAn entire generation\nis about to reject the\nRepublican party.\n", "label": 0, "img": "images/memes_4893.png"}
+----------
+not-harmful - This meme appears to make a political statement predicting a shift in political allegiance, but it does not contain harmful language or incite
+##########
+{"id": "memes_6661", "image": "memes_6661.png", "labels": ["somewhat harmful", "organization"], "text": "Bald eagle takes down government\ndrone\nA bald eagle took down a government drone in\nMichigan, state officials said Thursday. The bi.\n@LACKINHUMOR\nGovernment\nGovernment\ndrone\ndrone\n", "label": 1, "img": "images/memes_6661.png"}
+----------
+harmful - Promotes violence through imagery of a person pointing a gun, could incite harm or dangerous behavior.
+##########
+{"id": "memes_3314", "image": "memes_3314.png", "labels": ["somewhat harmful", "organization"], "text": "ETHE\nLIBERTARIAN PARTY\nLIBERTARIAN\nPARTY HAS SOMETHING\nTO OFFER EVERYONE!\nUnregulated\nchild labor\nPEDOPHILES\nlaws\nLET ME IN\n[adult swim\nPEDOPHILES\nLET ME INNNNNN!!!\nimgflip.com\n(adult awn]\n", "label": 1, "img": "images/memes_3314.png"}
+----------
+harmful - The meme uses accusatory language and imagery that links political affiliation with serious criminal activity, which can incite violence or hatred.
+##########
+{"id": "memes_942", "image": "memes_942.png", "labels": ["not harmful"], "text": "SARAH, THIS IS BARACK\nOBAMA.\nI HEAR YOU FARTED.\nFumi\n50 Top Barack Obama Memes\n", "label": 0, "img": "images/memes_942.png"}
+----------
+not-harmful - The meme includes humor about flatulence, which is a common comedic theme. It neither targets nor insults anyone specific based on sensitive
+##########
+{"id": "memes_8290", "image": "memes_8290.png", "labels": ["not harmful"], "text": "IS THE NEW BLACK\n", "label": 0, "img": "images/memes_8290.png"}
+----------
+harmful - This meme could be considered racially insensitive, as it appears to trivialize serious social issues by making a comparison that could be offensive to
+##########
+{"id": "memes_4937", "image": "memes_4937.png", "labels": ["not harmful"], "text": "DOCTORS AGREE:\nDOUCHES ARE BAD\nFOR WOMEN'S HEALTIE\n", "label": 0, "img": "images/memes_4937.png"}
+----------
+harmful - The meme uses derogatory and offensive language which can be disrespectful and harmful towards individuals, especially in the context of women's health.
+##########
+{"id": "memes_4739", "image": "memes_4739.png", "labels": ["not harmful"], "text": "Pixie Casey\nOpie casey\nV Follow\n\"She knew it was better to be in the Plastics, hating lile, than to\nnot be in at all.\"\n828 PM - 29 Nov 2016\n", "label": 0, "img": "images/memes_4739.png"}
+----------
+not-harmful - The meme references a quote in a humorous or satirical manner, without promoting hate speech, violence, or discriminatory content.
+##########
+{"id": "memes_6608", "image": "memes_6608.png", "labels": ["somewhat harmful", "individual"], "text": "*Freedom Works\n*FreedomWorks\nYour name is JOE\nThe year is 202O\nYou're running for\nPRESIDENT\ntrump BAD Obama GOOD\n", "label": 1, "img": "images/memes_6608.png"}
+----------
+not-harmful - This meme appears to be a satirical take on a political figure, referencing a presidential campaign and comparing other politicians. It doesn't
+##########
+{"id": "memes_315", "image": "memes_315.png", "labels": ["not harmful"], "text": "That\nPeethe R\no Pack\ner\nr an\nAparna Nancherla\neuparnapkin\nDEBATE DRINKING GAME: Drink every time all the\ntime\nLIVE\nC-SPA\n", "label": 0, "img": "images/memes_315.png"}
+----------
+not-harmful - The meme appears to be a humorous take on debate culture, suggesting a drinking game. It doesn't promote violence, discrimination, or
+##########
+{"id": "memes_6902", "image": "memes_6902.png", "labels": ["somewhat harmful", "individual"], "text": "SO WHAT\nIF DONALD TRUMP\nCREATED MILLIONS\nOF NEW JOBS?\nMY SUPPORTERS\nDON'T WANT JOBS!\nVISIT PATRIOOTPOST US FOR THE BEST HIIMOR AND MEMES\n", "label": 1, "img": "images/memes_6902.png"}
+----------
+harmful - The meme contains derogatory and contentious political statements that can incite tension and offend individuals, thereby contributing to a hostile environment.
+##########
+{"id": "memes_5862", "image": "memes_5862.png", "labels": ["not harmful"], "text": "38\neveryon's plans to\nhave a nice October\nPolitical columnists that now\nhave a national platform for an\nextra four weeks\n", "label": 0, "img": "images/memes_5862.png"}
+----------
+not-harmful - The meme uses humor by juxtaposing personal plans with an unexpected disaster, which is a common internet meme format and does not target
+##########
+{"id": "memes_8277", "image": "memes_8277.png", "labels": ["somewhat harmful", "individual"], "text": "DONALD TRUMP IN\n2016?\nHE'S GOT MY\nVOTE.\nmemegenerator.net\n", "label": 1, "img": "images/memes_8277.png"}
+----------
+harmful - The meme compares a political figure to a historical figure associated with hate and violence, which could incite animosity and is considered offensive.
+##########
+{"id": "memes_5872", "image": "memes_5872.png", "labels": ["somewhat harmful", "individual"], "text": "Biden: \"whispers* I left a bag of\nCheetos in the bathroom.\nObama: Why?\nBiden: in case he needs to powder his\nnose.\nObama: Joe.\n", "label": 1, "img": "images/memes_5872.png"}
+----------
+not-harmful - The meme contains a humorous conversation between political figures referencing a common snack, without promoting hate speech, violence, or offensive content.
+##########
+{"id": "memes_4667", "image": "memes_4667.png", "labels": ["not harmful"], "text": "I FEED ON YOUR FEARS\nI HAVE NONE\nSNT\nBASIC ECONOMICS\n", "label": 0, "img": "images/memes_4667.png"}
+----------
+not-harmful - The meme uses humor related to economics and fear, without targeting or demeaning a specific group or individual. It does not promote
+##########
+{"id": "memes_6752", "image": "memes_6752.png", "labels": ["not harmful"], "text": "What a time to be alive\nJust Stop\nCan't Make It Up\nO 69\nCornell voted to stop calling its English\nDepartment the \"English Department\" in\norder to fight \"structural forms of\nracism\"\n", "label": 0, "img": "images/memes_6752.png"}
+----------
+not-harmful - This meme discusses a decision made by an institution; it does not promote hate speech, violence, or misinformation.
+##########
+{"id": "memes_4747", "image": "memes_4747.png", "labels": ["not harmful"], "text": "SOCIALISM\nTRICKLE-UP POVERTY\nHONK\nFOENNG\nDON'T SPREAD MY WEALT\nBreaking News SPREAN MY NORK ET\nIVE This just in, Republican party, still sore losers. V\nEXCLUSIVE\n", "label": 0, "img": "images/memes_4747.png"}
+----------
+not-harmful - The meme displays a political protest with people holding signs. It expresses political opinions but does not promote violence or hate speech against any
+##########
+{"id": "memes_4707", "image": "memes_4707.png", "labels": ["not harmful"], "text": "LONG AFTER TRUMP IS\nGONE, HISTORY WILL\nREMEMBER THE COWARDS\nWHO ENABLED HIM AND\nLET THIS TRAVESTY GO ON.\n", "label": 0, "img": "images/memes_4707.png"}
+----------
+harmful - The meme uses derogatory language by calling specific individuals "cowards," which can be considered as bullying and promoting hostility towards those individuals.
+##########
+{"id": "memes_6745", "image": "memes_6745.png", "labels": ["very harmful", "community"], "text": "BLM\n@BlackLivesMatter\nDear dumb ass white people\nif you use a persons skin color as an\ninsult you are racist..\n#Stopbeingsowhite\n519 Retweets 4K Likes\n", "label": 1, "img": "images/memes_6745.png"}
+----------
+harmful - The meme contains derogatory language and promotes racial stereotypes, which can incite hate and division among different racial groups.
+##########
+{"id": "memes_6054", "image": "memes_6054.png", "labels": ["not harmful"], "text": "Donald J. Trump O\nFollow\nThese THUGS are dishonoring the\nmemory of George Floyd, and I won't let\nthat happen.\n", "label": 0, "img": "images/memes_6054.png"}
+----------
+harmful - This meme uses a derogatory term "THUGS" which can incite hatred and discrimination against certain groups. It can be used
+##########
+{"id": "memes_1353", "image": "memes_1353.png", "labels": ["very harmful", "organization"], "text": "Democrat Party then\nDemocrat Party now\n@newcentrist @centrisms\n@paleolibertarianite\nARIO\n", "label": 1, "img": "images/memes_1353.png"}
+----------
+harmful - The meme uses historical and inflammatory imagery to generalize and compare political groups, which can provoke hate and spread misleading stereotypes, contributing to societal
+##########
+{"id": "memes_4344", "image": "memes_4344.png", "labels": ["not harmful"], "text": "Me taking about how bad\nBiden - Haris is\nRepublicana thinerg mpro\nTrump\nF*k\n", "label": 0, "img": "images/memes_4344.png"}
+----------
+not-harmful - The meme depicts a humorous misunderstanding between political preferences without promoting hate speech, violence, or discriminatory remarks. Instead, it uses light
+##########
+{"id": "memes_3773", "image": "memes_3773.png", "labels": ["somewhat harmful", "organization"], "text": "BREAK FREE FROM BIG BROTHER!\nLIBERTARIAN\nHOSPERS\n* PRESIDENT *\nVOTE\nThe Libertarian Party turns 45\nyears old today, Thank you for\nyour support!\n", "label": 1, "img": "images/memes_3773.png"}
+----------
+not-harmful - This meme promotes a political figure and a party's milestone, engaging in political discourse without any offensive, violent, or harmful content
+##########
+{"id": "memes_3334", "image": "memes_3334.png", "labels": ["not harmful"], "text": "CATSARE LIKE THE LIBERTARIAN PARTY\nSINCE THEY ARE TOTALLY DEPENDENT ON\nOTHERS,\nWHILE FIERCELY BELIEVING IN\nTHEIR OWN INDEPENDENCE.\nmakeameme.org\n", "label": 0, "img": "images/memes_3334.png"}
+----------
+not-harmful - This meme uses humor to draw a light-hearted comparison between cats and political beliefs, without targeting, insulting, or harming any individual
+##########
+{"id": "memes_2295", "image": "memes_2295.png", "labels": ["somewhat harmful", "organization"], "text": "GREEN PARTY\nWE ENCOURAGE FACE TO-FACE\nRELATIONSHIPS WITH LOCAL\nBUSINESS OWNERS AND\nSHOPKEEPERS\n", "label": 1, "img": "images/memes_2295.png"}
+----------
+harmful - The meme could spread misleading information or insinuate inappropriate relationships involving the "Green Party," potentially damaging reputations and encouraging divisive or harmful
+##########
+{"id": "memes_1690", "image": "memes_1690.png", "labels": ["very harmful", "organization"], "text": "THE DEMOCRATIC PARTY OF 2018 IS A\nSOCIALIST MOVEMENT.\nmakeameme.org\n", "label": 1, "img": "images/memes_1690.png"}
+----------
+harmful - The meme contains a political statement that could be deemed offensive or polarizing, and it uses an image inappropriate for the context, potentially causing
+##########
+{"id": "memes_8251", "image": "memes_8251.png", "labels": ["not harmful"], "text": "BREAKING NEWS: new third party\ncandidate Oarack Bobama enters the\nrace for the presidency\n", "label": 0, "img": "images/memes_8251.png"}
+----------
+not-harmful - The meme humorously plays on a well-known name by intentionally misspelling it and joking about entering a presidential race. It
+##########
+{"id": "memes_30", "image": "memes_30.png", "labels": ["somewhat harmful", "organization"], "text": "HAVE THE LAST FEW MONTHS\nHELPED YOU TO UNDERSTAND\nWHY I'M THE DEMOCRATIC\nPARTY MASCOT\nIt all makes perfect sense\nnow... There Is PANIC In The\nDiabetes Industry! Big Pharma\nexecutives can't believe their\neyes. SEE WHY CLICK HERE \u25ba\u25ba\nhttp://u-read.org/no-diabetes\n", "label": 1, "img": "images/memes_30.png"}
+----------
+harmful - The meme spreads misleading and potentially harmful misinformation about the diabetes industry, creates unnecessary panic, and includes a suspicious link that may lead to phishing
+##########
+{"id": "memes_1365", "image": "memes_1365.png", "labels": ["somewhat harmful", "community"], "text": "WHAT DO YOU CALLAMUSLIM\nELVIS IMPERSONATOR?\nAMAL\nSHOOKUP\nBAN THE DEMOCRATIC PARTY\n", "label": 1, "img": "images/memes_1365.png"}
+----------
+harmful - The meme contains offensive language targeting a religious group and promotes political discrimination, which can incite hate and division among different communities.
+##########
+{"id": "memes_8209", "image": "memes_8209.png", "labels": ["not harmful"], "text": "ELSA.\n90\nDO YOU WANNA BUILD A WALL?\n", "label": 0, "img": "images/memes_8209.png"}
+----------
+not-harmful - This meme uses a play on words from a popular animated movie, making it humorous without targeting or harming any individual or group.
+##########
+{"id": "memes_5051", "image": "memes_5051.png", "labels": ["somewhat harmful", "organization"], "text": "REMEMBER THE CROSS WE BEAR-\nFAKE LIB NEWS\nSOCIALISM\nILLEGAL\nALIEN INVASION\nCRUSHING\nDEM TAXES\nSANCTUARY\nCITIES/STATES\nCANC RE\nBAD\nLIBERAI POLICIES\nDONT ACCEPT IT-VOTE REPUBLICAN\nAERICAN\nGITUEN\nTAKPAYER\nSOCIAL JUSTICE\n", "label": 1, "img": "images/memes_5051.png"}
+----------
+harmful - Promotes political bias, contains potentially inflammatory language, and could perpetuate division by targeting specific policies and ideologies in a negative light.
+##########
+{"id": "memes_6539", "image": "memes_6539.png", "labels": ["not harmful"], "text": "sav\nFollow\n@sameverlark_\nJoe: Hey Barack, why does Trump wanna ban\npreshredded cheese\nBarack: Joe please\nJoe: TO MAKE AMERICA GRATE AGAIN\nBarack: I swear to God\n**\n", "label": 0, "img": "images/memes_6539.png"}
+----------
+not-harmful - The meme uses humor and wordplay about cheese related to political figures. No offensive language or hate speech is present.
+##########
+{"id": "memes_6044", "image": "memes_6044.png", "labels": ["not harmful"], "text": "ME,\nTRYING\nTO DO\nANYTHING\nON THE\nINTERNET\nARE\nYOU\nREGISTERED\nTO\nVOTE?\n", "label": 0, "img": "images/memes_6044.png"}
+----------
+not-harmful - This meme uses humor to encourage civic engagement by reminding people to register to vote, which promotes a positive social outcome without causing harm
+##########
+{"id": "memes_6562", "image": "memes_6562.png", "labels": ["somewhat harmful", "individual"], "text": "When Michelle start wearing less &\ngoing out more\n", "label": 1, "img": "images/memes_6562.png"}
+----------
+not-harmful - This meme uses humor related to personal behavior changes. It doesn't contain offensive or harmful language, threats, or discriminatory content.
+##########
+{"id": "memes_1266", "image": "memes_1266.png", "labels": ["somewhat harmful", "organization"], "text": "FUTURE STAFFERS FOR\nTHE 2020 DEMOCRATIC PARTY\n", "label": 1, "img": "images/memes_1266.png"}
+----------
+harmful - This meme targets a specific political group, which can provoke divisiveness and potentially incite hostility or prejudice against the depicted group.
+##########
+{"id": "memes_1575", "image": "memes_1575.png", "labels": ["very harmful", "individual"], "text": "DON JR. YESTERDAY:\nThe Democratic Party\nplatform \"is similar\nto the Nazis.\"\nYour dad called the Nazis who marched in\nCharlottesville and KILLED a non-violent protester\n\"very fine people.\" Just like Hitler, your dad has\nDEHUMANIZED an entire race of people by\nreferring to them as \"animals\" and throwing\ntheir CHILDREN into detention camps.\nIf you're so concerned about Nazis,\nTELL YOUR DAD TO\nSTOP ACTING LIKE ONE!\noccor ermoCRATS\nSeriously! Image by Occupy\nDemocrats.\n", "label": 1, "img": "images/memes_1575.png"}
+----------
+harmful - The meme uses inflammatory language, compares individuals to Nazis, and refers to violent events. Such content can incite hatred and divisiveness,
+##########
+{"id": "memes_1082", "image": "memes_1082.png", "labels": ["not harmful"], "text": "\"I want someone to look at me\nthe way Joe Biden looks at\nObama.\"\n", "label": 0, "img": "images/memes_1082.png"}
+----------
+not-harmful - This meme humorously expresses a desire for admiration, using a public figure's interaction, without offensive content, discrimination, or harmful
+##########
+{"id": "memes_5862", "image": "memes_5862.png", "labels": ["not harmful"], "text": "38\neveryon's plans to\nhave a nice October\nPolitical columnists that now\nhave a national platform for an\nextra four weeks\n", "label": 0, "img": "images/memes_5862.png"}
+----------
+not-harmful - The meme uses a dramatic visual to humorously depict how unexpected events can disrupt plans, but it does not promote harm or target
+##########
+{"id": "memes_5860", "image": "memes_5860.png", "labels": ["not harmful"], "text": "WHO NEEDS A JOB\nJUST PUT IT ON MY TAB BRO I GOT YOU\n", "label": 0, "img": "images/memes_5860.png"}
+----------
+not-harmful - The meme appears to joke about financial reliance on friends, without targeting any specific group or individual in a harmful manner.
+##########
+{"id": "memes_3823", "image": "memes_3823.png", "labels": ["somewhat harmful", "society"], "text": "LEGALIZE\nRECREATIONAL\nCOCAINE.\nLIBERTARIAN\n", "label": 1, "img": "images/memes_3823.png"}
+----------
+harmful - Promotes illegal drug use, which can lead to dangerous behavior and violate community guidelines.
+##########
+{"id": "memes_1424", "image": "memes_1424.png", "labels": ["not harmful"], "text": "IRONY.\nSAMERICA\nERAT AGAIN\nTHE PARTY WHO FREED THE SLAVES AND FOUGHT FOR\n(IVIL RIGHTS IS BEING CALLED \"RACIST\" BY THE PARTY\nTHAT OWNED THE SLAVES AND STARTED THE KKK.\ne.com\n", "label": 0, "img": "images/memes_1424.png"}
+----------
+harmful - The meme contains politically charged content that could incite division and spread misinformation about historical and political parties, potentially leading to conflict among viewers.
+##########
+{"id": "memes_3306", "image": "memes_3306.png", "labels": ["not harmful"], "text": "LIVES IN ONE OF THE MOST\nFREE SOCIETIES ON THE PLANET\nCOMPLAINS ABOUT NOT\nHAVING ENOUGH FREEDOM\nimgflip.com\n", "label": 0, "img": "images/memes_3306.png"}
+----------
+harmful - The meme promotes a dismissive attitude towards legitimate complaints about freedom, potentially fostering intolerance and invalidating personal experiences with freedom constraints.
+##########
+{"id": "memes_5162", "image": "memes_5162.png", "labels": ["very harmful", "organization"], "text": "Douglas County Republicans\n2 hrs \u00b7 O\n...\nYOU GET BACK\nIN THAT HOUSE!\nWE'RE TRYING\nTO CONTROL\nANOTHER\nELECTION.\nUVISIT PATRIOTPOST.US FOR THE BEST HUMORAND MEMES\nTHREE BIG REASONS\nDems want to extend\nquarantine:\n1. Mail in ballots so they can\ncheat\n2. Keep Demantia Joe off\nthe campaign trial\n3. Crash the economy and\nblame Trump\n", "label": 1, "img": "images/memes_5162.png"}
+----------
+harmful - This meme promotes misinformation, uses derogatory terms, and could incite political division and hostility.
+##########
+{"id": "memes_1533", "image": "memes_1533.png", "labels": ["not harmful"], "text": "e new\nYer th\nThis President fuela\ndivision and anti-Semitisml\nThis President\nwith his Jewish\ngrandson Josenh\n", "label": 0, "img": "images/memes_1533.png"}
+----------
+harmful - The meme makes a serious accusation of fueling division and anti-Semitism, which can promote hate speech and divisiveness. It's targeting individuals based
+##########
+{"id": "memes_6890", "image": "memes_6890.png", "labels": ["somewhat harmful", "community"], "text": "Easiest way to screw up BLM graffiti\nBLACK\nOLIVES\nMATTER\n", "label": 1, "img": "images/memes_6890.png"}
+----------
+harmful - This meme mocks the Black Lives Matter movement, demonstrating insensitivity towards serious social issues and potentially inciting further disrespect or harm.
+##########
+{"id": "memes_4811", "image": "memes_4811.png", "labels": ["not harmful"], "text": "PROUD TO BE\n***\nREDUICAN\nEPUBLICA\n", "label": 0, "img": "images/memes_4811.png"}
+----------
+not-harmful - This meme simply expresses political affiliation and pride, which is a form of free expression and does not incite harm or violence.
+##########
+{"id": "memes_5696", "image": "memes_5696.png", "labels": ["not harmful"], "text": "THINGS I TRUST MORE THAN TED CRUZ\n1. FLINT MICHIGAN TAP WATER\n2. BILL COSBY DRINKS\n3. ELEVATOR RIDES WITH RAY RICE\n4. ANYTHING FROM CHIPOTLE\nfb/Politicked\n", "label": 0, "img": "images/memes_5696.png"}
+----------
+harmful - The meme presents potentially defamatory content by comparing an individual to notorious and controversial elements, which could be perceived as libelous and damaging to
+##########
+{"id": "memes_5851", "image": "memes_5851.png", "labels": ["somewhat harmful", "community"], "text": "VIRUSES ARE LIKE US POLITICIANS\nYOU GET RID OF ONE\nAND A WORSE ON\u00c9 REPLACES IT\nmlo com\n", "label": 1, "img": "images/memes_5851.png"}
+----------
+not-harmful - This meme uses humor to make a political comparison without targeting specific individuals or promoting hate speech, violence, or discrimination. It's generally
+##########
+{"id": "memes_2679", "image": "memes_2679.png", "labels": ["not harmful"], "text": "JOE BIDEN'S\nMIND IS LIKE\nYOUR GRANDPA'S\nWEB BROWSER\n19 TABS ARE OPEN,\n17 ARE FROZEN, AND\nHE HAS NO IDEA WHERE\nTHE MUSIC IS COMING FROM.\n", "label": 0, "img": "images/memes_2679.png"}
+----------
+harmful - The meme targets an individual with derogatory and ageist comparisons, potentially promoting disrespect and negative stereotypes about the elderly and mental capacity.
+##########
+{"id": "memes_3364", "image": "memes_3364.png", "labels": ["somewhat harmful", "organization"], "text": "GOOD IDEAS DON'T REQUIRE FORCE\nTLIBERTARIAN\nThanks to the Libertarian Party\nof Florida for this post! To get\ninvolved locally, go to\nIp.org/states!\n", "label": 1, "img": "images/memes_3364.png"}
+----------
+not-harmful - This image simply promotes a political message encouraging involvement without using force. It does not contain harmful or offensive content.
+##########
+{"id": "memes_1340", "image": "memes_1340.png", "labels": ["very harmful", "organization"], "text": "THE DEMOCRAT PARTY\nAMERI\u00c7AS OLDEST\nHAT\u00c9 GROUP\n", "label": 1, "img": "images/memes_1340.png"}
+----------
+harmful - This meme promotes hate speech and false information by linking a political party to hate groups, which can incite division and animosity.
+##########
+{"id": "memes_6193", "image": "memes_6193.png", "labels": ["not harmful"], "text": "I think 2020 is the historical\nequivalent of the tunnel\nboat scene in Willy Wonka\nSriking deoper and doeper into 2020 ka\ncostay\nny abo\nBonkaccount\nThe days blendin\ngether\n1SCREAUNG\nDessal\nsoya\n", "label": 0, "img": "images/memes_6193.png"}
+----------
+not-harmful - This meme humorously comments on the challenges of 2020 without targeting or harming individuals, groups, or promoting negative behaviors.
+##########
+{"id": "memes_4937", "image": "memes_4937.png", "labels": ["not harmful"], "text": "DOCTORS AGREE:\nDOUCHES ARE BAD\nFOR WOMEN'S HEALTIE\n", "label": 0, "img": "images/memes_4937.png"}
+----------
+harmful - The meme uses derogatory language and implies negative generalizations about specific individuals, which can contribute to spreading hate or misinformation.
+##########
+{"id": "memes_93", "image": "memes_93.png", "labels": ["not harmful"], "text": "Libertarian\nLibertarian\nIdeas\nCandidates\n", "label": 0, "img": "images/memes_93.png"}
+----------
+not-harmful - This meme uses humor to contrast perceived differences between ideas and individuals in a political context without targeting specific individuals or promoting hate speech.
+##########
+{"id": "memes_1158", "image": "memes_1158.png", "labels": ["not harmful"], "text": "OH, YOU MADE A\nPOLITICAL MEME?\nTELL ME HOW ITS GOING TO SINGLE\nHANDEDLY BRING DOWN THE\nDEMOCRATIC PARTY\nuickmeme.com\n", "label": 0, "img": "images/memes_1158.png"}
+----------
+not-harmful - The meme humorously questions the effectiveness of political memes without promoting violence or hate speech.
+##########
+{"id": "memes_1340", "image": "memes_1340.png", "labels": ["very harmful", "organization"], "text": "THE DEMOCRAT PARTY\nAMERI\u00c7AS OLDEST\nHAT\u00c9 GROUP\n", "label": 1, "img": "images/memes_1340.png"}
+----------
+harmful - This meme spreads political misinformation and promotes hate speech by linking a political party to a symbol associated with racism, which could incite division and
+##########
+{"id": "memes_8121", "image": "memes_8121.png", "labels": ["not harmful"], "text": "GET IN, PUSSY\nWE'RE MAKING AMERICA.GREAT\nAGAIN!\n", "label": 0, "img": "images/memes_8121.png"}
+----------
+harmful - This meme promotes violence and uses offensive language, which can encourage harmful behavior and contribute to a hostile online environment.
+##########
+{"id": "memes_942", "image": "memes_942.png", "labels": ["not harmful"], "text": "SARAH, THIS IS BARACK\nOBAMA.\nI HEAR YOU FARTED.\nFumi\n50 Top Barack Obama Memes\n", "label": 0, "img": "images/memes_942.png"}
+----------
+not-harmful - The meme is a humorous dialogue involving public figures without conveying hate speech, threats, or offensive content.
+##########
+{"id": "memes_6562", "image": "memes_6562.png", "labels": ["somewhat harmful", "individual"], "text": "When Michelle start wearing less &\ngoing out more\n", "label": 1, "img": "images/memes_6562.png"}
+----------
+not-harmful - The meme is a lighthearted joke about a personal relationship and does not contain offensive or harmful content.
+##########
+{"id": "memes_4582", "image": "memes_4582.png", "labels": ["somewhat harmful", "organization"], "text": "The llev Mascol ol the Republican Parly.\nAderanged and ignorait\nPali\nmihlle-agen hillbillyzm bad har\n", "label": 1, "img": "images/memes_4582.png"}
+----------
+harmful - This meme uses derogatory language and personal insults to attack an individual, which can be harmful and promote negative behavior.
+##########
+{"id": "memes_1232", "image": "memes_1232.png", "labels": ["somewhat harmful", "organization"], "text": "Irish were the rirst slaves\nbrought to America\nDoes that mean we get paid.\nslave reparations\" first?\n", "label": 1, "img": "images/memes_1232.png"}
+----------
+harmful – The meme spreads misinformation and contains a racially insensitive statement regarding slavery and reparations, which can perpetuate harmful stereotypes and create unnecessary conflict
+##########
+{"id": "memes_8231", "image": "memes_8231.png", "labels": ["not harmful"], "text": "HOW TO MAKE\nAMERICA GREAT AGAIN!\nleminiut Mam\n", "label": 0, "img": "images/memes_8231.png"}
+----------
+harmful - The phrase "AMERICA GREAT AGAIN" can be politically charged and may be interpreted as supporting or criticizing a specific political agenda, leading to
+##########
+{"id": "memes_1600", "image": "memes_1600.png", "labels": ["somewhat harmful", "community"], "text": "NO PROGRESSIVE IN THE DEMOCRATIC\nPARTY IS GOING TO RISE UP, TAKE\nCONTROL OF THE PARTY AND SAVE US. THERE\nIS ONE RULING PARTY. THE CORPORATE PARTY.\nIT MAY ENGAGE IN PETT.\nINTERNECINE WARFARE AS IT DID IN THE RECENT\nGOVERNMENT SHUTDOWN. IT MAY SQUABBLE\nOVER POWER AND THE SPOILS OF POWER. IT\nMAY COME WRAPPED IN MORE TOLERANT STANCES\nREGARDING WOMEN, LGBT RIGHTS AND THE\nDIGNITY OF PEOPLE OF COLOR, BUT ON THE\nFUNDAMENTAL ISSUES OF WAR, INTERNAL SEGURITY\nAND GORPORATE DOMINATION THERE IS NO DIVERGENGE\n", "label": 1, "img": "images/memes_1600.png"}
+----------
+harmful - The meme uses inflammatory language and promotes divisive political rhetoric. It may perpetuate negative stereotypes and incite conflicts based on political beliefs.
+##########
+{"id": "memes_8089", "image": "memes_8089.png", "labels": ["not harmful"], "text": "Do you ever look at stuff and\nwonder how it got there?\nWITH\nMP\nSTANDS WTH\nTRUMP\nRU\n", "label": 0, "img": "images/memes_8089.png"}
+----------
+not-harmful - The meme humorously questions how odd situations occur, using images of unusually positioned objects without promoting any harm or offensive content.
+##########
+{"id": "memes_4410", "image": "memes_4410.png", "labels": ["not harmful"], "text": "Settle Down Bevie\nThat moment when son threatens to takes dad's car\nkeys away. DemocraticDebate\nLIVE -NEWSI THE DEMOCRATIC DEBATE\n7:4 PM Sep01 T r\n", "label": 0, "img": "images/memes_4410.png"}
+----------
+not-harmful - The meme humorously relates a common father-son scenario to a political debate without targeting or demeaning any individual or group.
+##########
+{"id": "memes_4636", "image": "memes_4636.png", "labels": ["not harmful"], "text": "But instead, I\nwas the\nYou dreamed that\nIwould be the\nfuture of the\nRepublican Party.\ntuture of the\nRepublican\nParty.\n", "label": 0, "img": "images/memes_4636.png"}
+----------
+not-harmful - This meme uses historical political figures for humor and satire without promoting violence, hate speech, or harmful content.
+##########
+{"id": "memes_3879", "image": "memes_3879.png", "labels": ["not harmful"], "text": "Republicans\nDemocrats\nLibertarians\nGovernment\n", "label": 0, "img": "images/memes_3879.png"}
+----------
+harmful - The meme can be considered harmful as it uses a child making an obscene gesture to represent a political view, which is inappropriate and could inc
+##########
+{"id": "memes_3513", "image": "memes_3513.png", "labels": ["not harmful"], "text": "78 CATHERNE (CAT) PING\nREPUBLICAN PARTY\n7C DREW THCMPSON\nLIBERTARIAN PARTY\nHarambe\nWile-n\nDead Gorilla Harambe Got Over 15,000 Votes To\nBecome President Of The United States\nwww.viralthread.com\namazing\n", "label": 0, "img": "images/memes_3513.png"}
+----------
+not-harmful - This meme is a humorous commentary on the 2016 U.S. presidential election with a reference to Harambe, a gor
+##########
+{"id": "memes_3605", "image": "memes_3605.png", "labels": ["somewhat harmful", "organization"], "text": "\"Russians make up a\npretty disproportionate\ncross-section of a lot of\nour assets. We see a lot\nof money pouring in\nfrom Russia.\"\nDonald Trump Jr., 2008\n", "label": 1, "img": "images/memes_3605.png"}
+----------
+harmful - This meme potentially incites political tension, stereotypes an ethnic group, and could propagate misinformation, making it harmful in the context of social media
+##########
+{"id": "memes_6306", "image": "memes_6306.png", "labels": ["somewhat harmful", "individual"], "text": "HEY TRUMP VOTERS:\nYOUR 2020 CANDIDATE IS\nCOUNTING ON YOU\nmegenerator.net\n", "label": 1, "img": "images/memes_6306.png"}
+----------
+harmful - The meme could incite political tension or provoke negative reactions due to the politically charged statement targeting a specific group of voters.
+##########
+{"id": "memes_6858", "image": "memes_6858.png", "labels": ["somewhat harmful", "community"], "text": "I BETTER LISTEN TO THE GOVERNMENT\nAND TURN IN MY GUNS\n@mr_young_republican\nSAID NO AMERICAN EVER,\n", "label": 1, "img": "images/memes_6858.png"}
+----------
+harmful - The meme promotes defiance against government regulations, specifically regarding firearms, which can incite hostility and potentially dangerous behavior.
+##########
+{"id": "memes_4261", "image": "memes_4261.png", "labels": ["not harmful"], "text": "Mike Shields WSB gMkeShieldsWSB 18h\nWith the mute button in play for toright's weresidentielDebate2000, the\naudio tech just became the most powerful person in America. S\n", "label": 0, "img": "images/memes_4261.png"}
+----------
+not-harmful - The meme humorously comments on the influence of an audio technician during a presidential debate without targeting or offending any individual or group.
+##########
+{"id": "memes_4367", "image": "memes_4367.png", "labels": ["not harmful"], "text": "If your kids ever ask\nwhy education is\nimportant\nshow them an Obama\nspeech and then a\nTrump speech.\n", "label": 0, "img": "images/memes_4367.png"}
+----------
+harmful - This meme promotes divisiveness and could be seen as disrespectful towards public figures, potentially fostering negative sentiments and polarization among viewers.
+##########
+{"id": "memes_4719", "image": "memes_4719.png", "labels": ["not harmful"], "text": "38\nTHE\nBEPUBLICAN PARTY\nTRUMP\n", "label": 0, "img": "images/memes_4719.png"}
+----------
+harmful - The meme attributes a destructive event to a specific political party, which can incite division, promote false narratives, and potentially lead to harmful
+##########
+{"id": "memes_924", "image": "memes_924.png", "labels": ["not harmful"], "text": "ILOOK LIKE BARACK OBAMA.cOM\nNew pdaie 012: Artick ee Mahable.com\nHi, my name's Trevor, and I look like Barsck Obama. I've\nhad lots of people stop me on the streets, ask me about\ntasen and healthcare and things like that, and I thought\nrd ereate a website to clarity chat I am, ia fact. NOT\nBarack Ohama. Please note:\n1.\nI am NOT Barack Obama, we just look alike.\nWe are not in any way related (to the best of my\nknowledge).\n", "label": 0, "img": "images/memes_924.png"}
+----------
+not-harmful - This meme humorously clarifies that someone is being mistaken for a public figure. It is light-hearted and does not contain offensive
+##########
+{"id": "memes_6752", "image": "memes_6752.png", "labels": ["not harmful"], "text": "What a time to be alive\nJust Stop\nCan't Make It Up\nO 69\nCornell voted to stop calling its English\nDepartment the \"English Department\" in\norder to fight \"structural forms of\nracism\"\n", "label": 0, "img": "images/memes_6752.png"}
+----------
+harmful - The meme could incite misunderstanding or backlash due to its commentary on a potentially sensitive topic involving race and departmental names, which could lead to
+##########
+{"id": "memes_5995", "image": "memes_5995.png", "labels": ["somewhat harmful", "individual"], "text": "WHERE'S HILLARY?\nCOUNTING VOTES!\nimgfip.comam\n", "label": 1, "img": "images/memes_5995.png"}
+----------
+harmful - This meme targets a specific individual, which can lead to harassment or propagate misinformation. It may incite negative emotions and spread baseless accusations
+##########
+{"id": "memes_6349", "image": "memes_6349.png", "labels": ["very harmful", "individual"], "text": "Don't worry ma'am, we'll find\nyour missing daughter\n", "label": 1, "img": "images/memes_6349.png"}
+----------
+harmful - The meme is making light of an issue involving a missing person, which is a serious and sensitive matter, potentially causing distress to those affected
+##########
+{"id": "memes_4884", "image": "memes_4884.png", "labels": ["not harmful"], "text": "Angry Liberal tantrum\nWhy is facebook allowing all these\npeople to disagree with me 22?\n", "label": 0, "img": "images/memes_4884.png"}
+----------
+harmful - This meme portrays a political stereotype negatively, potentially inciting divisiveness and animosity among different political groups.
+##########
+{"id": "memes_1412", "image": "memes_1412.png", "labels": ["not harmful"], "text": "AMERICAN\n\u0420\u0415\u041ePLE\nElection\nwon with\nillegal ballots\nAMERICAN\n\u0420\u0415OPLE\nElection\nwon with\nlegal ballots\n", "label": 0, "img": "images/memes_1412.png"}
+----------
+not-harmful - This meme humorously portrays a preference for legal ballots in elections without promoting hate speech or targeting any specific individual or group.
+##########
+{"id": "memes_1003", "image": "memes_1003.png", "labels": ["not harmful"], "text": "I GIVE YOU METAL\nFOR SMELLING S0O GOOD\nFunny Obama Memes\n", "label": 0, "img": "images/memes_1003.png"}
+----------
+not-harmful - The meme appears to be a humorous, light-hearted joke that doesn't target individuals or promote hate speech, violence, or harmful stereotypes
+##########
+{"id": "memes_841", "image": "memes_841.png", "labels": ["somewhat harmful", "individual"], "text": "Biden: I changed White House wifi\npassword to \"ILoveMexicans\", if\nTrump wins, hes never gonna have\nservice\nObama: you savage af Joe\n", "label": 1, "img": "images/memes_841.png"}
+----------
+harmful - The meme contains potentially offensive political content and racial undertones, which can be harmful and offensive to certain groups of people.
+##########
+{"id": "memes_3770", "image": "memes_3770.png", "labels": ["somewhat harmful", "community"], "text": "tfw when you're about to hit them with\nthe fair share, muh roads, and somalia\n", "label": 1, "img": "images/memes_3770.png"}
+----------
+harmful - This meme uses stereotypical expressions and may promote or mock certain socio-political discussions. Such content can be offensive and contribute to the spread
+##########
+{"id": "memes_6723", "image": "memes_6723.png", "labels": ["somewhat harmful", "individual"], "text": "C'mon ma'am\nAVAIA\n30 $20\nCLEARANCE\n", "label": 1, "img": "images/memes_6723.png"}
+----------
+not-harmful - The meme features a playful interaction in a retail setting, which doesn't seem to target or demean any individual or group and lacks any
+##########
+{"id": "memes_1040", "image": "memes_1040.png", "labels": ["somewhat harmful", "individual"], "text": "Obama: You have to apologize to Mr. Trump,\nJoe.\nBiden: \u201cUnF#$% you Trump, or whatever.\"\n", "label": 1, "img": "images/memes_1040.png"}
+----------
+harmful - The meme contains offensive language and depicts a disrespectful interaction between public figures, which could incite negative emotions and promote disrespectful behavior towards
+##########
+{"id": "memes_2031", "image": "memes_2031.png", "labels": ["not harmful"], "text": "READY\nto\nPARTY?\nCHECK.\n", "label": 0, "img": "images/memes_2031.png"}
+----------
+not-harmful - This meme humorously suggests someone is ready to party and doesn’t contain any offensive language or images.
+##########
+{"id": "memes_253", "image": "memes_253.png", "labels": ["somewhat harmful", "individual"], "text": "Famous Joe Biden\nquotes...\n\"Unless we do something about this, my children are going to grow\nup in a jungle, the jungle being a racial jungle\". 1977\n\u201cYou got the first mainstream African American who is articulate and\nbright and clean\". 2007\n\u201cYou cannot go to a 7-Eleven or a Dunkin' Donuts unless you have a\nslight Indian accent. I'm not joking,\". 2006\nWell, Ltell you what, if you have a problem figuring out whether you're\nfor me or Trump, then you ain't black.\" 2020\n11alive.com\nW keMM thoe traths to bo ilf ovident, thit al men are createl oqual that they aur\nhy ther Groator with cortain undlionile Rihts. th these re\nrights\nm the\nnts ure istitutol ameny Men, doriving theie\nKONent of the gevernul\nThut wonewer ay Torm\nncomes\nInstitute now Governmont, hnyiny\nitN pewns in auch fornman te thom th ikly te offect\nHappinss. udence inteed will diei mo\nheull not he chonged fer lyht und trun t\nhuth shiewn that mankind ure mere diyved tesu\nright thomadlves by abeiking the enstow\nglen on sunciple\ndesign te redue\nthrow eff uel\nWill you shut up, man.\nmade with mematic\n", "label": 1, "img": "images/memes_253.png"}
+----------
+harmful - This meme contains political content with controversial and offensive quotes which may incite hatred or promote racism.
+##########
+{"id": "memes_4458", "image": "memes_4458.png", "labels": ["not harmful"], "text": "Jacob Drow Vandewer\n\"Raise your hand if you've ever been\npersonally victimized by Regina George.\"\n#DemDebate2\nMSNBC\n1DENOCRATIE DEBATE\n", "label": 0, "img": "images/memes_4458.png"}
+----------
+not-harmful - This meme humorously references a popular movie line to comment on a debate, without promoting hate speech, violence, or misinformation.
+##########
+{"id": "memes_1324", "image": "memes_1324.png", "labels": ["somewhat harmful", "organization"], "text": "THANK YOU PRESIDENT\nTRUMP!\nFOR EXPOSING THE TRUE FACE\nOF THE DEMOCRATIC PARTY!\n", "label": 1, "img": "images/memes_1324.png"}
+----------
+harmful - This meme targets a specific individual and a political group, potentially inciting division and spreading misinformation.
+##########
+{"id": "memes_2775", "image": "memes_2775.png", "labels": ["not harmful"], "text": "\"They talk about this\nGreat Recession as if it\nfell out of the sky, like, \"Oh, my\ngoodness, where did it come from?\"\nIt came from this man voting to put two\nwars on a credit card, to at the same time\nput a prescription drug benefit on the credit\ncard, a trillion-dollar tax cut for the very\nwealthy. I was there. I voted against them.\nI said, no, we can't afford that. And now, all\nof a sudden, these guys are so seized with\nthe concern about the debt that they created.\"\n- VP Joe Biden\n", "label": 0, "img": "images/memes_2775.png"}
+----------
+not-harmful - This meme quotes a political figure discussing economic policies and concerns. It does not contain offensive language, hate speech, or promote violence
+##########
+{"id": "memes_6329", "image": "memes_6329.png", "labels": ["not harmful"], "text": "THINGS THAT GO FASTER THAN\nNEVADA VOTE COUNTING\nWATCHING GRASS GROW\nWATCHING\nSNAILS CRAWL\nWATCHING PAINT DRY\n", "label": 0, "img": "images/memes_6329.png"}
+----------
+not-harmful - The meme humorously comments on the seemingly slow process of vote counting, without targeting or offending any particular group or individual.
+##########
+{"id": "memes_1716", "image": "memes_1716.png", "labels": ["somewhat harmful", "individual"], "text": "YOU'VE GOTTA GO BACK TO 1945\nFIND DONALD TRUMP'S FATHER AND\nGIVE HIM A CONDOM!\n", "label": 1, "img": "images/memes_1716.png"}
+----------
+harmful - This meme promotes harmful speech by suggesting the prevention of someone's birth, crossing into offensive and inappropriate content that can be seen as abusive or threatening
+##########
+{"id": "memes_4451", "image": "memes_4451.png", "labels": ["not harmful"], "text": "DON'T BRING INDEX CARDS\nTO A KNIFE FIGHT\nNEXT TIME UNCLE JOE\n", "label": 0, "img": "images/memes_4451.png"}
+----------
+harmful - This meme promotes a violent analogy that suggests conflict escalation, which can be interpreted as inciting or glorifying violence, making it potentially harmful
+##########
+{"id": "memes_3595", "image": "memes_3595.png", "labels": ["somewhat harmful", "organization"], "text": "Libertarians for\nImmigrants\n", "label": 1, "img": "images/memes_3595.png"}
+----------
+not-harmful - The meme expresses a political viewpoint supporting immigrants, which is a legitimate stance and does not contain hate speech, threats, or inc
+##########
+{"id": "memes_1273", "image": "memes_1273.png", "labels": ["somewhat harmful", "individual"], "text": "Beau's\nTRUMP\nSANDWICH\n-WHITE BREAD-\n- Full oF BALONEY-\nW/ RusbIAN DRESSIN\n", "label": 1, "img": "images/memes_1273.png"}
+----------
+not-harmful - This meme uses wordplay in a humorous manner to make a political joke but does not incite harm or promote hate speech.
+##########
+{"id": "memes_834", "image": "memes_834.png", "labels": ["somewhat harmful", "individual"], "text": "YOU THINK\nHILLARY GIVES\nYOU A HARD TIM\u00c9?\n", "label": 1, "img": "images/memes_834.png"}
+----------
+harmful - The meme can be perceived as targeting and discrediting an individual, potentially causing reputational harm and fostering negative sentiment without constructive purposes.
+##########
+{"id": "memes_3677", "image": "memes_3677.png", "labels": ["not harmful"], "text": "Don't ever let anyone ever get\naway with telling you that a vote\nfor a third party is wasted. What\nwere the votes for these guys?\nAn investment?\n", "label": 0, "img": "images/memes_3677.png"}
+----------
+not-harmful - The meme discusses political voting preferences and criticizes the idea of third-party votes being wasted. The content stays within political discourse and
+##########
+{"id": "memes_5162", "image": "memes_5162.png", "labels": ["very harmful", "organization"], "text": "Douglas County Republicans\n2 hrs \u00b7 O\n...\nYOU GET BACK\nIN THAT HOUSE!\nWE'RE TRYING\nTO CONTROL\nANOTHER\nELECTION.\nUVISIT PATRIOTPOST.US FOR THE BEST HUMORAND MEMES\nTHREE BIG REASONS\nDems want to extend\nquarantine:\n1. Mail in ballots so they can\ncheat\n2. Keep Demantia Joe off\nthe campaign trial\n3. Crash the economy and\nblame Trump\n", "label": 1, "img": "images/memes_5162.png"}
+----------
+harmful - Promotes misinformation and political bias, suggesting dishonesty by a political party and inappropriate insults directed at a specific individual.
+##########
+{"id": "memes_3863", "image": "memes_3863.png", "labels": ["somewhat harmful", "society"], "text": "AND THEN THE STATE SAID\nLET THERE BE ROADS\n", "label": 1, "img": "images/memes_3863.png"}
+----------
+not-harmful - This meme humorously depicts a biblical reference to the parting of the Red Sea used to create roads, and does not contain
+##########
+{"id": "memes_4471", "image": "memes_4471.png", "labels": ["not harmful"], "text": "Ghunteh\n\"never, im my 24 years of teaching, has a substitute left a\nnote this bad\"\n", "label": 0, "img": "images/memes_4471.png"}
+----------
+not-harmful - The meme humorously comments on an unusual experience in teaching without targeting or offending any group or individual.
+##########
+{"id": "memes_4934", "image": "memes_4934.png", "labels": ["somewhat harmful", "individual"], "text": "Hey, look who stopped by the\nMoonlight Bunny Ranch Brothel.\nit's @seanhannity!\n*I'm sure he just stopped by for a\ndrink\nIBUNNU DA\n", "label": 1, "img": "images/memes_4934.png"}
+----------
+harmful - This meme targets an individual by associating them with a brothel, potentially defaming their character and causing reputational harm.
+##########
+{"id": "memes_1343", "image": "memes_1343.png", "labels": ["very harmful", "individual"], "text": "DONALD TRUMP ONCE SAID HE DIDNT WANT\nHIS KIDS GROWING UP IN A RACIAL JUNGLE\"\nIST KIDDING, THAT WAS THIS GUY\n", "label": 1, "img": "images/memes_1343.png"}
+----------
+harmful - This meme spreads misinformation and promotes racial negativity by attributing offensive statements to individuals, fostering divisiveness and potential harm.
+##########
+{"id": "memes_3770", "image": "memes_3770.png", "labels": ["somewhat harmful", "community"], "text": "tfw when you're about to hit them with\nthe fair share, muh roads, and somalia\n", "label": 1, "img": "images/memes_3770.png"}
+----------
+harmful - The meme can be perceived as offensive and dehumanizing due to the use of a non-human face and the potentially mocking tone regarding certain
+##########
+{"id": "memes_4499", "image": "memes_4499.png", "labels": ["not harmful"], "text": "among Mon deriv Men, deriving\nt\norm\nthe Right Pecight of thele to\nThat wh\nany wheneve\nCNN\nCAN FIRST PRESIDENTIAL DEBATE\n6:33 PM PT\n#Debates2020NN\n\"Shut up man. This is so\nunpresidential. Keep\nyapping, man.\"\n99\nJoe Biden\n", "label": 0, "img": "images/memes_4499.png"}
+----------
+not-harmful - This meme appears to reference a public political debate and does not contain harmful or offensive language or imagery.
+##########
+{"id": "memes_2867", "image": "memes_2867.png", "labels": ["not harmful"], "text": "what chansipakon - Nav ta\nTrump: Gan i get past\nOden: What's the panoword\nTrump: I dan't know\nBiden Losers sys what\nTrump: What\nChama JOE\nSOK\n..\n", "label": 0, "img": "images/memes_2867.png"}
+----------
+not-harmful - This meme depicts a humorous and fictional conversation between public figures, using light-hearted teasing without promoting hate speech, violence, or offensive
+##########
+{"id": "memes_1600", "image": "memes_1600.png", "labels": ["somewhat harmful", "community"], "text": "NO PROGRESSIVE IN THE DEMOCRATIC\nPARTY IS GOING TO RISE UP, TAKE\nCONTROL OF THE PARTY AND SAVE US. THERE\nIS ONE RULING PARTY. THE CORPORATE PARTY.\nIT MAY ENGAGE IN PETT.\nINTERNECINE WARFARE AS IT DID IN THE RECENT\nGOVERNMENT SHUTDOWN. IT MAY SQUABBLE\nOVER POWER AND THE SPOILS OF POWER. IT\nMAY COME WRAPPED IN MORE TOLERANT STANCES\nREGARDING WOMEN, LGBT RIGHTS AND THE\nDIGNITY OF PEOPLE OF COLOR, BUT ON THE\nFUNDAMENTAL ISSUES OF WAR, INTERNAL SEGURITY\nAND GORPORATE DOMINATION THERE IS NO DIVERGENGE\n", "label": 1, "img": "images/memes_1600.png"}
+----------
+harmful - The meme spreads political negativity, which may incite divisiveness and conflict among viewers, potentially leading to harmful discussions or actions.
+##########
+{"id": "memes_1119", "image": "memes_1119.png", "labels": ["somewhat harmful", "individual"], "text": "ra\u00f0ul\nFollow\n@ra0ul_poborski\nTrump: I'm gonna give you the best handshake,\nyou know people say I give the best\nhandshakes.\nObama: Get it right up ye ya c\n", "label": 1, "img": "images/memes_1119.png"}
+----------
+harmful - The meme uses offensive language and depicts an inappropriate gesture, which can be considered disrespectful and harmful.
+##########
+{"id": "memes_4964", "image": "memes_4964.png", "labels": ["very harmful", "organization"], "text": "DON'T GROPE.\nVOTE.\nFEPUBLICANS oR CLINTON\nThis rolling billboard from\nTrump's very own Republican\nParty really says it all.\n", "label": 1, "img": "images/memes_4964.png"}
+----------
+harmful - The meme contains a reference to inappropriate behavior and could be seen as defamatory or offensive towards a group or individual.
+##########
+{"id": "memes_4431", "image": "memes_4431.png", "labels": ["not harmful"], "text": "Democrats\nbefore\ngetting\nelected\nSlide to the left.\nDemocrats\nonce in\noffice\nSlide to the right.\n", "label": 0, "img": "images/memes_4431.png"}
+----------
+not-harmful - The meme is political satire, poking fun at Democrats. It does not contain hate speech, threats, or explicit content.
+##########
+{"id": "memes_8135", "image": "memes_8135.png", "labels": ["not harmful"], "text": "SCIENTISTS HAVE DISCOVERED A CATERPILLAR\nTHAT LOOKS JUST LIKE DONALD TRUMP'S HAIR.\n", "label": 0, "img": "images/memes_8135.png"}
+----------
+not-harmful - The meme makes a humorous comparison between a caterpillar and a hairstyle without promoting hate speech or targeting an individual with harmful intent.
+##########
+{"id": "memes_6544", "image": "memes_6544.png", "labels": ["not harmful"], "text": "when will Obama return home to watch\nanime with me\n", "label": 0, "img": "images/memes_6544.png"}
+----------
+not-harmful - This meme appears to be a comedic image involving a public figure, focusing on a humorous scenario without any abusive, offensive, or
+##########
+{"id": "memes_827", "image": "memes_827.png", "labels": ["somewhat harmful", "individual"], "text": "IT DOESN'T MATTER WHO YOU ARE.\nWHEN YOUR WIFE SAYS\n\"SWITCH SEATS\".\nYOU. SWITCH SEATS.\n", "label": 1, "img": "images/memes_827.png"}
+----------
+not-harmful - This meme humorously depicts a common relationship dynamic without offending or targeting any individual or group. It promotes humor in everyday situations.
+##########
+{"id": "memes_4846", "image": "memes_4846.png", "labels": ["very harmful", "individual"], "text": "WSI reports that Trump Lawyer Michael\nCohen paid porn star Stormy Waters\n$130K to keep quiet about a sexual\nencounter she had with Donald Trump.\nTHE BIGGEST SHOCK IS THAT\nTRUMP ACTUALLY FOLLOWED\nTHROUGH PAYING SOMEONE.\nThe Other 98%\nMupile Uioad ou 90\n", "label": 1, "img": "images/memes_4846.png"}
+----------
+harmful - This meme perpetuates vulgar and offensive rumors, discredits individuals, and promotes disinformation, which can harm reputations and violate community
+##########
+{"id": "memes_4674", "image": "memes_4674.png", "labels": ["not harmful"], "text": "IOWA\nA TEXAS GOVERNOR\nBecase t worked so wel the last fime.\nPundstan.com\n", "label": 0, "img": "images/memes_4674.png"}
+----------
+not-harmful - This meme makes a political reference and commentary without using offensive language or imagery. It does not target any specific individual with derogatory
+##########
+{"id": "memes_6722", "image": "memes_6722.png", "labels": ["not harmful"], "text": "It's not that\nthe Majority are silent\nIt's that the media are\nsilent about the Majority.\nimgfip.com\n", "label": 0, "img": "images/memes_6722.png"}
+----------
+harmful - This meme promotes a narrative that can deepen divisions within society by suggesting media bias, potentially inciting distrust and conflict.
+##########
+{"id": "memes_8061", "image": "memes_8061.png", "labels": ["not harmful"], "text": "When you scared to hold his hand so\nhe grabs your wrist instead\nRoyel Miss\nLittl\n", "label": 0, "img": "images/memes_8061.png"}
+----------
+harmful - The meme depicts a child and includes potentially troubling context implying an uncomfortable interaction, which could be interpreted as disturbing or inappropriate.
+##########
+{"id": "memes_2707", "image": "memes_2707.png", "labels": ["not harmful"], "text": "Listen here jack, now this bad boy\ncan..can.uh.can.\n", "label": 0, "img": "images/memes_2707.png"}
+----------
+not-harmful - This meme humorously depicts a common scenario of someone trying to explain something with apparent difficulty. It does not contain discriminatory, violent
+##########
+{"id": "memes_2243", "image": "memes_2243.png", "labels": ["not harmful"], "text": "DOIN' MY\nPieDeus.com\nFRIDAY DANCE\n", "label": 0, "img": "images/memes_2243.png"}
+----------
+not-harmful - This meme features a dog dancing with text about Friday, which is light-hearted and not offensive or harmful.
+##########
+{"id": "memes_5660", "image": "memes_5660.png", "labels": ["not harmful"], "text": "IF WE COULD\nMAKE A NEW CATEGORY\nFOR POLITICAL\nMEMES THAT CAN BE\nHIDDEN LIKE NSFW:\nTO KEEP THIS SITE\nFUN FOR PEOPLE\nWHO DON'T WANT TO\nDELVE INTO US POLITICS\nTHAT WOULD BE GREAT\nimgfilip.com\n", "label": 0, "img": "images/memes_5660.png"}
+----------
+not-harmful - This meme humorously suggests a new category for political memes to improve user experience, without using offensive language or targeting specific individuals or
+##########
+{"id": "memes_3595", "image": "memes_3595.png", "labels": ["somewhat harmful", "organization"], "text": "Libertarians for\nImmigrants\n", "label": 1, "img": "images/memes_3595.png"}
+----------
+harmful - The meme may provoke xenophobic sentiments and potentially incite negative or discriminatory reactions towards a group of people, which can be harmful.
+##########
+{"id": "memes_4422", "image": "memes_4422.png", "labels": ["not harmful"], "text": "The Red Beard\nGRedBeardedFela\nMe tuning in to #PresidentialDebate for 0.07 seconds\n337 am 30 Sep 2000 - Twiner for Android\n", "label": 0, "img": "images/memes_4422.png"}
+----------
+not-harmful - The meme humorously references a brief interest in a presidential debate, without containing offensive or harmful content.
+##########
+{"id": "memes_1403", "image": "memes_1403.png", "labels": ["somewhat harmful", "organization"], "text": "THE FACE YOU MAKE\nWHEN YOU'VE SPENT HALF YOUR LIFE BEING\nPelitinARAINWASHED BY THE DEMOCRATIC PARTY\n-AmericaRepublic-\n", "label": 1, "img": "images/memes_1403.png"}
+----------
+harmful - The meme promotes divisive political rhetoric, accusing a political party of brainwashing, which could cause unrest, promote misinformation, and create anim
+##########
+{"id": "memes_6725", "image": "memes_6725.png", "labels": ["not harmful"], "text": "I'VE SERVED THIS\nCOUNTRY FOR DECADES.\nWHAT IS\nCHINA\n", "label": 0, "img": "images/memes_6725.png"}
+----------
+not-harmful - The meme uses humor related to a TV show and a question-answer format. It does not promote violence, discrimination, or any
+##########
+{"id": "memes_209", "image": "memes_209.png", "labels": ["not harmful"], "text": "Poor people\nSpending beyond their means while\nonly performing cheap labor jobs\nwithout ever developing skills or\nimproving their value to the market\nTheir bank accounts\n[adultswim.com]\n\"Why did capitalism do this\"\n[adultswim.com]\n", "label": 0, "img": "images/memes_209.png"}
+----------
+harmful - It promotes negative stereotypes about poor people, suggesting their economic struggles are solely due to personal failings, which can perpetuate harmful biases and
+##########
+{"id": "memes_5723", "image": "memes_5723.png", "labels": ["not harmful"], "text": "Bernie or Hillary?\nBe informed. Compare them on the isues that malter.\nIssue: friends needs a charger\n\"ya sure here\"\n\"what % you at\n", "label": 0, "img": "images/memes_5723.png"}
+----------
+not-harmful - This meme humorously compares responses to a common situation without promoting hate, violence, or offensive content.
+##########
+{"id": "memes_6713", "image": "memes_6713.png", "labels": ["not harmful"], "text": "Obama: Don't discuss Titanic with Joe\nDiCaprio: Why?\nObama: He's still upset. He thinks you\ncould've fit on that door, and I don't\ndisagree\n", "label": 0, "img": "images/memes_6713.png"}
+----------
+not-harmful - This meme makes a light-hearted joke based on the movie Titanic without targeting or offending any group or individual.
+##########
+{"id": "memes_1156", "image": "memes_1156.png", "labels": ["somewhat harmful", "organization"], "text": "DEMOCRATS IN 1860:\nDEMOC\n\"They're not persons under the\nlaw. They have no rights.\"\n\"They're nc\nlaw. The\n", "label": 1, "img": "images/memes_1156.png"}
+----------
+harmful - The meme perpetuates divisive and inflammatory historical comparisons, potentially inciting anger and reinforcing harmful stereotypes, which can contribute to a hostile
+##########
+{"id": "memes_1684", "image": "memes_1684.png", "labels": ["somewhat harmful", "organization"], "text": "WELL NEVER HAVE TO WORRY\nABOUT CHINA ATTACKING US!\nTHEY ARE 12 HOURS AHEAD, SO\nWE'LL HAVE PLENTY OF TIME TO\nSHOOT DOWN THEIR MISSILES\nDid she REALLY say\nthat? Yep, you're\nlooking at the future of\nthe Democrat party...\n", "label": 1, "img": "images/memes_1684.png"}
+----------
+harmful - The meme contains political and potentially misleading content, which could incite negative sentiments and spread misinformation.
+##########
+{"id": "memes_960", "image": "memes_960.png", "labels": ["not harmful"], "text": "IAM\nBARACK OBAMA\n", "label": 0, "img": "images/memes_960.png"}
+----------
+not-harmful - The meme appears to be a lighthearted joke and does not contain any offensive or harmful content.
+##########
+{"id": "memes_4715", "image": "memes_4715.png", "labels": ["not harmful"], "text": "KKK-ISIS\nSAME TRAILER-DIFFERENT\nPARK R.\n", "label": 0, "img": "images/memes_4715.png"}
+----------
+harmful - The meme references hate groups and promotes divisive, offensive content which can incite hatred and violence.
+##########
+{"id": "memes_3823", "image": "memes_3823.png", "labels": ["somewhat harmful", "society"], "text": "LEGALIZE\nRECREATIONAL\nCOCAINE.\nLIBERTARIAN\n", "label": 1, "img": "images/memes_3823.png"}
+----------
+harmful - It promotes the legalization of a dangerous and illegal drug, which could encourage drug use and pose significant health and legal risks.
+##########
+{"id": "memes_3761", "image": "memes_3761.png", "labels": ["somewhat harmful", "individual"], "text": "TRUMP\nTHATS A NICE\nWALL'YOU GOT THERE\nIT WOULD BE\nASHAME IF SOMEONE.\nCLIMBED IT\n", "label": 1, "img": "images/memes_3761.png"}
+----------
+harmful - The meme contains political content and may incite division or reinforce divisive sentiments. It also uses potentially threatening language, which might be perceived
+##########
+{"id": "memes_2665", "image": "memes_2665.png", "labels": ["not harmful"], "text": "WHICH STATEAM I IN?\nWHERE EVER YOU ARE,\nYOU'RE THERE!\n", "label": 0, "img": "images/memes_2665.png"}
+----------
+not-harmful - The meme uses a humorous context to make a political joke, but it does not contain hate speech, violence, or discriminatory language
+##########
+{"id": "memes_4246", "image": "memes_4246.png", "labels": ["not harmful"], "text": "Marie\nmane.mca.\nThe rest of the world to America rn #Debates2020\n#PresidentialDebate\nRT M\nFHAVE YOU TRIED\nTURNING IT OFF AND ON AGAIN?\n921 am 30 Sep 200- Tuiter for Phone\n", "label": 0, "img": "images/memes_4246.png"}
+----------
+not-harmful - The meme uses humor to address a current event (debate) and employs a well-known TV reference without promoting hate speech,
+##########
+{"id": "memes_875", "image": "memes_875.png", "labels": ["not harmful"], "text": "ANOTHER THIN MINT MEME\nFUCK IT\nTHEY'RE DELICIOUS\n", "label": 0, "img": "images/memes_875.png"}
+----------
+harmful - The meme contains offensive language, which can be considered inappropriate and disrespectful to some audiences.
+##########
+{"id": "memes_6544", "image": "memes_6544.png", "labels": ["not harmful"], "text": "when will Obama return home to watch\nanime with me\n", "label": 0, "img": "images/memes_6544.png"}
+----------
+not-harmful - The meme is a light-hearted, humorous post without any offensive, harmful, or inappropriate content. It features a playful comment about
+##########
+{"id": "memes_4322", "image": "memes_4322.png", "labels": ["not harmful"], "text": "Ow ON\nTOPIC\nPolitical Revolution vs Improving the System\nCNN\nMIT\nCW DEMOCRATIC PRESIDENTIAL DEBATE\nIDemDebate\n", "label": 0, "img": "images/memes_4322.png"}
+----------
+not-harmful - This meme humorously depicts a political debate using a fictional scenario without promoting violence, hate speech, or discrimination. It appears to
+##########
+{"id": "memes_990", "image": "memes_990.png", "labels": ["somewhat harmful", "individual"], "text": "steen\noliert\nYES, WE CAN!\n", "label": 1, "img": "images/memes_990.png"}
+----------
+not-harmful - The image contains a positive and motivational message, "Yes, we can!" which encourages optimism without any offensive or harmful content.
+##########
+{"id": "memes_1347", "image": "memes_1347.png", "labels": ["somewhat harmful", "individual"], "text": "OH NO, THE ECONOMY IS COMING BACK!\nCALL SOROS!\n", "label": 1, "img": "images/memes_1347.png"}
+----------
+harmful - The meme uses a potentially defamatory and conspiratorial statement involving a public figure, which can incite misinformation and hostility.
+##########
+{"id": "memes_6553", "image": "memes_6553.png", "labels": ["somewhat harmful", "individual"], "text": "Barack Obama\n@BarackObama\nReplying to @MichelleObama\nJoe Biden\n@JoeBiden\nReplying to @BarackObama and\n@MichelleObama\nHe's mine sweetie.\nIG: TheFunnylntrovert\n", "label": 1, "img": "images/memes_6553.png"}
+----------
+not-harmful - This meme appears to be light-hearted and humorous, involving harmless social media banter. It does not contain offensive language, threats
+##########
+{"id": "memes_6662", "image": "memes_6662.png", "labels": ["somewhat harmful", "organization"], "text": "JOE BIDEN'S RACIST COMMENTS\nTHE MEDIA\nPEOPLE WHO STILL\nTHINK TRUMP IS A RACIST\n@CONSERVATIVE_MEMES\n", "label": 1, "img": "images/memes_6662.png"}
+----------
+harmful - Contains political content that depicts accusations of racism and manipulation by the media, potentially inciting divisiveness and spreading false or misleading narratives.
+##########
+{"id": "memes_2291", "image": "memes_2291.png", "labels": ["not harmful"], "text": "Hillarywill campalgn\nfor Democrats\nduring 2018 midterms\nAccelerationist\nGreens B like:\nPlease do\nimgfip.com\n", "label": 0, "img": "images/memes_2291.png"}
+----------
+harmful - The meme contains a political figure alongside promotion of accelerationist ideology, which can endorse harmful or extreme views and can lead to division or mis
+##########
+{"id": "memes_3301", "image": "memes_3301.png", "labels": ["somewhat harmful", "individual"], "text": "The ONLY Bridges\n*hillary's built\nAre EXIT Ramps\nGreen Party ibertarian\nExit LEFT\nParty\nNext Exit\nRepublican Party\nExit RIGHT\nimgilip com\nAny Republican Can NOW Beat her\n", "label": 1, "img": "images/memes_3301.png"}
+----------
+harmful - The meme targets an individual with derogatory political commentary, which could incite hostility and divisiveness.
+##########
+{"id": "memes_5114", "image": "memes_5114.png", "labels": ["somewhat harmful", "individual"], "text": "Chris Person\nFolow\n850\n1,327\n1000 PMFeb 20ne\n", "label": 1, "img": "images/memes_5114.png"}
+----------
+not-harmful - The meme appears to compare two images humorously without any offensive language, discriminatory content, or targeted harassment.
+##########
+{"id": "memes_4970", "image": "memes_4970.png", "labels": ["not harmful"], "text": "ST.CATHERINE\nEPISCOPAL CHURCH\nGOV. PERAY, GOO HERE.\nTHE VOICE IN YOUR HEAD IS\nNOT ME. TAKE YOUR MEDS.\nCHOIA PRACTICE WED. 7 P.M.\n", "label": 0, "img": "images/memes_4970.png"}
+----------
+not-harmful - This meme uses humor involving a church sign to convey a light-hearted message and does not promote violence, hate speech, or harmful
+##########
+{"id": "memes_4973", "image": "memes_4973.png", "labels": ["somewhat harmful", "individual"], "text": "\".JF YOU'RE\nGOING TO BE HERE,\nTHEN YOU SHOULD\nLEARN THE\nLANGUAGE OF THE\nCOUNTRY THAT\nYOU JUST ARRIVED\nAT.\" 0ONALO TRUMP\nJUST KIDDING.\nBARACK OBAMA\nSAID THAT. YOU\nPROBABLY DON'T.\nREMEMBER THOUGH\nBECAUSE THE MEDIA\nDION'T SPEND A MONTH\nCALLING HIS COMMENTS\nRACIST.\n", "label": 1, "img": "images/memes_4973.png"}
+----------
+harmful - This meme spreads misinformation and falsely attributes controversial statements, fostering divisiveness and racism. It targets specific public figures, potentially inciting hate and
+##########
+{"id": "memes_1187", "image": "memes_1187.png", "labels": ["not harmful"], "text": "We're more Stupid than\nyou give us Cred\u012bt for\nGood Morning, Sunday Morning!\n", "label": 0, "img": "images/memes_1187.png"}
+----------
+not-harmful - The meme takes a humorous approach and doesn't target a specific group or individual in a harmful or offensive manner.
+##########
+{"id": "memes_5962", "image": "memes_5962.png", "labels": ["not harmful"], "text": "Me commenting\nMe commenting on the politics of\non US politics\nmy own country\nWait, Stephen Harper is still the\nCanadarian president, right?\n", "label": 0, "img": "images/memes_5962.png"}
+----------
+not-harmful - This meme pokes fun at someone's ignorance about political figures, which is intended to be humorous and does not contain any offensive or
+##########
+{"id": "memes_3770", "image": "memes_3770.png", "labels": ["somewhat harmful", "community"], "text": "tfw when you're about to hit them with\nthe fair share, muh roads, and somalia\n", "label": 1, "img": "images/memes_3770.png"}
+----------
+harmful - This meme has the potential to be offensive as it references sensitive topics and stereotypes, which may be harmful or distressing to certain groups of
+##########
+{"id": "memes_230", "image": "memes_230.png", "labels": ["somewhat harmful", "individual"], "text": "ELSA.\nDO YOU WANNA BUILD A WALL?\n", "label": 1, "img": "images/memes_230.png"}
+----------
+harmful - This meme references a politically sensitive topic, which can be divisive and offensive to some audiences.
+##########
+{"id": "memes_8101", "image": "memes_8101.png", "labels": ["not harmful"], "text": "WANTS TO CONTROL THE COUNTRY\nCAN'T EVEN CONTROL HIS HAIR\n", "label": 0, "img": "images/memes_8101.png"}
+----------
+not-harmful - The meme is humorous and references a politician's appearance, specifically their hair, without any hateful or violent language. It is sat
+##########
+{"id": "memes_4838", "image": "memes_4838.png", "labels": ["not harmful"], "text": "COMMON CORE MATH\n33.000 EMAILS + 13 DEVICES + 1\nHAMMER + BLEACHBIT = 0 EMAILS\n", "label": 0, "img": "images/memes_4838.png"}
+----------
+harmful - The meme implies destruction of evidence and carries a political undertone, which may provoke biased reactions and reinforce divisive stereotypes.
+##########
+{"id": "memes_3772", "image": "memes_3772.png", "labels": ["somewhat harmful", "organization"], "text": "Nobody:\nDrunk Libertarians:\nfuck taxes\nmeirl by LeaveEveryoneAlone\nMORE MEMES\n", "label": 1, "img": "images/memes_3772.png"}
+----------
+not-harmful - This meme uses humor to depict a stereotype in a non-offensive way and does not promote harm or incite negative actions.
+##########
+{"id": "memes_3590", "image": "memes_3590.png", "labels": ["somewhat harmful", "organization"], "text": "DEMOCRATS\nREPUBLICANS\nSE TRUMPIS DEPLORABLE\nVOTE BLUE!\nGREEN PARTY\nTRUNE IS TRIGGERING THE UBS\nVOTE RED!\nLIBERTARIANS\nSEE BOTH PARTIES SUCK\nVOTE GREEN!\nGOVERNMENT IS THE PHOBLIN\nVOTE LIBERTARIAN!\nME:\nTHE WHOLE DAMN SYSTEM IS RIGGED\nIF YOU THINK VOTING WILL'FIX ITYOU RE A DUMBASS\n", "label": 1, "img": "images/memes_3590.png"}
+----------
+harmful - The meme uses derogatory language and promotes divisive political rhetoric, which can incite anger and conflict among viewers.
+##########
+{"id": "memes_954", "image": "memes_954.png", "labels": ["not harmful"], "text": "HE WHITE HO\nWASHING\nBASICALLY I'M HERE TO ANNOUNCE\nTHAT WE'RE BUILDING IRON MAN\n", "label": 0, "img": "images/memes_954.png"}
+----------
+not-harmful - This meme humorously references a popular fictional character, Iron Man, without targeting any individual or group, thereby not causing harm or
+##########
+{"id": "memes_4893", "image": "memes_4893.png", "labels": ["not harmful"], "text": "A STORM IS COMING\nAn entire generation\nis about to reject the\nRepublican party.\n", "label": 0, "img": "images/memes_4893.png"}
+----------
+not-harmful - This meme expresses a political opinion without promoting violence, hate speech, or any harmful content. It is simply a forecast or prediction
+##########
+{"id": "memes_4469", "image": "memes_4469.png", "labels": ["not harmful"], "text": "This was how a family watched\nthe presidential debate... LOL !!\n", "label": 0, "img": "images/memes_4469.png"}
+----------
+not-harmful - The meme humorously depicts a family covering their TV during a presidential debate, using lighthearted humor without promoting harm or offensive content
+##########
+{"id": "memes_2185", "image": "memes_2185.png", "labels": ["somewhat harmful", "organization"], "text": "When you blame the Green\nParty and Russia for losing an\nelection in Ohio\n", "label": 1, "img": "images/memes_2185.png"}
+----------
+not-harmful - This meme humorously comments on political blame-shifting without targeting any specific individual or group maliciously. It makes a satirical
+##########
+{"id": "memes_6654", "image": "memes_6654.png", "labels": ["not harmful"], "text": "CNN Breaking News: Joe Biden found two\nquarters in Burlington today (story still\ndeveloping).\n@fuckjerry\n", "label": 0, "img": "images/memes_6654.png"}
+----------
+not-harmful - This meme is a lighthearted joke about a political figure and does not promote violence, hate speech, or any harmful behavior against
+##########
+{"id": "memes_2170", "image": "memes_2170.png", "labels": ["somewhat harmful", "organization"], "text": "\"DEMOCRACY WORKS BESTWHEN EVERYONE\nPARTICIPATES.\" - PAT QUINN 7/V4\nHIN\ni\ncom www\nNQUIN\nINN QU\nFOR LLINOS\nco\nww.Quir\nm www.Quinn\nATTACKS THE GREEN PARTY\nFOR PARTICIPATING AGAINST HIM\nimglip.com\n", "label": 1, "img": "images/memes_2170.png"}
+----------
+harmful - The meme implies hypocrisy by accusing someone of attacking a political party for participating in democracy, which can incite distrust and negative sentiments about the
+##########
+{"id": "memes_6299", "image": "memes_6299.png", "labels": ["not harmful"], "text": "HE LOST VERSION OF\nEPLANES, TRAINS & AUTOMOBILES\n", "label": 0, "img": "images/memes_6299.png"}
+----------
+not-harmful - The meme humorously references a movie by suggesting a fictional "lost version" without any offensive language or imagery.
+##########
+{"id": "memes_3618", "image": "memes_3618.png", "labels": ["not harmful"], "text": "TAXATIONISTHEIT\n", "label": 0, "img": "images/memes_3618.png"}
+----------
+harmful - The meme promotes a negative and misleading message with the phrase "Taxation is theft," which can foster harmful attitudes towards necessary civic responsibilities.
+##########
+{"id": "memes_3696", "image": "memes_3696.png", "labels": ["somewhat harmful", "society"], "text": "Have you been engaging in unprotected\ngovernment welfare and warfare?\nBecause it seems you have contracted high\ntaxes, crippling regulation, and burdensome\nLicensing.\nLibertarian101.com\n", "label": 1, "img": "images/memes_3696.png"}
+----------
+not-harmful - This meme expresses a political opinion on taxes and regulations without promoting violence or hate speech, thus it is not harmful.
+##########
+{"id": "memes_3476", "image": "memes_3476.png", "labels": ["not harmful"], "text": "These are anarchists.\nThese are anti-free speech\nfascists. Any questions?\n", "label": 0, "img": "images/memes_3476.png"}
+----------
+harmful - This meme promotes negative stereotypes and appears to incite division by labeling specific groups as "anarchists" and "anti-free speech fasc
+##########
+{"id": "memes_3785", "image": "memes_3785.png", "labels": ["somewhat harmful", "organization"], "text": "I'M NOT SITH\nI'M ALT-JEDI YOU\nCULTURAL REBEL CUCK\nNo, 'Clovergender' is NOT a\nThing! - Libertarian Party of\nNevada\n", "label": 1, "img": "images/memes_3785.png"}
+----------
+harmful - The meme uses derogatory language and insults aimed at individuals or groups, which can contribute to bullying or hate speech.
+##########
+{"id": "memes_8129", "image": "memes_8129.png", "labels": ["not harmful"], "text": "20\n440\n71\nAP\n55\n", "label": 0, "img": "images/memes_8129.png"}
+----------
+not-harmful - The meme simply shows different life stages with ages. It does not contain offensive or harmful content.
+##########
+{"id": "memes_3824", "image": "memes_3824.png", "labels": ["somewhat harmful", "society"], "text": "\"I want gay married\ncouples to be able to\nprotect their marijuana\nplants with guns.\"\nvotemoen.ca\nLibertarian\n", "label": 1, "img": "images/memes_3824.png"}
+----------
+not-harmful - The meme expresses a political opinion on gay marriage, marijuana legalization, and gun rights without promoting hate speech or violence towards any group
+##########
+{"id": "memes_5881", "image": "memes_5881.png", "labels": ["not harmful"], "text": "Instagram\namericunmade\nSporsored\nLEL\n***\nTEAPARTY\nNEWS\nMAKE AMERIGA GREAT AGAINI\nJOIN FLORIDA TRUMP RALLIESI\nLearn More\namericanmade Florida goes Truml Here we Florida\ncies partiopating Daytone teach, Tampa. Fort\nMyen, Miani, Orlando. Pensacola, Ftmore\n", "label": 0, "img": "images/memes_5881.png"}
+----------
+harmful - The meme contains a political message which can be divisive, potentially leading to conflicts or inciting negative behaviors among different groups.
+##########
+{"id": "memes_6860", "image": "memes_6860.png", "labels": ["somewhat harmful", "individual"], "text": "CAN WE ALL SHOW\nSOME RESPECT FOR THE\nHIGEST PAID PERSON\nAT CNN & WAPO?\n", "label": 1, "img": "images/memes_6860.png"}
+----------
+harmful - The meme is likely targeting an identifiable individual, potentially leading to ridicule or harassment, and references specific organizations, which can imply slander or
+##########
+{"id": "memes_6803", "image": "memes_6803.png", "labels": ["not harmful"], "text": "NAME SOMETHING\nTHAT TRIGGERS\nTHE LEFT\nFreedomWork\n100\nTRUMP 35 CONSTITUTION 8\nPATRIOTISM 20\nPERSONAL\nRESPONSIBILITY\n6.\nTAX CUTS 15\nJUSTICE BRETT\nKAVANAUGH\nFREE SPEECH 8 RED HATS 4\n", "label": 0, "img": "images/memes_6803.png"}
+----------
+harmful - The meme reinforces divisive stereotypes and could incite political arguments and negative sentiments among different groups, which can be harmful to community harmony.
+##########
+{"id": "memes_2650", "image": "memes_2650.png", "labels": ["not harmful"], "text": "Obama: *whispers* put the laser\npointer away or give it to me\nML DOOD\n", "label": 0, "img": "images/memes_2650.png"}
+----------
+not-harmful - This meme depicts a humorous imagined scenario involving a laser pointer and appears to be intended for light-hearted entertainment without promoting harm or negativity
+##########
+{"id": "memes_3393", "image": "memes_3393.png", "labels": ["somewhat harmful", "organization"], "text": "CH\nIN FUTURE NEWS\nHANNEL\nAM CHAN\nEWS TEAM\n(4)NEWS\nELECTIONS BECAUSE THEY DIDN'T VOTE\nDEMOCRATS LOSE THE MIDTERM\nNEWS TEAM\n", "label": 1, "img": "images/memes_3393.png"}
+----------
+not-harmful - The meme makes a political statement about low voter turnout without promoting violence, hate, or harm. It is an expression of opinion
+##########
+{"id": "memes_4790", "image": "memes_4790.png", "labels": ["not harmful"], "text": "Thox\nNEWS\ndonald trump\nsaving cadet bone spurs\nwww.NewsCorpie.com\n", "label": 0, "img": "images/memes_4790.png"}
+----------
+harmful - The meme uses derogatory terms and targets a specific individual, which can be considered disrespectful and offensive, potentially leading to unnecessary conflict or
+##########
+{"id": "memes_6852", "image": "memes_6852.png", "labels": ["somewhat harmful", "individual"], "text": "DID YOU FALL\nFROM HEAVEN?\nNO, WHY?\nBECAUSE YOU\nREMIND ME OF\nLUCIFER.\nifunny.co\n", "label": 1, "img": "images/memes_6852.png"}
+----------
+harmful - The meme contains inflammatory and potentially offensive content by comparing a person to Lucifer, which can be considered disrespectful and harmful.
+##########
+{"id": "memes_1305", "image": "memes_1305.png", "labels": ["somewhat harmful", "organization"], "text": "DEMOCRATS IN 2018\nWITHOUT SLAVES WHO WILL PICK OUR CROPSP\nDEMOCRATS IN 1863\nWITHOUT ILLEGAL IMMIGRANTS WHO WILL PICK OUR CROPS?\n", "label": 1, "img": "images/memes_1305.png"}
+----------
+harmful - Promotes racial stereotypes and xenophobia by comparing historical slavery to contemporary immigration issues, which is offensive and perpetuates harmful misconceptions.
+##########
+{"id": "memes_6101", "image": "memes_6101.png", "labels": ["not harmful"], "text": "Despite the pandemic, and our efforts at\nvoter supresion, Americans cast their ballots.\n", "label": 0, "img": "images/memes_6101.png"}
+----------
+not-harmful - The meme comments on voter suppression efforts and the pandemic without promoting hate speech or harmful behavior. It's a critical statement intended to provoke
+##########
+{"id": "memes_3462", "image": "memes_3462.png", "labels": ["not harmful"], "text": "REPUBLICANS\nDEMOCRATS\n", "label": 0, "img": "images/memes_3462.png"}
+----------
+harmful - This meme contains offensive gestures that can be deemed disrespectful and inflammatory towards political groups, which can incite anger or hostility among viewers.
+##########
+{"id": "memes_1986", "image": "memes_1986.png", "labels": ["somewhat harmful", "organization"], "text": "I voted\ntactically\nfor the\nLib Dems to\nkeep the\nTories\nout.\nTACTICAL VOTING HAS GOT US NOWHERE\nVOTE WITH YOUR HEART\nA Green Party\nPomotad by d oe behalThe Gem ety. Depnnt e -a teonnd tonden Kk\n", "label": 1, "img": "images/memes_1986.png"}
+----------
+not-harmful - This meme promotes a political message encouraging people to vote with their beliefs. It does not include harmful language or images targeting any individual
+##########
+{"id": "memes_952", "image": "memes_952.png", "labels": ["not harmful"], "text": "THEN\nNOW\nUNDER PRESIDENT OBAMA\nUNDER PRESIDENT TRUMP\nJOBS LOST: A MILLION\nUNEMPLOYMENT: OSE FROM\nJOBS CREATED: 17 MILLION\nUNEMPLOYMENT: FELL FROM\nSEP: 2,673.64\nGDP CHANGE: UP 23%\nSEP: 1,115.10\nGDP CHANGE: DUWN z\nGREPMULLIN\n", "label": 0, "img": "images/memes_952.png"}
+----------
+not-harmful - This meme provides a comparison of economic statistics between two presidencies. It does not contain offensive language, hate speech, or inc
+##########
+{"id": "memes_2675", "image": "memes_2675.png", "labels": ["not harmful"], "text": "Joe Biden\ndoes joe biden play sports\nwas joe biden vice president\nwas joe biden an actor\n", "label": 0, "img": "images/memes_2675.png"}
+----------
+not-harmful - This meme simply lists probable search queries related to a public figure with no harmful or offensive content.
+##########
+{"id": "memes_2270", "image": "memes_2270.png", "labels": ["not harmful"], "text": "WHEN U THE ONLY ONE\nWITH POT AT THE PARTY\n", "label": 0, "img": "images/memes_2270.png"}
+----------
+not-harmful - This meme uses religious imagery humorously to express feeling out of place. It does not promote hate speech, violence, or harmful
+##########
+{"id": "memes_4360", "image": "memes_4360.png", "labels": ["not harmful"], "text": "Khalid Abuhakmeh\nPe\nI loved playing #BadHombres in the arcade.\nBrings back memories. #debatenight\nHOMBRES\n\u56fe\u3002\n30\n", "label": 0, "img": "images/memes_4360.png"}
+----------
+harmful - This meme could be considered offensive and discriminatory as it uses the phrase "Bad Hombres," which has been used in a controversial and derog
+##########
+{"id": "memes_6537", "image": "memes_6537.png", "labels": ["somewhat harmful", "individual"], "text": "BIDEN: I was so sad when I didn't get a medal in the original trilogy\nOBAMA: That was Chewbacca, Joe\n", "label": 1, "img": "images/memes_6537.png"}
+----------
+not-harmful - This meme contains a humorous dialogue referencing fictional characters and a public figure, without any harmful content or derogatory language.
+##########
+{"id": "memes_5752", "image": "memes_5752.png", "labels": ["somewhat harmful", "individual"], "text": "MARCH 2ND, 2020\nJoe Biden Declares Beto\nO'Rourke To Lead Biden's Anti-\nGun Agenda\nBy Byan Saavedca\nDailyWire.com\nID N\nTEX\nRon Jenkireketty imes\n", "label": 1, "img": "images/memes_5752.png"}
+----------
+not-harmful - This meme mimics a news headline that reports on political events related to gun control policy without using offensive language or imagery.
+##########
+{"id": "memes_5699", "image": "memes_5699.png", "labels": ["not harmful"], "text": "Anti-LGBT politician in Ohio\nresigns after being 'caught\nhaving sex with man in his\noffice'\nUS politics (domestic)\nHENTAI.PLOT.TWIST\n", "label": 0, "img": "images/memes_5699.png"}
+----------
+harmful - This meme promotes negative sentiments and stigmatizes the LGBT community by highlighting a scandal in a way that could fuel discrimination and bias.
+##########
+{"id": "memes_2201", "image": "memes_2201.png", "labels": ["somewhat harmful", "individual"], "text": "\u201cMY MUM IS\nA GREEN PARTY\nACTIVIST.\nSHE'S DISAPPOINTED\nIN ME\nJOINING UKIP.\nI COULDNT CARE LESS\nRamon Men,\nPlayas gonna play!\n", "label": 1, "img": "images/memes_2201.png"}
+----------
+not-harmful - The meme depicts a humorous situation about differing political opinions between family members, without promoting hate, violence, or discrimination.
+##########
+{"id": "memes_1996", "image": "memes_1996.png", "labels": ["not harmful"], "text": "LICENSED COSMETOLOGIST CERTIFIED PARAMEDIC\n20YEARS OF TRAINING\nCERTIFIED POLICE OFFICER\n2YEARS OF TRAINING\n6&1/2 MONTH ACADEMY\nEXPLAIN THIS SHIT!\n", "label": 0, "img": "images/memes_1996.png"}
+----------
+harmful - This meme undermines and disrespects the profession of police officers, potentially inciting negative sentiments toward law enforcement.
+##########
+{"id": "memes_6335", "image": "memes_6335.png", "labels": ["not harmful"], "text": "Your Worst Friend:\nIam once again asking\nto borrow your Juul charger\n", "label": 0, "img": "images/memes_6335.png"}
+----------
+not-harmful - This meme humorously comments on a friend repeatedly asking to borrow a Juul charger, which is a lighthearted and non-d
+##########
+{"id": "memes_4539", "image": "memes_4539.png", "labels": ["not harmful"], "text": "WHICH PARTY\nARE YOU?\n[ ] Democrat\n***\n***\nRepublican\nX Cocktail\n", "label": 0, "img": "images/memes_4539.png"}
+----------
+not-harmful – This meme humorously references political parties and cocktails without any offensive or harmful content. It aims to entertain rather than demean or inc
+##########
+{"id": "memes_350", "image": "memes_350.png", "labels": ["not harmful"], "text": "George_W_Bush\nRANKED #57429\nPOINTS 74836\nIF YOU ARE NOT AMERICAN\nYOU SHOULD STOP\nTALKING ABOUT\nAMERICAN POLITICS\n", "label": 0, "img": "images/memes_350.png"}
+----------
+not-harmful - The meme expresses an opinion on discussing American politics, but it does not contain any explicit harmful language, threats, or targeted harassment
+##########
+{"id": "memes_2730", "image": "memes_2730.png", "labels": ["not harmful"], "text": "sav\nFollow\nJue: Hey Barack, why does Trump wanna ban\npreshredded cheese\nBarack: Joe please\nJoe: TO MAKE AMERICA GRATE AGAIN\nBarack: I swear to God\n9.49 PM 13 NOv 2016\n+ 13 158 396\n", "label": 0, "img": "images/memes_2730.png"}
+----------
+not-harmful - This meme features a joke about cheese and a wordplay without harmful language or content that targets or insults any individuals or groups.
+##########
+{"id": "memes_2031", "image": "memes_2031.png", "labels": ["not harmful"], "text": "READY\nto\nPARTY?\nCHECK.\n", "label": 0, "img": "images/memes_2031.png"}
+----------
+not-harmful - The meme is playful and light-hearted, asking if someone is ready to party and affirming they are. There is no offensive
+##########
+{"id": "memes_1533", "image": "memes_1533.png", "labels": ["not harmful"], "text": "e new\nYer th\nThis President fuela\ndivision and anti-Semitisml\nThis President\nwith his Jewish\ngrandson Josenh\n", "label": 0, "img": "images/memes_1533.png"}
+----------
+harmful - The meme contains potentially inflammatory language and conveys a divisive message that could incite negative sentiments.
+##########
+{"id": "memes_3823", "image": "memes_3823.png", "labels": ["somewhat harmful", "society"], "text": "LEGALIZE\nRECREATIONAL\nCOCAINE.\nLIBERTARIAN\n", "label": 1, "img": "images/memes_3823.png"}
+----------
+harmful - The meme promotes the legalization of a harmful, addictive substance, which can encourage drug use and related negative behaviors.
+##########
+{"id": "memes_3858", "image": "memes_3858.png", "labels": ["not harmful"], "text": "I'M STARTING TO THINK THIS\nENTIRE ADMINISTRATION\nWAS\nHOMESCHOOLED\nBY BETSY DEVOS\n", "label": 0, "img": "images/memes_3858.png"}
+----------
+not-harmful - It expresses a political opinion or critique humorously without promoting hate speech or violence.
+##########
+{"id": "memes_2679", "image": "memes_2679.png", "labels": ["not harmful"], "text": "JOE BIDEN'S\nMIND IS LIKE\nYOUR GRANDPA'S\nWEB BROWSER\n19 TABS ARE OPEN,\n17 ARE FROZEN, AND\nHE HAS NO IDEA WHERE\nTHE MUSIC IS COMING FROM.\n", "label": 0, "img": "images/memes_2679.png"}
+----------
+harmful - This meme targets an individual with derogatory language suggesting cognitive decline, which is disrespectful and can be construed as ageist and hurtful
+##########
+{"id": "memes_6078", "image": "memes_6078.png", "labels": ["somewhat harmful", "individual"], "text": "Donald J. Trump\nGrealDonaldTrump\nIf Biden somehow manages to win\nthis election, you won't see me\nagain, I'll simply leave the country!\nJoe Biden o\nEJoeBiden\nBi den\n", "label": 1, "img": "images/memes_6078.png"}
+----------
+not-harmful - This meme features a humorous political exchange without any explicit harmful language, threats, or incitement to violence. It mainly focuses
+##########
+{"id": "memes_8238", "image": "memes_8238.png", "labels": ["somewhat harmful", "community"], "text": "NYLON\n@NylonMag\nBecause of Trump, women are\ndropping their domestic abuse cases in\nfear of being deported nylon.cm/\n2mNHudx\n", "label": 1, "img": "images/memes_8238.png"}
+----------
+harmful - This meme spreads fear and misinformation, potentially causing distress and perpetuating stereotypes, which can harm individuals and communities.
+##########
+{"id": "memes_3730", "image": "memes_3730.png", "labels": ["not harmful"], "text": "DEMOCRAT VS REPUBLICAN\nYEAH, IT'S KINDA LIKE THIS\nHungry for liberty?\nLIBERTARIAN\nThanks to the The Libertarian\nParty of Colorado for this post!\nTo get involved locally, go to\nIp.org/states!\n", "label": 0, "img": "images/memes_3730.png"}
+----------
+not-harmful - This meme discusses political affiliations humorously without promoting violence, discrimination, or harmful behavior. It uses a lighthearted comparison to convey
+##########
+{"id": "memes_4600", "image": "memes_4600.png", "labels": ["not harmful"], "text": "REPUBLICAN:\nUSED TO FIGHT FOR THE POOR, MIDDLE\nCLASS, ENVIRONMENT, AND AGAINST\nHUGE CORPORATIONS\nWHAT HAPPENED?\nAENCANS KGAST THE ErLICAN ITY\n", "label": 0, "img": "images/memes_4600.png"}
+----------
+not-harmful - The meme expresses a political opinion without using offensive language, hate speech, or inciting violence, making it a permissible form of
+##########
+{"id": "memes_3409", "image": "memes_3409.png", "labels": ["not harmful"], "text": "HBERT\nARIAN\nPerty of Lonisiana\nYOU SAID THE WAR ON THE SECOND AMENDMENT WAS OVER\nAH HELL RICKY I WAS TRYING TO WIN AN ELECTION WHEN I SAID THAT\n", "label": 0, "img": "images/memes_3409.png"}
+----------
+not-harmful - This meme portrays a political viewpoint without using offensive language, hate speech, or promoting harm, making it acceptable for general viewing.
+##########
+{"id": "memes_215", "image": "memes_215.png", "labels": ["somewhat harmful", "organization"], "text": "WELCOME TO THE\nDEMOCRATIC PARTY\nWHERE THE FACTS ARE MADE UP AND\nYOU'RE RACIST OF YOU DISAGREE\n", "label": 1, "img": "images/memes_215.png"}
+----------
+harmful - This meme promotes divisive and derogatory language, which can contribute to misinformation and harmful stereotypes about a political group, thereby fostering a hostile
+##########
+{"id": "memes_3422", "image": "memes_3422.png", "labels": ["not harmful"], "text": "TRICKY DICK\nTOTAL DICK\nKNOW YOUR DICKS\n", "label": 0, "img": "images/memes_3422.png"}
+----------
+harmful - The meme uses derogatory language directed at individuals, which can be offensive and disrespectful, contributing to a harmful and hostile environment.
+##########
+{"id": "memes_1588", "image": "memes_1588.png", "labels": ["not harmful"], "text": "David Mack e\nFotlow\nlol their faces\nDEMOCRATIC DEBATEE\nPM-n 201\n", "label": 0, "img": "images/memes_1588.png"}
+----------
+not-harmful - The meme humorously comments on the general appearance of faces during a debate without any derogatory or offensive language and thus does not
+##########
+{"id": "memes_2838", "image": "memes_2838.png", "labels": ["not harmful"], "text": "Sad Joe Biden | Know Your\nMeme\n", "label": 0, "img": "images/memes_2838.png"}
+----------
+not-harmful - The meme does not contain any offensive, discriminatory, or harmful language or imagery. It appears to be a simple, non-off
+##########
+{"id": "memes_4500", "image": "memes_4500.png", "labels": ["not harmful"], "text": "mong Tu weriy\nThat\nhe Ria\nKighte Teop.\nT an\non on\nPay its\nPesk\nie\nn shal mcst h\nAngel Varak-Iglar\n@angelnorelation\nFollow\nHILLARY IS STRAIGHT-UP JIM HALPERT\nRIGHT NOW #debates\n", "label": 0, "img": "images/memes_4500.png"}
+----------
+not-harmful - This meme humorously compares a public figure's expression with a fictional character, without promoting hate or harm.
+##########
+{"id": "memes_5788", "image": "memes_5788.png", "labels": ["not harmful"], "text": "People dying\nBig corporations/\nthe government/\nbillionaires\n", "label": 0, "img": "images/memes_5788.png"}
+----------
+not-harmful - The meme uses humor to highlight societal issues about perceived indifference of corporations or the government towards people's suffering. It does not promote
+##########
+{"id": "memes_8096", "image": "memes_8096.png", "labels": ["not harmful"], "text": "Sugar daddies I like vs Sugar\ndaddies that like me\n", "label": 0, "img": "images/memes_8096.png"}
+----------
+harmful - This meme promotes ageism and body shaming, which can perpetuate harmful stereotypes and negatively impact individuals' self-esteem and body image.
+##########
+{"id": "memes_55", "image": "memes_55.png", "labels": ["not harmful"], "text": "Just your average\nGreen party voter\n11\n28/02/2010\n", "label": 0, "img": "images/memes_55.png"}
+----------
+harmful - This meme stereotypes and mocks individuals based on their political affiliation, potentially leading to disrespect or derogatory assumptions about their appearance and beliefs.
+##########
+{"id": "memes_4815", "image": "memes_4815.png", "labels": ["somewhat harmful", "organization"], "text": "THIS IS WHAT THE REPUBLICAN PARTY HAS BEEN REDUCED TO:\n\"WHEN THE REPUBLICAN PARTY SENDS THEIR\nPEOPLE, THEY'RE NOT SENDING THEIR BEST.\nTHEY'RE SENDING PEDOPHILES, THEY'RE SENDING\nPUSSY GRABBERS. THEY'RE NAZIS. AND SOME,\nIASSUME, ARE GOOD PEOPLE.\"\nCAROLYN S.\nMReverbPress\nO revertipress\nO reverbpress\nTRUTH.\n", "label": 1, "img": "images/memes_4815.png"}
+----------
+harmful - The meme contains derogatory and inflammatory statements targeting a political group, which could incite hate and spread misinformation.
+##########
+{"id": "memes_1234", "image": "memes_1234.png", "labels": ["somewhat harmful", "organization"], "text": "SO. LET ME GET THIS\nSTRAIGHT\nTHE DEMOCRATIC PARTY HAS A\nCRAZY BITCH& A 90 YEAR OLD\nMAN RUNNING FOR PRESIDENT\n", "label": 1, "img": "images/memes_1234.png"}
+----------
+harmful - The meme uses offensive language, gender-based derogatory terms, and ageist comments, which can be harmful and divisive.
+##########
+{"id": "memes_23", "image": "memes_23.png", "labels": ["not harmful"], "text": "Biden: Can I have some friends over?\nObama: I dunno... Ask Michelle.\nBiden: She said to ask you.\nObama:\n@chazafranklin\n", "label": 0, "img": "images/memes_23.png"}
+----------
+not-harmful - The meme presents a lighthearted, fictional conversation between political figures without any offensive or harmful language.
+##########
+{"id": "memes_4366", "image": "memes_4366.png", "labels": ["not harmful"], "text": "VICE PRESIDENT DEBATE 2020\n\u041c\u0415MES\n", "label": 0, "img": "images/memes_4366.png"}
+----------
+not-harmful - The meme references a political event and memes about it, without using inappropriate or offensive content. It falls within acceptable humorous commentary on
+##########
+{"id": "memes_1571", "image": "memes_1571.png", "labels": ["not harmful"], "text": "Me\nMemes on\nT_D\nMy essay on why\nthe Republican\nparty is better\nthan the\nDemocratic party\nHope my professor isn't an NPC\n", "label": 0, "img": "images/memes_1571.png"}
+----------
+harmful - The meme contains a political statement that could provoke divisive reactions and it suggests ideological bias, potentially offending individuals or groups with differing viewpoints.
+##########
+{"id": "memes_8196", "image": "memes_8196.png", "labels": ["somewhat harmful", "community"], "text": "CATCHING\nATCHING\nE ICAN S\nWAN WHAT ARE YOU DOING?\n10\nMEXICANS!\n\u56deA\u53e3CHONG\nPELICANS\nwhest f Fert H\n", "label": 1, "img": "images/memes_8196.png"}
+----------
+harmful - This meme promotes xenophobia and racism by targeting a specific ethnic group with a derogatory implication.
+##########
+{"id": "memes_3754", "image": "memes_3754.png", "labels": ["somewhat harmful", "individual"], "text": "STILL LESS EMBARRASSING\nLIVE\nLIBERTARIAN\nERAN PARTY NTIONAL CONVENTION\nOrlando, Florida\nRosan Centre Hotal\nHOUSE\nCSPAN\nTHAN HILLARY CLINTON\ngpcom\n", "label": 1, "img": "images/memes_3754.png"}
+----------
+harmful - This meme is harmful as it targets and embarrasses a specific individual by comparing them negatively to another person, fostering negative sentiments and potential harassment
+##########
+{"id": "memes_241", "image": "memes_241.png", "labels": ["not harmful"], "text": "I'm with the Green Party,\nWanna party?\n", "label": 0, "img": "images/memes_241.png"}
+----------
+not-harmful - The meme humorously combines a play on words with an image of a dog behind greenery, promoting harmless humor related to political affiliations
+##########
+{"id": "memes_5885", "image": "memes_5885.png", "labels": ["not harmful"], "text": "t Pnpa\nPlease don't try to insulting us bro, it no use, because we\nInsulting our own country everyday\nt's can't get any worse anyway!\nrinewy\nChinese\nWhere is your King now?\nChaingmai is country!\nYour government sucks!\nThai people:\nChinese\nSay it LOUDER!\nAgain please!!\nt fute\n", "label": 0, "img": "images/memes_5885.png"}
+----------
+harmful - The meme contains negative language and insults directed towards the government, which can be perceived as incitement and may contribute to online hostility and
+##########
+{"id": "memes_3858", "image": "memes_3858.png", "labels": ["not harmful"], "text": "I'M STARTING TO THINK THIS\nENTIRE ADMINISTRATION\nWAS\nHOMESCHOOLED\nBY BETSY DEVOS\n", "label": 0, "img": "images/memes_3858.png"}
+----------
+harmful - It targets specific individuals and criticizes their competence in a derogatory manner, which can be construed as offensive and disrespectful.
+##########
+{"id": "memes_1766", "image": "memes_1766.png", "labels": ["not harmful"], "text": "Greta Thunberg does the\nmost for the planet\nThe green party do the\nmost for the plane\nCelebrity's do the\nmost for the planet\n20,000,000 TREES!\nMr beast does the\nmost for the planet\nifunny.co\n", "label": 0, "img": "images/memes_1766.png"}
+----------
+not-harmful - The meme humorously depicts various levels of contribution to environmental causes, without targeting or disrespecting any individual or group.
+##########
+{"id": "memes_3703", "image": "memes_3703.png", "labels": ["not harmful"], "text": "LIBERTARIANS IN COMMENTS SECTION\n", "label": 0, "img": "images/memes_3703.png"}
+----------
+not-harmful - The meme humorously depicts a scenario without promoting hate speech, violence, or discrimination. It's meant to entertain with a playful reference
+##########
+{"id": "memes_6732", "image": "memes_6732.png", "labels": ["somewhat harmful", "individual"], "text": "@BidenThoughts\nNot all of my supporters are pedphiles\nbut they all decided that sniffing little girls\nisn't a deal breaker.\n", "label": 1, "img": "images/memes_6732.png"}
+----------
+harmful - This meme insinuates inappropriate and harmful behavior, which could damage reputations and spread misinformation, violating content policies on harassment and defamation.
+##########
+{"id": "memes_1757", "image": "memes_1757.png", "labels": ["somewhat harmful", "individual"], "text": "What do Donald Trump and a\nPumpkin have in Common?\nThey're Orange on the outside, Hollow on\nthe Inside and should be tossed out in\nearly November.\nimor\n", "label": 1, "img": "images/memes_1757.png"}
+----------
+harmful - The meme targets a specific individual and uses derogatory language, which could incite negative reactions and spread animosity.
+##########
+{"id": "memes_8144", "image": "memes_8144.png", "labels": ["somewhat harmful", "individual"], "text": "It all makes sense now.\n", "label": 1, "img": "images/memes_8144.png"}
+----------
+not-harmful - The meme uses humor to depict a scene inside a person's head, and while it may be critical, it does not contain hate
+##########
+{"id": "memes_8249", "image": "memes_8249.png", "labels": ["not harmful"], "text": "HOW TO MAKE\nAMERICA GREAT AGAIN\n", "label": 0, "img": "images/memes_8249.png"}
+----------
+harmful - The slogan is closely associated with polarized political views, which can incite arguments and divisive discussions that may harm community interactions.
+##########
+{"id": "memes_891", "image": "memes_891.png", "labels": ["not harmful"], "text": "MR DOD\nBarack & Joe\nV Foltow\n@bicenandobama\nObama \"whispers\" pun the laser pointer away or give it to me\n4:51 PM- 12 Nov 2016\n+ a5,145 54\n", "label": 0, "img": "images/memes_891.png"}
+----------
+not-harmful - The meme is light-hearted and humorous, involving a playful interaction and does not promote hate speech, violence, or any form of
+##########
+{"id": "memes_5678", "image": "memes_5678.png", "labels": ["somewhat harmful", "community"], "text": "US politics\nevery 8\nyears.\nSlide to the left.\nUs politics\nevery other\n8 years.\nSlide to the right.\nUS politicians\nre-authorizing\nendless wars &\ndomestic spying\n72\nCriss-Cross!\n", "label": 1, "img": "images/memes_5678.png"}
+----------
+not-harmful - The meme humorously comments on perceived changes in political actions every election cycle and criticizes governmental practices. It does not promote violence
+##########
+{"id": "memes_4872", "image": "memes_4872.png", "labels": ["somewhat harmful", "organization"], "text": "In 1993, Bill appointed Hillary\nto head the White House\nHealth Care Reform Committee\nDixon Diaz 01/10/2017\nBut now that Trump is appointing\nhis son in law as an advisor,\nDemocrats remembered there's an\nanti-nepotism policy\n", "label": 1, "img": "images/memes_4872.png"}
+----------
+harmful - The meme incites political bias by accusing a specific political party of hypocrisy, potentially leading to divisive and hostile conversations.
+##########
+{"id": "memes_3815", "image": "memes_3815.png", "labels": ["somewhat harmful", "organization"], "text": "FOUNDING FATHERS\nHERE'S THE FIRST AMENDMENT\nOH AND IN CASE SOMEONE TRIES TO TAKE THAT AWAY\nHERE'S THE SECOND AMENDMENT\nThanks to the Libertarian Party\nof Florida for this post! To get\ninvolved locally, go to\nIp.org/states!\n", "label": 1, "img": "images/memes_3815.png"}
+----------
+not-harmful - This meme discusses the First and Second Amendments in a historical context, promoting political involvement without using harmful language or imagery.
+##########
+{"id": "memes_54", "image": "memes_54.png", "labels": ["not harmful"], "text": "JILL STEIN\nGREEN PARTY\nWhat you see:\nWhat colorblind\npeople see:\nu/Frantater\nSlt's a party in the USAS\n", "label": 0, "img": "images/memes_54.png"}
+----------
+not-harmful - The meme makes a lighthearted joke about colorblindness with no malicious intent or offensive content, aiming for humor without targeting any
+##########
+{"id": "memes_1424", "image": "memes_1424.png", "labels": ["not harmful"], "text": "IRONY.\nSAMERICA\nERAT AGAIN\nTHE PARTY WHO FREED THE SLAVES AND FOUGHT FOR\n(IVIL RIGHTS IS BEING CALLED \"RACIST\" BY THE PARTY\nTHAT OWNED THE SLAVES AND STARTED THE KKK.\ne.com\n", "label": 0, "img": "images/memes_1424.png"}
+----------
+harmful - The meme promotes a politically divisive and potentially misleading statement, which could incite anger and misunderstanding among viewers. It reflects a contentious subject
+##########
+{"id": "memes_2815", "image": "memes_2815.png", "labels": ["somewhat harmful", "individual"], "text": "AIMYOUR\nRae. OR_Kae Nov 4\nIwant Joe Biden, need Joe Biden or whatever TI said\n1 2\n", "label": 1, "img": "images/memes_2815.png"}
+----------
+not-harmful - This meme appears to make a lighthearted joke based on a verbal slip or humorous statement, without targeting or harming any individual or
+##########
+{"id": "memes_1701", "image": "memes_1701.png", "labels": ["somewhat harmful", "individual"], "text": "THE GOP STANDS\nWITH THE PRESIDENT\nWITH IMPEACHMENT LOOMING\nTHEY KNOW THEY'RE IN THE TOILET\nimgflip.com\n", "label": 1, "img": "images/memes_1701.png"}
+----------
+harmful - The meme uses derogatory language and imagery to insult a specific political group and individual, potentially inciting hostility.
+##########
+{"id": "memes_5021", "image": "memes_5021.png", "labels": ["somewhat harmful", "organization"], "text": "\"You'll never finda more wretched\nhive of scum and villainy\nHAVEYOU SEEN THE REPUBLICAN PARTY?\n", "label": 1, "img": "images/memes_5021.png"}
+----------
+harmful - The meme uses characters from media to imply a negative and derogatory comparison to a political party, which can incite political tension and is
+##########
+{"id": "memes_4372", "image": "memes_4372.png", "labels": ["not harmful"], "text": "I TOLD him to SUCK my DICK...\n", "label": 0, "img": "images/memes_4372.png"}
+----------
+harmful - This meme features explicit sexual language which can be offensive and inappropriate, thus violating community guidelines regarding respectful and safe communication.
+##########
+{"id": "memes_5100", "image": "memes_5100.png", "labels": ["somewhat harmful", "individual"], "text": "DID YOU KNOW\nOUT OF S TRUMP SUIPORTERS AR\nST AS STUPID AS THE OTHER\n", "label": 1, "img": "images/memes_5100.png"}
+----------
+harmful - This meme targets and insults a specific group of people based on their political support, promoting negative stereotypes and divisiveness.
+##########
+{"id": "memes_6302", "image": "memes_6302.png", "labels": ["not harmful"], "text": "SNARK WEE\nIs Nevada Done\nCounting Votes Yet?\nWho knowsi Meantime, here are the best memas\npoking fun at the Silver State's slow pace\nBY Andrew Ktraly\n", "label": 0, "img": "images/memes_6302.png"}
+----------
+not-harmful - The meme humorously highlights the slow counting of votes in Nevada without targeting any individual or group, ensuring it doesn’t promote hate
+##########
+{"id": "memes_4909", "image": "memes_4909.png", "labels": ["not harmful"], "text": "HEY, WORKING\nCLASS TRUMP\nV\u00d5TERS: HE JUST\nADDED ANOTHER\nGOLDMAN SACHS\nCEO TO HIS\nCABINET.\nTRUMP\nHATES YOU.\nHATES. YOU.\n- PATTON OSWALT\nAddieting Info\n", "label": 0, "img": "images/memes_4909.png"}
+----------
+harmful - The meme targets and disparages a specific group of people (Trump supporters) and encourages animosity by stating that "Trump hates you,"
+##########
+{"id": "memes_8233", "image": "memes_8233.png", "labels": ["somewhat harmful", "individual"], "text": "Done\nObama\n", "label": 1, "img": "images/memes_8233.png"}
+----------
+harmful - This meme could incite political disagreement or misinformation by comparing crowds at different events, potentially leading to divisive behavior or promoting false narratives.
+##########
+{"id": "memes_6665", "image": "memes_6665.png", "labels": ["not harmful"], "text": "When Joe Biden first got elected to Senate, this is\nwhat Betty White and Caitlyn Jenner looked like\nUSA\n159\nMEXICO 75\n", "label": 0, "img": "images/memes_6665.png"}
+----------
+not-harmful - This meme makes a comparison based on age progression and historical context, and does not contain harmful speech or intent.
+##########
+{"id": "memes_2104", "image": "memes_2104.png", "labels": ["not harmful"], "text": "Go Green You Must,\nSafety for Whistle-Blowers\n& Investigative\nJournalism to hold\nGovernmentaccountable\nto the people, we do'need\n", "label": 0, "img": "images/memes_2104.png"}
+----------
+not-harmful - The meme promotes environmental consciousness and advocates for safety and accountability in journalism, conveying a positive and constructive message without any offensive or harmful
+##########
+{"id": "memes_855", "image": "memes_855.png", "labels": ["not harmful"], "text": "REAGAN CREATED 14 MILLION JOBS INA RECORD\n70 MONTH-STRETCH OF UNINTERRUPTED JOB\nGROWTH, REDUCED THE ANNUAL DEFICIT HE\nINHERITED BY A TRILLION DOLLARS IN SIX YEARS,\nAND NEARLY TRIPLED THE STOCK MARKET\nJUST KIDDING,\nTHAT WAS OBAMA.\nOccUPY DEMOCRATS\n", "label": 0, "img": "images/memes_855.png"}
+----------
+not-harmful - This meme compares the achievements of two political figures in a humorous manner and does not contain offensive language, hate speech, or depict
+##########
+{"id": "memes_2811", "image": "memes_2811.png", "labels": ["somewhat harmful", "individual"], "text": "We stood by\nand did nothing\nas we watched our\ncolleagues let their\nCities burn to the ground\nBut don't worry\nwe are here\nto fix things\nnow\n", "label": 1, "img": "images/memes_2811.png"}
+----------
+harmful - The meme contains inflammatory language suggesting violence and destruction, which can incite division and unrest. It targets specific groups, contributing to hate speech
+##########
+{"id": "memes_8065", "image": "memes_8065.png", "labels": ["somewhat harmful", "community"], "text": "When you realize the debate\nmoderator is BLACK\n", "label": 1, "img": "images/memes_8065.png"}
+----------
+harmful - This meme perpetuates racial stereotyping and suggests that the race of the debate moderator is of concern, promoting discriminatory ideas.
+##########
+{"id": "memes_4896", "image": "memes_4896.png", "labels": ["not harmful"], "text": "* Thecore of Trump's\n* agenda has alwaysbeen\n\u00fantetheringAmerican politics\nromtactualrealiD and\namong Republicans, at least,\nhets beenstartlingly successiul\n", "label": 0, "img": "images/memes_4896.png"}
+----------
+not-harmful - This meme expresses a political opinion without using hate speech, threatening language, or targeting individuals for harm.
+##########
+{"id": "memes_6234", "image": "memes_6234.png", "labels": ["not harmful"], "text": "READY FOR THE NEXT DISTRICT!\nDAY\nIOWA CAUCUS VOTE COUNT\n", "label": 0, "img": "images/memes_6234.png"}
+----------
+not-harmful - This meme humorously comments on the voting process without targeting or offending any individual or group. It uses a historical photo for a
+##########
+{"id": "memes_6355", "image": "memes_6355.png", "labels": ["somewhat harmful", "individual"], "text": "Debate preview:\nHE\nYes, two Nobel\nPeace noms. in\none week.\nOOPS!\nI MADE POOPY\n@two_deplorable_ladies\n", "label": 1, "img": "images/memes_6355.png"}
+----------
+harmful - The meme mocks and potentially disrespects political figures, possibly fostering a divisive and hostile environment. Mocking individuals in this context can
+##########
+{"id": "memes_5961", "image": "memes_5961.png", "labels": ["somewhat harmful", "individual"], "text": "THEY FOUND OIL IN\nAUSTRALIA\nBUT THEY ALREADY\nHAVE DEMOCRACY\n[ControversiaHumor.com]\n", "label": 1, "img": "images/memes_5961.png"}
+----------
+harmful - This meme implies a harmful stereotype about foreign policy and military intervention, which can be offensive and incite political tensions.
+##########
+{"id": "memes_6257", "image": "memes_6257.png", "labels": ["somewhat harmful", "individual"], "text": "When someone says\nDemocrats will win in 2020\n", "label": 1, "img": "images/memes_6257.png"}
+----------
+harmful - This meme targets a specific political group, which can cause divisiveness and online conflict. Political content often leads to harassment and misinformation, contributing
+##########
+{"id": "memes_3872", "image": "memes_3872.png", "labels": ["not harmful"], "text": "DANK MEMES?\nI HAVE BEEN LOOKING FOR\nSOME OF THESE\n", "label": 0, "img": "images/memes_3872.png"}
+----------
+not-harmful - This meme humorously depicts a person looking for "dank memes" without promoting hate speech, violence, or harmful behavior.
+##########
+{"id": "memes_3422", "image": "memes_3422.png", "labels": ["not harmful"], "text": "TRICKY DICK\nTOTAL DICK\nKNOW YOUR DICKS\n", "label": 0, "img": "images/memes_3422.png"}
+----------
+harmful - The meme uses derogatory and offensive language, which can be interpreted as harmful and disrespectful towards the individuals shown.
+##########
+{"id": "memes_1571", "image": "memes_1571.png", "labels": ["not harmful"], "text": "Me\nMemes on\nT_D\nMy essay on why\nthe Republican\nparty is better\nthan the\nDemocratic party\nHope my professor isn't an NPC\n", "label": 0, "img": "images/memes_1571.png"}
+----------
+harmful - The meme promotes a partisan viewpoint, suggests bias against professors, and includes language that could be interpreted as insulting or dismissive.
+##########
+{"id": "memes_93", "image": "memes_93.png", "labels": ["not harmful"], "text": "Libertarian\nLibertarian\nIdeas\nCandidates\n", "label": 0, "img": "images/memes_93.png"}
+----------
+not-harmful - The meme uses humor by comparing fox images to libertarian ideas and candidates and does not contain offensive or harmful content.
+##########
+{"id": "memes_6459", "image": "memes_6459.png", "labels": ["somewhat harmful", "community"], "text": "I PICKED PENCE.\nBECAUSE HIS NAME RHYMES WITH FENCE\nmgtlip .com\n", "label": 1, "img": "images/memes_6459.png"}
+----------
+not-harmful - This meme seems to play on a rhyme for humor and doesn't appear to contain offensive or harmful content.
+##########
+{"id": "memes_2019", "image": "memes_2019.png", "labels": ["not harmful"], "text": "G\u1ef0 HEN\nTina didn t dare mention\nthe bride's bikini line.\n", "label": 0, "img": "images/memes_2019.png"}
+----------
+not-harmful - The meme is humorously comparing human behavior to that of an animal without targeting or attacking any specific individual or group in a harmful
+##########
+{"id": "memes_816", "image": "memes_816.png", "labels": ["somewhat harmful", "individual"], "text": "Josh\n2 Follow\nejoilinson\n\"I left a Kenyan passport in your desk, just to\nfe with him\"\n\"Joe\"\n\"Oh and a prayer rug in your bedroom. He's\ngonna lose it!\"\n\"Dammit Joe\"\nGeorge Takei GeorgeTakel 11h\nUncle Joe the troil.\n13 1.SK\n", "label": 1, "img": "images/memes_816.png"}
+----------
+harmful - The meme promotes racial and religious stereotypes as well as undermines personal privacy. Such content can perpetuate harmful biases and cause distress to individuals
+##########
+{"id": "memes_4873", "image": "memes_4873.png", "labels": ["not harmful"], "text": "I DONT TRUST YOU TO MAKE A\nCHOICE,\nBUT YOU'D MAKE A DAMN GOOD\nPARENT.\n", "label": 0, "img": "images/memes_4873.png"}
+----------
+not-harmful - This meme uses sarcasm or humor without promoting violence, hate speech, or harmful stereotypes. It does not target a specific group
+##########
+{"id": "memes_1375", "image": "memes_1375.png", "labels": ["not harmful"], "text": "TBH\nWE COULD USE\nA BETTER NOMINEE\no.com\n", "label": 0, "img": "images/memes_1375.png"}
+----------
+harmful - It targets an individual by questioning their competence in a condescending manner, which can be harmful and offensive, potentially leading to online harassment.
+##########
+{"id": "memes_2780", "image": "memes_2780.png", "labels": ["not harmful"], "text": "SimonNAicketts\nFu\nBIDEN: I'mma punch him when he comes\nhere.\nOBAMA: No, Joe. Don't do that.\nBIDEN: Punch him round the back,\nOBAMA: Joe.\nBIDEN: Kick, then.\nehreste 1e L\n", "label": 0, "img": "images/memes_2780.png"}
+----------
+not-harmful - This meme depicts a humorous fictional dialogue between high-profile figures without any explicit, harmful intent; it relies on comedic exaggeration and
+##########
+{"id": "memes_8229", "image": "memes_8229.png", "labels": ["somewhat harmful", "individual"], "text": "LOOK FAMILIAR?\n", "label": 1, "img": "images/memes_8229.png"}
+----------
+harmful - The meme appears to compare a person to an inanimate object in a derogatory manner, which could be seen as offensive and dehuman
+##########
+{"id": "memes_227", "image": "memes_227.png", "labels": ["somewhat harmful", "individual"], "text": "White House\n7:00 PM ET\nTHE WHITE HOI\nWASHINGTON\nBREAKING NEWS\nWITHOUT ANY EVIDENCE, TRUMP SAYS HE'S BEING CHEATED\nLIVE\nCN ELECTORAL MAP 70\n253 213\nCN\n", "label": 1, "img": "images/memes_227.png"}
+----------
+not-harmful - This meme conveys a statement about an election claim without any violent, offensive, or discriminatory language, focusing on a public figure's
+##########
+{"id": "memes_1428", "image": "memes_1428.png", "labels": ["not harmful"], "text": "VOTER REGISTRATION\nDEMOCRATIC PARTY\nREPUBLICAN PARTY\n", "label": 0, "img": "images/memes_1428.png"}
+----------
+not-harmful - This meme humorously suggests a fictional party, "Mario Party," as an option for voter registration, which is clearly a joke
+##########
+{"id": "memes_3484", "image": "memes_3484.png", "labels": ["not harmful"], "text": "CIVIL ASSET\nFORFEITURE\nIS\nTHEFT\nThanks to the East Tennessee\nLibertarian Party for this post!\nTo get involved locally, go to\nIp.org/states!\n", "label": 0, "img": "images/memes_3484.png"}
+----------
+not-harmful - The meme expresses a political opinion about civil asset forfeiture without promoting hate speech, violence, or misinformation. It advocates involvement in
+##########
+{"id": "memes_872", "image": "memes_872.png", "labels": ["not harmful"], "text": "Biden-Obama\nMemes\n300+ Funny & Hillarious\nMemes of 2016\nJohn Robinson\n", "label": 0, "img": "images/memes_872.png"}
+----------
+not-harmful - The meme appears to be promoting a collection of humorous memes from 2016 involving political figures, which is generally intended for entertainment
+##########
+{"id": "memes_5743", "image": "memes_5743.png", "labels": ["somewhat harmful", "individual"], "text": "MAKING FLIP FLOPS\nGREAT AGAIN\nmemegenerator.net\n", "label": 1, "img": "images/memes_5743.png"}
+----------
+not-harmful - This meme plays on a commonly known phrase in a humorous context without targeting or harming individuals or groups.
+##########
+{"id": "memes_4769", "image": "memes_4769.png", "labels": ["not harmful"], "text": "THE REPUBLICAN PARTY\nJUST WENT FULL RETARD\n", "label": 0, "img": "images/memes_4769.png"}
+----------
+harmful - The use of the term "retard" is offensive and derogatory towards individuals with intellectual disabilities. It promotes hate speech and can be
+##########
+{"id": "memes_6568", "image": "memes_6568.png", "labels": ["not harmful"], "text": "WHILE YOU WERE VICE PRESIDENT, OBAMA ORDERED\n2,500 TROOPS TO LIGMA\nSHE\nPEOPLE\nWHO IS OBAMA?\nLIGMA BALLS\n", "label": 0, "img": "images/memes_6568.png"}
+----------
+harmful - The meme uses inappropriate language ("ligma balls"), which can be offensive and is considered vulgar.
+##########
+{"id": "memes_1807", "image": "memes_1807.png", "labels": ["somewhat harmful", "organization"], "text": "\"We must fight for a\nfair voting system.\nJoin me and the Voting\nReform Team on the\n25th of July for\na Great Gathering\noutside Parliament.\"\nSI\u00c4N BERRY\nCouncilar for Highgate n Canden\nGreen Party\nfo the conman good\nGREENPARTY.ORG.UK\n", "label": 1, "img": "images/memes_1807.png"}
+----------
+not-harmful - This is an advertisement for a political event promoting fair voting systems, without containing any offensive or harmful content.
+##########
+{"id": "memes_1997", "image": "memes_1997.png", "labels": ["somewhat harmful", "individual"], "text": "Whiner-in-Chief\nDonald called the recounts a \"scam\" by the Green Party.\nAt least he used a\nThat's called\ntransference,\nsmall word he can\ndumbass.\nunderstand. Definition\nof scam: Con, cheat,\nrip-off, swindle.\nKeystone Pruie Doys unnysidn Left\nDonald couldn't resist a Twitter\ntantrum about the recounts on\nSaturday. He called it a \"scam\"\nby the Green Party.\n", "label": 1, "img": "images/memes_1997.png"}
+----------
+harmful - It contains derogatory language and personal attacks, which could be considered offensive and inappropriate.
+##########
+{"id": "memes_1298", "image": "memes_1298.png", "labels": ["somewhat harmful", "organization"], "text": "Cw travel\n\u2022 LIVE TV\nWuhan hosts massive water\npark party as coronavirus\nconcerns recede\ny Mectar Ga, CN\nO uosass 10 AM ET, Te a 18, 2te0\nTHEY DON'T HAVE A\nDEMOCRATIC PARTY\nNESPERATE TO WIN AN ELECTION\n", "label": 1, "img": "images/memes_1298.png"}
+----------
+harmful - This meme contains text implying a political accusation which can incite misinformation, division, and harm among viewers regarding a sensitive topic like the pandemic
+##########
+{"id": "memes_4444", "image": "memes_4444.png", "labels": ["not harmful"], "text": "CNN\nDEMOCRATIC\nPRESIDENTIAL\nDEBATE\nON\nON\nON\nDERVI\n", "label": 0, "img": "images/memes_4444.png"}
+----------
+not-harmful - The image shows a formal debate setting with two individuals standing at podiums, suggesting a political event. No harmful content or offensive
+##########
+{"id": "memes_3608", "image": "memes_3608.png", "labels": ["somewhat harmful", "organization"], "text": "\"So, if we lie to the government,\nit's a felony.\nBut if they lie\nto us\nits politics.\"\nBI Murray\nThanks to the Alaska\nLibertarian Party for this post!\nTo get involved locally, go to\nIp.org/states!\n", "label": 1, "img": "images/memes_3608.png"}
+----------
+not-harmful - This meme expresses a viewpoint on government accountability and does not incite harm, hatred, or violence towards any individual or group.
+##########
+{"id": "memes_1084", "image": "memes_1084.png", "labels": ["somewhat harmful", "community"], "text": "Ask a Republican about\nclimate change and they say\n\"I'm not a scientist!\" But when\nit comes to a women's right to\nchoose, suddenly.they all\nbecome doctors. -President Obama\nBipartinanReport.com\n", "label": 1, "img": "images/memes_1084.png"}
+----------
+harmful - This meme targets a specific political group, potentially inciting division and harmful rhetoric by mocking their stance on climate change and women's rights.
+##########
+{"id": "memes_5020", "image": "memes_5020.png", "labels": ["not harmful"], "text": "i PONT NEED HEALTH\nINSURANCE\nI HAVE JESUS\n", "label": 0, "img": "images/memes_5020.png"}
+----------
+harmful - This meme promotes a potentially harmful view by suggesting that religious faith can replace health insurance, which might discourage people from seeking necessary medical coverage.
+##########
+{"id": "memes_1689", "image": "memes_1689.png", "labels": ["somewhat harmful", "organization"], "text": "THE REPUBLICAN PARTY PLATFORM\n200,000\nDEATHS\n7 MILLION CASES\nRLD IN CORONAVIRUS DEA\nRATIONS ORDERED IN ALL 50 STATES\nLIES\nHATRED\nDEATH\n", "label": 1, "img": "images/memes_1689.png"}
+----------
+harmful - This meme spreads misinformation and incites hatred by associating a political party with negative terms like "lies," "hatred," and "
+##########
+{"id": "memes_4782", "image": "memes_4782.png", "labels": ["not harmful"], "text": "I found the place where\nDonald Trump\ngrows his hair!\n", "label": 0, "img": "images/memes_4782.png"}
+----------
+not-harmful - The meme uses humor involving a public figure's hairstyle and does not contain hate speech, violence, or personal attacks, making it
+##########
+{"id": "memes_831", "image": "memes_831.png", "labels": ["somewhat harmful", "individual"], "text": "AN\nARMANI EXC\nBarrack and Michelle at the club\nifunny.co\n@RONAL\n", "label": 1, "img": "images/memes_831.png"}
+----------
+harmful - The text misidentifies individuals, potentially leading to confusion or misinformation.
+##########
+{"id": "memes_4361", "image": "memes_4361.png", "labels": ["not harmful"], "text": "Mr. Vice President,\nI'm speaking.\nin\nnd te\nCN\now VICE PRESIDENTIAL DEBATE\n", "label": 0, "img": "images/memes_4361.png"}
+----------
+not-harmful - The meme references a political debate and does not contain any harmful or offensive content. It focuses on a notable moment between two public
+##########
+{"id": "memes_4246", "image": "memes_4246.png", "labels": ["not harmful"], "text": "Marie\nmane.mca.\nThe rest of the world to America rn #Debates2020\n#PresidentialDebate\nRT M\nFHAVE YOU TRIED\nTURNING IT OFF AND ON AGAIN?\n921 am 30 Sep 200- Tuiter for Phone\n", "label": 0, "img": "images/memes_4246.png"}
+----------
+not-harmful - This meme uses a humorous approach to comment on the 2020 presidential debate, with no offensive or harmful content.
+##########
+{"id": "memes_2779", "image": "memes_2779.png", "labels": ["not harmful"], "text": "Dbet toroeder\nI gotta say, I never thonght I'd get tired of Joe Biden winning\nthe cleetion, but after the 2787484547th time, it feels a litle played out.\n", "label": 0, "img": "images/memes_2779.png"}
+----------
+not-harmful - The meme humorously expresses fatigue over repeated mentions of an event without resorting to offensive or harmful language.
+##########
+{"id": "memes_3364", "image": "memes_3364.png", "labels": ["somewhat harmful", "organization"], "text": "GOOD IDEAS DON'T REQUIRE FORCE\nTLIBERTARIAN\nThanks to the Libertarian Party\nof Florida for this post! To get\ninvolved locally, go to\nIp.org/states!\n", "label": 1, "img": "images/memes_3364.png"}
+----------
+not-harmful - The meme promotes a political belief non-aggressively, encouraging civic engagement. It doesn't contain offensive language, hate speech, or
+##########
+{"id": "memes_900", "image": "memes_900.png", "labels": ["not harmful"], "text": "#Oradient\nBarack Obama\nmeirl\n", "label": 0, "img": "images/memes_900.png"}
+----------
+not-harmful - This meme does not contain offensive or harmful language and does not promote violence, hate, or inappropriate behavior.
+##########
+{"id": "memes_4467", "image": "memes_4467.png", "labels": ["not harmful"], "text": "ONE DOES NOT SIMPLY\nWIN A PRESIDENTIAL DEBATE\n", "label": 0, "img": "images/memes_4467.png"}
+----------
+not-harmful - This meme humorously references the difficulty of winning a presidential debate, utilizing a popular format without targeting or causing harm to any specific
+##########
+{"id": "memes_8067", "image": "memes_8067.png", "labels": ["not harmful"], "text": "genizing\nfoty and\ngperience\ndethen te\nev\nTRUM\nDonald Trump rooster\nstatue takes China by\nstorm\nSerena Dong, CNN\n", "label": 0, "img": "images/memes_8067.png"}
+----------
+not-harmful - The meme references a news event involving a rooster statue resembling a public figure. It does not promote hate speech, violence, or
+##########
+{"id": "memes_3767", "image": "memes_3767.png", "labels": ["somewhat harmful", "organization"], "text": "PROMISES TO HAVE MOST TRANSPARENT\nADMINISTRATION IN HISTORY\nWIKILEAKS MAKES THIS\nPROMISE COME TRUE\nThanks to The Libertarian Party\nof Colorado for this post! To get\ninvolved locally, go to\nIp.org/states!\n", "label": 1, "img": "images/memes_3767.png"}
+----------
+not-harmful - This meme provides a political commentary and promotes involvement with a political party without using offensive language or targeting specific individuals for harm.
+##########
+{"id": "memes_1581", "image": "memes_1581.png", "labels": ["not harmful"], "text": "Time flies: The Obama family at the beginning\nof Obama's presidency and them now.\n", "label": 0, "img": "images/memes_1581.png"}
+----------
+not-harmful - The meme simply shows a before and after comparison of a public figure and their family over time with no negative or offensive content.
+##########
+{"id": "memes_3634", "image": "memes_3634.png", "labels": ["not harmful"], "text": "Aiout Phanss\nCoty\nde n\n2 e e t\nIBE\nBerg Lbrtann\nhe A Se\nCommunity\n2,1 w the\nDid you know Being Libertarian\nis about to overtake the actual\nLibertarian Party in Facebook\nfollowers? We work hard to\npromote liberty and provide\nquality content and our\ntremendous growth has been\npaying off. Thank you all for\nyour support. (Even the trolls).\n(MB)\n", "label": 0, "img": "images/memes_3634.png"}
+----------
+not-harmful - This meme discusses social media statistics and promotes a humorous take on online follower counts without attacking or offending any individual or group.
+##########
+{"id": "memes_8121", "image": "memes_8121.png", "labels": ["not harmful"], "text": "GET IN, PUSSY\nWE'RE MAKING AMERICA.GREAT\nAGAIN!\n", "label": 0, "img": "images/memes_8121.png"}
+----------
+harmful - The meme contains violent imagery and offensive language, which can be disturbing and inappropriate. It also implies a threatening message, which can be harmful
+##########
+{"id": "memes_4344", "image": "memes_4344.png", "labels": ["not harmful"], "text": "Me taking about how bad\nBiden - Haris is\nRepublicana thinerg mpro\nTrump\nF*k\n", "label": 0, "img": "images/memes_4344.png"}
+----------
+not-harmful - This meme humorously depicts misunderstandings in political discussions without targeting any specific individual or promoting violence or hate speech.
+##########
+{"id": "memes_1997", "image": "memes_1997.png", "labels": ["somewhat harmful", "individual"], "text": "Whiner-in-Chief\nDonald called the recounts a \"scam\" by the Green Party.\nAt least he used a\nThat's called\ntransference,\nsmall word he can\ndumbass.\nunderstand. Definition\nof scam: Con, cheat,\nrip-off, swindle.\nKeystone Pruie Doys unnysidn Left\nDonald couldn't resist a Twitter\ntantrum about the recounts on\nSaturday. He called it a \"scam\"\nby the Green Party.\n", "label": 1, "img": "images/memes_1997.png"}
+----------
+harmful - The meme contains derogatory language and personal attacks, which can be considered harmful as they promote negativity and disrespect towards individuals or groups.
+##########
+{"id": "memes_1692", "image": "memes_1692.png", "labels": ["not harmful"], "text": "The Democratic Party is socialist.\nI am the Democratic Party.\n", "label": 0, "img": "images/memes_1692.png"}
+----------
+not-harmful - The meme appears to play on political rhetoric without promoting hatred, violence, or misinformation. It uses satire of a movie scene for
+##########
+{"id": "memes_1088", "image": "memes_1088.png", "labels": ["not harmful"], "text": "Biden: here he is, that son of a-\nObama: joe it's okay man\nBiden: no stand back barack im\nbout to whoop his ass\nroostemtach\n", "label": 0, "img": "images/memes_1088.png"}
+----------
+not-harmful - The meme uses fictional dialogue for comedic purposes without promoting violence, hate speech, or offensive content.
+##########
+{"id": "memes_6693", "image": "memes_6693.png", "labels": ["not harmful"], "text": "Obama: *whispers* put the laser pointer\naway or give it to me\nMR. DODD\n", "label": 0, "img": "images/memes_6693.png"}
+----------
+not-harmful - The meme involves a humorous scenario with a laser pointer; it does not contain offensive language, hateful symbols, or harmful content.
+##########
+{"id": "memes_4233", "image": "memes_4233.png", "labels": ["somewhat harmful", "individual"], "text": "Recap Of The Vice-Presidential Debate\n... and tonight we also\nwelcome Mike Pence...\n... current governor of the\ngreat state of Indiana ...\ntharill\ntr\nfer, whe\nth\nYou\nmust be\nmistaken.\nThat's\nLtr\nnot my\nCOname.\nffer, wh\n... he was first elected\nto Congress in 2000 ...\n... and is now Donald\nTrump's running mate.\nFrill\nnot true. tr\nth\nThat's\nth\n11s0\nNever\nheard of\nhim.\nffer, wh\ndfer, wh\nDEMOCRATICUNDERGROUND.COM\n", "label": 1, "img": "images/memes_4233.png"}
+----------
+not-harmful - The meme humorously depicts a debate scenario with fictionalized dialogue, but it does not contain offensive, harmful, or malicious content
+##########
+{"id": "memes_3629", "image": "memes_3629.png", "labels": ["somewhat harmful", "society"], "text": "DAD TOLD ME ABOUT\nKEYNSIAN ECONOMICS\nI THOUGHT I'D HELP\n", "label": 1, "img": "images/memes_3629.png"}
+----------
+not-harmful - The meme is making a humorous statement about Keynesian economics without targeting or harming any specific individual or group.
+##########
+{"id": "memes_1715", "image": "memes_1715.png", "labels": ["somewhat harmful", "individual"], "text": "323 MILLION PEOPLE IN THE US\nAND THEY BRING IT DOWN TO THIS\n", "label": 1, "img": "images/memes_1715.png"}
+----------
+harmful - This meme disparages individuals by implying a negative judgment about their capability to represent 323 million people in the US, which can be considered
+##########
+{"id": "memes_3793", "image": "memes_3793.png", "labels": ["somewhat harmful", "organization"], "text": "Jozo\nLibertarian Party of New York O\n@lpnyofficial\nAll of your rights, all of the time\nRight\nWhat are you doing?? Systevie reciunand LOTa.\nWe're only supposed ression ae the enenies ef\nto care about moneytt berty and i wil fight hem\nwith my last breath\nrtarian\n20:29 - 28 Sep 20 - Twitter for Android\n197 Retweets 496 Quote Tweets 1,578 Likes\n", "label": 1, "img": "images/memes_3793.png"}
+----------
+harmful - It contains derogatory depictions of individuals and hateful messaging regarding political views, which can perpetuate discrimination and division.
+##########
+{"id": "memes_6495", "image": "memes_6495.png", "labels": ["somewhat harmful", "individual"], "text": "Obama: I now present this medal to Joe Biden\nJoe: \"thinking* I can't believe club penguin shut\ndown\n253\n", "label": 1, "img": "images/memes_6495.png"}
+----------
+not-harmful - The meme uses humor to reference the shutdown of Club Penguin, an online game, without any offensive or harmful content.
+##########
+{"id": "memes_4934", "image": "memes_4934.png", "labels": ["somewhat harmful", "individual"], "text": "Hey, look who stopped by the\nMoonlight Bunny Ranch Brothel.\nit's @seanhannity!\n*I'm sure he just stopped by for a\ndrink\nIBUNNU DA\n", "label": 1, "img": "images/memes_4934.png"}
+----------
+harmful - The meme can be harmful as it insinuates that someone visited a brothel, which could damage their reputation and cause personal or professional harm
+##########
+{"id": "memes_3641", "image": "memes_3641.png", "labels": ["somewhat harmful", "organization"], "text": "THIS IS WHAT LIBERTARIANS WANT\nAmericans Agalnst The Liberlarlan Parly\n", "label": 1, "img": "images/memes_3641.png"}
+----------
+harmful - This meme targets a political group with a derogatory implication, which could contribute to misinformation, stigmatizing beliefs, and polarization.
+##########
+{"id": "memes_6563", "image": "memes_6563.png", "labels": ["not harmful"], "text": "Brendan Bergen\n@carpetislava\nBIDEN: How come you've never shown ME\nthe swamp?\nOBAMA: Drain the swamp is a metaphor, Joe.\nBIDEN: Where will Shrek live?\n", "label": 0, "img": "images/memes_6563.png"}
+----------
+not-harmful - The meme humorously plays on a political figure's statement using a playful reference to a popular movie character, without targeting or harming
+##########
+{"id": "memes_1070", "image": "memes_1070.png", "labels": ["somewhat harmful", "individual"], "text": "RETIREMENT sO CLOSE\nYOU CAN TASTE IT\n", "label": 1, "img": "images/memes_1070.png"}
+----------
+not-harmful - This meme humorously references the anticipation of retirement with a light-hearted image and text. There is no offensive or harmful content.
+##########
+{"id": "memes_1103", "image": "memes_1103.png", "labels": ["not harmful"], "text": "Rahul Gandhi O eRahulGandhi - Dec 1, 2017\nHad a fruittul chat with President @aarackObama Great to meet him again.\nO 32K\nO 27.7K\n", "label": 0, "img": "images/memes_1103.png"}
+----------
+not-harmful - This meme depicts a positive and respectful interaction between individuals, without offensive or harmful content.
+##########
+{"id": "memes_1571", "image": "memes_1571.png", "labels": ["not harmful"], "text": "Me\nMemes on\nT_D\nMy essay on why\nthe Republican\nparty is better\nthan the\nDemocratic party\nHope my professor isn't an NPC\n", "label": 0, "img": "images/memes_1571.png"}
+----------
+harmful - The meme promotes political bias and could be considered offensive or discriminatory towards individuals holding differing political views, leading to potential conflicts and harassment.
+##########
+{"id": "memes_5039", "image": "memes_5039.png", "labels": ["somewhat harmful", "individual"], "text": "Trump could shoot someone\non the Senate floor and still be\nacquitted 53-47. Unless he\nshot a republican. Then it\nwould be 52-47.\n", "label": 1, "img": "images/memes_5039.png"}
+----------
+harmful - It implies violence and justifies harmful actions based on political affiliations, which can contribute to divisiveness and incite real-world harm.
+##########
+{"id": "memes_1283", "image": "memes_1283.png", "labels": ["somewhat harmful", "organization"], "text": "THE RISE OF\nABSOLUTISM\nIN ERANCE\n\"L'etat, e'est ai\n(I am the state\"\n-Lauis XIV\n\"I AM THE DEMOCRATIC PARTY\"\n-JOE BIDEN 9/29/2020\n", "label": 1, "img": "images/memes_1283.png"}
+----------
+not-harmful - This meme presents a political comparison without displaying any explicit harmful content, hate speech, or inappropriate material.
+##########
+{"id": "memes_2836", "image": "memes_2836.png", "labels": ["somewhat harmful", "individual"], "text": "O 2\nAlly Gator\nretroc\nFollow\nBiden: am i an avenger now?\nObama: sure Joe\nBiden:\n", "label": 1, "img": "images/memes_2836.png"}
+----------
+not-harmful - This meme showcases a humorous exchange without any offensive, violent, or harmful content. It playfully references the interaction between two public
+##########
+{"id": "memes_4659", "image": "memes_4659.png", "labels": ["not harmful"], "text": "WHAT DOES GOP REALLY STAND FOR?\nGREED\nOVER\nPEOPLE\nMC\nI CADOF.ORG #GreedoverPeople\n", "label": 0, "img": "images/memes_4659.png"}
+----------
+not-harmful - This meme expresses a political opinion without using hateful language or inciting violence. It critiques a political group, which is a form
+##########
+{"id": "memes_5840", "image": "memes_5840.png", "labels": ["not harmful"], "text": "Big corporations,\ngovernment,\nbillonaires, and\npeople in general\npositions of\npower, screwing\nthe world and\nminorities over\n- Like it or hate it.\nthat's history right there.\n", "label": 0, "img": "images/memes_5840.png"}
+----------
+not-harmful - This meme discusses historical perspectives on power imbalances in society, which, while potentially controversial, does not directly incite harm or
+##########
+{"id": "memes_3640", "image": "memes_3640.png", "labels": ["somewhat harmful", "organization"], "text": "Democrats: \"VWe as a caring society must do\nmore to help the homeless!\"\nThe homelesS: \"How about loosening zoning\nregulations so more housing can\nbe buit, in place of the gated\nsuburbs you live in full of $1.4\nmilion McMansions with big yards?\nDemocrats:\nRenaian Hemestereerees\nOR Men\n", "label": 1, "img": "images/memes_3640.png"}
+----------
+not-harmful - The meme appears to be making a political commentary without using offensive language or imagery that promotes hate or harm.
+##########
+{"id": "memes_221", "image": "memes_221.png", "labels": ["somewhat harmful", "individual"], "text": "HOW ARE WE BREAKING THE\nDEMOCRATIC PARTY??\nBY ACTUALLY HELPING THE PEOPLE THEY\nPROMISE TO HELP EVERY ELECTION!\n", "label": 1, "img": "images/memes_221.png"}
+----------
+harmful - This meme promotes political divisiveness and may provoke hostility by making accusatory and generalized statements about a political party. It has the potential to
+##########
+{"id": "memes_4994", "image": "memes_4994.png", "labels": ["somewhat harmful", "individual"], "text": "IF TRUMP WINS HE WILL\nDESTROY THE REPUBLICAN PARTY\nGOOD\n", "label": 1, "img": "images/memes_4994.png"}
+----------
+harmful - The meme contains political content that can be divisive or provocative, potentially leading to conflict or offense among viewers with differing political views.
+##########
+{"id": "memes_1545", "image": "memes_1545.png", "labels": ["somewhat harmful", "organization"], "text": "It's a Cult\nThe new Atheist/Communist Party\nDEMOCRATS BOOED GOD.\nCrisis doesn't create\ncharacter; it reveals it.\n", "label": 1, "img": "images/memes_1545.png"}
+----------
+harmful - This meme promotes divisive and inflammatory rhetoric that could potentially incite hate or violence against certain groups or individuals.
+##########
+{"id": "memes_1126", "image": "memes_1126.png", "labels": ["somewhat harmful", "individual"], "text": "Obama called\nthe SEALS\nand THEY got\nbin Laden.\nWhen the SEALS\ncalled Obama,\nTHEY GOT\nDENIED.\nwww.Special0ps2012.com\n", "label": 1, "img": "images/memes_1126.png"}
+----------
+harmful - This meme promotes a political narrative that could incite hate, spread misinformation, and polarize opinions about key political figures, thus potentially causing
+##########
+{"id": "memes_8256", "image": "memes_8256.png", "labels": ["somewhat harmful", "community"], "text": "Build my wall\nYou filthy\nMexicans\nMr.Trump have\nA snickers\nBecause you get\nNarcissistic when\nYour hungry and\nBasically\n100% of the time\nWhy?\nBetter?\nNow he looks\nLike a\nCheeseball\nBetter\n", "label": 1, "img": "images/memes_8256.png"}
+----------
+harmful - The meme uses derogatory language and portrays ethnic stereotypes which can be offensive and harmful to specific groups of people, promoting hate and discrimination.
+##########
+{"id": "memes_6726", "image": "memes_6726.png", "labels": ["somewhat harmful", "individual"], "text": "I'M FINDING IT\nIMPOSSIBLE TO GET ANY\nALONE TIME LATELY.\nHAVE YOU TRIED\nA JOE BIDEN\nRALLY?\n", "label": 1, "img": "images/memes_6726.png"}
+----------
+harmful - The meme suggests a prominent public figure's events are unpopular, which can be considered disrespectful and misleading.
+##########
+{"id": "memes_6849", "image": "memes_6849.png", "labels": ["somewhat harmful", "community"], "text": "946\nterrorists\nantifa\nliberals\n", "label": 1, "img": "images/memes_6849.png"}
+----------
+harmful - This meme mislabels and generalizes groups, which can incite hatred and violence. Dehumanizing language and misrepresentation are harmful and
+##########
+{"id": "memes_1414", "image": "memes_1414.png", "labels": ["somewhat harmful", "organization"], "text": "The KKK was created as\nthe militant wing of the\nDemocrat Party in order\nto fight Republican\nreconstruction.\n", "label": 1, "img": "images/memes_1414.png"}
+----------
+harmful - This meme spreads false historical information and could incite political and social tensions, fostering division and misinformation.
+##########
+{"id": "memes_4736", "image": "memes_4736.png", "labels": ["somewhat harmful", "organization"], "text": "REPUBLICANS\nARE NO LONGER\nA PARTY\nTHEY'RE A...\nCRIME\nSYNDICATE\n", "label": 1, "img": "images/memes_4736.png"}
+----------
+harmful - The meme portrays a specific political group as a "crime syndicate," which can incite hatred, promote false narratives, and damage reput
+##########
+{"id": "memes_2002", "image": "memes_2002.png", "labels": ["somewhat harmful", "individual"], "text": "HILLARY CLINTON IS THE FIRST WOMAN CANDIDATE\nTO BE NOMINATED FOR NEXT POTUS IN U.S. HISTORY?\nFALSE JILL STEIN WAS NOMINATED IN\n2012 FOR NEXT POTUS IN THE GREEN PARTY\n", "label": 1, "img": "images/memes_2002.png"}
+----------
+not-harmful - The meme presents factual information and a historical reference, and does not contain harmful or offensive content.
+##########
+{"id": "memes_6849", "image": "memes_6849.png", "labels": ["somewhat harmful", "community"], "text": "946\nterrorists\nantifa\nliberals\n", "label": 1, "img": "images/memes_6849.png"}
+----------
+harmful - The meme labels "liberals" and "antifa" as equivalent to "terrorists," which promotes hateful rhetoric and could inc
+##########
+{"id": "memes_4526", "image": "memes_4526.png", "labels": ["somewhat harmful", "organization"], "text": "REPUBLICAN FAMILY VALUES\nimgflip.com\n", "label": 1, "img": "images/memes_4526.png"}
+----------
+harmful - This meme could be harmful as it targets a specific political group, potentially fostering divisiveness and reinforcing negative stereotypes about "Republican family values
+##########
+{"id": "memes_4762", "image": "memes_4762.png", "labels": ["somewhat harmful", "organization"], "text": "Religious\nwhite people\nGOP tries new outreach campaign\nand announce a new, more\ndiverse\" Republican Party\nRich\nwhite people white people white people white people\nRedneck\nRacist\nRetired\nMne Gor\ngaymanintexas: GOP tries new\noutreach campaign and\nannounces a new, more diverse\nRepublican Party. jhvvivivi\nwhere is the lie tho GOP 2.0\n", "label": 1, "img": "images/memes_4762.png"}
+----------
+harmful - The meme generalizes and stereotypes racial and religious groups, and can contribute to social division and negative sentiments against specific communities.
+##########
+{"id": "memes_3866", "image": "memes_3866.png", "labels": ["somewhat harmful", "organization"], "text": "AND AS A REMINDER NONE OF US ARE\nACTUALLY MEMBERS OF THE LIBERTARIAN\nPARTY AND THAT KEEPS US FROM HAVING TO\nBE EMBARRASSED BY ASSOCIATION WITH OURSELVES\n", "label": 1, "img": "images/memes_3866.png"}
+----------
+not-harmful - This meme humorously addresses political association preferences without targeting, threatening, or discriminating against any individual or group. It appears to
+##########
+{"id": "memes_1659", "image": "memes_1659.png", "labels": ["somewhat harmful", "organization"], "text": "RIP\nDemocratic Party\n1776-2017\nPROTESTED ITSELF TO DEATH\nMENES\nJwitler\n", "label": 1, "img": "images/memes_1659.png"}
+----------
+harmful - Promotes political animosity and could incite negative reactions, fostering division and hostility among differing political groups.
+##########
+{"id": "memes_3759", "image": "memes_3759.png", "labels": ["somewhat harmful", "organization"], "text": "Libertarian Party\nIKE PAGE\nOur diversity is our strength, Read more about\nour American values of life, liberty, and\nhappiness for all at Ip.org/plotform.\nA DAY WITHOUT\nIMMIGRANTS\nIS\nA DAY WITHOUT\nAMERICA\nDiversity is our strength\n", "label": 1, "img": "images/memes_3759.png"}
+----------
+harmful - The meme suggests that immigrants are essential to American identity, which can be intended to incite divisive sentiments and potentially discriminatory viewpoints among different
+##########
+{"id": "memes_6638", "image": "memes_6638.png", "labels": ["somewhat harmful", "individual"], "text": "DONT SHOOT! IM RETARDED\nPROVE IT\nBIDEN\n", "label": 1, "img": "images/memes_6638.png"}
+----------
+harmful - This meme uses offensive language that can be harmful and derogatory towards people with intellectual disabilities. Additionally, it makes light of sensitive situations involving
+##########
+{"id": "memes_3785", "image": "memes_3785.png", "labels": ["somewhat harmful", "organization"], "text": "I'M NOT SITH\nI'M ALT-JEDI YOU\nCULTURAL REBEL CUCK\nNo, 'Clovergender' is NOT a\nThing! - Libertarian Party of\nNevada\n", "label": 1, "img": "images/memes_3785.png"}
+----------
+harmful - The meme uses derogatory language and insults, which can contribute to a hostile environment and potentially target or offend individuals or groups based on their
+##########
+{"id": "memes_1702", "image": "memes_1702.png", "labels": ["somewhat harmful", "individual"], "text": "CURRENTLY TRYING\nTO TRASH THE\nWITH HEALTH OFFICIALS TO VOTES OF THOUSANDS\nSOLVE THE COVID PANDEMIC. OF AMERICAN CITIZENS.\nCURRENTLY MEETING\nimgflip.com\n", "label": 1, "img": "images/memes_1702.png"}
+----------
+harmful - The meme promotes a divisive political narrative by contrasting two individuals in a potentially misleading and biased manner, which could exacerbate hostility and spread
+##########
+{"id": "memes_6789", "image": "memes_6789.png", "labels": ["somewhat harmful", "organization"], "text": "AuthRight when they\nare asked for their\npersonal opinion\nI am putting myself at risk of being sued.\n", "label": 1, "img": "images/memes_6789.png"}
+----------
+not-harmful - The meme expresses a humorous take on the hesitation of certain political groups to share opinions due to fear of legal repercussions; it does
+##########
+{"id": "memes_8217", "image": "memes_8217.png", "labels": ["somewhat harmful", "individual"], "text": "*record scratch* *freeze frame* yep.\nthat's me. you're probably wondering how\ni got in this situation-\n", "label": 1, "img": "images/memes_8217.png"}
+----------
+not-harmful - The meme uses a humorous and common narrative technique without displaying harmful, offensive, or inappropriate content.
+##########
+{"id": "memes_1403", "image": "memes_1403.png", "labels": ["somewhat harmful", "organization"], "text": "THE FACE YOU MAKE\nWHEN YOU'VE SPENT HALF YOUR LIFE BEING\nPelitinARAINWASHED BY THE DEMOCRATIC PARTY\n-AmericaRepublic-\n", "label": 1, "img": "images/memes_1403.png"}
+----------
+harmful - Promotes political bias and uses derogatory language ("brainwashed"), potentially inciting division and offending individuals with opposing political views.
+##########
+{"id": "memes_1598", "image": "memes_1598.png", "labels": ["somewhat harmful", "organization"], "text": "THE NEW MASCOT FOR THE\nDEMOCRATIC PARTY\nIT ROLLS UP INTO A BALL\nWITH ITS HEAD UP ITS\nASS TO AVOID REALITY\nThe Democratic Party has a\nnew mascot\n", "label": 1, "img": "images/memes_1598.png"}
+----------
+harmful - The meme contains derogatory language and presents a political party in a demeaning manner, which can incite negative feelings and divisiveness.
+##########
+{"id": "memes_5995", "image": "memes_5995.png", "labels": ["somewhat harmful", "individual"], "text": "WHERE'S HILLARY?\nCOUNTING VOTES!\nimgfip.comam\n", "label": 1, "img": "images/memes_5995.png"}
+----------
+harmful - The meme targets an individual with potentially defamatory and false implications about election integrity, which can incite misinformation and harm public discourse.
+##########
+{"id": "memes_1129", "image": "memes_1129.png", "labels": ["somewhat harmful", "individual"], "text": "When someone tags you\nin a meme\nOUAR\nYes, this is a good\nmeme. Thank you.\nSTARECAT.COM\n", "label": 1, "img": "images/memes_1129.png"}
+----------
+not-harmful - The meme humorously describes the reaction to being tagged in a meme, which is generally relatable and non-offensive.
+##########
+{"id": "memes_4651", "image": "memes_4651.png", "labels": ["somewhat harmful", "organization"], "text": "New Ropublican Party Logo\nREPUBLICAN\n", "label": 1, "img": "images/memes_4651.png"}
+----------
+harmful - The meme is derogatory and demeaning, comparing a political party to a rat, which can be offensive and incite hostility.
+##########
+{"id": "memes_857", "image": "memes_857.png", "labels": ["somewhat harmful", "individual"], "text": "OBAMA'S LEGACY\nOF HORRIBLE DECISIONS\nCONTINUES.\n", "label": 1, "img": "images/memes_857.png"}
+----------
+harmful - The meme targets an individual, suggesting their decisions are consistently poor, which can be defamatory and perpetuate negative stereotypes.
+##########
+{"id": "memes_2833", "image": "memes_2833.png", "labels": ["somewhat harmful", "organization"], "text": "TE AM\nAAM\nRA PE\n", "label": 1, "img": "images/memes_2833.png"}
+----------
+harmful - The meme uses a manipulative arrangement of words and images that insinuate criminal behavior, which can be defamatory and damaging to reputations.
+##########
+{"id": "memes_1551", "image": "memes_1551.png", "labels": ["somewhat harmful", "organization"], "text": "IOWA DEMOCRATIC PARTY SAYS IT\nWILL RELEASE 'MAJORITY' OF\nCAUCUS RESULTS BY 5PM EASTERN\nPETE\nBLAMESDELAY ON CODING ISSUE' IN\nREPORTING SYSTEM\n", "label": 1, "img": "images/memes_1551.png"}
+----------
+not-harmful - The meme discusses a political party's procedural issue without derogatory language or personal attacks, making it a critique on the process rather
+##########
+{"id": "memes_4735", "image": "memes_4735.png", "labels": ["somewhat harmful", "society"], "text": "42 OF THE 45 SENATORS WHO VOTED\nAGAINST BACKGROUND CHECKS.\nRECEIVE MONEY FROM THE GUN LOBBY.\n", "label": 1, "img": "images/memes_4735.png"}
+----------
+not-harmful - The meme discusses political views and monetary influence without using offensive language or targeting individuals with harassment or threats.
+##########
+{"id": "memes_6754", "image": "memes_6754.png", "labels": ["somewhat harmful", "individual"], "text": "HUNTER BIDEN\nWATCHING THE DEBATE\n", "label": 1, "img": "images/memes_6754.png"}
+----------
+harmful - This meme implies drug use and targets a specific individual, which can be considered defamatory and inappropriate content.
+##########
+{"id": "memes_3608", "image": "memes_3608.png", "labels": ["somewhat harmful", "organization"], "text": "\"So, if we lie to the government,\nit's a felony.\nBut if they lie\nto us\nits politics.\"\nBI Murray\nThanks to the Alaska\nLibertarian Party for this post!\nTo get involved locally, go to\nIp.org/states!\n", "label": 1, "img": "images/memes_3608.png"}
+----------
+not-harmful - This meme criticizes government behavior and promotes political engagement without using offensive language or images, and does not target specific individuals with harm
+##########
+{"id": "memes_1743", "image": "memes_1743.png", "labels": ["somewhat harmful", "individual"], "text": "TRUMP'S HAIR INSPIRES COPYCATS CN\n", "label": 1, "img": "images/memes_1743.png"}
+----------
+not-harmful - The meme compares the hairstyle of an individual to a cat's fur in a humorous manner. It does not contain offensive or harmful
+##########
+{"id": "memes_8271", "image": "memes_8271.png", "labels": ["somewhat harmful", "individual"], "text": "OW TO MAKE AMRICA\nGREMGAGA\n....30\nDONALD J. TkuAU\nRIPPLED\nAMERICA\nIf you\nlike\nHITLER'S\nLAST DAYS\n20\nThen\ntry\nBILLO'RE\n16.00\n10.67\njasonhorton:\nSTRONG\nTarget is pretty slick\nERS TAGT4\n", "label": 1, "img": "images/memes_8271.png"}
+----------
+harmful - The meme juxtaposes a controversial political figure with a book about Hitler, implying a negative comparison and could be considered offensive and inflammatory.
+##########
+{"id": "memes_6631", "image": "memes_6631.png", "labels": ["somewhat harmful", "organization"], "text": "Democrats: Trump is vulgar\nand not presidential.\nThe Democrat frontrunner:\nYou're full of sh!t\nYou're a dog-faced\npony soldier!\nDon't be a horse's ass\nListen, fat ..\nI'm going to go out and\nslap you in the face\nQthe savage eag\n", "label": 1, "img": "images/memes_6631.png"}
+----------
+harmful - The meme uses derogatory and offensive language and promotes verbal aggression, which can incite negativity and hostility.
+##########

@@ -1,0 +1,3 @@
+from inference.idefics_inference import IdeficsInference
+from inference.instruct_blip_inference import InstructBlipInference
+from inference.llava_inference import LlavaInference
