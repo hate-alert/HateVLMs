@@ -3,7 +3,7 @@
 Accepted at **AAAI (ICWSM) 2025**
 
 Naquee Rizwan, Paramananda Bhaskar, Mithun Das, Swadhin Satyaprakash Majhi, Punyajoy Saha, Animesh Mukherjee:
-[[Arxiv]](https://arxiv.org/abs/2402.12198)
+[[Paper]](https://ojs.aaai.org/index.php/ICWSM/article/view/35894)
 
 ------------------------------------------
 ## Abstract
@@ -64,14 +64,13 @@ induction using BERTopic, error analysis, and **black-box** model interpretation
 ------------------------------------------
 ## Please cite our paper
 ~~~bibtex
-@misc{rizwan2025exploringlimitszeroshot,
-      title={Exploring the Limits of Zero Shot Vision Language Models for Hate Meme Detection: The Vulnerabilities and their Interpretations}, 
-      author={Naquee Rizwan and Paramananda Bhaskar and Mithun Das and Swadhin Satyaprakash Majhi and Punyajoy Saha and Animesh Mukherjee},
-      year={2025},
-      eprint={2402.12198},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2402.12198}, 
+@inproceedings{rizwan2025exploring,
+  title={Exploring the Limits of Zero Shot Vision Language Models for Hate Meme Detection: The Vulnerabilities and their Interpretations},
+  author={Rizwan, Naquee and Bhaskar, Paramananda and Das, Mithun and Majhi, Swadhin Satyaprakash and Saha, Punyajoy and Mukherjee, Animesh},
+  booktitle={Proceedings of the International AAAI Conference on Web and Social Media},
+  volume={19},
+  pages={1669--1689},
+  year={2025}
 }
 ~~~
 
