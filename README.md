@@ -11,6 +11,11 @@ Naquee Rizwan, Paramananda Bhaskar, Mithun Das, Swadhin Satyaprakash Majhi, Puny
 There is a rapid increase in the use of multimedia content in current social media platforms. One of the highly popular forms of such multimedia content are memes. While memes have been primarily invented to promote funny and buoyant discussions, malevolent users exploit memes to target individuals or vulnerable communities, making it imperative to identify and address such instances of hateful memes. Thus social media platforms are in dire need for active moderation of such harmful content. While manual moderation is extremely difficult due to the scale of such content, automatic moderation is challenged by the need of good quality annotated data to train hate meme detection algorithms. This makes a perfect pretext for exploring the power of modern day vision language models (VLMs) that have exhibited outstanding performance across various tasks. In this paper we study the effectiveness of VLMs in handling intricate tasks such as hate meme detection in a ***completely zero-shot setting*** so that there is no dependency on annotated data for the task. We perform thorough prompt engineering and query state-of-the-art VLMs using various prompt types to detect hateful/harmful memes. We further interpret the misclassification cases using a novel superpixel based occlusion method. Finally we show that these misclassifications can be neatly arranged into a typology of error classes the knowledge of which should enable the design of better safety guardrails in future.
 
 ------------------------------------------
+<div align="center">
+  <img src="pipeline.png" width="95%">
+</div>
+
+------------------------------------------
 ## File/Folder Description :open_file_folder:
 ```sh
 HateVLMs/
