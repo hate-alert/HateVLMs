@@ -65,8 +65,14 @@ induction using BERTopic, error analysis, and **black-box** model interpretation
 ------------------------------------------
 ## Please cite our paper
 ~~~bibtex
-@article{Rizwan_Bhaskar_Das_Majhi_Saha_Mukherjee_2025, title={Exploring the Limits of Zero Shot Vision Language Models for Hate Meme Detection: The Vulnerabilities and their Interpretations}, volume={19}, url={https://ojs.aaai.org/index.php/ICWSM/article/view/35894}, DOI={10.1609/icwsm.v19i1.35894}, abstractNote={There is a rapid increase in the use of multimedia content in current social media platforms. One of the highly popular forms of such multimedia content are memes. While memes have been primarily invented to promote funny and buoyant discussions, malevolent users exploit memes to target individuals or vulnerable communities, making it imperative to identify and address such instances of hateful memes. Thus social media platforms are in dire need for active moderation of such harmful content. While manual moderation is extremely difficult due to the scale of such content, automatic moderation is challenged by the need of good quality annotated data to train hate meme detection algorithms. This makes a perfect pretext for exploring the power of modern day vision language models (VLMs) that have exhibited outstanding performance across various tasks. In this paper we study the effectiveness of VLMs in handling intricate tasks such as hate meme detection in a completely zero-shot setting so that there is no dependency on annotated data for the task. We perform thorough prompt engineering and query state-of-the-art VLMs using various prompt types to detect hateful/harmful memes. We further interpret the misclassification cases using a novel superpixel based occlusion method. Finally we show that these misclassifications can be neatly arranged into a typology of error classes the knowledge of which should enable the design of better safety guardrails in future. Code and other relevant sources are available online.
-Warning: Contains potentially offensive content.}, number={1}, journal={Proceedings of the International AAAI Conference on Web and Social Media}, author={Rizwan, Naquee and Bhaskar, Paramananda and Das, Mithun and Majhi, Swadhin Satyaprakash and Saha, Punyajoy and Mukherjee, Animesh}, year={2025}, month={Jun.}, pages={1669-1689} }
+@inproceedings{rizwan2025exploring,
+  title={Exploring the Limits of Zero Shot Vision Language Models for Hate Meme Detection: The Vulnerabilities and their Interpretations},
+  author={Rizwan, Naquee and Bhaskar, Paramananda and Das, Mithun and Majhi, Swadhin Satyaprakash and Saha, Punyajoy and Mukherjee, Animesh},
+  booktitle={Proceedings of the International AAAI Conference on Web and Social Media},
+  volume={19},
+  pages={1669--1689},
+  year={2025}
+}
 ~~~
 
 ~~~bibtex
