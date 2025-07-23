@@ -3,7 +3,7 @@
 Accepted at **AAAI (ICWSM) 2025**
 
 Naquee Rizwan, Paramananda Bhaskar, Mithun Das, Swadhin Satyaprakash Majhi, Punyajoy Saha, Animesh Mukherjee:
-[[Paper]](https://ojs.aaai.org/index.php/ICWSM/article/view/35894)
+[[Paper]](https://ojs.aaai.org/index.php/ICWSM/article/view/35894), [[Arxiv]] (https://arxiv.org/abs/2402.12198v3)
 
 ------------------------------------------
 ## Abstract
